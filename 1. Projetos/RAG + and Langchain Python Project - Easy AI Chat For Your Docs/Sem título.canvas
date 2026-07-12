@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2896f6fed2c60d80","x":-342,"y":-188,"width":323,"height":108,"type":"text","text":"<h1 align=\"center\"> Texto Original</h1>\n"},
+		{"id":"a167741b91d8ce76","x":225,"y":-163,"width":250,"height":60,"type":"text","text":"<bodyText Splitter \n(\"divididor\" de texto)"}
+	],
+	"edges":[
+		{"id":"63851b770ddd4aac","fromNode":"2896f6fed2c60d80","fromSide":"right","toNode":"a167741b91d8ce76","toSide":"left"}
+	]
+}
