@@ -43,21 +43,40 @@ chunks = text_splitter.split_documents(documents) # documentes é a variável re
 
 ---
 #### Transformando em uma Base de Dados
-Para conseguirmos consultar cada chunk, vamos precisar torná-lo em uma base de dados. Estaremos usando o ChromaDB para isso, que é um tipo especial de banco de daos que usa vetores incorporados (embedded) como chave (é um Banco de Dados Vetorial)
+Para conseguirmos consultar cada chunk, vamos precisar torná-lo em uma base de dados. Estaremos usando o ChromaDB para isso, que é um tipo especial de banco de dados que usa vetores incorporados (embedded) como chave (é um Banco de Dados Vetorial)
 
 ```Python
 from langhcain.embeddings import OpenAIEmbeddings
 
-CHROMA_PATH = "chroma"
+CHROMA_PATH = "chroma" 
 
 # Criar umanova Base de Dados a partir dos docuemtnos
 db = Chroma.from_documents(chunks, OpenAIEmbeddings(), persist_directory=CHROMA_PATH)
 ```
 
-Para isso, você vai precisar de uma conta da OpenAI, porque vamos usar a função de Embeddings da OpenAI para ios vetores incorporados para cada chunk.
+Para isso, você vai precisar de uma conta da OpenAI, porque vamos usar a função de Embeddings da OpenAI para os vetores incorporados para cada chunk.
+
+Vamos configurar um chroma path como diretório persistente, para que quando criarmos esse db, tenhamos várias pastas no seu disco que possam usar para carregar os dados posteriormente. É útil porque podemos colocar esse banco de dado em uma função lambda ou na nuvem em algum lugar. 
+(Já fazemos isso via github)
+
+---
+#### Agora, Antes de Criar o Data Base ou antes de Salvá-lo
+Limpe a base de dados primeiro
+```Python
+if os.path.exists(CHROMA_PATH):
+	shutil.rmtree(CHROMA_PATH)
+```
+
+O banco de Dados deve ser salvo automaticamente de criá-lo, mas você também pode forçá-lo a salvar usando esse método `persist` assim:
+```Python
+db.persist()
+print(f"Saved {len(chunks)} chunks to {CHORMA_PATH}.")
+```
 
 ---
 
+# Consultando (Querying) Dados Relevantes
+---
 ```Python
 pip install langchain openao faiss-cpu tiktoken
 ```
