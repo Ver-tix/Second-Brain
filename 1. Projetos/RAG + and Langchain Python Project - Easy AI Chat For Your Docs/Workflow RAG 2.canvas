@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"001fff2855d72d6d","x":-472,"y":-40,"width":212,"height":96,"type":"text","text":"<h1 align=\"center\">Query </h1>"},
+		{"id":"4e91fb2392cd461e","x":-120,"y":-22,"width":250,"height":60,"type":"text","text":"<h2 align=\"center\">Base de Dados Vetorial</h2>"},
+		{"id":"c4b6576389439c3a","x":320,"y":-35,"width":250,"height":91,"type":"text","text":"<h1 align=\"center\">Resposta</h1>"},
+		{"id":"396f462c8179e805","x":-89,"y":56,"width":189,"height":50,"type":"text","text":"<aside align=\"center\">(snippetes da fonte)</aside>"}
+	],
+	"edges":[
+		{"id":"01cc659874b776fb","fromNode":"001fff2855d72d6d","fromSide":"right","toNode":"4e91fb2392cd461e","toSide":"left"},
+		{"id":"39eef884e4b699fd","fromNode":"4e91fb2392cd461e","fromSide":"right","toNode":"c4b6576389439c3a","toSide":"left"}
+	]
+}

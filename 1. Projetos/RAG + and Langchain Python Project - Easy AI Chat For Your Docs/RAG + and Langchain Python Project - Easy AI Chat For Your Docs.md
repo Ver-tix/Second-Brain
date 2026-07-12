@@ -125,7 +125,30 @@ Tecnicamente deveria ter distância zero, já que "apple" com ela mesma estaria 
 ---
 
 # Consultando (Querying) Dados Relevantes
+Nosso objetivo é encontrar os chunks em nosso banco de dados que provavelmente contêm a resposta para a pergunta que queremos fazer. Portanto, para fazer isso, precisaremos do banco de dados que criamos mais cedo, e da mesma função de embedding.
 
+Nossa Meta agora:
+![[Workflow RAG 2.canvas]]
+Nosso objetivo agora é pegar uma consulta, como do quadro à esquerda, e transformá-la num embedding usando a mesma função, e depois pesquisar em nosso banco de dados e encontrar talvez cinco chunks de informações que são mais próximas em termos de distância de embeddings da nossa consulta.
+
+Para carregar a base de dados do Chroma que criamos, primeiro precisamos do caminho, que já temos de mais cedo, e precisaremos de uma função de embedding, que deve ser a mesma que usamos para criar o banco de dados:
+
+```Python
+# Prepare o Data Base
+embedding_function = OpenAIEmbeddings() # isso deve carregar seu banco de daos a partir desse caminho. Se não, verifique se o caminho existe ou volte para o capítulo anterior e execute o script para crair o banco de daos novamente.
+db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
+```
+
+Uma vez que o banco de dados é carregado, podemos então procurar o chunk que melhor corresponda nossa consulta usando esse método. Precisamos passar o texto da nossa consulta (aqui chamado de `query_text`) como argumento e especificar o número de resultados que queremos recuperar. No exemplo a seguir, queremos recuperar as três melhores correspondências para nossa consulta.
+```Python
+# Search the DB.
+results = db.similarity_search_with_relevance_scores(query_text, k=3)
+```
+Os resultados da pesquisa serão uma lista de tuplas, onde cada
+```Python
+# Tipo de Retorno da pesquisa 
+List[Tuple[Document, float]]
+```
 
 ---
 ```Python
