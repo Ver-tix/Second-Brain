@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+<linearGradient id="gCenter" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4F8EF7"/><stop offset="100%" stop-color="#2357C6"/></linearGradient>
+<linearGradient id="gLeft" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FFD95E"/><stop offset="100%" stop-color="#F4B400"/></linearGradient>
+<linearGradient id="gMiddle" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#61DDAA"/><stop offset="100%" stop-color="#1E9E73"/></linearGradient>
+<linearGradient id="gRight" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#FF9EB5"/><stop offset="100%" stop-color="#E94E77"/></linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="150%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#000" flood-opacity="0.20"/></filter>
+<style>
+.title{font-family:Arial,sans-serif;font-size:24px;font-weight:700;fill:white;text-anchor:middle}
+.boxText{font-family:Arial,sans-serif;font-size:22px;font-weight:600;fill:#1A1A1A;text-anchor:middle}
+.connector{stroke:#7A7A7A;stroke-width:4;fill:none;stroke-linecap:round}
+</style></defs>
+<rect width="100%" height="100%" fill="#fff"/>
+<path class="connector" d="M600 145 L270 275"/><path class="connector" d="M600 145 L600 275"/><path class="connector" d="M600 145 L930 275"/>
+<ellipse cx="600" cy="110" rx="265" ry="58" fill="url(#gCenter)" stroke="#1F4EA8" stroke-width="3" filter="url(#shadow)"/>
+<text x="600" y="102" class="title">PERSONALIDADE DA MARCA:</text>
+<text x="600" y="132" class="title">COMO ELA CRIA BRAND EQUITY</text>
+<polygon filter="url(#shadow)" fill="url(#gLeft)" stroke="#C28D00" stroke-width="3" points="90,245 390,245 425,285 390,325 90,325 55,285"/>
+<text class="boxText" x="240" y="280">Modelo de</text><text class="boxText" x="240" y="310">Autoexpressão</text>
+<polygon filter="url(#shadow)" fill="url(#gMiddle)" stroke="#177C5C" stroke-width="3" points="420,245 780,245 815,285 780,325 420,325 385,285"/>
+<text class="boxText" x="600" y="280">Modelo de</text><text class="boxText" x="600" y="310">Relacionamento</text>
+<polygon filter="url(#shadow)" fill="url(#gRight)" stroke="#C23A60" stroke-width="3" points="810,245 1140,245 1175,285 1140,325 810,325 775,285"/>
+<text class="boxText" x="975" y="272">Modelo de Representação</text>
+<text class="boxText" x="975" y="300">dos Benefícios</text>
+<text class="boxText" x="975" y="328">Funcionais</text>
+</svg>
