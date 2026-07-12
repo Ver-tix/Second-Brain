@@ -72,10 +72,61 @@ O banco de Dados deve ser salvo automaticamente de criá-lo, mas você também p
 db.persist()
 print(f"Saved {len(chunks)} chunks to {CHORMA_PATH}.")
 ```
+Os dados estão prontos para uso, mas, aqui apenas fizemos as etapas de preparação de dados e de chunking. Vamos agora para a etapa de Embedding
+
+---
+# Embedding
+#### Precisamos gerar um Vetor de uma Palavra
+Para isso, precisaremos de um LLM, como o OpenAI
+```Python
+embedding_function = OpenAIEmbeddings()
+vector = embedding_function.embed_query("apple") #ele vai vetorizar a palavra apple
+
+print(vector) # por exepmlo: [0.0077788466226914, ...]
+print(len(vector)) # 1536, por exemplo
+```
+Podemos ver que as palavras se tornam uma longa lista de números. 
+
+---
+#### Mapa semântico
+A lista em sim não é interessante. O que é interessante é a distância entre dois vetores em si
+```Python
+from langchain.evaluation import load_evaluator
+
+evaluator = load_evaluator("pairwise_embedding_distance")
+```
+
+Executando um exemplo:
+```Python
+x = evaluator.evaluate_string_pairs(prediction="apple", prediction_b="orange")
+```
+Executando isso, o resultado é uma pontuação de 0,13:
+```Python
+# "apple" vs "orange"
+{'score': 0.13493062128535716}
+```
+
+Bom, não sabemos se isso é bom ou não, porque não sabemos onde 0,13 se encaixa na escala de outras palavras. Então, tentemos outras palavras apenas para testar:
+```Python
+# "apple" vs "beach"
+{'score': 0.2016104930298288}
+```
+Significa que "beach" está mais distante de "orange" que "apple", suponho que porque um é uma fruta, o outro é um ambiente. Agora se eu testar "apple" consigo mesma:
+```Python
+# "apple" vs "apple"
+{'score': 2.57259157643297e-06}
+```
+Tecnicamente deveria ter distância zero, já que "apple" com ela mesma estaria no mesmo lugar. Mas esse número é perto o suficiente $$\text{distância }\approx 2.5 \cdot 10^{-6}$$E agora, se compararmos "apple" com "iphone"?
+```Python
+# "apple" vs "iphone"
+{'score':0.09673148365422168}
+```
 
 ---
 
 # Consultando (Querying) Dados Relevantes
+
+
 ---
 ```Python
 pip install langchain openao faiss-cpu tiktoken
