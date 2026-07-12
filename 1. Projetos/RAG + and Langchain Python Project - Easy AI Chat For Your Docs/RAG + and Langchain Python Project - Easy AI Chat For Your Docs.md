@@ -6,8 +6,40 @@ tags:
 published: https://youtu.be/tcqEUSNCn8I?si=cPFArYzHdZLYn8qI
 ---
 # Overview do Projeto:
-1. Pra começar, vamos precisar de uma fonte de dados. Pode ser um PDF ou uma coleção de arquivos de texto ou markdown (bom... nosso Obsidian tem pra dar e vender arquivos);
-2. Uma vez com um arquivo em mãos, precisaremos fazer o upload dele, e dividi-lo em diferentes pedaços (chunks) de texto
+![[Workflow do RAG.canvas]]
+
+---
+
+#### Carregando Arquivos em Python 
+Para carregar dados markdown do seu folder para o Python, siga o seguinte:
+```Python
+from langchain.document_loaders import DirectoryLoader
+
+DATA_PATH = "data/books" #substitua pelo endereço do folder
+
+def load_documents():
+	loader = DirectoryLoader(DATA_PATH, glob="*.md") # "*" signifca que vai carregar todos os arquivos que tiverem .md
+	documents = loader.load()
+	return documents
+```
+
+---
+#### Chunking e o Problema dos Textos Muito Longos
+Outro problema que encontramos é que não é suficiente carregar cada arquivo markdown em um documento. **Também precisamos dividir cada documento, caso eles sejam muito longos**. O resultado desejado é que, a cada consulta, cada chunk seja mais focado e mais relevante.
+
+Para isso, podemos usar um divisor de texto recursivo por carateres:
+
+```Python
+text_splitter = RecursiveCharacterTextSplitter(
+	chunk_size=1000,
+	chunk_overlap=500,
+	length_function=len,
+	add_start_index=True
+)
+
+chunks = text_splitter.split_documents(documents) # documentes é a variável retornada da função load_documents()
+```
+
 
 ---
 
