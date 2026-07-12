@@ -1,0 +1,19 @@
+# Configurações locais do Obsidian (mudam toda hora, sem valor de histórico)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Plugins com dados sensíveis ou gerados automaticamente
+.obsidian/plugins/*/data.json
+
+# Lixeira interna do Obsidian
+.trash/
+
+# Arquivos de sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários de edição
+*.tmp
+~$*

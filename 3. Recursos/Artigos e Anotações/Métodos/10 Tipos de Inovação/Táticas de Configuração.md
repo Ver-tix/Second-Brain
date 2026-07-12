@@ -1,0 +1,170 @@
+---
+tags:
+  - business
+---
+
+- # MODELO DE LUCRO
+    
+    **_Software_ apoiado por anúncio (_Adware_)**
+    Fornecer conteúdo ou serviços gratuitos para uma parte e ao mesmo tempo “vender” ouvintes, espectadores ou visitantes para outra parte
+    
+    **Leilão**
+    Possibilitar que um mercado - e seus usuários - definam o preço de mercadorias e serviços
+    
+    **Preço de pacote**
+    Vender por meio de uma única transação dois ou mais itens que poderiam ser vendidos separadamente
+    
+    **Liderança de custo**
+    Manter os custos variáveis baixos e vender grandes volumes a preços baixos
+    
+    **Preço desagregado**
+    Permitir que os clientes comprem exatamente - e apenas - o que eles desejam
+    
+    **Financiamento**
+    Captar receitas não da venda direta de um produto, mas de planos de pagamento estruturados e juros pós-venda
+    
+    **Preço flexível**
+    Variar os preços de um produto/serviço com base na demanda
+    
+    **Folga (_float_)**
+    Receber um pagamento antes da confecção de um produto e obter juros sobre esse valor antes da entrega da mercadoria.
+    
+    **Escassez forçada**
+    Restringir a oferta dos produtos disponíveis, por quantidade ou acesso, para aumentar a demanda e/ou os preços.
+    
+    _**[[Precificação Freemium|Fremium]]**_
+    Oferecer serviços básicos gratuitamente e cobrar um preço mais alto por recursos avançados ou especiais.
+    
+    **Base instalada**
+    Oferecer um produto "essencial" por uma margem pequena (ou até com prejuízo) para aumentar a demanda e a lealdade; em seguida, obter lucro de produtos e serviços complementares.
+    
+    **Licença**
+    Autorizar um grupo ou indivíduo a utilizar um produto ou serviço de uma forma definida po um pagamento específico.
+    
+    **Afiliação**
+    Cobrar uma taxa de acordo com o tempo par autorizar o acesso a locais, produtos ou serviços que os não afiliados não têm.
+    
+    **Uso medido**
+    Possibilitar que os clientes paguem apenas pelo que eles usam.
+    
+    **Microtransações**
+    Vender vários itens por um dólar — ou por somente um centavo — para estimular a compra por impulso.
+    
+    **Premium**
+    Cobrar um preço com uma margem superior à dos concorrentes, geralmente para um produto, experiência, serviço ou marca.
+    
+    **Compartilhamento de risco**
+    Dispensar taxas ou custos convencionais quando determinadas medidas não são atingidas, mas possibilitar ganhos superdimensionados quando elas são atingidas.
+    
+    **Transações escalonadas**
+    Maximizar as margens buscando transações em grande volume e em larga escala quando os custos unitários são relativamente fixos.
+    
+    **Assinatura**
+    Criar fluxos de caixa previsíveis por meio da cobrança antecipada dos clientes (de uma taxa única ou recorrente) para que tenham acesso a um produto ou serviço ao longo do tempo.
+    
+    **Switchboard (painel de comutação)**
+    Conectar vários vendedores com vários compradores. Quanto maior o número de compradores e vendedores associados, mais valioso o painel se torna.
+    
+    **Definido pelo usuário**
+    Convidar os clientes a estabelecer o preço que desejam pagar.
+---
+- # REDE
+    
+    **Alianças**
+    Partilhar riscos e receitas para obter, em conjunto, vantagens competitivas individuais.
+    
+    **Colaboração**
+    Firmar parceria para benefício mútuo.
+    
+    **Parceria Complementar**
+    Alavancar ativos compartilhando-os com quem atendem a mercados semelhantes, mas oferece produtos/serviços diferentes.
+    
+    **Consolidação**
+    Adquirir várias empresas em um mesmo mercado ou em mercados complementares.
+    
+    **Concorrência Cooperada (_Coopetition_)**
+    Unir forças com quem normalmente seria concorrente para atingir um objetivo em comum
+    
+    **Franquia**
+    Licenciar princípios, processos e a marca para parceiros que pagam por isso
+    
+    **Fusão/Aquisição**
+    Associar duas ou mais entidades para obter acesso a recursos e ativos
+    
+    **Inovação Aberta**
+    Obter acesso a processos ou patentes de outras empresas para ampliar ou construir _know-how_, ou fazer o mesmo com sua propriedade intelectual e processos internos.
+    **Mercados Secundários**
+    Conectar canais de resíduos, subprodutos ou produtos alternativos com quem deseja isso.
+    
+    **Integração de Cadeia de Suprimentos**
+    Coordenar e integrar informações e/ou processos sem uma empresa ou entre diferentes partes da cadeia de valor.
+
+---
+- # ESTRUTURA
+    
+    **Padronização de ativos**
+    Reduzir os custos operacionais e aumentar a conectividade e a modularidade por meio da padronização de ativos.
+    
+    **Centro de Competências**
+    Agrupar recursos, práticas e know-how que apoiam funções e departamentos de uma organização para aumentar a eficiência e a eficácia.
+    
+    **Universidade Corporativa**
+    Oferecer treinamento específico à função ou à empresa para gerentes.
+    
+    **Gestão Descentralizada**
+    Levar a governança de tomada de decisões para o mais próximo das interfaces com pessoas ou negócios.
+    
+    **Sistemas de Incentivo**
+    Fornecer recompensas (financeiras ou não financeiras) para oferecer motivação para uma linha de ação específica.
+    
+    **Integração de Tecnologia da Informação**
+    Integrar recursos e aplicações tecnológicas.
+    
+    **Gestão do Conhecimento**
+    Compartilhar informações relevantes internamente para diminuir a redundância e melhorar o desempenho de função.
+    
+    **_Design_ Organizacional**
+    Fazer com que a forma siga a função e alinhar a infraestrutura com características e processos de negócio essenciais
+    
+    **Terceirização**
+    Atribuir a um fornecedor a responsabilidade de desenvolver ou manter um sistema.
+---
+- # PROCESSO
+    **Terceirização em massa**
+    Terceirizar trabalhos repetitivos ou desafiadores para um grande grupo de indivíduos semiorganizados.
+    
+    **Manufatura flexível**
+    Utilizar um sistema de produção que possa reagir rapidamente a mudanças e ainda assim operar eficientemente.
+    
+    **Propriedade intelectual**
+    Utilizar um processo patenteado ou de propriedade particular para comercializar ideias de uma maneira que os outros não consigam copiar.
+    
+    **Produção enxuta**
+    Reduzir perdas e custos no processo de fabricação e em outras operações.
+    
+    **Localização**
+    Adaptar um produto, processo ou experiência para atingir uma cultura ou região específica.
+    
+    **Sistemas logísticos**
+    Gerenciar o fluxo de mercadorias, informações e outros recursos entre o ponto de origem e o ponto de uso.
+    
+    **Produção sob encomenda**
+    Produzir um item após o recebimento de um pedido para evitar os custos de manutenção de estoque.
+    
+    **Análise preditiva**
+    Modelar dados de desempenho passados e prever resultados futuros para desenvolver e precificar produtos e/ou serviços correspondentemente.
+    
+    **Automação de processos**
+    Utilizar ferramentas e infraestrutura para gerenciar atividades de rotina e liberar os funcionários para outras atividades.
+    
+    **Eficiência de processo**
+    Criar ou produzir mais e ao mesmo tempo utilizar menos matéria-prima, energia ou tempo.
+    
+    **Padronização de processo**
+    Utilizar produtos, procedimentos e políticas comuns para diminuir complexidade, custos e erros.
+    
+    **Design estratégico**
+    Utilizar uma abordagem propositada que se demonstra consistente entre produtos/ serviços, marcas e experiências.
+    
+    **Conteúdo gerado pelo usuário**
+    Convidar os usuários a criar e selecionar conteúdos que potencializem os produtos/ serviços.

@@ -1,0 +1,63 @@
+---
+tags:
+  - business
+---
+
+## Encaixe
+
+<aside>
+
+Você consegue o encaixe quando os clientes se entusiasmam com sua proposta de valor. Isso acontece quando você contempla tarefas relevantes, alivia dores agudas e cria ganhos importantes para os clientes. O Encaixe é difícil de manter, e ele compreende a essência do Design de Proposta de Valor.
+
+</aside>
+
+### Verificando o Encaixe
+
+### 1. Instruções
+
+Considere o Mapa de Proposta de Valor e o Perfil do Segmento de Cliente. Examine os analgésicos e os criadores de ganho, um por um, e verifique se eles se ajustam a um ganho, uma dor ou tarefa do cliente. Assinale com ✔️ em cada um que se ajustar
+
+### 2. Resultado
+
+Se um analgésico ou criador de ganho não se ajustar a nada, ele pode não estar criando valor para o cliente. Não se preocupe se não tiver assinalado todas as dores/ganhos - é impossível satisfazer a todos. Pergunte-se: qual a qualidade do encaixe existente entre sua Proposta de Valor e seu Cliente?
+
+### Três Tipos de Encaixe
+
+#### No Papel
+
+1. **Encaixe da Solução de Problema**
+    
+    O encaixe da solução de problema acontece quando você:
+    
+    - Tem evidências de que os clientes se importam com certas tarefas, dores e ganhos
+    - Concebeu essas tarefas, dores e ganhos
+
+#### No Mercado
+
+1. **Encaixe Produto-Mercado**
+    
+    Acontece quando você:
+    
+    - tem evidências de que seus produtos e serviços, analgésicos e criadores de ganhos estão, de fato, criando valor para o cliente e ganhando força no mercado
+
+#### No Banco
+
+1. **Encaixe do Modelo de Negócio**
+    
+    Acontece quando você:
+    
+    - Tem evidências de que sua proposta de valor pode ser inserida num modelo de negócio em escala e lucrativo
+
+### (Caso Haja) Múltiplos Encaixes
+
+#### Intermediário
+
+Quando um negócio vende um produto ou serviço recorrendo a um intermediário, ele precisa, na verdade, suprir dois clientes: o **usuário final** e o **próprio** **intermediário**. Sem uma proposta de valor clara ao intermediário, a oferta poderá não alcançar o cliente final ou pelo menos, não com o mesmo impacto.
+
+- A empresa chinesa **Haier** vende eletrodomésticos e aparelhos eletrônicos para residências no mundo inteiro. Para isso, recorre, em grande parte, a varejistas como Carrefour, Walmart e outros. Para ser bem-sucedida, a Haier precisa criar uma proposta de valor atraente tanto para residências (cliente final) quanto para distribuidores intermediários)
+
+#### Plataformas
+
+As plataformas só funcionam quando dois ou mais atores interagem e encontram valor dentro de um mesmo modelo de negócio interdependente. São chamadas **plataformas dupla-face**, quando esses atores são dois, ou **multifacetadas**, quando sãos do que dois. Uma plataforma só existe quando todos os lados constam do modelo.
+
+- A **Airbnb** é um exemplo de plataforma dupla-face. É um site ue conecta proprietários de residências com espaço extra a ser alugado e viajantes à procura de alternativas aos hotéis. Nesse caso, o modelo de negócio precisa ter duas propostas de valor, uma para os proprietários (chamados anfitriões) e outra para os viajantes.
