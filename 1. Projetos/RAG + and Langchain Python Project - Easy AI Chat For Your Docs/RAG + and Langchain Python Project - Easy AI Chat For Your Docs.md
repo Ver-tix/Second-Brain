@@ -30,9 +30,10 @@ Outro problema que encontramos é que não é suficiente carregar cada arquivo m
 Para isso, podemos usar um divisor de texto recursivo por carateres:
 
 ```Python
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 text_splitter = RecursiveCharacterTextSplitter(
-	chunk_size=1000,
-	chunk_overlap=500,
+	chunk_size=1000, #c ada chunk terá cerca de 1000 caracteres
+	chunk_overlap=500, # cada chunk terá uma sobreposição de 500 caracteres
 	length_function=len,
 	add_start_index=True
 )
@@ -40,6 +41,20 @@ text_splitter = RecursiveCharacterTextSplitter(
 chunks = text_splitter.split_documents(documents) # documentes é a variável retornada da função load_documents()
 ```
 
+---
+#### Transformando em uma Base de Dados
+Para conseguirmos consultar cada chunk, vamos precisar torná-lo em uma base de dados. Estaremos usando o ChromaDB para isso, que é um tipo especial de banco de daos que usa vetores incorporados (embedded) como chave (é um Banco de Dados Vetorial)
+
+```Python
+from langhcain.embeddings import OpenAIEmbeddings
+
+CHROMA_PATH = "chroma"
+
+# Criar umanova Base de Dados a partir dos docuemtnos
+db = Chroma.from_documents(chunks, OpenAIEmbeddings(), persist_directory=CHROMA_PATH)
+```
+
+Para isso, você vai precisar de uma conta da OpenAI, porque vamos usar a função de Embeddings da OpenAI para ios vetores incorporados para cada chunk.
 
 ---
 
