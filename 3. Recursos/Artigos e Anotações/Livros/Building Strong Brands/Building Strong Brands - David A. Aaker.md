@@ -9,6 +9,7 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/2 - Construindo uma Marca - A História da Saturn]]
 - [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/3 - O Sistema de Identidade da Marca]]
 - [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/4 - Associações Organizacionais]]
+- [[5 - A Personalidade da Marca]]
 
 
 
