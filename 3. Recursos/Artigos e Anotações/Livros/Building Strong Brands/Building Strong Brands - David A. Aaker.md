@@ -2,9 +2,12 @@
 tags:
   - marketing
   - branding
+  - estratégia
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/1 - O Que É uma Marca Forte]]
+- [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/2 - Construindo uma Marca - A História da Saturn]]
+- [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/3 - O Sistema de Identidade da Marca]]
 
 
 
