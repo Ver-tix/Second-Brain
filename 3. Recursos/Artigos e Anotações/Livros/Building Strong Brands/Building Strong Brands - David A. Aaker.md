@@ -11,6 +11,8 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/4 - Associações Organizacionais]]
 - [[5 - A Personalidade da Marca]]
 - [[6 - Implementação de Identidade]]
+- [[7 - Estratégias de Marca ao Longo do Tempo]]
+- [[8 - Gerindo Sistemas de Marca]]
 
 
 
