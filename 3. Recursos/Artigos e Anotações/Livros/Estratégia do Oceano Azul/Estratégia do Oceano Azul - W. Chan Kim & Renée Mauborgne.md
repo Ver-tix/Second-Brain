@@ -12,6 +12,7 @@ tags:
 - [[Capítulo 3 - Princípio 1 - Reconstrua as Fronteiras de Mercado]]
 - [[Capítulo 4 - Princípio 2 - Concentre-se No Panorama Geral, Não Nos Números]]
 - [[Capítulo 5 - Princípio 3 - Vá Além da Demanda Existente]]
+- [[Capítulo 6 - Princípio 4, Acerte a Sequência Estrategica]]
 
 
 # 🏛️ PARTE I - A ESTRATÉGIA DO OCEANO AZUL
