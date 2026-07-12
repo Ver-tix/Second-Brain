@@ -169,23 +169,25 @@ A NetJets recorreu à inovação no modelo de precificação de jatos para o tim
 A IBM explodiu o mercado de tabulação, o fez mudando o modelo de precificação da indústria, que deixou de vender por leasing e atingiu seu preço estratégico enquanto cobria sua estrutura de custos.
 
 ## Fase IV - Da Utilidade, Preço e Custo Para a Adoção
-[[]]
 ### Funcionários:  
 Não lidar de maneira adequada com as preocupações dos funcionários referentes ao impacto da nova ideia em suas vidas pode sair muito caro. Quando a Merril Lynch anunciou planos para desenvolver serviço de corretagem on-line, o preço de suas ações caiu 14% ao surgirem as primeiras notícias sobre resistência e luta interna na grande divisão de corretagem de varejo da empresa.  
   
 Antes de divulgarem uma ideia, as empresas devem convencer todos os funcionários de que estão conscientes das ameaças resultantes da sua execução. Além disso, devem trabalhar com os funcionários para desarmar essas ameaças, de modo que todos saiam ganhando, apesar das mudanças nos papéis, responsabilidades e recompensas das pessoas.  
   
 ### Parceiros de Negócios:  
-Potencialmente ainda mais destrutiva do que a insatisfação dos funcionários é a resistência dos parceiros, receosos de que seus fluxos de receita e suas posições de mercado sofram impactosadversos decorrenes da nova ideia de negócios.  
+Potencialmente ainda mais destrutiva do que a insatisfação dos funcionários é a resistência dos parceiros, receosos de que seus fluxos de receita e suas posições de mercado sofram impactos adversos decorrentes da nova ideia de negócios.  
   
-Público em Geral:  
+### Público em Geral:  
 A oposição a uma ideia de negócios também pode difundir-se entre o grande público, sobretudo se for muito inovadora e ousada, ameaçando os costumes sociais e políticos tradicionais. Os efeitos podem ser devastadores
 
-|                                      | 154       | Case/ Exemplo |     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------------------ | --------- | ------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                      | 155       | Case/ Exemplo |     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                                      | 155, 156  | Case/ Exemplo |     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                                      | 156       | Case/ Exemplo |     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                                      | 156       | Case/ Exemplo |     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                                      | 158 - 160 | Super Insight |     |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Teste de Ideias do Oceano Azul (TOA) | 160 - 164 | Insight       |     | Embora as empresas devam desenvolver sua estratégia do oceano azul na sequência utilidade, preço, custo e adoção, essas etpas formam um todo integrado que garante o sucesso comercial. O TOA apresenta uma nova avaliação simples, porém poderosa dessa visão. Veja o exemplo da CD-i, Iridium Motorola e i-mode [aqui](https://drive.google.com/file/d/1j1-0YcSobDa_J5k3xQWhBZk72WgsUP0Z/view?usp=drive_link). |
+# Teste de Ideias do Oceano Azul (TOA)
+Embora as empresas devam desenvolver sua estratégia do oceano azul na sequência utilidade, preço, custo e adoção, essas etapas formam um todo integrado que garante o sucesso comercial. O TOA apresenta uma nova avaliação simples, porém poderosa dessa visão. Veja o exemplo da CD-i, Iridium Motorola e i-mode.
+
+|           |                                                                                               | CD-i da <br>Philips | Iridium da<br>Motorola | i-mode da DoCoMo, Japão |
+| --------- | --------------------------------------------------------------------------------------------- |:-------------------:|:----------------------:|:-----------------------:|
+| Utilidade | A utilidade é excepcional? As razões para comprar seus produtos e serviços são irresistíveis? |          -          |           -            |            +            |
+| Preço     | Seu preço é acessível à massa de compradores?                                                 |          -          |           -            |            +            |
+| Custo     | Sua estrutura de custos é compatível com a meta de custo?                                     |          -          |           -            |            +            |
+| Adoção    | Você enfrentou antecipadamente as barreiras à adoção                                          |          -          |          +/-           |            +            |
+
+
