@@ -2,6 +2,7 @@
 tags:
   - branding
   - marketing
+  - tático
 ---
 # Os 4 Ps de Kotler
 

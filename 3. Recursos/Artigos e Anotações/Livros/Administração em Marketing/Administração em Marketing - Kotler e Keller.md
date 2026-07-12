@@ -1,6 +1,8 @@
 ---
 tags:
   - marketing
+  - estratégia
+  - tático
 ---
 ## Sumário
 ### Parte 1: O Que É Administração de Marketing

@@ -1,6 +1,8 @@
 ---
 tags:
   - marketing
+  - tático
+  - produto
 ---
 
 ## Mapa de Valor

@@ -74,7 +74,7 @@ Varejistas ofereciam amplos corredores de vinho, que eram intimidantes aos olhos
 A [yellow tail] retirou tudo isso criando só duas opções de vinho: um chardonnay (vinho branco), e um Shiraz/Shirax (tinto) e também removeu as tecnicidades dos rótulos. Ao simplificar a oferta, a Casella Wines agilizou o modelo de negócios. Essa redução maximizou o giro e minimizou os investimentos em estoques. Outra coisa que facilitou e simplificou o processo foi que os dois tipos de vinho, possuíam o mesmo modelo de garrafa, criando condições para crair mostruários de vinhos extremamente simples
 
 
-# Matrix Eliminar-Reduzir-Elevar-Criar (Matriz Derivada do Modelo de 4 Ações)
+# Matriz Eliminar-Reduzir-Elevar-Criar (Matriz Derivada do Modelo de 4 Ações)
 Trata-se de um instrumento analítico suplementar ao modelo das quatro ações. A matriz induz as empresas não só a responder às quatro perguntas do modelo das quatro ações, mas também a agir com base nelas para construir uma nova curva de valor.
 ![[MatrizYellowTail.jpg]]
   ![[MatrizCirqueDuSoleil.jpg]]

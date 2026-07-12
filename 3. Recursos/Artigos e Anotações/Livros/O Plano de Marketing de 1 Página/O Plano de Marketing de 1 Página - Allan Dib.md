@@ -2,7 +2,6 @@
 tags:
   - marketing
   - estratégia
-  - vendas
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/O Plano de Marketing de 1 Página/Introdução]]

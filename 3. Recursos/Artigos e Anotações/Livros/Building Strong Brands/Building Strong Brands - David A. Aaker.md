@@ -3,6 +3,14 @@ tags:
   - marketing
   - branding
 ---
+# Sumário
+- [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/1 - O Que É uma Marca Forte]]
+
+
+
+
+
+3. Recursos/Artigos e Anotações/Livros/Building Strong Brands
 # #1 - O QUE É UMA MARCA FORTE?
 
 ## A História da Kodak (Pág. 2 - 7) [Case/ Exemplo]
