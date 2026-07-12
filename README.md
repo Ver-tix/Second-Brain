@@ -48,3 +48,53 @@ Trabalho no dia a dia é commitado automaticamente pelo plugin Git. Para mudanç
 
 \- Histórico completo de mudanças disponível via `git log`
 
+## Como usar / manutenção
+
+### Dia a dia
+- Edite normalmente pelo Obsidian — o plugin Git cuida do commit e push automático.
+- Não é necessário abrir o terminal para uso comum.
+
+### Forçar sincronização manual
+Se precisar garantir que tudo foi salvo antes de fechar o PC:
+- `Ctrl+P` → "Git: Commit-and-sync"
+
+### Criando uma branch semanal (trabalho experimental/grande)
+```powershell
+git checkout main
+git pull
+git checkout -b semana-DD-MM
+```
+
+### Revisando o que mudou antes de mesclar
+```powershell
+git diff main semana-DD-MM
+```
+
+### Mesclando a branch semanal (se valeu a pena)
+```powershell
+git checkout main
+git merge semana-DD-MM
+git push
+git branch -d semana-DD-MM
+```
+
+### Descartando a branch semanal (se não valeu)
+```powershell
+git checkout main
+git branch -D semana-DD-MM
+```
+
+### Verificando histórico
+```powershell
+git log --oneline
+```
+
+### Se o push falhar por autenticação
+Verificar credenciais salvas no Gerenciador de Credenciais do Windows (procurar entradas antigas/erradas do GitHub) antes de gerar um novo token de acesso pessoal.
+
+### Adicionando novo tipo de anexo pesado ao LFS
+```powershell
+git lfs track "*.extensao"
+git add .gitattributes
+git commit -m "adiciona nova extensão ao LFS"
+```

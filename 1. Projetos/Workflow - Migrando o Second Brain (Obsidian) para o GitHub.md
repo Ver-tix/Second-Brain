@@ -33,7 +33,7 @@ kanban-plugin: board
 ## Etapa 2 — Criar conta e autenticação no GitHub
 
 - [x] 1. Se já não tiver, crie a conta em [https://github.com](https://github.com)
-- [ ] 2. Para autenticar sem ficar digitando senha toda hora, gere uma chave SSH:
+- [x] 2. Para autenticar sem ficar digitando senha toda hora, gere uma chave SSH:
 	
 	powershell
 	
@@ -42,7 +42,7 @@ kanban-plugin: board
 	```
 	
 	Aperte Enter em todas as perguntas (padrões são suficientes).
-- [ ] 3. Copie a chave pública gerada:
+- [x] 3. Copie a chave pública gerada:
 	
 	powershell
 	
@@ -51,8 +51,8 @@ kanban-plugin: board
 	```
 	
 	(isso já copia pro clipboard)
-- [ ] 4. No GitHub: **Settings → SSH and GPG keys → New SSH key** → cole a chave → salve.
-- [ ] 5. Teste a conexão:
+- [x] 4. No GitHub: **Settings → SSH and GPG keys → New SSH key** → cole a chave → salve.
+- [x] 5. Teste a conexão:
 	
 	powershell
 	
@@ -69,7 +69,7 @@ kanban-plugin: board
 - [x] 2. Nome sugerido: `second-brain` ou `obsidian-vault`
 - [x] 3. Marque **Private**
 - [x] 4. **Não** marque "Add a README" (sua vault já tem conteúdo — evita conflito no primeiro push)
-- [ ] 5. Copie a URL SSH do repo (formato `git@github.com:seu-usuario/second-brain.git`)
+- [x] 5. Copie a URL SSH do repo (formato `git@github.com:seu-usuario/second-brain.git`)
 
 
 ## Etapa 4 — Preparar a vault antes do primeiro commit
@@ -111,7 +111,7 @@ kanban-plugin: board
 
 ## Etapa 5 - Primeiro Commit e Push
 
-- [ ] powershell
+- [x] powershell
 	
 	```powershell
 	git init
@@ -129,7 +129,7 @@ kanban-plugin: board
 
 ## Etapa 6 — Automatizar os próximos commits
 
-- [ ] 1. Fazer commit manual toda vez que editar uma nota não é sustentável. Instale o plugin **Obsidian Git**:
+- [x] 1. Fazer commit manual toda vez que editar uma nota não é sustentável. Instale o plugin **Obsidian Git**:
 	
 		1. Dentro do Obsidian: **Settings → Community plugins → Browse**
 		2. Busque por "Obsidian Git" → Install → Enable
@@ -143,7 +143,7 @@ kanban-plugin: board
 
 ## Etapa 7 - Documentação do repositório
 
-- [ ] Crie um `README.md` na raiz da vault explicando o propósito do repo (útil pro seu "eu do futuro" e caso um dia você queira dar acesso a alguém):
+- [x] Crie um `README.md` na raiz da vault explicando o propósito do repo (útil pro seu "eu do futuro" e caso um dia você queira dar acesso a alguém):
 	
 	markdown
 	
@@ -181,7 +181,7 @@ kanban-plugin: board
 
 ## Pós-Projeto: workflow de branches
 
-- [ ] [[LEIA. IMPORTANTE PARA EVITAR DANOS AO PROJETO]]
+- [x] [[LEIA. IMPORTANTE PARA EVITAR DANOS AO PROJETO]]
 
 
 
