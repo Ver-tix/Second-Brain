@@ -4,6 +4,21 @@ tags:
   - branding
   - estratégia
 ---
+# Sumário
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/1 - O Que É Brand Equity]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/2 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/3 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/4 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/5 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/6 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/7 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/8 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/9 - ]]
+- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/10 - Revitalizando a Marca]]
+
+
+3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity
+
 # #1 - O QUE É BRAND EQUITY?
 
 ## A História da Ivory (Pág. 1 - 7) [Case/ Exemplo]
