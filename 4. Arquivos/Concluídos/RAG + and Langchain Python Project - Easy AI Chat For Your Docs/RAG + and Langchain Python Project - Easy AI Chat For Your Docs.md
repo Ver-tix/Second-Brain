@@ -9,6 +9,21 @@ published: https://youtu.be/tcqEUSNCn8I?si=cPFArYzHdZLYn8qI
 ![[Workflow do RAG.canvas]]
 
 ---
+```Python
+pip install langchain openao faiss-cpu tiktoken
+```
+
+```Python
+from operator import itemgetter
+
+from langhcain.prompts import ChatPromptTemplate
+from langhcain.chat_models import ChatOpenAI
+from langhcain.embeddings import OpenAIEmbeddings
+from langhcain.schema.output_parser import StrOutPutParser
+from langhcain.schema.runnable import RunnablePassthrough, RunnableLambda
+from langhcain.vectorstore import FAISS
+```
+
 
 #### Carregando Arquivos em Python 
 Para carregar dados markdown do seu folder para o Python, siga o seguinte:
@@ -197,28 +212,18 @@ response_text=modelo.predict(prompt)
 ```
 
 #### Finalmente...
-Se você quiser fornecer referências ao seu
+Se você quiser fornecer referências ao seu material de origem, você também pode encontrá-las nos metadados de cada um desses trechos de documento.
 
 ```Python
 sources = [doc.metadata.get("source", None) for doc, _score in results]
-formatted_resopnde
+formatted_resonse = f"Response: {response_text}\nSources: {sources}"
+print(formatted_responde)
 ```
 
 ---
-```Python
-pip install langchain openao faiss-cpu tiktoken
-```
 
-```Python
-from operator import itemgetter
 
-from langhcain.prompts import ChatPromptTemplate
-from langhcain.chat_models import ChatOpenAI
-from langhcain.embeddings import OpenAIEmbeddings
-from langhcain.schema.output_parser import StrOutPutParser
-from langhcain.schema.runnable import RunnablePassthrough, RunnableLambda
-from langhcain.vectorstore import FAISS
-```
+
 
 ```Python
 vectorstore = FAISS.from_texts(
