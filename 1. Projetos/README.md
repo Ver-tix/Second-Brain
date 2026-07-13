@@ -33,7 +33,7 @@ As áreas formam uma **pilha de camadas**, onde cada uma se apoiou na anterior �
 | Área                               | Pergunta que responde                                             | Natureza                                                                               |
 | ---------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **[[1. Business HUB]]**                | "O que é valor? Como negócios criam e capturam valor?"            | **Fundamentos** — mental models (Porter, VRIO, BMC, Inovação)                          |
-| **[[2. Marketing HUB]]**               | "Como transformar esse valor em ofertas que os clientes queiram?" | **Aplicação externa** — constrói sobre Business (posicionamos *valor*, não abstrações) |
+| **[[2.1. Marketing HUB]]**               | "Como transformar esse valor em ofertas que os clientes queiram?" | **Aplicação externa** — constrói sobre Business (posicionamos *valor*, não abstrações) |
 | **[[3. Inteligência Artificial HUB]]** | "Como fazer mais, mais rápido, com menos esforço?"                | **Multiplicador transversal** — atravessa as duas anteriores                           |
 | **[[4. Mercado Imobiliário HUB]]**     | "Onde, concretamente, vou aplicar tudo isso?"                     | **Domínio específico** — o ponto de convergência                                       |
 
