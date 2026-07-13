@@ -13,6 +13,8 @@ tags:
 - [[6 - Implementação de Identidade]]
 - [[7 - Estratégias de Marca ao Longo do Tempo]]
 - [[8 - Gerindo Sistemas de Marca]]
+- [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/9 - Alavancando a Marca]]
+- [[]]
 
 
 
@@ -22,18 +24,6 @@ tags:
 
 ---
 
-# #9 - ALAVANCANDO A MARCA
-
-**Healthy Choice (Pág. 270 - 273) [Case/ Exemplo]:** Identidade "sabor e nutrição" permitiu extensão por toda a loja (congelados, cereais, sorvetes). Marca guarda-chuva de sucesso.
-
-**Extensões de Linha (Pág. 275 - 277) [Super Insight]:** Expandir base de usuários, prover variedade, energizar a marca e gerir inovação.
-
-**Alavancagem Vertical:**
-
-- **Descendente (Downscale):** Riscos de macular a marca pai e canibalização. Chave: distinguir o novo contexto (Ex: Kodak Funtime).
-- **Ascendente (Upscale):** Problema de credibilidade. Chave: separar a submarca e usar descritores (Ex: Black & Decker DeWalt, Gallo Varietals).
-
-**Co-Branding (Pág. 298 - 300) [Insight]:** Marcas de ingredientes (Hershey’s em bolos Betty Crocker) ou marcas compostas (MasterCard GM, Healthy Choice Kellogg’s).
 
 ---
 
