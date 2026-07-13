@@ -3,7 +3,6 @@ tags:
   - brandig
   - BrandEquity
 ---
-
 # A História da Ivory
 Em um domingo de 1879, Harley Procter, um dos fundadores da empresa de velas e sabões Procter & Gamble (P&G), ouviu um sermão baseado no Quadragésimo Quinto Salmo: “Todas as tuas vestes cheiram a mirra, aloés e cássia, desde palácios de marfim.” A palavra “marfim” ficou em sua mente — e tornou-se o nome do sabão branco da empresa.  
   
