@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"dfa8a60e5ba6290c","type":"text","text":"<h1 align=\"center\"> Contexto Estratégico ao Preço</h1>\n","x":-240,"y":-279,"width":479,"height":99},
+		{"id":"0541e26001b3a8d8","type":"text","text":"<h1 align=\"center\">Equilibra a Operação e os Resultados da Empresa\n</h1>\n","x":-240,"y":-140,"width":479,"height":99},
+		{"id":"0815c2c2ac5d911c","type":"text","text":"<h2 align=\"center\">Custo/Lucro/Mercado</h2>\n","x":-135,"y":80,"width":270,"height":99},
+		{"id":"ec5c5eb58a0040a1","type":"text","text":"<h2 align=\"center\">Fácil de Alterar</h2>\n","x":160,"y":80,"width":219,"height":99},
+		{"id":"62f95b399c683a7b","type":"text","text":"<h2 align=\"center\">Posicionamento</h2>\n","x":-380,"y":80,"width":220,"height":99}
+	],
+	"edges":[
+		{"id":"37f3dcc56e54225d","fromNode":"dfa8a60e5ba6290c","fromSide":"bottom","toNode":"0541e26001b3a8d8","toSide":"top"},
+		{"id":"3da668ea496031cd","fromNode":"0541e26001b3a8d8","fromSide":"bottom","toNode":"62f95b399c683a7b","toSide":"top"},
+		{"id":"21825bcab2f5aab1","fromNode":"0541e26001b3a8d8","fromSide":"bottom","toNode":"0815c2c2ac5d911c","toSide":"top"},
+		{"id":"8d62e9d2c280eee7","fromNode":"0541e26001b3a8d8","fromSide":"bottom","toNode":"ec5c5eb58a0040a1","toSide":"top"}
+	]
+}

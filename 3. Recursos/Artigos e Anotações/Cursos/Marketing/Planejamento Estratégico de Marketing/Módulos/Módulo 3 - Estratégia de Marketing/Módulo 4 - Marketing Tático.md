@@ -7,7 +7,7 @@ tags:
 
 Produto é a forma que tangibilizamos nossa proposta de valor. E qual a importância do produto em relação ao seu contexto estratégico?
 
-![[Contexto Estratégico.canvas]]  
+![[Contexto Estratégico ao Produto.canvas]]  
 ## CLASSIFICAÇÃO E CARACTERÍSTICAS - TUDO QUE PODE SER OFERECIDO PARA SUPRIR UMA NECESSIDADE
 ### Níveis de Produtos
 #### BENEFÍCIO CENTRAL
@@ -63,119 +63,58 @@ Produto é a forma que tangibilizamos nossa proposta de valor. E qual a importâ
 |   IDENTIDADE VISUAL, MARCA, RÓTULO |      **ESTILO**       | **DEVOLUÇÃO E GARANTIAS**  | FACILIDADE, PRAZO DE GARANTIA         |
 |      NÍVEL DE CONFIANÇA NO PRODUTO |   **CONFIABILDADE**   |                            |                                       |
 ### MARCA E DESIGN
-  
-|   |   |   |
-|---|---|---|
-|IDENTIDADE|FUNCIONALIDADE|ESTÉTICA|
+  ![[Marca e Design.canvas]]
 
-  
+| BENEFÍCIOS PARA O CONSUMIDOR | BENEFÍCIOS PARA A EMPRESA |
+| ---------------------------- | ------------------------- |
+| VISUAL AGRADÁVEL             | DIFERENCIAÇÃO             |
+| FACILIDADE DE USO            | FACBRICAÇÃO               |
+| INSTALAÇÃO                   | ENTREGA                   |
+| FACILIDADE DE ABRIR          | ESTOQUE                   |
+| DESCARTE                     |                           |
+<h5 align="center">A EMBALAGEM DEVE ATENDER ÀS EXPECTATIVAS DO CONSUMIDOR EM RELAÇÃO A COMPONENTES ESTÉTICOS E FUNCIONAIS COMO:</h5>
 
-|   |
-|---|
-|FORTALECE O POSICIONAMENTO DA MARCA E SUA CULTURA|
-|TORNA A EXPERIÊNCIA MAIS MARCANTE PARA O CONSUMIDOR|
-|DEVE ESTAR INTEGRADO AO MIX DE MARKETING|
-|PODE ARRUINAR UM PRODUTO OU SERVIÇO|
+| TAMANHO | FORMA | MATERIAL    |
+| ------- | ----- | ----------- |
+| COR     | TEXTO | ILUSTRAÇÕES |
+### GARANTIAS
 
-  
-  
-  
-  
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|BENEFÍCIOS PARA O CONSUMIDOR|   |   |   |   |
-|VISUAL AGRADÁVEL|FACILIDADE DE USO|INSTALAÇÃO|FACILIDADE DE ABRIR|DESCARTE|
-
-  
-  
-  
-
-|   |   |   |   |
-|---|---|---|---|
-|BENEFÍCIOS PARA A EMPRESA|   |   |   |
-|DIFERENCIAÇÃO|FACBRICAÇÃO|ENTREGA|ESTOWQUE|
-
-  
-  
-
-  
-
-|   |
-|---|
-|A EMBALAGEM DEVE ATENDER ÀS EXPECTATIVAS DO CONSUMIDOR EM RELAÇÃO A COMPONENTES ESTÉTICOS E FUNCIONAIS COMO:|
-
-  
-  
-  
-
-|   |   |   |
-|---|---|---|
-|TAMANHO|FORMA|MATERIAL|
-|COR|TEXTO|ILUSTRAÇÕES|
-
-  
-
-|   |
-|---|
-|GARANTIAS|
-
-  
-
-|   |
-|---|
-|REDUZ O RISCO PERCEBIDO PELO CLIENTE|
-|SÃO AS DECLARAÇÕES FEITAS PELO FABRICANTE SOBRE O DESEMPENHO DE UM PRODUTO|
-|PODEM SER LUCRATIVAS PARA FABRICANTES E VAREJISTAS|
+| REDUZ O RISCO PERCEBIDO PELO CLIENTE                                       |
+| -------------------------------------------------------------------------- |
+| SÃO AS DECLARAÇÕES FEITAS PELO FABRICANTE SOBRE O DESEMPENHO DE UM PRODUTO |
+| PODEM SER LUCRATIVAS PARA FABRICANTES E VAREJISTAS                         |
 
 # ETAPA 2 - INTRODUÇÃO AO “P” DE PREÇO
 
 O Preço é aquele que vai trazer recursos. Enquanto os outros 3 Ps estão ligados a investimentos nossos (saída de caixa), o P de Preço está ligado à entrada de caixa
-
-  
-
-|   |   |   |
-|---|---|---|
-|CONTEXTO ESTRATÉGICO|   |   |
-|EQUILIBRA A OPERAÇÃO E OS RESULTADOS DA EMPRESA|   |   |
-|POSICIONAMENTO|CUSTO/LUCRO/MERCADO|FÁCIL DE ALTERAR|
-
-  
-
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|OBJETIVOS DA PRECIFICAÇÃO|   |   |   |   |   |
-|PREÇO É O VALOR MONETÁRIO ASSOCIADO A UM BEM OU SERVIÇO.<br><br>VALOR É A IMPORTÂNCIA DESSE BEM OU SERVIÇO PARA O CONSUMIDOR|   |   |   |   |   |
-|MENSALIDADE|TAXA|SALÁRIO|HONORÁRIO|GRATIFICAÇÃO|JUROS|
-
-  
-
-|   |   |   |
-|---|---|---|
-|DEFINÇÃO DE PREÇOS DEVE SER BASEADA EM|   |   |
-|SEGMENTO-ALVO|POSICIONAMENTO|ESTRATÉGIA DO MIX DE MARKETING|
-
+![[Contexto Estratégico ao Preço.canvas]]
+### OBJETIVOS DA PRECIFICAÇÃO - 
+**PREÇO** É O VALOR MONETÁRIO ASSOCIADO A UM BEM OU SERVIÇO. **VALOR** É A IMPORTÂNCIA DESSE BEM OU SERVIÇO PARA O CONSUMIDOR
+- MENSALIDADE
+- TAXA
+- SALÁRIO
+- HONORÁRIO
+- GRATIFICAÇÃO
+- JUROS
+### DEFINÇÃO DE PREÇOS DEVE SER BASEADA EM
+- SEGMENTO-ALVO
+- POSICIONAMENTO
+- ESTRATÉGIA DO MIX DE MARKETING
 ## Etapa 2.2 - Etapas Da Precificação
 
-  
-
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|OBJETIVO|DEMANDA|CUSTOS|CONCORRÊNCIA|MÉTODO|PREÇO FINAL|
-|MAXIMIZAR LUCRO|ELÁSTICA|FIXOS|PREÇOS|MARK UP|INFLUÊNCIA DO MIX DE MARKETING|
-|AUMENTAR RECEITA|INELÁSTICA|VARIÁVEIS|CUSTOS|ROI DESEJADO|POLÍTICA DE PREÇOS|
-|ELEVAR VENDAS||TRIBUTAÇÃO|OFERTAS|VALOR PERCEBIDO|GANHOS E RISCOS|
-|GANHAR MERCADO|||PREVER REAÇÕES|BENCHMARK|IMPACTO NA CADEIA DE VALOR|
-|DESNATAMENTO||||LEILÃO||
-|PREÇO SOCIAL||||||
-
-  
-
-|   |   |   |   |
-|---|---|---|---|
-|ADEQUAÇÕES AO PREÇO FINAL|   |   |   |
-|CARACTERÍSTICAS GEOGRÁFICAS|DESCONTOS PROMOCIONAIS E NÃO PROMOCIONAIS|CONDIÇÕES DE PAGAMENTO|PREÇOS DISCRIMINATÓRIOS|
-
+| <h3>OBJETIVO</h3> | <h3>DEMANDA</h3> | <h3>CUSTOS</h3> | <h3>CONCORRÊNCIA</h3> | <h3>MÉTODO</h3> |      <h3>PREÇO FINAL</h3>      |
+| :---------------: | :--------------: | :-------------: | :-------------------: | :-------------: | :----------------------------: |
+|  MAXIMIZAR LUCRO  |     ELÁSTICA     |      FIXOS      |        PREÇOS         |     MARK UP     | INFLUÊNCIA DO MIX DE MARKETING |
+| AUMENTAR RECEITA  |    INELÁSTICA    |    VARIÁVEIS    |        CUSTOS         |  ROI DESEJADO   |       POLÍTICA DE PREÇOS       |
+|   ELEVAR VENDAS   |                  |   TRIBUTAÇÃO    |        OFERTAS        | VALOR PERCEBIDO |        GANHOS E RISCOS         |
+|  GANHAR MERCADO   |                  |                 |    PREVER REAÇÕES     |    BENCHMARK    |   IMPACTO NA CADEIA DE VALOR   |
+|   DESNATAMENTO    |                  |                 |                       |     LEILÃO      |                                |
+|   PREÇO SOCIAL    |                  |                 |                       |                 |                                |
+### ADEQUAÇÕES AO PREÇO FINAL
+  - CARACTERÍSTICAS GEOGRÁFICAS
+  - DESCONTOS PROMOCIONAIS E NÃO PROMOCIONAIS
+  - CONDIÇÕES DE PAGAMENTO
+  - PREÇOS DISCRIMINATÓRIOS
 # ETAPA 3 - INTRODUÇÃO AO “P” DE PRAÇA (OU PONTO DE VENDA OU DISTRIBUIÇÃO)
 
 Distribuição do produto; os canais de Marketing. Isso é importante porque na fase estratégica, no processo de geração de valor, envolve (recapitulando): cria valor, entrega valor, comunica valor. Até agora, com os últimos 2 Ps (produto e preço) vimos a criação e valor. Agora, com a Praça, veremos o processo de entrega de valor, e com Promoção, a comunicação desse valor.

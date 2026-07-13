@@ -1,9 +1,17 @@
 {
 	"nodes":[
 		{"id":"4d2c35eae1656740","x":-230,"y":-288,"width":569,"height":108,"type":"text","text":"<h1 align=\"center\">Marca e Design</h1>"},
-		{"id":"9243da9616655f04","x":-376,"y":35,"width":250,"height":60,"type":"text","text":"<h2 align=\"center"}
+		{"id":"9243da9616655f04","x":-376,"y":35,"width":250,"height":60,"type":"text","text":"<h2 align=\"center\">Identidade</h2>"},
+		{"id":"b1c838463cd67adc","x":-69,"y":38,"width":250,"height":60,"type":"text","text":"<h2 align=\"center\">Funcionalidade</h2>"},
+		{"id":"9a7be970ac3ffa76","x":240,"y":35,"width":250,"height":60,"type":"text","text":"<h2 align=\"center\">Estética</h2>"},
+		{"id":"0faafc275c231359","type":"text","text":"<h3><ul><li>FORTALECE O POSICIONAMENTO DA MARCA E SUA CULTURA</li><li>TORNA A EXPERIÊNCIA MAIS MARCANTE PARA O CONSUMIDOR</li><li>DEVE ESTAR INTEGRADO AO MIX DE MARKETING</li><li>PODE ARRUINAR UM PRODUTO OU SERVIÇO</li></ul></h3>","x":-230,"y":240,"width":569,"height":200}
 	],
 	"edges":[
-		{"id":"44c58d4ee41f73f7","fromNode":"4d2c35eae1656740","fromSide":"bottom","toNode":"9243da9616655f04","toSide":"top"}
+		{"id":"44c58d4ee41f73f7","fromNode":"4d2c35eae1656740","fromSide":"bottom","toNode":"9243da9616655f04","toSide":"top"},
+		{"id":"612a36b77bf07fe4","fromNode":"4d2c35eae1656740","fromSide":"bottom","toNode":"b1c838463cd67adc","toSide":"top"},
+		{"id":"7ab6c2746fdc9f4f","fromNode":"4d2c35eae1656740","fromSide":"bottom","toNode":"9a7be970ac3ffa76","toSide":"top"},
+		{"id":"6128ef23a2d64849","fromNode":"9243da9616655f04","fromSide":"bottom","toNode":"0faafc275c231359","toSide":"top"},
+		{"id":"4e98a1696fcd59b4","fromNode":"b1c838463cd67adc","fromSide":"bottom","toNode":"0faafc275c231359","toSide":"top"},
+		{"id":"25992ae9aad69a26","fromNode":"9a7be970ac3ffa76","fromSide":"bottom","toNode":"0faafc275c231359","toSide":"top"}
 	]
 }
