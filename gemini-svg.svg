@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 820" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Arrow marker definition -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#2d3748" />
+    </marker>
+  </defs>
+
+  <!-- Main Diagram Title -->
+  <text x="50" y="55" font-size="24" font-weight="800" fill="#1a202c" letter-spacing="-0.5px">
+    Volkswagen Alavanca Autoridade Cultural e Política para Reinventar seu Mito
+  </text>
+
+  <!-- ================= ERA 1: MITO BOÊMIO ================= -->
+  <g id="era-bohemian">
+    <text x="210" y="115" font-size="16" font-weight="700" fill="#2d3748" text-anchor="middle">Mito Boêmio (1959–1971)</text>
+    
+    <!-- Outer Container Block -->
+    <rect x="50" y="135" width="320" height="420" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+    
+    <!-- American Ideology -->
+    <rect x="70" y="155" width="280" height="65" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="210" y="178" font-size="14" font-weight="700" fill="#1e3a8a" text-anchor="middle">Ideologia Americana</text>
+    <text x="210" y="198" font-size="13" fill="#334155" text-anchor="middle">Burocracia científica</text>
+    
+    <!-- Double Arrow -->
+    <line x1="210" y1="220" x2="210" y2="250" stroke="#475569" stroke-width="1.5" marker-start="url(#arrow)" marker-end="url(#arrow)" />
+    
+    <!-- Contradiction -->
+    <rect x="70" y="250" width="280" height="75" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="210" y="273" font-size="14" font-weight="700" fill="#b91c1c" text-anchor="middle">Contradição</text>
+    <text x="210" y="293" font-size="13" fill="#334155" text-anchor="middle">Conformidade aos gostos</text>
+    <text x="210" y="311" font-size="13" fill="#334155" text-anchor="middle">ditados pelo mercado</text>
+    
+    <!-- Up Arrow -->
+    <line x1="210" y1="365" x2="210" y2="332" stroke="#475569" stroke-width="1.5" marker-end="url(#arrow)" />
+    
+    <!-- VW's Myth -->
+    <rect x="70" y="365" width="280" height="45" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="210" y="392" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">Mito do Mundo da Arte da VW</text>
+    
+    <!-- Populist World -->
+    <rect x="70" y="425" width="280" height="65" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="210" y="448" font-size="14" font-weight="700" fill="#0369a1" text-anchor="middle">Mundo Populista</text>
+    <text x="210" y="468" font-size="13" fill="#334155" text-anchor="middle">Intelligentsia, Beats</text>
+  </g>
+
+  <!-- Disruption Text 1 -->
+  <g transform="translate(395, 345)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#ef4444" text-anchor="middle" transform="rotate(-90)">Disrupção</text>
+  </g>
+
+  <!-- ================= ERA 2: DORMENTE ================= -->
+  <g id="era-dormant">
+    <text x="500" y="115" font-size="16" font-weight="700" fill="#64748b" text-anchor="middle">1972–1994</text>
+    <rect x="410" y="135" width="180" height="420" rx="6" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray="4 4" />
+    <text x="500" y="350" font-size="18" font-weight="700" fill="#94a3b8" text-anchor="middle" letter-spacing="1px">Dormente</text>
+  </g>
+
+  <!-- Disruption Text 2 -->
+  <g transform="translate(615, 345)">
+    <text x="0" y="0" font-size="14" font-weight="700" fill="#ef4444" text-anchor="middle" transform="rotate(-90)">Disrupção</text>
+  </g>
+
+  <!-- ================= ERA 3: MITO INDIE ================= -->
+  <g id="era-indie">
+    <text x="790" y="115" font-size="16" font-weight="700" fill="#2d3748" text-anchor="middle">Mito Indie (1995–presente)</text>
+    
+    <!-- Outer Container Block -->
+    <rect x="630" y="135" width="320" height="420" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+    
+    <!-- American Ideology -->
+    <rect x="650" y="155" width="280" height="65" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="790" y="178" font-size="14" font-weight="700" fill="#1e3a8a" text-anchor="middle">Ideologia Americana</text>
+    <text x="790" y="198" font-size="13" fill="#334155" text-anchor="middle">Fronteira boêmia</text>
+    
+    <!-- Double Arrow -->
+    <line x1="790" y1="220" x2="790" y2="250" stroke="#475569" stroke-width="1.5" marker-start="url(#arrow)" marker-end="url(#arrow)" />
+    
+    <!-- Contradiction -->
+    <rect x="650" y="250" width="280" height="75" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="790" y="271" font-size="14" font-weight="700" fill="#b91c1c" text-anchor="middle">Contradição</text>
+    <text x="790" y="290" font-size="12" fill="#334155" text-anchor="middle">Incapacidade de se autoinventar por</text>
+    <text x="790" y="306" font-size="12" fill="#334155" text-anchor="middle">meio da expressão criativa no trabalho</text>
+    
+    <!-- Up Arrow -->
+    <line x1="790" y1="365" x2="790" y2="332" stroke="#475569" stroke-width="1.5" marker-end="url(#arrow)" />
+    
+    <!-- VW's Myth -->
+    <rect x="650" y="365" width="280" height="45" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="790" y="392" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">Mito Indie da VW</text>
+    
+    <!-- Populist World -->
+    <rect x="650" y="425" width="280" height="65" rx="4" fill="#ffffff" stroke="#475569" stroke-width="1.2" />
+    <text x="790" y="448" font-size="14" font-weight="700" fill="#0369a1" text-anchor="middle">Mundo Populista</text>
+    <text x="790" y="468" font-size="13" fill="#334155" text-anchor="middle">Subcultura indie</text>
+  </g>
+
+  <!-- ================= BOTTOM PANEL: AUTHORITY ================= -->
+  <g id="authority-panel">
+    <rect x="90" y="610" width="820" height="160" rx="6" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1.5" />
+    
+    <!-- Cultural Authority -->
+    <text x="500" y="635" font-size="15" font-weight="700" fill="#15803d" text-anchor="middle">Autoridade Cultural</text>
+    <text x="500" y="655" font-size="14" fill="#1e293b" text-anchor="middle">Estética e sensibilidade boêmias</text>
+    
+    <!-- Political Authority -->
+    <text x="500" y="700" font-size="15" font-weight="700" fill="#15803d" text-anchor="middle">Autoridade Política</text>
+    <text x="500" y="722" font-size="13" fill="#1e293b" text-anchor="middle">Defende a criatividade individual e os gostos independentes de americanos instruídos</text>
+    <text x="500" y="742" font-size="13" fill="#1e293b" text-anchor="middle">que se ressentem sob as imposições da cultura comercial e das burocracias</text>
+  </g>
+
+  <!-- External Flow Connectors -->
+  <!-- Left Box down to Authority Panel -->
+  <line x1="320" y1="555" x2="320" y2="610" stroke="#475569" stroke-width="1.5" marker-end="url(#arrow)" />
+  
+  <!-- Authority Panel up to Right Box -->
+  <line x1="680" y1="610" x2="680" y2="562" stroke="#475569" stroke-width="1.5" marker-end="url(#arrow)" />
+</svg>
