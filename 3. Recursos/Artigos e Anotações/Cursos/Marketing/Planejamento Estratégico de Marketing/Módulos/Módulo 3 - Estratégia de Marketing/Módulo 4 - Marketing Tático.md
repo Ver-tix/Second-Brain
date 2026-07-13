@@ -119,126 +119,82 @@ O Preço é aquele que vai trazer recursos. Enquanto os outros 3 Ps estão ligad
 
 Distribuição do produto; os canais de Marketing. Isso é importante porque na fase estratégica, no processo de geração de valor, envolve (recapitulando): cria valor, entrega valor, comunica valor. Até agora, com os últimos 2 Ps (produto e preço) vimos a criação e valor. Agora, com a Praça, veremos o processo de entrega de valor, e com Promoção, a comunicação desse valor.
 
-  
-
-O que precisamos entender:
-
-  
-
-|   |
-|---|
-|CANAIS DE DISTRIBUIÇÃO|
-|RELACIONAMENTO COM OS CANAIS|
-|PRINCIPAIS INTERMEDIÁRIOS|
-|FUNÇÕES DOS CANAIS DE DISTRIBUIÇÃO|
-|LOGÍSTICA|
-|PREVISÃO DE VENDAS|
-
-  
-
-  
-
-|   |   |   |   |
-|---|---|---|---|
-|CANAIS DE MARKETING|   |   |   |
-
-# Organizações interdependentes e externas à empresa que gerenciam o fluxo de distribuição de produtos e serviços
-
-|   |   |   |
-|---|---|---|
-|FATORES ESTRATÉGICOS|   |   |
-|POSICIONAMENTO|GRAU DE CONTROLE|NATUREZA DO PRODUTO|
-
-  
-
-|   |
-|---|
-|GRAU DE CONTROLE|
-
-  
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|🏭<br><br>FABRICANTE<br><br>➡️|🏤<br><br>ATACADISTA<br><br>➡️|📦<br><br>DISTRIBUIDOR<br><br>➡️|🏪<br><br>VAREJO<br><br>➡️|👱🏻<br><br>CONSUMIDOR|
-
+### O que precisamos entender:
+- CANAIS DE DISTRIBUIÇÃO
+- RELACIONAMENTO COM OS CANAIS
+- PRINCIPAIS INTERMEDIÁRIOS
+- FUNÇÕES DOS CANAIS DE DISTRIBUIÇÃO
+- LOGÍSTICA
+- PREVISÃO DE VENDAS
+## CANAIS DE MARKETING
+ Organizações interdependentes e externas à empresa que gerenciam o fluxo de distribuição de produtos e serviços
+### FATORES ESTRATÉGICOS
+- POSICIONAMENTO
+- GRAU DE CONTROLE
+- NATUREZA DO RPODUTO
+#### GRAU DE CONTROLE
+![[Grau de Controle.canvas]]
 ## Etapa 3.1 - Canais de Distribuição
+#### CANAIS DE MARKETING
+PRINCIPAIS CARACTERÍSTICAS
+- BUSCAM A SATISFAÇÃO DO CLIENTE
+- REDUZEM O NÚMERO DE TRANSAÇÕES
+- SUBSTITUEM O PRODUTOR PARA O CLIENTE
+- MANTÊM OS ESTOQUES PRÓXIMOS AO CLIENTE
+- CADA NÍVEL TEM FUNÇÕES ESPECÍFICAS
 
-|   |
-|---|
-|CANAIS DE MARKETING|
+PRINCIPAIS FUNÇÕES
+- FORNECER CONDIÇÕES PARA TRANSPORTE E ARMAZENAGEM
+- INFORMAR E COMUNICAR PARA ESTIMULAR COMPRAS
+- NEGOCIAR AS CONDIÇÕES DOS PEDIDOS
+- ASSUMIR RISCOS E FINANCIAR ESTOQUES
+- GARANTIR FORMAS DE PAGAMENTO DE COMPRADORES
 
-  
+|                                                                      <h2 align="center">NÍVEIS</h2>                                                                      | <h2 align="center">FLUXOS</h2> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------: |
+| <h4 align="center">CANAL NÍVEL ZERO</h4>(Fabricante vende direto para o consumidor, sem intermediário. Exemplo: empresas que vendem diretos pelos sites, sem varejistas) |             FÍSICO             |
+|                               <h4 align="center">CANAL NÍVEL UM</h4>(Há um intermediário. Exemplo: temos um fabricante, e um distribuidor)                               |          PROPRIEDADE           |
+|                                                    <h4 align="center">CANAL NÍVEL DOIS</h4><br>(dois intermediários)                                                     |           PAGAMENTO            |
+|                                                      <h4 align="center">CANAL NÍVEL TRÊS</h4>(três intermediários)                                                       |           INFORMAÇÃO           |
+|                                                                                                                                                                          |            PROMOÇÃO            |
+![[Grau de Controle EXPANDIDO.canvas]]
+>[! ESTRATÉGIA PULL E PUSH:]
+> **Push (empurrar):** quando o fabricante trabalha comunicação dentro do seu canal para que cada membro do canal consuma quantidades maiores de seu produto. Ele faz com que esse trabalho dentro do canal jogue o produto para o consumidor final de forma mais eficiente. Ele foca toda estratégia de comunicação dentro dos membros do canal.
+> 
+> **Pull (puxar):** você foca no consumidor final. Então ele estimula a marca no consumidor final para que o consumidor puxe as vendas. Para que ele peça no varejista, o varejista peça no distribuidor/atacadista, e esse atacadista peça para o fabricante mais de seu produto.
 
-|   |
-|---|
-|PRINCIPAIS CARACTERÍSTICAS|
-|BUSCAM A SATISFAÇÃO DO CLIENTE|
-|REDUZEM O NÚMERO DE TRANSAÇÕES|
-|SUBSTITUEM O PRODUTOR PARA O CLIENTE|
-|MANTÊM OS ESTOQUES PRÓXIMOS AO CLIENTE|
-|CADA NÍVEL TEM FUNÇÕES ESPECÍFICAS|
-
-  
-
-|   |
-|---|
-|PRINCIPAIS FUNÇÕES|
-|FORNECER CONDIÇÕES PARA TRANSPORTE E ARMAZENAGEM|
-|INFORMAR E COMUNICAR PARA ESTIMULAR COMPRAS|
-|NEGOCIAR AS CONDIÇÕES DOS PEDIDOS|
-|ASSUMIR RISCOS E FINANCIAR ESTOQUES|
-|GARANTIR FORMAS DE PAGAMENTO DE COMPRADORES|
-
-  
-
-|   |
-|---|
-|CANAIS DE MARKETING|
-
-  
-
-|   |   |
-|---|---|
-|NÍVEIS|FLUXOS|
-|CANAL NÍVEL ZERO<br><br>(Fabricante vende direto para o consumidor, sem intermediário. Exemplo: empresas que vendem diretos pelos sites, sem varejistas)|FÍSICO|
-|CANAL NÍVEL UM<br><br>(Há um intermediário. Exemplo: temos um fabricante, e um distribuidor)|PROPRIEDADE|
-|CANAL NÍVEL DOIS<br><br>(dois intermediários)|PAGAMENTO|
-|CANAL NÍVEL TRÊS<br><br>(três intermediários)|INFORMAÇÃO|
-||PROMOÇÃO|
-
-  
-
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|🏠<br><br>PRODUTOR<br><br>➡️|🏭<br><br>FABRICANTE<br><br>➡️|🏤<br><br>DISTRIBUIDOR<br><br>➡️|📦<br><br>ATACADISTA<br><br>➡️|🏪<br><br>VAREJO<br><br>➡️|👱🏻<br><br>CONSUMIDOR|
-
-  
-
-|   |
-|---|
-|💡ESTRATÉGIA PULL E PUSH:<br><br>- Push (empurrar): quando o fabricante trabalha comunicação dentro do seu canal para que cada membro do canal consuma quantidades maiores de seu produto. Ele faz com que esse trabalho dentro do canal jogue o produto para o consumidor final de forma mais eficiente. Ele foca toda estratégia de comunicação dentro dos membros do canal.<br>    <br>- Pull (puxar): você foca no consumidor final. Então ele estimula a marca no consumidor final para que o consumidor puxe as vendas. Para que ele peça no varejista, o varejista peça no distribuidor/atacadista, e esse atacadista peça para o fabricante mais de seu produto.<br>    <br><br>  <br><br>A melhor estratégia: faça os dois. Gere valor tanto para os membros como para o consumidor final|
-
+A melhor estratégia: faça os dois. Gere valor tanto para os membros como para o consumidor final
 ## Etapa 3.2 - Principais Decisões Sobre Canais de Distribuição
-
 Vamos recapitular:
+### ATACADO
+- FOCO NA VENDA DE BENS E SERVIÇOS PARA QUEM COMPRA PARA REVENDER E TAMBÉM PARA ORGANIZAÇÕES
+- ASSUME O RISCO
+- INFORMAÇÕES DE MERCADODIMINUI OS LOTES
+- ESTOCA E TRANSPORTA
+- VENDA E PROMOÇÃO
+### VAREJO
+- FOCO NA VENDA DE BENS E SERVIÇOS PARA O CONSUMIDOR FINAL. VENDA NÃO DIRECIONADA A NEGÓCIOS.
+- LOJAS
+	- AUTO SERVIÇO
+	- AUTO ATENDIMENTO
+	- SERVIÇO LIMITADO
+	- SERVIÇO COMPLETO
+- DEFINIR OS OBJETIVOS DO CANAL
+	- Devem considerar os níveis de serviço e seus custos e graus de suporte associados
+	- Variam conforme as características do produto
+	- Aspectos legais
+	- Fazer benchmark
+    
 
-  
+**
 
-|   |   |   |
-|---|---|---|
-|ATACADO|   |   |
-|FOCO NA VENDA DE BENS E SERVIÇOS PARA QUEM COMPRA PARA REVENDER E TAMBÉM PARA ORGANIZAÇÕES.|   |   |
-|ESPECIALISTA NO SEGMENTO|INFORMAÇÕES DE MERCADO|ESTOCA E TRANSPORTA|
-|ASSUME RISCO|DIMINUI OS LOTES|VENDA E PROMOÇÃO|
 
-  
-
-|   |   |   |
-|---|---|---|
-|VAREJO|   |   |
-|FOCO NA VENDA DE BENS E SERVIÇOS PARA O CONSUMIDOR FINAL. VENDA NÃO DIRECIONADA A NEGÓCIOS.|   |   |
-|LOJAS|VAREJO SEM LOJA|VAREJO CORP.|
-|AUTO SERVIÇO<br><br>AUTO ATENDIMENTO<br><br>SERVIÇO LIMITADO<br><br>SERVIÇO COMPLETO|VENDA DIRETA<br><br>MARKETING DIRETO<br><br>MÁQUINAS<br><br>E-COMMERCE E MARKET PLACE|REDES E FRANQUIAS|
+|                                                                                             |                                                                                       |                   |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------- |
+| VAREJO                                                                                      |                                                                                       |                   |
+| FOCO NA VENDA DE BENS E SERVIÇOS PARA O CONSUMIDOR FINAL. VENDA NÃO DIRECIONADA A NEGÓCIOS. |                                                                                       |                   |
+| LOJAS                                                                                       | VAREJO SEM LOJA                                                                       | VAREJO CORP.      |
+|                                                                                             | VENDA DIRETA<br><br>MARKETING DIRETO<br><br>MÁQUINAS<br><br>E-COMMERCE E MARKET PLACE | REDES E FRANQUIAS |
 
   
 

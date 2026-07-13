@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"adbb612cc014b876","type":"text","text":"<h1 align=\"center\">\n📦\nDISTRIBUIDOR\n</h1>","x":60,"y":-210,"width":220,"height":130},
+		{"id":"61bb8694a725a30e","type":"text","text":"<h1 align=\"center\">\n🏤<br>\nATACADISTA\n</h1>","x":-220,"y":-210,"width":220,"height":130},
+		{"id":"fa97a3e89951624a","type":"text","text":"<h1 align=\"center\">\n👱🏻\nCONSUMIDOR\n</h1>","x":340,"y":-210,"width":220,"height":130},
+		{"id":"b1556d9e5457df3a","type":"text","text":"<h1 align=\"center\">🏭<br>\nFABRICANTE\n</h1>","x":-500,"y":-210,"width":220,"height":130}
+	],
+	"edges":[
+		{"id":"a6f4cc6f0c55e92f","fromNode":"b1556d9e5457df3a","fromSide":"right","toNode":"61bb8694a725a30e","toSide":"left"},
+		{"id":"546751bafed73dfb","fromNode":"61bb8694a725a30e","fromSide":"right","toNode":"adbb612cc014b876","toSide":"left"},
+		{"id":"6ea5afd8301d87de","fromNode":"adbb612cc014b876","fromSide":"right","toNode":"fa97a3e89951624a","toSide":"left"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"fa97a3e89951624a","type":"text","text":"<h1 align=\"center\">\n🏪<br>\nVAREJO\n</h1>","x":340,"y":-210,"width":220,"height":130},
+		{"id":"b1556d9e5457df3a","type":"text","text":"<h1 align=\"center\">🏭<br>\nFABRICANTE\n</h1>","x":-500,"y":-210,"width":220,"height":130},
+		{"id":"61be6ecf2c2e610f","type":"text","text":"<h1 align=\"center\">\n🏠<br>\nPRODUTOR\n</h1>","x":-780,"y":-210,"width":220,"height":130},
+		{"id":"adbb612cc014b876","type":"text","text":"<h1 align=\"center\">\n📦\nDISTRIBUIDOR\n</h1>","x":-220,"y":-210,"width":220,"height":130},
+		{"id":"61bb8694a725a30e","type":"text","text":"<h1 align=\"center\">\n🏤<br>\nATACADISTA\n</h1>","x":60,"y":-210,"width":220,"height":130},
+		{"id":"cfcf4144efcb2552","type":"text","text":"<h1 align=\"center\">\n👱🏻\nCONSUMIDOR\n</h1>","x":620,"y":-210,"width":220,"height":130}
+	],
+	"edges":[
+		{"id":"63c5c6de728bd7de","fromNode":"61be6ecf2c2e610f","fromSide":"right","toNode":"b1556d9e5457df3a","toSide":"left"},
+		{"id":"d0c13c208093aca9","fromNode":"b1556d9e5457df3a","fromSide":"right","toNode":"adbb612cc014b876","toSide":"left"},
+		{"id":"2abd9699972c06cd","fromNode":"adbb612cc014b876","fromSide":"right","toNode":"61bb8694a725a30e","toSide":"left"},
+		{"id":"588b799ae6718906","fromNode":"61bb8694a725a30e","fromSide":"right","toNode":"fa97a3e89951624a","toSide":"left"},
+		{"id":"c47f966e70066ab8","fromNode":"fa97a3e89951624a","fromSide":"right","toNode":"cfcf4144efcb2552","toSide":"left"}
+	]
+}
