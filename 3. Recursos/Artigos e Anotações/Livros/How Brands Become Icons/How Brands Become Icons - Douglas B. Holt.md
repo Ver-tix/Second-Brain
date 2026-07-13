@@ -13,3 +13,4 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Become Icons/7. COAUTORANDO O MITO]]
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Become Icons/8. PROMOVENDO O MITO]]
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Become Icons/9. O BRANDING COMO ATIVISMO CULTURAL]]
+- [[3. Recursos/Artigos e Anotações/Livros/How Brands Become Icons/Apêndice - Métodos]]

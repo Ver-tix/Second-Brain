@@ -1,6 +1,6 @@
 ---
 tags:
-  - brandig
+  - branding
   - BrandEquity
 ---
 # A História da Ivory
