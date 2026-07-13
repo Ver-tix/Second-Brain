@@ -1,6 +1,5 @@
 ---
 tags:
-  - marketing
   - branding
   - estratégia
 ---
