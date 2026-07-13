@@ -9,7 +9,7 @@ tags:
 - [[2 - Lealdade à Marca]]
 - [[3 - Consciência de Marca (Brand Awareness)]]
 - [[4 - Qualidade Percebida]]
-- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/5 - ]]
+- [[5 - Associações de Marca, A Decisão de Posicionamento]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/6 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/7 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/8 - ]]
