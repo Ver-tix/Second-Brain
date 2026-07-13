@@ -1,14 +1,9 @@
-Aqui está o conteúdo do arquivo traduzido e resumido em formato **Markdown**, estruturado para facilitar o uso no **Obsidian** (com suporte a tags e seções claras), preservando os detalhes essenciais e insights de cada capítulo.
-
 ---
-# 🧠 Lógica do Consumo: A Neurociência por Trás das Compras
-
-**Tags:** #marketing #branding #descobertas 
-
+tags:
+  - marketing
+  - branding
+  - comportamental
 ---
-
-**Autor:** Martin Lindstrom
-
 # Capítulo 1: Um Afluxo de Sangue Para a Cabeça
 
 _O maior estudo de neuromarketing já realizado._
