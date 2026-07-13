@@ -1,0 +1,17 @@
+<svg width="100%" viewBox="0 0 300 480" role="img" style="background: transparent;" xmlns="http://www.w3.org/2000/svg">
+<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Diferenciação, relevância, estima e conhecimento</title>
+<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Sequência vertical de quatro conceitos ligados por setas: diferenciação, relevância, estima e conhecimento. Cores adaptadas para fundo escuro.</desc>
+
+
+
+<text x="150" y="35" text-anchor="middle" style="fill:rgb(241, 245, 249);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:16px;font-weight:700;text-anchor:middle;dominant-baseline:auto">DIFERENCIAÇÃO</text>
+<polygon points="130,55 170,55 170,90 185,90 150,130 115,90 130,90" style="fill:rgb(30, 41, 59);stroke:rgb(148, 163, 184);color:rgb(11, 11, 11);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="150" y="165" text-anchor="middle" style="fill:rgb(241, 245, 249);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:16px;font-weight:700;text-anchor:middle;dominant-baseline:auto">RELEVÂNCIA</text>
+<polygon points="130,185 170,185 170,220 185,220 150,260 115,220 130,220" style="fill:rgb(30, 41, 59);stroke:rgb(148, 163, 184);color:rgb(11, 11, 11);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="150" y="295" text-anchor="middle" style="fill:rgb(241, 245, 249);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:16px;font-weight:700;text-anchor:middle;dominant-baseline:auto">ESTIMA</text>
+<polygon points="130,315 170,315 170,350 185,350 150,390 115,350 130,350" style="fill:rgb(30, 41, 59);stroke:rgb(148, 163, 184);color:rgb(11, 11, 11);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="150" y="425" text-anchor="middle" style="fill:rgb(241, 245, 249);stroke:none;color:rgb(11, 11, 11);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:16px;font-weight:700;text-anchor:middle;dominant-baseline:auto">CONHECIMENTO</text>
+</svg>

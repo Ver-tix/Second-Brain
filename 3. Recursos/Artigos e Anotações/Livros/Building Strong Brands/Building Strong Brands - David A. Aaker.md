@@ -14,7 +14,8 @@ tags:
 - [[7 - Estratégias de Marca ao Longo do Tempo]]
 - [[8 - Gerindo Sistemas de Marca]]
 - [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/9 - Alavancando a Marca]]
-- [[]]
+- [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/10 - Medindo o Brand Equity]]
+- [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/11 - Organização para Construção de Marca]]
 
 
 
