@@ -144,10 +144,64 @@ Uma vez que o banco de dados é carregado, podemos então procurar o chunk que m
 # Search the DB.
 results = db.similarity_search_with_relevance_scores(query_text, k=3)
 ```
-Os resultados da pesquisa serão uma lista de tuplas, onde cada
+Os resultados da pesquisa serão uma lista de tuplas, onde cada tupla contém um documento e sua pontuação de relevância.
 ```Python
 # Tipo de Retorno da pesquisa 
 List[Tuple[Document, float]]
+```
+
+---
+#### Antes de Processar os Resultados...
+Podemos adicionar algumas verificações. Por exemplo, se não houver correspondências ou se a pontuação relevante do primeiro resultado estiver abaixo de um certo limite (no exemplo abaixo, `0.7`), podemos retornar mais cedo.
+
+Isso ajudará a garantir que realmente encontramos informações boas e relevantes primeiro antes de passar para a próxima etapa do processo
+```Python
+if len(results) == 0 or results [0][1] <0.7:
+	print(f"Unable to find matching results.")
+	return
+```
+
+---
+# Crie a Resposta
+Agora que encontramos os chunks relevantes para nossa consulta, podemos alimentar isso no OpenAI para criar uma resposta de alta qualidade usando esses dados como nossa fonte.
+
+#### Prompt Template
+Primeiro precisaremos de um modelo de prompt para criar um prompt
+```Python
+PROMPT_TEMPLATE = """
+Answer the question based onl on the following context:
+
+{context}
+
+---
+
+Answer the question based on the above context: {query}
+"""
+```
+- `context`: os pedaços de informações que obtivemos do banco de dados,
+- `query`: a consulta propriamente dita
+#### Em Seguida...
+Eis o código para usar esses dados para criar o prompt, formatando o modelo com nossas chaves.
+```Python
+context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
+prompt template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+prompt = prompt_template.format(context=context_text, question=query_text)
+```
+
+#### A Parte Mais Fácil
+Simplesmente chame o modelo LLM de sua escolha com esss prompt. Aqui estamos usando o chatOpenAI, e então teremos nossa resposta.
+
+```Python
+modelo = ChatOpenAI()
+response_text=modelo.predict(prompt)
+```
+
+#### Finalmente...
+Se você quiser fornecer referências ao seu
+
+```Python
+sources = [doc.metadata.get("source", None) for doc, _score in results]
+formatted_resopnde
 ```
 
 ---
