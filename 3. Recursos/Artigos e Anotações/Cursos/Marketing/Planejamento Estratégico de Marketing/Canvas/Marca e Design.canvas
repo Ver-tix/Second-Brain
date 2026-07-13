@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4d2c35eae1656740","x":-230,"y":-288,"width":569,"height":108,"type":"text","text":"<h1 align=\"center\">Marca e Design</h1>"},
+		{"id":"9243da9616655f04","x":-376,"y":35,"width":250,"height":60,"type":"text","text":"<h2 align=\"center"}
+	],
+	"edges":[
+		{"id":"44c58d4ee41f73f7","fromNode":"4d2c35eae1656740","fromSide":"bottom","toNode":"9243da9616655f04","toSide":"top"}
+	]
+}
