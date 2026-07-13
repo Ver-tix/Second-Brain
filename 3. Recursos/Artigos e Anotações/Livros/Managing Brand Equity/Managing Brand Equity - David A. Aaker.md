@@ -11,7 +11,7 @@ tags:
 - [[4 - Qualidade Percebida]]
 - [[5 - Associações de Marca, A Decisão de Posicionamento]]
 - [[6 - Mensuração das Associações de Marca]]
-- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/7 - ]]
+- [[7 - Selecionando, Criando e Mantendo Associações]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/8 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/9 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/10 - Revitalizando a Marca]]
