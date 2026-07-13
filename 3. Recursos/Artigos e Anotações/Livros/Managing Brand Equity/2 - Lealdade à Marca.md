@@ -203,6 +203,7 @@ Um programa agressivo de retenção de clientes irá além da remoção das font
 ## Análise de Retenção de Clientes
 Uma abordagem para a análise necessária é estimar a relação entre os níveis de retenção de clientes e a lucratividade.¹ Tomando os níveis atuais de retenção anual como base, quanto o lucro anual marginal mudaria se a retenção anual fosse aumentada ou reduzida em um, cinco ou dez pontos percentuais? A Figura 2-5 ilustra isso. Em algum intervalo, a consideração de custo dominante seria o custo variável envolvido.  
 Com apenas o custo variável sendo afetado, haverá uma alta alavancagem associada à alteração da retenção.  
+
 ![[retenção de cliente.png]]
 
 O lucro anual obtido a partir de uma mudança na retenção precisa ser convertido em um valor presente líquido. Basicamente, o lucro anual é projetado para o futuro e, então, descontado tanto pelo custo de capital da empresa quanto pela taxa de retenção.  

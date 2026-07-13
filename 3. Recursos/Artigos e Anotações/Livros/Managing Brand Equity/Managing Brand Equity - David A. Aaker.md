@@ -8,7 +8,7 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/1 - O Que É Brand Equity]]
 - [[2 - Lealdade à Marca]]
 - [[3 - Consciência de Marca (Brand Awareness)]]
-- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/4 - ]]
+- [[4 - Qualidade Percebida]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/5 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/6 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/7 - ]]
