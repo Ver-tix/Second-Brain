@@ -2,7 +2,7 @@
 tags:
   - inteligenciaartificial
   - RAG
-published: https://youtu.be/tLMViADvSNE?si=kCGjgtmZqKmtFZj6
+source: https://github.com/coleam00/ottomator-agents/tree/main/all-rag-strategies#2-agentic-rag
 ---
 # RAG Explicado em 1 Minuto
 ## 1. Preparação de Dados - Fase do Processo de Indexação
