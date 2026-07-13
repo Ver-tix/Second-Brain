@@ -41,7 +41,7 @@ tags:
     **Produto superior**
     Desenvolver um produto cujo design, qualidade e/ou experiência sejam excepcionais.
     
-- # **SISTEMA DE PRODUTO**
+# **SISTEMA DE PRODUTO**
     
     **Complementos**
     Vender produtos ou serviços relacionados ou periféricos a um cliente.

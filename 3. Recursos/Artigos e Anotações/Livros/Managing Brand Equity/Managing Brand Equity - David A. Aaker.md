@@ -6,7 +6,7 @@ tags:
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/1 - O Que É Brand Equity]]
-- [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/2 - ]]
+- [[2 - Lealdade à Marca]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/3 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/4 - ]]
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/5 - ]]
