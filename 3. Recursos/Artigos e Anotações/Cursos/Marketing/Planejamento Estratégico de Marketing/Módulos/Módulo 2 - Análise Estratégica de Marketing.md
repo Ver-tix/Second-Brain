@@ -120,13 +120,9 @@ Cada produto tem seu ciclo de vida. Ele nasce, tem fase introdutória¹, tem fas
 
 O CVP é uma ferramenta de gestão que permite analisar como um produto se comporta desde o seu desenvolvimento até a retirada do mercado.
 
-  
-
 |   |
 |---|
 |PRINCIPAIS FATORES DE INFLUÊNCIA NO CVP|
-
-  
 
 |   |
 |---|
@@ -137,58 +133,39 @@ O CVP é uma ferramenta de gestão que permite analisar como um produto se compo
 
 ## Etapa 2.1 Análise Estratégica do Ciclo de Vida do Produto
 
-  
+|                        |
+| ---------------------- |
+| ESTRATÉGIAS PARA O CVP |
 
-|   |
-|---|
-|ESTRATÉGIAS PARA O CVP|
 
-  
+| INTRODUÇÃO | CRESCIMENTO | MATURIDADE | DECLÍNIO |
+| ---------- | ----------- | ---------- | -------- |
 
-|   |   |   |   |
-|---|---|---|---|
-|INTRODUÇÃO|CRESCIMENTO|MATURIDADE|DECLÍNIO|
 
-  
-
-|   |   |   |   |
-|---|---|---|---|
-|CONSCIÊNCIA E EXPERIMENTAÇÃO|GANHAR MARKET SHARE|LUCRATIVIDADE E DEFESA DA PARTICIPAÇÃO DE MERCADO|REDUZIR CUSTOS E OBTER MAIOR RETORNO POSSÍVEL|
-|- Produto inicial<br>    <br>- Comunicação agressiva<br>    <br>- Distribuição seletiva<br>    <br>- Inovadores (grupo)<br>    <br>- Preços mais altos|- Comunicação de Fidelização<br>    <br>- Foco na Qualidade<br>    <br>- Early Adopters (grupo)<br>    <br>- Leve redução de preços|- Enfatizar posicionamento<br>    <br>- Diversificar produtos<br>    <br>- Maximizar a distribuição<br>    <br>- + Volume - Custo<br>    <br>- Preço competitivo<br>    <br>- Diversificar o Mix de Marketing<br>    <br>- Expansão de clientes|- Diminuir comunicação<br>    <br>- Diminuir preços<br>    <br>- Diminuir portfólio de produtos<br>    <br>- Selecionar PDV (Pontos de Venda)<br>    <br>- Reposicionar ou sair?|
+| CONSCIÊNCIA E EXPERIMENTAÇÃO                                                                                                                           | GANHAR MARKET SHARE                                                                                                                 | LUCRATIVIDADE E DEFESA DA PARTICIPAÇÃO DE MERCADO                                                                                                                                                                                               | REDUZIR CUSTOS E OBTER MAIOR RETORNO POSSÍVEL                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Produto inicial<br>    <br>- Comunicação agressiva<br>    <br>- Distribuição seletiva<br>    <br>- Inovadores (grupo)<br>    <br>- Preços mais altos | - Comunicação de Fidelização<br>    <br>- Foco na Qualidade<br>    <br>- Early Adopters (grupo)<br>    <br>- Leve redução de preços | - Enfatizar posicionamento<br>    <br>- Diversificar produtos<br>    <br>- Maximizar a distribuição<br>    <br>- + Volume - Custo<br>    <br>- Preço competitivo<br>    <br>- Diversificar o Mix de Marketing<br>    <br>- Expansão de clientes | - Diminuir comunicação<br>    <br>- Diminuir preços<br>    <br>- Diminuir portfólio de produtos<br>    <br>- Selecionar PDV (Pontos de Venda)<br>    <br>- Reposicionar ou sair? |
 
 # ETAPA 3 - INTRODUÇÃO À ANÁLISE SWOT
 
 ## Etapa 3.1 O Que São Os Fatores Críticos De Sucesso?
 
-“Um limitado número de áreas nas quais os resultados, se satisfatórios, irão assegurar um desempenho competitivo de sucesso para a organização” 
-
-JOHN ROCKART, MIT
-
-  
+>“Um limitado número de áreas nas quais os resultados, se satisfatórios, irão assegurar um desempenho competitivo de sucesso para a organização” 
+>JOHN ROCKART, MIT
 
 São os pontos em que você NÃO PODE FALHAR. Você tem que ter no mínimo um desempenho satisfatório. Ex.: num restaurante, fatores críticos são boa comida, higiene em dia e boa recepção e bom atendimento.
 
-  
-
 Cada setor terá pontos de fator críticos diferentes.
-
-  
 
 |   |
 |---|
 |COMO DEFINIR|
 
-  
-
 |   |   |   |
 |---|---|---|
 |PREMISAS ESTRATÉGICAS|PESQUISA|BENCHMARK|
 
-  
-
 ## Etapa 3.2 Identificando E Avaliando Os Fatores Críticos de Sucesso (Exemplo Prático - Curso EaD de Logística Empresarial)
-
-  
 
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -201,89 +178,45 @@ Cada setor terá pontos de fator críticos diferentes.
 |Certificação|10|10|10|10|
 |Preço|6|4|9|7|
 
-  
-
 ## Etapa 3.3 Definindo As Forças, Fraquezas, Oportunidades e Ameaças
 
 Técnica de análise que envolve o cruzamento das principais forças e fraquezas do negócio com as oportunidades e ameaças apresentadas pelo ambiente externo.
 
-  
-
 Como resultado da análise, serão apresentadas as alavancas, as defesas, as restrições e os problemas a serem trabalhados pela empresa
-
-  
 
 |   |   |
 |---|---|
 |AMBIENTE EXTERNO|AMBIENTE INTERNO|
 
-  
-
 |   |   |   |   |
 |---|---|---|---|
 |OPORTUNIDADES|AMEAÇAS|FORÇAS|FRAQUEZAS|
 
-  
+## Etapa 3.4 Montagem e Análise da Matriz SWOT
 
-## Etapa 3.4 Montagem e Análise da Matriz Swot
-
-  
-
-|   |   |   |   |
-|---|---|---|---|
-|AMB  IENTE <br><br>  <br><br>INTERNO||AMBIENTE EXTERNO|   |
-||OPORTUNIDADES|AMEAÇAS|
-|FORÇAS|📈<br><br>ALAVANCAS|🛡️<br><br>DEFESAS|
-|FRAQUEZAS|🛠️<br><br>RESTRIÇÕES|🏴‍☠️<br><br>PROBLEMAS|
-
-  
+![[Pasted image 20260713153954.png]]
 
 Usaremos o exemplo da academia, como anteriormente
+![[Pasted image 20260713154024.png]]
 
-  
-
-|   |   |   |   |
-|---|---|---|---|
-|AMB  IENTE <br><br>  <br><br>INTERNO||AMBIENTE EXTERNO|   |
-||OPORTUNIDADES<br><br>- Obesidade infantil<br>    <br>- Busca Pela Beleza|AMEAÇAS<br><br>- Nova legislação<br>    <br>- Nova medicação|
-|FORÇAS<br><br>- Infraestrutura<br>    <br>- Professores qualificados<br>    <br>- Fluxo de Caixa|📈<br><br>ALAVANCAS|🛡️<br><br>DEFESAS|
-|FRAQUEZAS<br><br>- Preço<br>    <br>- Localização<br>    <br>- Marketing Digital|🛠️<br><br>RESTRIÇÕES|🏴‍☠️<br><br>PROBLEMAS|
 
 1. Infraestrutura x Obesidade Infantil: adaptar a academia para receber crianças obesas. Já temos profissionais qualificados para trabalhar com esse público + fluxo de caixa que arque com esses investimentos
-    
-
 2. O mesmo se pode ser dito sobre a busca pela beleza
-    
 
 3. Nova Legislação sobre Primeiros Socorros + Nova Medicação de Emagrecimento x Fluxo de Caixa Positivo: investir em novos treinamentos de primeiros socorros, melhorar o Marketing digital.
-    
 4. Está localizado numa região com muitos empreendimentos: proposta de valor voltada aos empresários. Algo como uma academia de empreendedores
-    
 
 # ETAPA 4 - INTRODUÇÃO À MATRIZ DE ANSOFF (PRODUTO X MERCADO)
 
 A Matriz de Ansoff é uma ferramenta de planejamento estratégico criada pelo professor Igor Ansoff para analisar e planejar estratégias de crescimento. Serve de elo entre planejamento estratégico do negócio e oportunidades da Análise SWOT
 
-  
-
 Baseada nas variáveis produto e mercado, sua utilização fornecerá o direcionamento estratégico para a definição dos objetivos de marketing.
+![[Pasted image 20260713154051.png]]
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|||RISCO ➡️➡️➡️|   |   |
-|R<br><br>I<br><br>S<br><br>C<br><br>O<br><br>⬇️<br><br>⬇️<br><br>⬇️|M<br><br>E<br><br>R<br><br>C<br><br>A<br><br>D<br><br>O<br><br>S|PRODUTOS|   |   |
-||Existentes|Novos|
-|Existentes|🪡<br><br>PENETRAÇÃO DE MERCADO|⚙️<br><br>DESENVOLVIMENTO DE PRODUTO|
-|Novos|🚼<br><br>DESENVOLVIMENTO DE MERCADO|🌈<br><br>DIVERSIFICAÇÃO|
-
-- # PENETRAÇÃO DE MERCADO: vender mais do nosso produto num mercado que já está atuando
-    
-- # DESENVOLVIMENTO DE PRODUTO: pôr um produto novo em um mercado já existente
-    
-- # DESENVOLVIMENTO DE MERCADO: Encaixar nosso produto atual num mercado diferente
-    
-- # DIVERSIFICAÇÃO: criação de produto novo em novos mercados diferentes do que já atuamos
-    
+-  **PENETRAÇÃO DE MERCADO:** vender mais do nosso produto num mercado que já está atuando
+-  **DESENVOLVIMENTO DE PRODUTO:** pôr um produto novo em um mercado já existente
+-  **DESENVOLVIMENTO DE MERCADO:** Encaixar nosso produto atual num mercado diferente
+-  **DIVERSIFICAÇÃO:** criação de produto novo em novos mercados diferentes do que já atuamos
 
 ## Etapa 4.1 Análise da Matriz de Ansoff (Produto x Mercado)
 
@@ -291,66 +224,42 @@ Baseada nas variáveis produto e mercado, sua utilização fornecerá o direcion
 |---|
 |ANÁLISE ESTRATÉGICA DA MATRIZ ANSOFF|
 
-  
+| ESTRATÉGIAS DE CRESCIMENTO                                      | PRODUTO EXISTENTE EM MERCADO ATUAL        | PRODUTO EXISTENTE EM NOVO MERCADO                         | NOVO PRODUTO EM MERCADO ATUAL              | NOVO PRODUTO EM NOVO MERCADO |
+| --------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------- | ------------------------------------------ | ---------------------------- |
+| PENETRAÇÃO DE MERCADO                                           | DESENVOLVIMENTO DE MERCADO                | DESENVOLVIMENTO DE PRODUTO                                | DIVERSIFICAÇÃO                             |                              |
+| MANTER OU AUMENTAR A PARTICIPAÇÃO DE MERCADO DE PRODUTOS ATUAIS | NOVOS CANAIS DE DISTRIBUIÇÃO              | PESQUISA E DESENVOLVIMENTO DE NOVOS PRODUTOS              | DIVERSIFICAÇÃO TOTAL                       |                              |
+| PRINCIPAIS ABORDAGENS                                           | EXPANDIR A SEGMENTAÇÃO                    | NOVOS SEGMENTOS BASEADOS EM PREÇO                         | IDENTIFICAR NOVAS NECESSIDADES DE CLIENTES | DIVERSIFICAÇÃO PARA TRÁS     |
+| GANHAR PARTICIPAÇÃO DOS CONCORRENTES                            | NOVAS ÁREAS GEOGRÁFICAS                   | EXTENSÃO DE MERCA                                         | DIVERSIFICAÇÃO PARA FRENTE                 |                              |
+| AUMENTAR O USO                                                  | DIMENSÕES DE PRODUTOS OU NOVAS EMBALAGENS | CORRESPONDÊNCIA COM HÁBITOS ATUAIS DE COMPRA DOS CLIENTES |                                            |                              |
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|ESTRATÉGIAS DE CRESCIMENTO|PRODUTO EXISTENTE EM MERCADO ATUAL|PRODUTO EXISTENTE EM NOVO MERCADO|NOVO PRODUTO EM MERCADO ATUAL|NOVO PRODUTO EM NOVO MERCADO|
-|PENETRAÇÃO DE MERCADO|DESENVOLVIMENTO DE MERCADO|DESENVOLVIMENTO DE PRODUTO|DIVERSIFICAÇÃO|
-|MANTER OU AUMENTAR A PARTICIPAÇÃO DE MERCADO DE PRODUTOS ATUAIS|NOVOS CANAIS DE DISTRIBUIÇÃO|PESQUISA E DESENVOLVIMENTO DE NOVOS PRODUTOS|DIVERSIFICAÇÃO TOTAL|
-|PRINCIPAIS ABORDAGENS|EXPANDIR A SEGMENTAÇÃO|NOVOS SEGMENTOS BASEADOS EM PREÇO|IDENTIFICAR NOVAS NECESSIDADES DE CLIENTES|DIVERSIFICAÇÃO PARA TRÁS|
-|GANHAR PARTICIPAÇÃO DOS CONCORRENTES|NOVAS ÁREAS GEOGRÁFICAS|EXTENSÃO DE MERCA|DIVERSIFICAÇÃO PARA FRENTE|
-|AUMENTAR O USO|DIMENSÕES DE PRODUTOS OU NOVAS EMBALAGENS|CORRESPONDÊNCIA COM HÁBITOS ATUAIS DE COMPRA DOS CLIENTES||
-
-- ## DIVERSIFICAÇÃO TOTAL: entramos num mercado totalmente novo, onde ainda não tivemos nenhum tipo de ação ali, com um produto totalmente novo
-    
-- DIVERSIFICAÇÃO PARA TRÁS: exemplo, digamos que sou um distribuidor de cigarros. Se eu quiser diversificar para trás, o que farei? Bom, abrirei minha própria fábrica de cigarros (saio de somente a distribuição para, além disso, fabricar também)
-    
-- DIVERSIFICAÇÃO PARA FRENTE: exemplo: digamos que eu seja esse mesmo distribuidor de cigarros, para varejos. Para diversificar para frente, eu decido abrir meu próprio varejo, uma tabacaria.
-    
-
-  
+- **DIVERSIFICAÇÃO TOTAL:** entramos num mercado totalmente novo, onde ainda não tivemos nenhum tipo de ação ali, com um produto totalmente novo
+- **DIVERSIFICAÇÃO PARA TRÁS**: exemplo, digamos que sou um distribuidor de cigarros. Se eu quiser diversificar para trás, o que farei? Bom, abrirei minha própria fábrica de cigarros (saio de somente a distribuição para, além disso, fabricar também)
+- **DIVERSIFICAÇÃO PARA FRENTE:** exemplo: digamos que eu seja esse mesmo distribuidor de cigarros, para varejos. Para diversificar para frente, eu decido abrir meu próprio varejo, uma tabacaria.
 
 |   |
 |---|
 |Perceba que o “pra trás” e o “pra frente” é relativo ao ciclo de produção e distribuição de um produto: se eu for diversificar para trás, me aproximo do início de seu desenvolvimento, se diversifico para frente, me aproximo do momento em que ele chega ao consumidor final|
 
-  
-  
-
 # ETAPA 5 - INTRODUÇÃO AOS OBJETIVOS S.M.A.R.T
 
 ## Etapa 5.1 Definindo Os Objetivos de Marketing (S.M.A.R.T)
 
-  
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|SPECIFIC|MEASUREABLE|ATTAINABLE|RELEVANT|TIME limited|
-|ESPECÍFICO|QUANTIFICÁVEL|ALCANÇÁVEL|PERTINENTE|PRAZO|
-|DEVE DESCREVER CLARAMENTE O QUE E ESPERA ALCANÇAR|TEM QUE TER A CAPACIDADE DE SER MEDIDO|DEVE SER DESAFIADOR, MAS ALCANÇÁVEL|DEVE SER IMPORTANTE PARA ALCANCE DO OBJETIVO DO NEGÓCIO|DEVE TER PRAZO PARA SER ALCANÇADO|
-
-  
+| SPECIFIC                                          | MEASUREABLE                            | ATTAINABLE                          | RELEVANT                                                | TIME limited                      |
+| ------------------------------------------------- | -------------------------------------- | ----------------------------------- | ------------------------------------------------------- | --------------------------------- |
+| ESPECÍFICO                                        | QUANTIFICÁVEL                          | ALCANÇÁVEL                          | PERTINENTE                                              | PRAZO                             |
+| DEVE DESCREVER CLARAMENTE O QUE E ESPERA ALCANÇAR | TEM QUE TER A CAPACIDADE DE SER MEDIDO | DEVE SER DESAFIADOR, MAS ALCANÇÁVEL | DEVE SER IMPORTANTE PARA ALCANCE DO OBJETIVO DO NEGÓCIO | DEVE TER PRAZO PARA SER ALCANÇADO |
 
 |   |
 |---|
 |EXEMPLOS|
 
-  
-  
-
 |   |
 |---|
 |Aumentar a participação de mercado do produto XXX em 25% no mercado de pet shops da região norte fluminense em 24 meses|
 
-  
-
 |   |
 |---|
 |Elevar em 18% a lucratividade da rede de lojas de moda feminina XXX no município de Nova Friburgo em 36 meses|
-
-  
-  
 
 |   |
 |---|
@@ -362,19 +271,12 @@ Metas são representações fracionadas de um objetivo.
 
 Indicadores servem para medir o desempenho na busca de um novo objetivo.
 
-  
-
 |   |
 |---|
 |EXEMPLO|
-
-  
 
 |   |
 |---|
 |CRESCER 20% EM FATURAMENTO NO MERCADO DE FAST FOOD DA CIDADE DE SÃO PAULO EM 12 MESES|
 |CRESCER 5% POR TRIMESTRE|
 |FATURAMENTO MENSAL E VOLUME MENSAL|
-
-  
-**
