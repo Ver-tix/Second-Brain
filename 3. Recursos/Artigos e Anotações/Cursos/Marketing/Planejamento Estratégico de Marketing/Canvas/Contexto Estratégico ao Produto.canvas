@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"dfa8a60e5ba6290c","x":-260,"y":-279,"width":479,"height":99,"type":"text","text":"<h1 align=\"center\"> Contexto Estratégico ao Produto</h1>\n"},
+		{"id":"dfa8a60e5ba6290c","type":"text","text":"<h1 align=\"center\"> Contexto Estratégico ao Produto</h1>\n","x":-260,"y":-279,"width":479,"height":99},
 		{"id":"62f95b399c683a7b","type":"text","text":"<h2 align=\"center\">Análise de Portfólio</h2>\n","x":-260,"y":-80,"width":220,"height":99},
-		{"id":"ec5c5eb58a0040a1","type":"text","text":"<h2 align=\"center\"> Ciclo de Vida do Produto </h2>\n","x":0,"y":-80,"width":219,"height":99}
+		{"id":"ec5c5eb58a0040a1","type":"text","text":"<h2 align=\"center\"> Ciclo de Vida do Produto </h2>\n","x":0,"y":-80,"width":219,"height":99},
+		{"id":"80a634943538b2c9","x":960,"y":-6,"width":136,"height":50,"type":"text","text":"#marketing "}
 	],
 	"edges":[
 		{"id":"344c0d293b49dc7e","fromNode":"dfa8a60e5ba6290c","fromSide":"bottom","toNode":"62f95b399c683a7b","toSide":"top"},

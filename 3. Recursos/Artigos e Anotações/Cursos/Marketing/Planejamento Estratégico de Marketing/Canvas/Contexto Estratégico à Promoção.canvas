@@ -12,7 +12,8 @@
 		{"id":"ebd9ced30905eb36","type":"text","text":"<h2 align=\"center\">INFORMAR</h2>\nConscientizar o consumidor sobre a marca ou seus atributos","x":-281,"y":561,"width":240,"height":140},
 		{"id":"8bd72bb234e1a41c","type":"text","text":"<h2 align=\"center\">PERSUADIR</h2>\nInfluenciar, convencer ou induzir o consumidor a realizar uma ação","x":-281,"y":740,"width":240,"height":120},
 		{"id":"0a09100d2ddc5622","type":"text","text":"<h2 align=\"center\">DIFERENCIAR</h2>\nPosicionar ou reposicionar a marca e diferencia-la no mercado","x":-21,"y":740,"width":240,"height":120},
-		{"id":"ed00f044307a716f","type":"text","text":"<h2 align=\"center\">REFORÇAR</h2>\nLembrar e reforçar a marca ou a imagem da empresa na mente do consumidor","x":-21,"y":560,"width":240,"height":141}
+		{"id":"ed00f044307a716f","type":"text","text":"<h2 align=\"center\">REFORÇAR</h2>\nLembrar e reforçar a marca ou a imagem da empresa na mente do consumidor","x":-21,"y":560,"width":240,"height":141},
+		{"id":"4586b0ff211e9792","x":-1960,"y":242,"width":154,"height":50,"type":"text","text":"#marketing "}
 	],
 	"edges":[
 		{"id":"321a6a3bcf1108db","fromNode":"dfa8a60e5ba6290c","fromSide":"bottom","toNode":"0182035dd8f67817","toSide":"top"},
