@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"dfa8a60e5ba6290c","type":"text","text":"<h1 align=\"center\"> Contexto Estratégico à Promoção</h1>\n","x":-260,"y":-279,"width":479,"height":99},
+		{"id":"ec5c5eb58a0040a1","type":"text","text":"<h2 align=\"center\">PERSONA</h2>\n","x":-281,"y":261,"width":240,"height":61},
+		{"id":"7b9d4be92c083aa1","type":"text","text":"<h2 align=\"center\">JORNADA DE COMPRAS</h2>\n","x":-21,"y":261,"width":240,"height":61},
+		{"id":"0182035dd8f67817","type":"text","text":"<h2 align=\"center\">Objetivos de Marketing</h2>","x":-260,"y":-80,"width":479,"height":60},
+		{"id":"75de951e84bc8ead","type":"text","text":"<h2 align=\"center\">ESTRATÉGIAS ESPECÍFICAS</h2>","x":-281,"y":380,"width":479,"height":60},
+		{"id":"62f95b399c683a7b","type":"text","text":"<h2 align=\"center\">SEGMENTAÇÃO</h2>\n","x":-281,"y":101,"width":240,"height":60},
+		{"id":"f2ef92e2a5b2ef93","type":"text","text":"<h2 align=\"center\">POSICIONAMENTO</h2>\n","x":-281,"y":181,"width":240,"height":60},
+		{"id":"269a807ae18b1377","type":"text","text":"<h2 align=\"center\">CICLO DE VIDA DO PRODUTO</h2>\n","x":-21,"y":100,"width":240,"height":61},
+		{"id":"96fa35644afedab9","type":"text","text":"<h2 align=\"center\">PERSONA</h2>\n","x":-21,"y":180,"width":240,"height":61},
+		{"id":"ebd9ced30905eb36","type":"text","text":"<h2 align=\"center\">INFORMAR</h2>\nConscientizar o consumidor sobre a marca ou seus atributos","x":-281,"y":561,"width":240,"height":140},
+		{"id":"8bd72bb234e1a41c","type":"text","text":"<h2 align=\"center\">PERSUADIR</h2>\nInfluenciar, convencer ou induzir o consumidor a realizar uma ação","x":-281,"y":740,"width":240,"height":120},
+		{"id":"0a09100d2ddc5622","type":"text","text":"<h2 align=\"center\">DIFERENCIAR</h2>\nPosicionar ou reposicionar a marca e diferencia-la no mercado","x":-21,"y":740,"width":240,"height":120},
+		{"id":"ed00f044307a716f","type":"text","text":"<h2 align=\"center\">REFORÇAR</h2>\nLembrar e reforçar a marca ou a imagem da empresa na mente do consumidor","x":-21,"y":560,"width":240,"height":141}
+	],
+	"edges":[
+		{"id":"321a6a3bcf1108db","fromNode":"dfa8a60e5ba6290c","fromSide":"bottom","toNode":"0182035dd8f67817","toSide":"top"},
+		{"id":"c494663e3f42bfff","fromNode":"0182035dd8f67817","fromSide":"left","toNode":"f2ef92e2a5b2ef93","toSide":"left"},
+		{"id":"bd1e713dd3206e9d","fromNode":"0182035dd8f67817","fromSide":"left","toNode":"ec5c5eb58a0040a1","toSide":"left"},
+		{"id":"40e10fff5dd1df76","fromNode":"0182035dd8f67817","fromSide":"bottom","toNode":"62f95b399c683a7b","toSide":"top"},
+		{"id":"d8e508ae32d15ac9","fromNode":"0182035dd8f67817","fromSide":"bottom","toNode":"269a807ae18b1377","toSide":"top"},
+		{"id":"88b6798c26c571f7","fromNode":"0182035dd8f67817","fromSide":"right","toNode":"96fa35644afedab9","toSide":"right"},
+		{"id":"55b16e9858a3eff8","fromNode":"0182035dd8f67817","fromSide":"right","toNode":"7b9d4be92c083aa1","toSide":"right"},
+		{"id":"d7522c13f49b7f3f","fromNode":"ec5c5eb58a0040a1","fromSide":"bottom","toNode":"75de951e84bc8ead","toSide":"top"},
+		{"id":"309fd0e93a24c301","fromNode":"7b9d4be92c083aa1","fromSide":"bottom","toNode":"75de951e84bc8ead","toSide":"top"},
+		{"id":"d58ee798bf29391e","fromNode":"269a807ae18b1377","fromSide":"right","toNode":"75de951e84bc8ead","toSide":"right"},
+		{"id":"a3031e7dc865d573","fromNode":"62f95b399c683a7b","fromSide":"left","toNode":"75de951e84bc8ead","toSide":"left"},
+		{"id":"36d55153bf41d2d1","fromNode":"f2ef92e2a5b2ef93","fromSide":"left","toNode":"75de951e84bc8ead","toSide":"left"},
+		{"id":"a4d8f125bb0f02f7","fromNode":"96fa35644afedab9","fromSide":"right","toNode":"75de951e84bc8ead","toSide":"right"},
+		{"id":"e270ff9949fe22c0","fromNode":"75de951e84bc8ead","fromSide":"bottom","toNode":"ebd9ced30905eb36","toSide":"top"},
+		{"id":"e9809820a02c29eb","fromNode":"75de951e84bc8ead","fromSide":"bottom","toNode":"ed00f044307a716f","toSide":"top"},
+		{"id":"202586a0eb7ad8e0","fromNode":"75de951e84bc8ead","fromSide":"right","toNode":"0a09100d2ddc5622","toSide":"right"},
+		{"id":"d6f2738c4b199776","fromNode":"75de951e84bc8ead","fromSide":"left","toNode":"8bd72bb234e1a41c","toSide":"left"}
+	]
+}
