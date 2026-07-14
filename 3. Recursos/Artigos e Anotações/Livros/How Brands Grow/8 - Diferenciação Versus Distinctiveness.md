@@ -15,7 +15,8 @@ Toda categoria tem marcas (ou variantes) mais caras e de qualidade superior. Alg
 1. Será que a publicidade pode imbuir marcas de valores especiais? (Em outras palavras, o marketing e capaz de diferenciar marcas com funções muito semelhantes?)
 2. Será que os compradores precisam perceber alguma importante diferença para comprar uma marca com regularidade (ou seja, para demonstrar uma preferência ou fidelidade?)
 
-# Valores especiais
+# Diferenciação
+## Valores especiais
 Uma explicação para a abundância de marcas rivais existentes no mercado é o fato de a publicidade ter imbuído todas as marcas com uma importância percebida diferente daquela valorizada pelos consumidores.
 
 É rotina no marketing mensurar a percepção da marca. Às vezes isso é feito por razões bastante práticas, como quando é preciso descobrir quantas pessoas sabem que uma loja abre aos sábados ou se as mulheres têm uma percepção diferente da marca em comparação com os homens. No entanto, hoje em dia é comum para os profissionais de marketing mensurar percepções mais esotéricas, como se os consumidores atribuíssem traços de personalidade humanos à marca. Os gestores de marca passam um bom tempo desenvolvendo montanhas de indicadores de percepção (*perceptual cues*, em inglês) extremamente subjetivos para mensurar.
@@ -34,18 +35,17 @@ Na Tabela 8.1, as marcas estão dispostas na ordem da quantidade de entrevistado
 Desse modo, todas as marcas são vistas de maneira bastante parecida pelos entrevistados que as conhecem. Até as marcas pequenas recebem um endosso similar de seus poucos compradores. Uma vez conhecidos esses padrões, fica fácil detectar as poucas exceções. Por exemplo, a Nokia e a Oracle (duas marcas de tecnologia) são consideradas mais "inovadoras". Não é uma história surpreendente nem empolgante.
 ![[associação de marcas com atributos.svg|697]]
 Isso não quer dizer que algumas marcas não sejam percebidas de maneira diferente das marcas rivais, mas quaisquer diferenças consideráveis na percepção em geral refletem aspectos funcionais bastante claros. Por exemplo, as marcas norte-americanas são percebidas como norte-americanas, as marcas francesas, como francesas, e as marcas caras, como caras. As pesquisas de percepção continuam sendo úteis, só que são muito menos deterministas e misteriosas do que a imagem que as agências de pesquisa gostam de divulgar. Essas pesquisas são mais úteis quando os profissionais de marketing as usam para garantir que todas as ações publicitárias tenham a marca verdadeiramente identificada (ou seja, para se parecer com a marca, a marca precisa saber como o mercado já a vê).
-# Personalidade da Marca
+## Personalidade da Marca
 É muito difícil encontrar atributos de imagem exóticos (ou seja, não relacionados com as características funcionais claras da marca) que diferenciem uma marca consideravelmente das rivais. A personalidade da marca é uma tentativa recente de obter esse tipo de diferenciação. Há muito tempo, os pesquisadores de marketing começaram a investigar como a personalidade de um comprador afeta sua escolha da marca. Eles não demoraram a descobrir que a personalidade do comprador não tem relação com a marca que ele escolhe. O famoso estudo comparando os compradores da Ford com os da Chevrolet, conduzido por Franklin B. Evans, foi um dos primeiros a questionar a ideia, mas não encontrou qualquer diferença nos traços de personalidade dos compradores das duas marcas (Evans, 1959).
 
 Porém os pesquisadores insistiram. A meta passou a ser identificar a personalidade humana refletida por uma marca. O interesse pela personalidade da marca foi instigado com a publicação da escala "personalidade da marca", de Jennifer Aaker (1997), que se propõe a mensurar as características humanas que os consumidores associam às marcas, como "amável" ou "rude".
 
 As percepções de personalidade são como todos os outros atributos de imagem (ou seja, os usuários de diferentes marcas veem as respectivas marcas escolhidas praticamente da mesma maneira). Mas essas percepções de personalidade acabam apresentando baixas pontuações, sendo que os consumidores relutam em ver as marcas como se fossem pessoas (ou seja, apenas 5% acham que a marca X é "rude"). Além disso, elas são defendidas sem muita convicção pela população e também pelos respondentes individuais (dos 5% que afirmam que a marca é "rude" em uma entrevista, apenas cerca de um quarto dessas pessoas, ou cerca de 1%, repetirá a afirmação em uma segunda entrevista). No entanto, vários profissionais de marketing adotaram o conceito de personalidade da marca mesmo na ausência de evidências empíricas, da mesma forma. que os médicos medievais (veja o Capítulo 1).
 
-# Associações Diferenciadas
+## Associações Diferenciadas
 Se as marcas de fato estivessem diferenciadas na mente dos consumidores, seria de esperar que as marcas de sucesso tivessem atributos de imagem sem igual (ou seja, os consumidores associariam uma imagem a apenas uma marca). Um argumento defendido há um bom tempo é que o brand equity se fundamenta em associações fortes e únicas. Mas uma análise aprofundada dos dados referentes à imagem de 130 marcas em 13 categorias de produtos e serviços mostra que as pessoas raramente (cerca de 3% das vezes) associam determinada imagem a apenas uma marca Gaillard e Romaniuk, 2007) As marcas mais bem-sucedidas não apresentam associações proporcionalmente mais diferenciadas e os clientes com maior preferência por determinada marca não fazem associações mais diferenciadas do que os clientes com menor preferência. Em vez disso. demonstrou-se que o nível de diferenciação — de acordo com a proporção de associações que os clientes fazem apenas com uma marca correlaciona-se negativamente com o número de marcas da categoria uma marca tem mais chances de ser percebida como a única marca a oferecer determinada qualidade se tiver poucos concorrentes.
-# Diferenciação Cognitiva
-
-A diferenciação é considerada uma parte essencial da estratégia de mar. keting. Com frequência, ensina-se essa ideia como se fosse um dogma religioso: "As marcas diferenciadas herdarão todos os clientes e lucros" É tudo ou nada e aprendemos que devemos "diferenciar ou morrer"  
+## Diferenciação Cognitiva
+A diferenciação é considerada uma parte essencial da estratégia de marketing. Com frequência, ensina-se essa ideia como se fosse um dogma religioso: "As marcas diferenciadas herdarão todos os clientes e lucros" É tudo ou nada e aprendemos que devemos "diferenciar ou morrer"  
 (Trout e Rivkin, 2000).
 
 Os livros de marketing usam uma perspectiva motivacional; costumam dizer que uma diferença percebida significativa proporciona aos compradores uma razão para comprar uma marca e ser fiel a ela (Aaker, 2001; Kotler, 1994). Novos produtos sem diferencial no mercado supostamente tendem a fracassar, porque nenhum cliente é motivado a comprá-los (Davidson, 1976). Acredita-se que as marcas consolidadas precisam manter seu ponto de diferença para permanecerem desejáveis aos olhos de seus clientes. Melhorias na diferenciação percebida — como novas funcionalidades do produto (por exemplo, o iMac original da Apple, com cores vibrantes) ou publicidade voltada a reforçar a imagem (por exemplo, o Marlboro Man) — são vistas como caminhos para o crescimento.
@@ -60,7 +60,7 @@ Mas, apesar dessas crenças enraizadas, ou talvez por causa delas, sabemos muito
 
 Apesar de todos os livros de marketing que pregam a diferenciação, poucas evidências são apresentadas para responder a essas perguntas.
 
-# A Diferenciação no Mundo Real
+## A Diferenciação no Mundo Real
 Ninguém duvida da existência da diferenciação. A ideia de que as marcas são produtos idênticos, como commodities, não passa de ficção. Para começar, elas têm nomes diferentes, que são utilizados pelos compradores para desenvolver sua fidelidade e demonstrar suas preferên-cias. Igualmente importante, existem inúmeras situações que podem fazer diferença na compra, como:
 - Esta marca é a que está aqui agora, enquanto as outras não estão.
 - Eu sei onde fica essa padaria.
@@ -85,10 +85,9 @@ Por fim, devemos levar em conta o modelo matemático robusto empiricamente funda
 Todas as categorias possuem marcas que diferem em preço e qualidade (os economistas chamam isso de "diferenciação vertical"). Em algumas situações, em uma categoria, há marcas muito mais caras do que as outras. Essa diferença de preço é refletida na diversidade das diferentes bases de usuários (ou seja, marcas mais baratas e mais caras). A diferença de preço também se revela no desvio das marcas mais caras em relação à lei da duplicação da compra e aos benchmarks do modelo NBD-Dirichlet. O fato de essas evidências não serem vistas com frequência em outras marcas sugere, na melhor das hipóteses, níveis baixos de diferenciação.
 
 Essas evidências teóricas e empíricas não confirmam o papel tradicional da diferenciação apresentado em muitos textos de marketing nem corroboram um modelo de "concorrência perfeita" (commodities). A diferenciação sem dúvida existe, mas a teoria fundamentada em dados empíricos sugere que é mais interessante pensar na diferenciação como um fenômeno no nível da categoria (e não no nível da marca). Em resumo, a teoria da diferenciação é como o modelo neoclássico da concorrência perfeita do campo da economia, na medida em que descreve um mundo ideal abstrato e não o mundo no qual as marcas reais competem.
-# Marcas Icônicas
+## Marcas Icônicas
 Não são só as compras cotidianas, do dia a dia, que levam aos padrões descritos. Essas leis também se aplicam às "marcas icônicas", aquelas que supostamente representam o ápice da excelência em marketing e os vínculos mais fortes com os consumidores. Por exemplo, a Nike é considerada por Kevin Roberts, CEO da agência global de comunicações e publicidade Saatchi & Saatchi (2004, p. 78-79), uma lovemark, ou seja, uma marca que inspira "fidelidade que vai além dos limites da razão". No entanto, uma analise conduzida por John Dawes mostra claramente que a Nike segue tanto a lei do duplo risco como a lei da duplicação da compra: os compradores da marca não são 100% fiéis e não dão a ela mais fidelidade do que a marca deveria receber, dada sua participação de mercado (a fidelidade da Nike é inferior à da Adidas em alguns mercados). A Nike vende para o mesmo tipo de pessoas que as outras marcas de produtos esportivos, para grupos demográficos, classes sociais e grupos psicológicos e geográficos similares. Esses padrões no comportamento real de compra levantam sérias dúvidas sobre a extensão na qual os compradores percebem as marcas rivais como sendo diferentes.
-# Diferenciação percebida
-
+## Diferenciação percebida
 Então, como os compradores escolhem entre as marcas? Eles têm de perceber que a marca que estão comprando é diferente? Precisam de um. motivo para comprar uma marca (além dos benefícios da categoria. como "tem gosta de sorvete" al "unciona como um cartãa de crédi to")? Um estudo sistemático de diferentes categorias de produtos e ser-Viços, países, métodos de pesquisa e tipos de perguntas revela dois sólidos padrões:
 
 1. Os compradores têm uma percepção muito fraca da diferenciação da marca (mas isso não os impede de serem compradores fiéis de uma marca).
@@ -100,12 +99,12 @@ A Tabela 8.2 mostra a proporção de compradores regulares de uma marca que conc
 
 Todos os mercados que analisamos utilizando dados que nós mesmos coletamos ou de outras pesquisas seguem um padrão similar: uma média de 10% dos usuários de qualquer marca acredita que sua escolhida é diferente. Pode ser que essas respostas reflitam certa apatia ao responder a questionários. No entanto, três indicadores sugerem que esse não é o caso.
 
-## Em primeiro lugar em todos os mercados havia marcas excepcionais com diferenças funcionais claras.
+### Em primeiro lugar em todos os mercados havia marcas excepcionais com diferenças funcionais claras.
 Por exemplo, 67% dos respondentes classificaram como "diferente" a rede de supermercados Aldi, que não vende marcas nacionais, enquanto 50% classificaram como "sem igual a marca Subway, que vende exclusivamente sanduíches, quando ela tu incluída no mesmo grupo competitivo de fast-foods como McDonald's Dominos's e KFC. Essa foi a maneira que os entrevistados tiveram come indicar quando uma marca era percebida como diferenciada. No entanto, a maioria das marcas raramente foi considerada diferenciada
 
-## Em segundo lugar, as diferenças nas categorias refletiram nas respostas
+### Em segundo lugar, as diferenças nas categorias refletiram nas respostas
 
-## Em terceiro lugar, os resultados mostram diferenças esperadas entre os mercados.
+### Em terceiro lugar, os resultados mostram diferenças esperadas entre os mercados.
 
 Por exemplo, marcas de refrigerante são mais diferenciadas do que marcas de água mineral. Bebidas destiladas e cosméticos — duas categorias que escolhemos deliberadamente por serem bastante  
 "impulsionadas pela imagem" e por contarem com grandes verbas de publicidade — ficaram entre os níveis mais elevados de diferenciação percebida (apesar de esses níveis ainda serem baixos).
@@ -114,7 +113,7 @@ Para verificar se essa descoberta não passava de um artefato da mensuração, t
 
 Foram constatados alguns desvios desse padrão geral, quando as marcas obtiveram sistematicamente níveis de resposta mais altos. Isso aconteceu com marcas pequenas e mais caras, e o resultado está em perfeita conformidade com a noção de que as marcas mais diferenciadas costumam ser menores ou que marcas menos populares são vistas como diferentes. Também foram constatados alguns desvios específicos relativos às marcas, mas eles relacionavam-se mais a grandes diferenças funcionais e menos à diferenciação da imagem. Sendo assim, a maioria dos compradores não afirma explicitamente se percebem que sua marca é diferenciada das outras. Seria questionável, portanto, declarar que o comportamento do comprador é motivado pelas percepções de diferenciação Da marca. Os compradores não precisam perceber uma diferenciação para comprar - ou continuar comprando - uma marca.
 
-### TABELA 8.3 Exemplos de resultados no nível da categoria
+ TABELA 8.3 Exemplos de resultados no nível da categoria
 
 |  | Compradores que consideram a marca diferente (%) | Compradores que consideram a marca sem igual (%) | Compradores que consideram a marca diferente ou sem igual (%) | Compradores que consideram que pelos menos uma marca possui um dos atributos (%) |
 | --- | --- | --- | --- | --- |
@@ -139,5 +138,35 @@ Foram constatados alguns desvios desse padrão geral, quando as marcas obtiveram
 
 A Tabela 8.4 — que mostra alguns dados de marcas da categoria "tecnologia da informação" da Tabela 8.3 — ilustra esse fato com o exemplo da Apple, a garota-propaganda da diferenciação e fidelidade do cliente (como vimos no Capítulo 7). O nível de diferenciação percebida da Apple é superior ao de outras marcas da categoria, mas não pode ser considerado alto. A maioria (77%) dos usuários da Apple não percebe que a marca é diferente ou sem igual. Pode parecer surpreendente, já que os computadores da Apple têm uma aparência única e usam um sistema operacional diferente.? No entanto, a maioria dos usuários de computador tem pouco conhecimento técnico e poucos saberiam o que é um sistema operacional. O Macintosh, da Apple, é um computador com interface gráfica de usuário, mouse e teclado, roda programas, manda e-mails, navega na internet, armazena arquivos e assim por diante. Não é um absurdo que seus usuários considerem que ele faz praticamente as mesmas coisas que os outros computadores. Eles sem dúvida compram o Macintosh para fazer as mesmas coisas. Tudo indica que poucos compraram um Macintosh porque queriam um computador diferente. Eles o compraram por ser um bom computador, da mesma forma que os compradores de qualquer outra marca de computador.
 
-Muitos textos de marketing instruem os profissionais a ter como objetivo fazer com que os clientes percebam diferenças de valor entre as marcas. Contudo, até as equipes de marketing de marcas de enorme
+Muitos textos de marketing instruem os profissionais a ter como objetivo fazer com que os clientes percebam diferenças de valor entre as marcas. Contudo, até as equipes de marketing de marcas de enorme sucesso parecem ter fracassado nessa tarefa. Isso leva à conclusão de que a percepção da diferenciação afeta pouco o sucesso das marcas. Sem dúvida, não é um caso de "diferenciar-se ou morrer". Se fosse, a maioria das marcas que compramos estaria morta e enterrada.
 
+A literatura sobre o comportamento do consumidor passou décadas apontando as percepções das características da marca pelos clientes como sendo a principal razão para a escolha de uma marca. Essa ênfase não se justifica. Se os compradores de uma marca não costumam considerá-la diferente ou sem igual, podemos presumir que essa não é a principal razão que levam as pessoas a comprá-la. Precisamos buscar outras explicações para descobrir por que os clientes compram uma marca e não outra.
+
+Parece um contrassenso os compradores não terem o costume de notar se as marcas que eles usam são de alguma forma diferentes das outras disponíveis no mercado (considerando que algumas marcas têm , características funcionais diferentes). Isso mostra que a escolha da marca é uma tarefa trivial, bem como decidir comprar ou não uma categoria de produto. Em outras palavras, os compradores não passam muito tempo comparando as marcas de uma categoria, de modo que a diferenciação (em relação a outras marcas) não é notada. Essa constatação se opõe aos muitos modelos de processamento de informações que acreditam que os compradores ponderam as marcas no que diz respeito aos méritos de seus atributos relativos (por exemplo: Alpert, 1971; Fishbein e Ajzen, 1975; Green, Goldberg e Montemayor, 1981), implicando que os compradores estariam cientes da existência de diferenças entre as marcas. No entanto, as evidências empíricas mostram que os compradores parecem saber um pouco sobre as marcas que usam e muito pouco sobre as marcas que não usam. Isso resulta em níveis de resposta muito mais baixos dos não usuários (em comparação com os usuários).
+
+A maior implicação dessas informações para a prática do marketing é o fato de não ser essencial precisar convencer os compradores de que um produto é diferente antes da compra. Isso deve tirar um bom peso dos ombros, já que nossos dados mostram que a tarefa é praticamente impossível. Em vez disso, os profissionais de marketing deveriam se concentrar em atingir fatores que efetivamente levam os clientes a comprar um produto.
+
+De fato, as marcas são diferentes umas das outras e até são percebidas como diferentes, mas a diferenciação não afeta muito o modo como elas concorrem entre si. Vejamos o exemplo de três marcas que apresentam diferenças funcionais: Pizza Hut, McDonald's e KFC. Elas F vendem pizza, hambúrgueres e frango frito, respectivamente. Seria de q esperar que o McDonald's compete principalmente com outras lanchonetes de hambúrguer (Wimpys, Burger King, Hungry Jacks, Carl's w Jr. etc.); que a Pizza Hut compete com outras pizzarias (Domino's, Pizza Pizza, Little Caesars, Papa John's, Pizza Haven etc.); e que o KFC compete com outros restaurantes especializados em frango (Harold's Chicken Shack, Bojangles, Oporto, Chesters, Red Rooster etc.)." De acordo com os textos de marketing, McDonald's, KFC e Pizza Hut não são concorrentes (ou, se fossem, só o fariam muito indiretamente). É claro que isso é um absurdo. Afinal, eles são concorrentes diretos, competindo na ampla categoria de restaurantes de fast food. Bm vez de tentar se diferenciar e ficar com uma fatia menor dessa categoria, na verdade eles buscam reduzir sua diferenciação. Por exemplo, o McDonald's anuncia que oferece frango (na forma de hambúrgueres), o KFC anuncia que oferece hambúrgueres (de frango) e a Pizza Hut anuncia que vende frango (na pizza).
+
+Recentemente, pesquisadores começaram a sugerir que _brand awareness_ e _brand salience_ — conscientização e relevância — afetam mais o comportamento do comprador e o modo como as marcas competem do que preconiza a teoria da diferenciação em voga atualmente (Ehrenberg, Barnard e Scriven, 1997; Romaniuk, 2004a, 2004b) Pesquisas conduzidas pelo Ehrenberg-Bass Institute sobre a diferenciação percebida corroboram essas novas constatações. Todas as marcas são "diferenciadas" elas não competem entre si como substitutas perfeitas) no sentido de que cada comprador conhece bem algumas marcas e pensa muito pouco sobre outras, Todo consumidor nunca ou raramente cogita a compra de certas marcas. Isso, porém, não equivale a uma diferenciação da marca no sentido de que os compradores percebem que algumas marcas são significativamente diferentes das outras.
+
+# *Distinctiveness*
+## *Distinctiveness*: uma nova perspectiva
+Pode parecer uma grande contradição, mas a ênfase reduzida na diferenciação significativa faz com que o branding seja ainda mais impertante. A fidelidade é fundamentada pelo brand salience e não pele amor/ódio. Para reforçar a fidelidade, a marca deve se destacar para que os compradores possam identifica-la com facilidade e sem confusão. O foco significativo na diferenciação percebida nos textos de marketing tem distraído os profissionais desse aspecto tradicional da prática do branding.
+
+O objetivo básico do branding é identificar quem presta o serviço ou produz o produto ou, em outras palavras, a fonte ou origem do produto ou serviço. Foi para isso que o branding foi desenvolvido. O branding deve ter qualidades que distinguem a marca dos concorrentes; uma característica óbvia é o nome da marca, que, por lei, não pode ter outro igual. O branding também inclui outros elementos diferenciadores que, por fazerem parte da identidade de uma marca, podem complementar ou substituir seu nome. Essas qualidades ajudam o consumidor a notar, reconhecer e lembrar a marca, tanto na publicidade como em situações de compra. Entre esses elementos estão:
+
+- **Cores:** como o vermelho da Coca-Cola e da Vodaphone.
+- Logos: como os arcos dourados do McDonald's.
+- Slogans: como o "Just do it", da Nike.
+- Símbolos/personagens: como as orelhas do Mickey Mouse.
+- Celebridades: como Tiger Woods endossando a Nike.
+- Estilos de publicidade: como a campanha "Não tem preço", da MasterCard.
+
+### Um elemento diferenciador é:
+
+>*Qualquer elemento que mostra às pessoas a marca à qual um produto pertence. Esses elementos podem ser utilizados na embalagem e na publicidade, em displays nos pontos de venda e em patrocínios, ou seja, em qualquer ação de marketing para que o consumidor identifique a marca. Eles podem ser usados para desenvolver, renovar ou reforçar as estruturas de memória do consumidor ou facilitar a compra tornando a marca mais fácil de localizar.*
+
+Quanto mais fortes e renovadas forem as associações entre esses elementos diferenciadores e o nome da marca, mais facilidade o consumidor terá de identificar a marca.
+
+## Benefícios dos *Distinctiveness Assets*
