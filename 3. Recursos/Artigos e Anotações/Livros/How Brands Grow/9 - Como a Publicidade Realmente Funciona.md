@@ -102,3 +102,35 @@ Desse modo, é um equívoco concluir que a publicidade que afeta as intenções 
 
 Os profissionais de marketing precisam conhecer as estruturas de memória que já foram construídas para a marca. Eles precisam usar essas estruturas e se assegurar de que sua publicidade atue para renová-las. Feito isso, precisam pesquisar quais outras estruturas de memória poderiam beneficiar a marca (ou seja, fatores que gerem compras na categoria) e, em seguida, se empenhar para construir essas outras estru-turas. As marcas líderes passaram décadas fazendo um trabalho espetacular construindo estruturas de memória relevantes. A Coca-Colajé um excelente exemplo disso. No passado, a Coca-Cola era vendida nas antigas "farmácias" norte-americanas (que vendiam de sorvetes a xaropes misturados com água carbonatada), de modo que era associada a adolescentes frequentando farmácias no verão. Hoje em dia, a Coca-Cola é associada a uma variedade de memórias: Coca-Cola na praia, Coca-Cola em clubes noturnos, Coca-Cola com pizza, Coca-Cola em festas, Coca-Cola em cafés, a garrafa da Coca-Cola, o logo da Coca-Cola, o vermelho da Coca-Cola e por aí vai. Essas memórias aumentam as chances de as pessoas pensarem na Coca-Cola e facilitam que elas notem e processem as ações publicitárias da Coca-Cola.
 # Outras Maneiras nas Quais a Publicidade Pode Funcionar
+Como vimos, a publicidade funciona de duas maneiras principais: persuasão (mudar a opinião das pessoas) e brand salience (renovar e construir memórias). Existem outros mecanismos, mas são mais sutis e muitas vezes secundários ao brand salience e à persuasão. Esses mecanismos são comprometimento, sinais de _status_ e _priming_, que explicamos a seguir.
+
+## Comprometimento
+
+Investir em publicidade transmite a ideia de que a empresa conta com segurança financeira e dá a impressão de que seus produtos são bons, o que é de especial importância no setor de serviços. Um bom exemplo disso são os anúncios sobre a reputação corporativa. Investir grandes quantias contratando celebridades para aparecer em anúncios ou patrocinar grandes eventos como os Jogos Olímpicos se explica por esse mecanismo. Alguns consumidores deduzem, talvez subconscientemen-te, que um anunciante não investiria montanhas de dinheiro em publicidade se não confiasse no produto e não tivesse a intenção de ficar mais um bom tempo no mercado. Além disso, pela própria experiência, os consumidores aprenderam que produtos e serviços que anunciam bastante tendem a oferecer uma boa qualidade.
+
+Alguns economistas confirmaram essa afirmação argumentando que as quantias gastas em publicidade em muitos casos parecem ser mais importantes para determinar o resultado comercial do que a mensagem do anúncio (Nelson, 1974; Telser, 1964). Isso não significa que a publicidade não tenha uma função econômica ou que os consumidores sejam irracionais, mas sim que os consumidores reagem a sinais que não se restringem às mensagens explícitas.
+
+O economista John Kay (1993) afirma que, em geral, as pessoas costumam ser céticas em relação à verdade na publicidade e ignoram automaticamente alegações sobre a qualidade que elas não conseguem avaliar com objetividade. Nessas circunstâncias, Kay argumenta (exagerando um pouco) que a única coisa que a publicidade pode transmitir é a qualidade e a quantidade da própria publicidade.
+
+## Sinais de status
+
+Quando usamos certas marcas, sinalizamos aos outros, e até a nós mesmos, o tipo de pessoa que somos. A publicidade ajuda nessa sinalização. Poucas pessoas têm um Mercedes-Benz, mas todos sabemos que é um carro caro. Sabemos isso pela publicidade, e as pessoas que têm um Mercedes sinalizam sua riqueza por meio da marca. Isso não funcionaria se apenas poucas pessoas reconhecessem um Mercedes e não soubessem que se trata de uma marca de carros de luxo.
+
+No entanto, os profissionais de marketing em geral atribuem um valor excessivo aos efeitos da sinalização. Algumas categorias não são muito simbólicas e alguns consumidores acham que uma marca tem o poder de mudar o que os amigos pensam deles. Além disso, grande parte do caráter simbólico das marcas provém da utilização, da observação e do boca a boca, não da publicidade.
+
+Com isso, podemos concluir que uma marca não usufruirá de enormes benefícios de uma publicidade voltada a colocá-la na crista da onda.
+
+## Priming
+
+Já foi comprovado que as pessoas preferem objetos e marcas que elas veem com mais frequência. Esse fenômeno psicológico é chamado de **efeito da "exposição"** Um estudo recente demonstrou que esse efeito pode ser aplicado a exposições que os consumidores mal chegam a notar. Pesquisas também revelaram que as exposições recentes a sinais associados podem aumentar a probabilidade de compra. Por exemplo, estudantes universitários foram mais favoráveis a marcas de cor laranja quando voltaram às aulas depois do Halloween, por causa da cor das abóboras do Dia das Bruxas, e a exposição a várias fotos de cães aumentou a probabilidade de escolher a marca Puma de calçados esportivos, porque as pessoas associam cães com gatos (Berger e Fitzsimons, 2008). Esse efeito extraordinário ainda não foi bem documentado fora de condições experimentais, de modo que desconhecemos sua intensidade no mundo real. Também não sabemos ao certo como sinais conflitantes interagem e, possivelmente, anulam uns aos outros. É possível que esse efeito da exposição não passe de um efeito do brand salience. Isso também reforça a hipótese de que a publicidade pode afetar as vendas mesmo sem incluir argumentos persuasivos de vendas.
+
+# A publicidade eficaz
+
+Uma receita simples para atingir a eficácia da publicidade:
+
+- Atinja todos os compradores da categoria.
+- Não permita longos intervalos entre suas ações publicitárias.
+- Seja notado, não ignorado, pelos consumidores.
+- Use associações claras com a marca: não deixe de mostrar os distin-tive assets da marca nas ações publicitárias; mencione (verbal e/ou visualmente) o nome da marca; mostre o produto e também como ele é utilizado.
+- Renove e construa estruturas de memória que aumentem as chances de os consumidores pensarem na marca e facilite para eles notar a marca.
+- Nada o impede de incluir alguma informação verdadeiramente persuasiva, desde que isso não interfira na conquista dos objetivos anteriores.
