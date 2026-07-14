@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 640" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title Section -->
+  <text x="50" y="45" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    TABELA 8.2 Percepções de diferenciação de usuários de marca nas categorias de
+  </text>
+  <text x="50" y="70" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    refrigerantes (Reino Unido) e bancos (Austrália)
+  </text>
+
+  <!-- ================= LEFT TABLE: REFRIGERANTES (UK) ================= -->
+  <!-- Headers -->
+  <rect x="50" y="100" width="140" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="120" y="138" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Marca</text>
+
+  <rect x="190" y="100" width="110" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="245" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Diferente</text>
+  <text x="245" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">(%)</text>
+
+  <rect x="300" y="100" width="110" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="355" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Sem igual</text>
+  <text x="355" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">(%)</text>
+
+  <rect x="410" y="100" width="120" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="470" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Ou um ou</text>
+  <text x="470" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">outro (%)</text>
+
+  <!-- Left Rows -->
+  <!-- Row 1: Coca-Cola -->
+  <rect x="50" y="165" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="65" y="192" font-size="14" fill="#1e293b">Coca-Cola</text>
+  <rect x="190" y="165" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="245" y="192" font-size="14" fill="#1e293b" text-anchor="middle">8</text>
+  <rect x="300" y="165" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="355" y="192" font-size="14" fill="#1e293b" text-anchor="middle">13</text>
+  <rect x="410" y="165" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="470" y="192" font-size="14" fill="#1e293b" text-anchor="middle">19</text>
+
+  <!-- Row 2: Diet Coke -->
+  <rect x="50" y="210" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="65" y="237" font-size="14" fill="#1e293b">Diet Coke</text>
+  <rect x="190" y="210" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="245" y="237" font-size="14" fill="#1e293b" text-anchor="middle">9</text>
+  <rect x="300" y="210" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="355" y="237" font-size="14" fill="#1e293b" text-anchor="middle">8</text>
+  <rect x="410" y="210" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="470" y="237" font-size="14" fill="#1e293b" text-anchor="middle">15</text>
+
+  <!-- Row 3: Pepsi Cola -->
+  <rect x="50" y="255" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="65" y="282" font-size="14" fill="#1e293b">Pepsi Cola</text>
+  <rect x="190" y="255" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="245" y="282" font-size="14" fill="#1e293b" text-anchor="middle">7</text>
+  <rect x="300" y="255" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="355" y="282" font-size="14" fill="#1e293b" text-anchor="middle">10</text>
+  <rect x="410" y="255" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="470" y="282" font-size="14" fill="#1e293b" text-anchor="middle">15</text>
+
+  <!-- Row 4: Fanta -->
+  <rect x="50" y="300" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="65" y="327" font-size="14" fill="#1e293b">Fanta</text>
+  <rect x="190" y="300" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="245" y="327" font-size="14" fill="#1e293b" text-anchor="middle">8</text>
+  <rect x="300" y="300" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="355" y="327" font-size="14" fill="#1e293b" text-anchor="middle">5</text>
+  <rect x="410" y="300" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="470" y="327" font-size="14" fill="#1e293b" text-anchor="middle">12</text>
+
+  <!-- Row 5: Pepsi Max -->
+  <rect x="50" y="345" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="65" y="372" font-size="14" fill="#1e293b">Pepsi Max</text>
+  <rect x="190" y="345" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="245" y="372" font-size="14" fill="#1e293b" text-anchor="middle">9</text>
+  <rect x="300" y="345" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="355" y="372" font-size="14" fill="#1e293b" text-anchor="middle">10</text>
+  <rect x="410" y="345" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="470" y="372" font-size="14" fill="#1e293b" text-anchor="middle">19</text>
+
+  <!-- Row 6: Schweppes -->
+  <rect x="50" y="390" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="65" y="417" font-size="14" fill="#1e293b">Schweppes</text>
+  <rect x="190" y="390" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="245" y="417" font-size="14" fill="#1e293b" text-anchor="middle">6</text>
+  <rect x="300" y="390" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="355" y="417" font-size="14" fill="#1e293b" text-anchor="middle">9</text>
+  <rect x="410" y="390" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="470" y="417" font-size="14" fill="#1e293b" text-anchor="middle">13</text>
+
+  <!-- Row 7: Canada Dry -->
+  <rect x="50" y="435" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="65" y="462" font-size="14" fill="#1e293b">Canada Dry</text>
+  <rect x="190" y="435" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="245" y="462" font-size="14" fill="#1e293b" text-anchor="middle">10</text>
+  <rect x="300" y="435" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="355" y="462" font-size="14" fill="#1e293b" text-anchor="middle">9</text>
+  <rect x="410" y="435" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="470" y="462" font-size="14" fill="#1e293b" text-anchor="middle">17</text>
+
+  <!-- Left Summary: Média -->
+  <rect x="50" y="480" width="140" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="65" y="507" font-size="14" font-weight="700" fill="#0f172a">Média</text>
+  <rect x="190" y="480" width="110" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="245" y="507" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">9</text>
+  <rect x="300" y="480" width="110" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="355" y="507" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">9</text>
+  <rect x="410" y="480" width="120" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="470" y="507" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">16</text>
+
+
+  <!-- ================= RIGHT TABLE: BANCOS (AUSTRALIA) ================= -->
+  <!-- Headers -->
+  <rect x="570" y="100" width="140" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="640" y="138" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Marca</text>
+
+  <rect x="710" y="100" width="110" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="765" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Diferente</text>
+  <text x="765" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">(%)</text>
+
+  <rect x="820" y="100" width="110" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="875" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Sem igual</text>
+  <text x="875" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">(%)</text>
+
+  <rect x="930" y="100" width="120" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="990" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Ou um ou</text>
+  <text x="990" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">outro (%)</text>
+
+  <!-- Right Rows -->
+  <!-- Row 1: ANZ -->
+  <rect x="570" y="165" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="585" y="192" font-size="14" fill="#1e293b">ANZ</text>
+  <rect x="710" y="165" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="765" y="192" font-size="14" fill="#1e293b" text-anchor="middle">12</text>
+  <rect x="820" y="165" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="875" y="192" font-size="14" fill="#1e293b" text-anchor="middle">4</text>
+  <rect x="930" y="165" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="990" y="192" font-size="14" fill="#1e293b" text-anchor="middle">15</text>
+
+  <!-- Row 2: CBA -->
+  <rect x="570" y="210" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="585" y="237" font-size="14" fill="#1e293b">CBA</text>
+  <rect x="710" y="210" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="765" y="237" font-size="14" fill="#1e293b" text-anchor="middle">12</text>
+  <rect x="820" y="210" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="875" y="237" font-size="14" fill="#1e293b" text-anchor="middle">12</text>
+  <rect x="930" y="210" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="990" y="237" font-size="14" fill="#1e293b" text-anchor="middle">19</text>
+
+  <!-- Row 3: NAB -->
+  <rect x="570" y="255" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="585" y="282" font-size="14" fill="#1e293b">NAB</text>
+  <rect x="710" y="255" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="765" y="282" font-size="14" fill="#1e293b" text-anchor="middle">8</text>
+  <rect x="820" y="255" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="875" y="282" font-size="14" fill="#1e293b" text-anchor="middle">12</text>
+  <rect x="930" y="255" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="990" y="282" font-size="14" fill="#1e293b" text-anchor="middle">12</text>
+
+  <!-- Row 4: Westpac -->
+  <rect x="570" y="300" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="585" y="327" font-size="14" fill="#1e293b">Westpac</text>
+  <rect x="710" y="300" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="765" y="327" font-size="14" fill="#1e293b" text-anchor="middle">9</text>
+  <rect x="820" y="300" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="875" y="327" font-size="14" fill="#1e293b" text-anchor="middle">6</text>
+  <rect x="930" y="300" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="990" y="327" font-size="14" fill="#1e293b" text-anchor="middle">11</text>
+
+  <!-- Row 5: St.George -->
+  <rect x="570" y="345" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="585" y="372" font-size="14" fill="#1e293b">St.George</text>
+  <rect x="710" y="345" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="765" y="372" font-size="14" fill="#1e293b" text-anchor="middle">26</text>
+  <rect x="820" y="345" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="875" y="372" font-size="14" fill="#1e293b" text-anchor="middle">16</text>
+  <rect x="930" y="345" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="990" y="372" font-size="14" fill="#1e293b" text-anchor="middle">32</text>
+
+  <!-- Row 6: (Empty Placeholder Row to match spacing) -->
+  <rect x="570" y="390" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <rect x="710" y="390" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <rect x="820" y="390" width="110" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <rect x="930" y="390" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+
+  <!-- Row 7: (Empty Placeholder Row to match spacing) -->
+  <rect x="570" y="435" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <rect x="710" y="435" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <rect x="820" y="435" width="110" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <rect x="930" y="435" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+
+  <!-- Right Summary: Média -->
+  <rect x="570" y="480" width="140" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="585" y="507" font-size="14" font-weight="700" fill="#0f172a">Média</text>
+  <rect x="710" y="480" width="110" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="765" y="507" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">13</text>
+  <rect x="820" y="480" width="110" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="875" y="507" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">10</text>
+  <rect x="930" y="480" width="120" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="990" y="507" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">18</text>
+
+
+  <!-- ================= FOOTER SECTION ================= -->
+  <!-- Observation Note -->
+  <text x="50" y="555" font-size="13.5" font-weight="700" fill="#1e293b">Observação:</text>
+  <text x="142" y="555" font-size="13.5" fill="#334155">As pontuações de diferenciação em geral são baixas.</text>
+  
+  <!-- Source Note -->
+  <text x="1050" y="585" font-size="13.5" fill="#64748b" text-anchor="end">Fonte: Ehrenberg-Bass Institute.</text>
+</svg>

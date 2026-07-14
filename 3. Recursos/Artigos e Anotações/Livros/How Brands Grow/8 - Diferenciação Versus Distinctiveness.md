@@ -91,8 +91,53 @@ Não são só as compras cotidianas, do dia a dia, que levam aos padrões descri
 
 Então, como os compradores escolhem entre as marcas? Eles têm de perceber que a marca que estão comprando é diferente? Precisam de um. motivo para comprar uma marca (além dos benefícios da categoria. como "tem gosta de sorvete" al "unciona como um cartãa de crédi to")? Um estudo sistemático de diferentes categorias de produtos e ser-Viços, países, métodos de pesquisa e tipos de perguntas revela dois sólidos padrões:
 
-1. Os compradores têm uma percepção muito fraca da diferenciação da maeca (mas isso não os impede de serem compradores fiéis de uma marca).
+1. Os compradores têm uma percepção muito fraca da diferenciação da marca (mas isso não os impede de serem compradores fiéis de uma marca).
 2. O nível de diferenciação percebida de uma marca é bastante similar.  
     ao das rivais.
 
 A Tabela 8.2 mostra a proporção de compradores regulares de uma marca que concordam que ela é diferente ou sem igual.
+![[percepçõesde diferenciação.svg|697]]
+
+Todos os mercados que analisamos utilizando dados que nós mesmos coletamos ou de outras pesquisas seguem um padrão similar: uma média de 10% dos usuários de qualquer marca acredita que sua escolhida é diferente. Pode ser que essas respostas reflitam certa apatia ao responder a questionários. No entanto, três indicadores sugerem que esse não é o caso.
+
+## Em primeiro lugar em todos os mercados havia marcas excepcionais com diferenças funcionais claras.
+Por exemplo, 67% dos respondentes classificaram como "diferente" a rede de supermercados Aldi, que não vende marcas nacionais, enquanto 50% classificaram como "sem igual a marca Subway, que vende exclusivamente sanduíches, quando ela tu incluída no mesmo grupo competitivo de fast-foods como McDonald's Dominos's e KFC. Essa foi a maneira que os entrevistados tiveram come indicar quando uma marca era percebida como diferenciada. No entanto, a maioria das marcas raramente foi considerada diferenciada
+
+## Em segundo lugar, as diferenças nas categorias refletiram nas respostas
+
+## Em terceiro lugar, os resultados mostram diferenças esperadas entre os mercados.
+
+Por exemplo, marcas de refrigerante são mais diferenciadas do que marcas de água mineral. Bebidas destiladas e cosméticos — duas categorias que escolhemos deliberadamente por serem bastante  
+"impulsionadas pela imagem" e por contarem com grandes verbas de publicidade — ficaram entre os níveis mais elevados de diferenciação percebida (apesar de esses níveis ainda serem baixos).
+
+Para verificar se essa descoberta não passava de um artefato da mensuração, também usamos um questionário com respostas em uma escala de 5 pontos (em que 1 não descreve a marca nem um pouco e 5 a descreve muito). A pontuação média foi de 2,5 — algumas marcas tiveram uma pontuação mais baixa do que o ponto médio neutro de 3 e a média de nenhuma delas chegou a 4 (uma pontuação que indicaria que os respondentes concordavam que a marca era diferente). **Desse modo, nossa constatação de que os consumidores quase não veem suas marcas como diferenciadas foi confirmada por meio de questionários do tipo "escolha qualquer alternativa" ou de uma escala de classificação fechada**.
+
+Foram constatados alguns desvios desse padrão geral, quando as marcas obtiveram sistematicamente níveis de resposta mais altos. Isso aconteceu com marcas pequenas e mais caras, e o resultado está em perfeita conformidade com a noção de que as marcas mais diferenciadas costumam ser menores ou que marcas menos populares são vistas como diferentes. Também foram constatados alguns desvios específicos relativos às marcas, mas eles relacionavam-se mais a grandes diferenças funcionais e menos à diferenciação da imagem. Sendo assim, a maioria dos compradores não afirma explicitamente se percebem que sua marca é diferenciada das outras. Seria questionável, portanto, declarar que o comportamento do comprador é motivado pelas percepções de diferenciação Da marca. Os compradores não precisam perceber uma diferenciação para comprar - ou continuar comprando - uma marca.
+
+### TABELA 8.3 Exemplos de resultados no nível da categoria
+
+|  | Compradores que consideram a marca diferente (%) | Compradores que consideram a marca sem igual (%) | Compradores que consideram a marca diferente ou sem igual (%) | Compradores que consideram que pelos menos uma marca possui um dos atributos (%) |
+| --- | --- | --- | --- | --- |
+| Bebidas destiladas | 20 | 27 | 36 | 71 |
+| Supermercados | 25 | 21 | 31 | 72 |
+| Cosméticos | 17 | 21 | 30 | 66 |
+| Sorvetes | 14 | 11 | 20 | 43 |
+| Fast-food | 16 | 13 | 20 | 64 |
+| Bancos | 13 | 10 | 18 | 73 |
+| Refrigerantes | 11 | 9 | 18 | 76 |
+| Condimentos | 10 | 9 | 17 | 67 |
+| Sucos naturais | 11 | 8 | 16 | 51 |
+| Molhos prontos | 9 | 7 | 14 | 53 |
+| Tecnologia da informação | 9 | 10 | 14 | 44 |
+| Sopas | 8 | 5 | 12 | 35 |
+| Iogurtes | 8 | 5 | 11 | 43 |
+| Carros | 9 | 6 | 11 | 66 |
+| Água mineral | 6 | 6 | 10 | 32 |
+| Eletroeletrônicos | 4 | 6 | 8 | 47 |
+| **Média** | **11** | **10** | **17** | **54** |
+**Fonte:** Romaniuk, Sharp e Ehrenberg, 2007.
+
+A Tabela 8.4 — que mostra alguns dados de marcas da categoria "tecnologia da informação" da Tabela 8.3 — ilustra esse fato com o exemplo da Apple, a garota-propaganda da diferenciação e fidelidade do cliente (como vimos no Capítulo 7). O nível de diferenciação percebida da Apple é superior ao de outras marcas da categoria, mas não pode ser considerado alto. A maioria (77%) dos usuários da Apple não percebe que a marca é diferente ou sem igual. Pode parecer surpreendente, já que os computadores da Apple têm uma aparência única e usam um sistema operacional diferente.? No entanto, a maioria dos usuários de computador tem pouco conhecimento técnico e poucos saberiam o que é um sistema operacional. O Macintosh, da Apple, é um computador com interface gráfica de usuário, mouse e teclado, roda programas, manda e-mails, navega na internet, armazena arquivos e assim por diante. Não é um absurdo que seus usuários considerem que ele faz praticamente as mesmas coisas que os outros computadores. Eles sem dúvida compram o Macintosh para fazer as mesmas coisas. Tudo indica que poucos compraram um Macintosh porque queriam um computador diferente. Eles o compraram por ser um bom computador, da mesma forma que os compradores de qualquer outra marca de computador.
+
+Muitos textos de marketing instruem os profissionais a ter como objetivo fazer com que os clientes percebam diferenças de valor entre as marcas. Contudo, até as equipes de marketing de marcas de enorme
+
