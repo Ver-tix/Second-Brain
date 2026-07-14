@@ -16,4 +16,4 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Grow/10 - O Que As Promoções de Preço Realmente Fazem|10 - O Que As Promoções de Preço Realmente Fazem]]
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Grow/11 - Por Que os Programas de Fidelidade Não Funcionam|11 - Por Que os Programas de Fidelidade Não Funcionam]]
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Grow/12 - Disponibilidade Física e Mental|12 - Disponibilidade Física e Mental]]
-- [[3. Recursos/Artigos e Anotações/Livros/How Brands Grow/13 - Uma Úlitma Observação|13 - Uma Úlitma Observação]]
+- [[13 - Uma Última Observação|13 - Uma Última Observação]]

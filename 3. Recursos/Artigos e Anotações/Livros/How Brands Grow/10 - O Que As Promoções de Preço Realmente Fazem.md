@@ -119,4 +119,22 @@ Usando esses três fatores, fica fácil criar cenários "de equilíbrio" (nem lu
 O aumento necessário nas vendas é dessa proporção porque uma redução do preço resulta na compra de um grande volume por consumidores que teriam comprado a marca de qualquer maneira, ao preço integral. Desse modo, o volume incremental precisa ser alto para "bancar" a margem perdida em relação ao que poderíamos chamar de "volume de referência". Isso está ilustrado na Figura 10.1. Vemos alguns picos claros nas vendas em liquidações de uma semana.
 
 ![[vendar de uma marca líder em cereais.png]]
-Outro fator que pode afetar a rentabilidade de uma promoção de preço em curto prazo é o fato de as vendas unitárias caírem imediatamente depois. Isso pode acontecer porque a promoção leva alguns consumidores a adiantar suas compras. Evidências empíricas sugerem que pode
+Outro fator que pode afetar a rentabilidade de uma promoção de preço em curto prazo é o fato de as vendas unitárias caírem imediatamente depois. Isso pode acontecer porque a promoção leva alguns consumidores a adiantar suas compras. Evidências empíricas sugerem que pode ocorrer um ponto mínimo no ciclo de vendas após uma promoção (Mace e Neslin, 2004; van Heerde, Leeflang e Wittink, 2000). Nesse caso, a promoção terá canibalizado algumas vendas futuras a preço e margem integrais, diluindo a rentabilidade potencial. Os gestores devem levar esse efeito em conta ao avaliar as promoções.
+
+Agora vamos comparar a fixação de preços e a publicidade como um meio de estimular a demanda (e manter a posição no mercado).
+
+# Comparação do preço versus publicidade
+
+Os cortes de preço têm um grande efeito direto, mas um pequeno alcance. A publicidade tem um grande alcance, mas um pequeno efeito direto no nível do consumidor individual. Podemos argumentar que a publicidade também tem um efeito mais duradouro, por trabalhar com propensões básicas, ao passo que a promoção de preço não afeta a propensão futura e não tem efeitos favoráveis em longo prazo.
+
+Podemos resumir o que foi dito nas seguintes observações:
+
+1. O alcance é importante para o crescimento da marca.
+2. Promoções nas lojas em geral não têm um bom alcance, mas os anúncios dos varejistas têm um alcance muito mais amplo.
+3. As promoções de preço podem não ser rentáveis, especialmente se o  
+    preço estiver muito reduzido.
+4. Os preços de referência podem acabar caindo, sobretudo se o preço estiver muito reduzido.
+
+No Entanto
+
+1. Os fabricantes com frequência são pressionados a realizar promoções de preço.
