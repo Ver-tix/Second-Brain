@@ -170,3 +170,44 @@ Não seria de surpreender se esse cartão tivesse uma base de clientes tendendo 
 | Clientes do cartão     | 37         | 63           | 15            | 32                   | 52                      | 1          |
 | Não Clientes do cartão | 42         | 58           | 12            | 34                   | 53                      | 1          |
 # Eu amo a minha mãe (e você ama a sua)
+E o que dizer das diferenças de visão de mundo entre os compradores de uma marca? Como explicamos anteriormente, os compradores de uma marca têm os mesmos valores que os de outras marcas (veja a Tabela 5.8). Mas e as atitudes do comprador em relação a sua marca?
+
+**TABELA 5.8** Desvios em pontos percentuais da norma da marca: valores dos usuários da marca
+
+
+| Marca de Cartão de crédito | As crianças podem se expressar com liberdade | Estou satisfeito com meu padrão de vida | Não suporto bagunça e desleixo | Tento me manter a par dos avanços tecnológicos | Estou sempre de olho em ofertas especiais |
+| -------------------------- | -------------------------------------------- | --------------------------------------- | ------------------------------ | ---------------------------------------------- | ----------------------------------------- |
+| Barclay Visa               | 0                                            | -1                                      | 0                              | 0                                              | -1                                        |
+| TSB Trustcard              | 0                                            | -2                                      | 2                              | -4                                             | 2                                         |
+| Access Natwest             | 1                                            | 0                                       | 1                              | 0                                              | -2                                        |
+| Access Midlands            | -1                                           | 0                                       | 1                              | 0                                              | -3                                        |
+| Access Lloyds              | 1                                            | 1                                       | 1                              | 1                                              | 1                                         |
+| Bank of Scotland Visa      | 2                                            | 2                                       | 0                              | 2                                              | 2                                         |
+Um ponto de variação claro entre os compradores de uma marca. em relação a outra é a decisão de comprar uma marca e não a outra. Isso afeta a atitude dos compradores em relação às marcas e seu conhecimento sobre elas. As pessoas tendem a ter opiniões sobre as marcas que compram e não pensar ou saber muito sobre as que não usam. O comportamento é um grande impulsionador da conscientização, das percepções e das atitudes.
+
+As atitudes refletem a frequência na qual um comprador adquire a marca, ou seja, refletem a fidelidade. Sabemos que as métricas de fidelidade não variam muito entre as diferentes marcas. Em consequência, os compradores da marca A têm a mesma opinião da marca A que os compradores da marca B têm da marca B. Chamo isso de "fenômeno da minha mãe": a minha mãe é a melhor mãe do mundo, ela é muito querida, mas também pode ser um pouco irritante às vezes. Você não diria o mesmo da sua mãe?
+
+Outro bom exemplo disso foi um levantamento global conduzido com turistas pelo Ehrenberg-Bass Institute. O levantamento perguntou aos turistas para onde eles viajaram nas últimas férias e qual a razão da escolha do destino. As respostas, dissertativas e qualitativas, foram analisadas para cada destino de férias, e os pesquisadores se surpreenderam ao notar uma grande semelhança nas respostas, mesmo quando se referiam a diferentes destinos:
+
+- Um lugar novo e empolgante.
+- Cultura e povo interessantes.
+- Boas opções de compras.
+- Um bom lugar para relaxar.
+
+É claro que as pessoas não falavam de neve se tinham ido para a praia nem de surfe se tinham ido para o campo. Mas, tirando essas diferenças descritivas, as motivações e os benefícios declarados pelos turistas foram impressionantemente similares. Essa é outra maneira na qual a base de clientes de uma marca é similar à de outras marcas.
+
+# Implicações
+A maior constatação é que as bases de clientes de marcas de uma categoria são bastante semelhantes, exceto o número de compradores. Uma maneira de ver isso é pensar que não existe um comprador de sorvete de baunilha e um tipo diferente de pessoa que compra sorvete de morango, mas só compradores de sorvete que às vezes compram sorvete de baunilha e muito ocasionalmente compram sorvete de morango.
+
+Quando as pesquisas de mercado mostram que a marca está vendendo a um perfil de comprador diferente das marcas concorrentes, é comum ouvir os profissionais de marketing afirmarem: "Tendemos a mulheres jovens, de modo que esse é nosso alvo de mídia". Mas essa lógica está equivocada. Na verdade, eles deveriam estar se perguntando: "Por quê? Há alguma coisa errada com nosso marketing? Estamos deixando de atingir alguns grupos demográficos (e pesando na mão em outros)?". É errado supor que uma marca atrai determinado tipo de comprador, mas isso não acontece com a maioria das marcas, nem deveria. Uma marca pode estar sendo vendida a consumidores com um perfil incomum (mais de alguns tipos de pessoas e menos de outros) por causa do tipo de promoção ou devido a um histórico de erros. Nada disso significa que a marca vai vender mais se for direcionada a esse público.
+
+Um desvio da norma precisa ser verificado com cuidado. A questão é se a marca deve ser promovida de acordo com essa inclinação ou seguir a norma da categoria. Em geral, a melhor opção será a última.
+
+É bem verdade que pode haver algumas diferenças esperadas, como marcas de cereais matinais açucarados consumidas mais por crianças e produtos caros vendidos a pessoas com recursos suficientes para comprá-los. Mas, dentro desses submercados, há pouca diferença entre as bases de usuários da marca. Por exemplo, a Versace vende aos mesmos compradores abastados que a Gucci."  
+A constatação é muito positiva. As implicações são que sua marca é irrestrita, no sentido do potencial de aumentar sua base de clientes. Como os compradores das outras marcas são exatamente como seus clientes, eles poderiam ser seus. Se seus compradores fossem realmente diferentes dos de outras marcas, isso sugeriria que sua marca é adequada para um tipo específico de comprador e que os outros tipos estão fora de seu alcance, o que levaria a crer que você já esgotou seu nicho e seu departamento de marketing não teria mais o que fazer.
+
+Considerando a clareza dessa constatação e a facilidade de coletar dados de perfil do consumidor, parece estranho que essa descoberta seja recebida com surpresa por tantos profissionais de marketing. Talvez isso aconteça porque esperamos ver diferenças.
+
+# Concorrência
+
+A boa notícia é que não existe qualquer obstáculo estrutural ao crescimento de sua marca. Os clientes de seus concorrentes poderiam muito bem ser seus. O único problema é que seus concorrentes também sabem disso e estão tentando roubar seus clientes. Desse modo, as marcas precisam de departamentos de marketing capazes de defendê-las.
