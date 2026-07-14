@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title Section -->
+  <text x="50" y="45" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    TABELA 12.4 “Balanço patrimonial” de marketing
+  </text>
+
+  <!-- ================= HEADER SECTION ================= -->
+  <!-- Column 1 Header (Deep Slate) -->
+  <rect x="50" y="80" width="300" height="110" fill="#1e293b" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="200" y="115" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Muitas chances de</text>
+  <text x="200" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">reforçar ou desenvolver</text>
+  <text x="200" y="155" font-size="14" font-weight="700" fill="#cbd5e1" text-anchor="middle">a disponibilidade física</text>
+  <text x="200" y="175" font-size="14" font-weight="700" fill="#cbd5e1" text-anchor="middle">e mental</text>
+
+  <!-- Column 2 Header (Medium Slate) -->
+  <rect x="350" y="80" width="300" height="110" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="500" y="115" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Poucas chances de</text>
+  <text x="500" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">reforçar ou desenvolver</text>
+  <text x="500" y="155" font-size="14" font-weight="700" fill="#cbd5e1" text-anchor="middle">a disponibilidade física</text>
+  <text x="500" y="175" font-size="14" font-weight="700" fill="#cbd5e1" text-anchor="middle">e mental</text>
+
+  <!-- Column 3 Header (Muted Slate) -->
+  <rect x="650" y="80" width="300" height="110" fill="#475569" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="800" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Desconhecido ou</text>
+  <text x="800" y="155" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">extremamente arriscado</text>
+
+
+  <!-- ================= DATA ROWS ================= -->
+  
+  <!-- Row 1 (White) -->
+  <rect x="50" y="190" width="300" height="60" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="213" font-size="13.5" fill="#1e293b" text-anchor="middle">Ampliação da</text>
+  <text x="200" y="231" font-size="13.5" fill="#1e293b" text-anchor="middle">distribuição</text>
+
+  <rect x="350" y="190" width="300" height="60" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="500" y="213" font-size="13.5" fill="#1e293b" text-anchor="middle">Cupons de desconto e</text>
+  <text x="500" y="231" font-size="13.5" fill="#1e293b" text-anchor="middle">promoções de preço</text>
+
+  <rect x="650" y="190" width="300" height="60" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="800" y="213" font-size="13.5" fill="#1e293b" text-anchor="middle">Anúncios contendo</text>
+  <text x="800" y="231" font-size="13.5" fill="#1e293b" text-anchor="middle">novas informações</text>
+
+
+  <!-- Row 2 (Slate-50) -->
+  <rect x="50" y="250" width="300" height="60" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="273" font-size="13.5" fill="#1e293b" text-anchor="middle">Conquista de um novo</text>
+  <text x="200" y="291" font-size="13.5" fill="#1e293b" text-anchor="middle">canal de distribuição</text>
+
+  <rect x="350" y="250" width="300" height="60" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="500" y="284" font-size="13.5" fill="#1e293b" text-anchor="middle">Mudanças na embalagem</text>
+
+  <rect x="650" y="250" width="300" height="60" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="800" y="284" font-size="13.5" fill="#1e293b" text-anchor="middle">Concorrência</text>
+
+
+  <!-- Row 3 (White) -->
+  <rect x="50" y="310" width="300" height="65" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="335" font-size="13.5" fill="#1e293b" text-anchor="middle">Uso coerente de</text>
+  <text x="200" y="353" font-size="13.5" fill="#1e293b" text-anchor="middle">
+    <tspan font-style="italic">distinctive assets</tspan> de uma marca
+  </text>
+
+  <rect x="350" y="310" width="300" height="65" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="500" y="347" font-size="13.5" fill="#1e293b" text-anchor="middle">Programas de fidelidade</text>
+
+  <rect x="650" y="310" width="300" height="65" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="800" y="330" font-size="13.5" fill="#1e293b" text-anchor="middle">Variantes temporárias</text>
+  <text x="800" y="348" font-size="13.5" fill="#1e293b" text-anchor="middle">do produto (por exemplo,</text>
+  <text x="800" y="366" font-size="13.5" fill="#1e293b" text-anchor="middle">edição limitada)</text>
+
+
+  <!-- Row 4 (Slate-50) -->
+  <rect x="50" y="375" width="300" height="60" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="399" font-size="13.5" fill="#1e293b" text-anchor="middle">Publicidade sistemática</text>
+  <text x="200" y="417" font-size="13.5" fill="#1e293b" text-anchor="middle">e regular</text>
+
+  <rect x="350" y="375" width="300" height="60" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <!-- Empty Cell -->
+
+  <rect x="650" y="375" width="300" height="60" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="800" y="409" font-size="13.5" fill="#1e293b" text-anchor="middle">Anúncios comparativos</text>
+
+
+  <!-- Row 5 (White) -->
+  <rect x="50" y="435" width="300" height="75" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="477" font-size="13.5" fill="#1e293b" text-anchor="middle">Mídias de amplo alcance</text>
+
+  <rect x="350" y="435" width="300" height="75" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <!-- Empty Cell -->
+
+  <rect x="650" y="435" width="300" height="75" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="800" y="457" font-size="13.5" fill="#1e293b" text-anchor="middle">Anúncios baseados em</text>
+  <text x="800" y="475" font-size="13.5" fill="#1e293b" text-anchor="middle">suspense (por exemplo, com</text>
+  <text x="800" y="493" font-size="13.5" fill="#1e293b" text-anchor="middle">o nome da marca oculto)</text>
+
+
+  <!-- Row 6 (Slate-50) -->
+  <rect x="50" y="510" width="300" height="65" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="530" font-size="13.5" fill="#1e293b" text-anchor="middle">Obtenção de espaço</text>
+  <text x="200" y="548" font-size="13.5" fill="#1e293b" text-anchor="middle">na prateleira em outra</text>
+  <text x="200" y="566" font-size="13.5" fill="#1e293b" text-anchor="middle">área de uma loja</text>
+
+  <rect x="350" y="510" width="300" height="65" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <!-- Empty Cell -->
+
+  <rect x="650" y="510" width="300" height="65" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <!-- Empty Cell -->
+
+
+  <!-- Row 7 (White) -->
+  <rect x="50" y="575" width="300" height="65" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="595" font-size="13.5" fill="#1e293b" text-anchor="middle">Ampla gama de variedades</text>
+  <text x="200" y="613" font-size="13.5" fill="#1e293b" text-anchor="middle">de produto e formatos e</text>
+  <text x="200" y="631" font-size="13.5" fill="#1e293b" text-anchor="middle">tamanhos de embalagem</text>
+
+  <rect x="350" y="575" width="300" height="65" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <!-- Empty Cell -->
+
+  <rect x="650" y="575" width="300" height="65" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <!-- Empty Cell -->
+</svg>
