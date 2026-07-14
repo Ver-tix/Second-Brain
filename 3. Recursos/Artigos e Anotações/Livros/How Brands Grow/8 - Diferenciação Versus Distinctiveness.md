@@ -32,3 +32,7 @@ Na Tabela 8.1, as marcas estão dispostas na ordem da quantidade de entrevistado
 2. Todas as marcas recebem pontuações bastante similares — com um ligeiro subpadrão de duplo risco (ou seja, as marcas menores têm uma pontuação um pouco mais baixa).
 
 Desse modo, todas as marcas são vistas de maneira bastante parecida pelos entrevistados que as conhecem. Até as marcas pequenas recebem um endosso similar de seus poucos compradores. Uma vez conhecidos esses padrões, fica fácil detectar as poucas exceções. Por exemplo, a Nokia e a Oracle (duas marcas de tecnologia) são consideradas mais "inovadoras". Não é uma história surpreendente nem empolgante.
+![[associação de marcas com atributos.svg|697]]
+
+
+# Personalidade da Marca
