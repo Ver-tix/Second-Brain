@@ -46,4 +46,44 @@ O analista deve determinar um período que seja suficiente para registrar o grau
 
 # Lei da Duplicação da compra
 Vamos ver a tabela de duplicação de compra de marcas de sorvete:
-![[duplicação de compra - sorvetes 2005.svg|697]]
+![[duplicação de compra - sorvetes 2005.svg|697]]A Tabela 6.3 revela três padrões surpreendentes:
+
+1. Todas as marcas compartilham uma parcela muito maior de sua base de clientes com a Walls Carte D'Or (maior participação de mercado) do que com a Mars (menor participação de mercado).
+2. E possível identificar uma semelhança no grau de compartilhamento com qualquer marca. Por exemplo, todas as marcas compartilharam 40% de seus clientes (com diferença para mais ou para menos de apenas alguns pontos percentuais) com a Walls Carte D'Or durante o período de análise.
+3. Aconteceram alguns desvios dos dois padrões acima. Por exemplo, a Ben & Jerry's compartilha mais clientes do que o esperado com a  
+    Häagen-Dazs.
+
+Os dois primeiros padrões refletem o que chamamos de lei da duplicação da compra. De acordo com essa lei, todas as marcas de uma categoria compartilham sua base de clientes com outras marcas de acordo com o tamanho dessas outras marcas. Em outras palavras, todas as marcas com partilham muitos clientes com as grandes marcas e poucos clientes com as pequenas marcas.
+
+A lei da duplicação da compra não se manteria se várias marcas conseguissem se direcionar a bases de clientes exclusivas ou a tipos específicos de pessoas diferentes dos compradores de outras marcas.4 No entanto, como vimos no Capítulo 5, as marcas rivais vendem para bases de clientes muito semelhantes.
+
+Na Tabela 6.3, as marcas foram classificadas por ordem de participação de mercado, tanto nas colunas como nas linhas, para ficar mais fácil ver que a duplicação de clientes cai acompanhando a queda do tamanho da participação de mercado. Todas as marcas compartilham o maior número de clientes com a Walls Carte D'OT, que é a maior marca da categoria, tendo cerca de três vezes a penetração de mercado da maioria das outras marcas da tabela.
+
+Munidos do conhecimento da lei da duplicação da compra, podemos identificar divisões de mercado: aglomerados de marcas cujas bases de clientes se sobrepõem mais de que o esperado. A lei também pode ser utilizada para identificar marcas que demonstram uma sobreposição excepcionalmente baixa de suas bases de clientes.
+
+Os dados de compra de sorvetes incluem marcas premium e não tão premium, marcas que só são vendidas em embalagens grandes e marcas que só são vendidas no formato de picolés ou casquinhas. Isso afeta sua distribuição, já que algumas lojas só vendem grandes embalagens e outras só vendem os formatos menores. Considerando essas notáveis diferenças funcionais, poderíamos esperar um mercado segmentado. No entanto, nos surpreendemos ao verificar que o mercado em geral não é segmentado ou, em outras palavras, o mercado não está muito longe de ser um mercado de massa. Isso é uma revelação.
+
+A única divisão clara está no fato de o compartilhamento de clientes entre a Ben & Jerry's e a Häagen-Dazs ser quase o dobro do compartilhamento com as outras marcas, embora seja interessante observar que os, clientes da Ben & Jerry's têm ainda mais chances de comprar sorvetes  
+Walls Carte D'Or do que a Häagen-Dazs. Com isso, a lei da duplicação da compra só é um pouco modificada, mas não chega a ser violada.
+
+Os profissionais de marketing frequentemente caem na armadilha de subestimar a verdadeira amplitude na qual a marca compete. Estudos de segmentação acabam exagerando diferenças muito pequenas e presumem que marcas com características diferentes (como níveis de preço diferentes) devem ser vendidas a pessoas diferentes ou em situações de compra diferentes. Essas premissas não raro são infundadas ou exageradas. E interessante começar a análise da duplicação da compra com uma definição de mercado bastante ampla e, se forem identificadas divisões, conduzir análises de duplicação separadas - por exemplo, uma categoria de sorvetes premium e uma categoria de sorvetes do dia-a-dia.
+
+# Aplicações Potenciais
+A lei da duplicação da compra pode ser utilizada para identificar partições e conhecer a estrutura de um mercado. Podemos usar a lei, com base nas compras dos clientes, para definir a categoria de produto. Isso costuma ser de enorme utilidade; no mínimo, ajuda a reduzir as discussões entre os gestores sobre a definição da categoria. E, também muito importante, esse conhecimento pode impedir a visão míope, orientada à produção, resultante de definições de categoria com base em características do produto ou processos de produção. Esse tipo de abordagem é muito comum nas empresas e em geral é restrita demais. Por exemplo, o mercado de chocolates pode ser dividido em dezenas de submercados (tabletes, barras, pedaços, bombons, calda, ovos e assim por diante). Essas definições de categoria baseadas no produto podem impedir os gestores de reconhecer quem são seus verdadeiros concorrentes e de saber como os clientes realmente compram.
+
+John Bound pesquisador do Ehrenberg-Bass Institute, conta uma história divertida de quando ele foi gerente de pesquisa de mercado da Aveia Quaker no Reino Unido. Na época, as empresas de pesquisas dividiam os cereais matinais em duas categorias, quente e fria (entre tantas outras). Um dia, alguém observou que os cereais matinais frios continuavam vendendo bem mesmo no inverno (que é realmente gelado na Inglaterra). Pesquisadores foram imediatamente enviados a campo para Investigar o que estava acontecendo e descobriram que os consumidores travessos estavam colocando leite quente no cereal matinal frios. Esse exemplo mostra que as definições de categoria orientadas aos produtos afastam os gestores de marca do comportamento de compra real.
+
+Até definições de categoria baseadas em situações de consumo (por exemplo, produtos para beliscar, para compartilhar, para presentear) muitas vezes resultam em definições de categoria artificiais e restritas. A realidade é que poucas marcas são compradas exclusivamente para situações de consumo específicas e as marcas que são compradas para uma ou outra situação variam de um consumidor ao outro e ao longo do tempo.
+
+Definições de categoria estreitas demais levam os gestores de marca a uma falsa sensação de segurança e podem resultar em metas de crescimento excessivamente conservadoras. Os gestores de marca preferem definições de categoria que dão a impressão de que sua marca detém uma participação de mercado considerável — ninguém quer ficar em décimo sétimo lugar. E é por essa razão que definições de categoria restritas costumam ser adotadas. Esse tipo de definição também faz com que o potencial de crescimento, em particular o potencial de penetração, pareça ser mais limitado do que realmente é.
+
+Além de orientar a definição da categoria e mostrar quais marcas competem com quais, a lei da duplicação da compra pode ser utilizada para prever de onde as novas marcas vão roubar vendas (e também pode estimar a canibalização das vendas de marcas irmãs). Tais informações são essenciais para planejar o lançamento de um novo produto.
+
+Essa lei também se revela na perda e na aquisição de clientes. A marca vai conquistar a maior parte de seus novos clientes das marcas maiores e também vai perder o maior número de seus clientes para as marcas maiores. Desse modo, a lei pode ser usada como referência de medida para a perda de clientes para os concorrentes e a aquisição de clientes dos concorrentes da marca.
+
+# Insights na Estratégia de Marketing
+A análise da duplicação da compra faz mais do que mostrar quem está competindo com quem. O fato de existir uma lei tão natural (que descreve com relativa precisão o compartilhamento de clientes na maioria das categorias) nos revela muito sobre o modo como as marcas competem em geral. Vivemos e trabalhamos em um mundo de mercados de massa. A Ben & Jerry's e a Häagen-Dazs, apesar de serem marcas concorrentes próximas, também competem com todas as outras marcas de sorvete, especialmente as grandes, como a Walls Carte D'Or. Padrões como esse são vistos no mundo todo e em diferentes categorias de pro-duto/serviço. Por exemplo, os novos clientes conquistados pela BMW na França são mais provenientes de marcas grandes não premium, como a Renault, a Citroën e a Peugeot, do que de marcas de luxo menores, como a Mercedes e a Audi (Ehrenberg, 1999).
+
+Os mercados têm partições, e as partições de preço/qualidade premium são particularmente comuns. Mas é razoável pensar nessas divisões como submercados (segmentações ou partições) e não como mercados completamente distintos.
+
+# Posicionamento e Divisão em Participações
