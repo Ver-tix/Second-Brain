@@ -102,28 +102,77 @@ _As marcas de dada categoria têm uma proporção de Pareto similar (Sharp e Rom
 
 **TABELA 4.2** Proporção de Pareto para marcas de uma seleção de categorias de produtos nos EUA
 
-| Produto                              | Média da marca (%) |
-| ------------------------------------ | ------------------ |
-| Ração para cachorros -  patê         | 56                 |
-| Ração para cachorros - sachê         | 65                 |
-| Ração para gatos - sachê             | 64                 |
-| Iogurte refrigerado                  | 60                 |
-| Condicionadores de cabelo            | 47                 |
-| Ração para gatos - seca              | 56                 |
-| Amaciantes de roupas - líquidos      | 51                 |
-| Ração para cachorros - seca          | 54                 |
-| Desodorantes - Spray                 | 48                 |
-| Desodorantes - colônia               | 48                 |
-| Manteiga e margarina                 | 53                 |
-| Sabão em pó - para tecidos delicados | 49                 |
-| Ração para gatos -                   | 46                 |
-|                                      | 42                 |
-|                                      | 54                 |
-|                                      | 45                 |
-|                                      | 46                 |
-|                                      | 53                 |
-|                                      | 43                 |
-|                                      | 44                 |
-|                                      | 35                 |
-|                                      | 64                 |
-|                                      | 51                 |
+| Produto                                 | Média da marca (%) |
+| --------------------------------------- | ------------------ |
+| Ração para cachorros -  patê            | 56                 |
+| Ração para cachorros - sachê            | 65                 |
+| Ração para gatos - sachê                | 64                 |
+| Iogurte refrigerado                     | 60                 |
+| Condicionadores de cabelo               | 47                 |
+| Ração para gatos - seca                 | 56                 |
+| Amaciantes de roupas - líquidos         | 51                 |
+| Ração para cachorros - seca             | 54                 |
+| Desodorantes - Spray                    | 48                 |
+| Desodorantes - colônia                  | 48                 |
+| Manteiga e margarina                    | 53                 |
+| Sabão em pó - para tecidos delicados    | 49                 |
+| Ração para gatos - patê                 | 46                 |
+| Xampu etc.                              | 42                 |
+| Cereais matinais                        | 54                 |
+| Detergente para máquinas de lavar louça | 45                 |
+| Desedorantes - bastão/sólido            | 46                 |
+| Sopa enlatada                           | 53                 |
+| Amaciantes de roupas - seco             | 43                 |
+| Desodorantes - *roll-on*                | 44                 |
+| Amaciantes de roupas - spray            | 35                 |
+| Refrigerantes                           | 64                 |
+| **Média**                                   | **51**                 |
+**TABELA 4.3 Resultados da proporção de Pareto na Austrá¡lia e na África do Sul**
+
+|**Austrália**|**Categoria (%)**|**Média da marca (%)**|
+|---|---|---|
+|Margarina e manteiga|42|60|
+|Cereais|46|60|
+|Sopas|52|53|
+|Xampus|55|46|
+|Condicionadores|51|48|
+|Sabão de lavar roupas - líquido|54|53|
+|Sabão de lavar roupas - em pó|44|48|
+|Detergentes para máquinas de lavar louça|39|42|
+|Iogurte e sobremesas lácteas|49|64|
+|Refrigerantes|53|65|
+|Desodorantes|48|51|
+|Ração para gatos - seca|44|57|
+|Ração para gatos - sachê|43|66|
+|**Média**|**48**|**55**|
+
+| **África do Sul**                        | **Categoria (%)** | **Média da marca (%)** |
+| ---------------------------------------- | ----------------- | ---------------------- |
+| Margarina e manteiga                     | 42                | 53                     |
+| Cereais                                  | 44                | 48                     |
+| Cereais para mingau                      | 48                | 49                     |
+| Sabão para lavar roupas                  | 35                | 48                     |
+| Detergentes                              | 47                | 50                     |
+| Detergentes para máquinas de lavar louça | 65                | 59                     |
+| Refrigerantes                            | 56                | 56                     |
+| Sopa enlatada                            | 49                | 36                     |
+| Sopas instantânea                        | 45                | 46                     |
+| Xampus e condicionadores                 | 60                | 47                     |
+| **Média**                                | **49**            | **49**                 |
+**Fonte:** Sharp e Romaniuk, 2007; dados da Nielsen Company.
+
+Se 80% de seus compradores gerassem apenas 20% de suas vendas anuais, seria tentador ignorá-los. Mas, se esses compradores eventuais gerassem cerca da metade de suas vendas, será que você os ignoraria? A lei de Pareto do marketing é importante, mas a proporção não é de 80/20 e as implicações tradicionais são incorretas.
+
+Normalmente, a lei de Pareto é usada para justificar uma estratégia que se concentra nos compradores frequentes da marca (por exemplo, Koch, 1999). Essa estratégia até tem seu mérito. Afinal, esses compradores valem mais e a equipe de marketing tem condições de justificar um investimento maior por comprador. No entanto, não é sensato fazer deles o principal foco das atividades de marketing. Ignorar os compradores eventuais e os não compradores de uma marca não leva ao crescimento (como vimos nos Capítulos 2 e 3).
+# Os compradores nem sempre são o que parecem
+A lógica que fundamenta a decisão de se direcionar aos compradores frequentes fica ainda mais comprometida pelo fato de o potencial de vendas futuras dos compradores individuais ser diferente do que seu comportamento atual de compra sugere. Isso é verdade mesmo que você tenha dados de vendas perfeitamente confiáveis sobre os compradores individuais e mesmo na ausência de qualquer mudança concreta no comportamento deles. Os não compradores e os compradores eventuais são mais frequentes do que você imagina, e os compradores frequentes também são mais eventuais. Isso fica bem claro em uma análise de dois anos de uma marca líder de ketchup nos Estados Unidos usando dados da IRI e da AC Nielsen (Anschuetz, 2002). Embora a marca tenha ficado estacionária (sem ganhar nem perder volume de vendas), 14% de suas vendas foram provenientes de famílias que não a compraram no ano an-terior; em outras palavras, foram provenientes de pessoas que a equipe de marketing teria rotulado como não compradores da marca. Enquanto o pequeno grupo (9%) de famílias compradoras frequentes gerou 34% do volume, essa proporção foi menor que os 43% que essas mesmas famílias geraram no primeiro ano, Veja a Tabela 4.4, que mostra que, com o tempo, os compradores frequentes se tornam mais eventuais, e os não compradores e os compradores eventuais, mais frequentes.
+
+Esse fenômeno é explicado por uma "regressão à média". Essa lei (que chamaremos de "lei da moderação do comprador" 4 aplica-se a todas as marcas e pode ser prevista com precisão com base na distribuição conhecida das frequências de compra.
+
+|Grupo de Compradores|Porcentagem da Amostra|Frequência de compras no ano 1|Volume de vendas da marca (5) Ano 1|Volume de vendas da marca (5) Ano 2|
+|---|---|---|---|---|
+|Não compradores|44|0|0|14|
+|Compradores eventuais|22|1|14|16|
+|Compradores moderados|25|2-4|43|36|
+|Compradores frequentes|9|5+|43|34|
+|Total|100||100|100|
