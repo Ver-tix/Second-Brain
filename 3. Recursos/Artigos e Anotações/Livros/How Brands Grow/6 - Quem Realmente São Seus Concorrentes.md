@@ -21,6 +21,29 @@ De acordo com Kotler e seus colegas (1998), as marcas deveriam direcionar-se a s
 
 A Tabela 6.1 mostra que várias marcas de refrigerante compartilham sua base de clientes com a Coca-Cola. Em outras palavras, mostra a proporção de clientes de todas as outras marcas de refrigerante que também compraram Coca-Cola durante o período analisado. Os dados são do TNS Impulse Panel (Reino Unido), e os escolhi especificamente por cobrirem consumidores que compram para consumo pessoal. Desse modo, o repertório de compras de marcas apresentado na tabela não se refere a marcas diferentes sendo compradas por pessoas diferentes da mesma família.
 
-| Compradores de marca X durante o pre |     |
-| ------------------------------------ | --- |
-|                                      |     |
+| Compradores da marca X durante o período de análise | Porcentagem de compradores de X que também compraram Coca-Cola (normal) durante o período |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Diet Coke                                           | 65                                                                                        |
+| Fanta                                               | 70                                                                                        |
+| Lilt                                                | 67                                                                                        |
+| Pepsi                                               | 72                                                                                        |
+| **Média**                                               | **69**                                                                                        |
+Como podemos observar, uma grande proporção de compradores de todas as marcas também comprou Coca-Cola e essa proporção varia pouco de uma marca a outra, sendo sempre de aproximadamente dois terços da base de clientes da marca. Essa evidência empírica se opõe à ideia de Kotler de que cada marca é vendida a segmentos de clientes diferentes. Na verdade, as marcas compartilham clientes. Aliás, várias dessas marcas são comercializadas pela própria Coca-Cola Company e compartilham seus clientes com a Coca-Cola da mesma forma que as marcas de empresas concorrentes.
+
+Os dados de compartilhamento de clientes esclarecem quem concorre com quem. Se as marcas forem rivais próximas, devem estar no repertório das mesmas pessoas ou, em outras palavras, devem compartilhar clientes. Pela lógica, as concorrentes diretas em uma categoria de produto devem exibir níveis mais elevados de compartilhamento e marcas direcionadas a segmentos diferentes devem compartilhar menos clientes.
+# Análise de Duplicação da Compra
+O mais extraordinário da análise de compartilhamento não é o fato e os compradores de Pepsi também comprarem da Coca-Cola (embora isso surpreenda algumas pessoas), mas o fato de **todas as marcas compartilharem uma proporção quase idêntica de sua base de clientes com a Coca-Cola**.
+
+Isso sugere que todas as marcas concorrem com a mesma proximidade com a Coca-Cola e que nenhuma delas vende a segmentos especiais ou distintos de compradores. Uma explicação para essa constatação pode ser o fato de a Coca-Cola ser tão grande. Talvez nenhuma marca de refrigerante consiga escapar da concorrência com ela. Mas como as marcas competem com concorrentes menores? Vamos expandir a análise para incluir todas as marcas de uma categoria.
+
+## A tabela de "duplicação da compra" 
+mostra o grau no qual as marcas de uma categoria compartilham seus compradores com todas as outras da categoria, ou seja, qual proporção de seus clientes também comprou outra marca específica durante o período. A Tabela 6.2 é uma tabela de duplicação da compra e não contém dados.
+![[gemini-svg.svg|683]]
+
+As células indicadas com 100% mostram a sobreposição de clientes da marca consigo mesma, que deve, pela lógica, ser sempre 100%. Em termos de apresentação dos dados, costuma ser interessante riscar essas células, já que elas não são necessárias.
+
+O analista deve determinar um período que seja suficiente para registrar o grau de compras repetidas, ou seja, um período suficientemente longo para permitir que a maioria das pessoas compre várias marcas. Desse modo, ao interpretar as tabelas de duplicação, devemos manter em mente que elas se referem a um período delimitado e que não existe uma métrica absoluta. Em outras palavras, não é possível simplesmente declarar "Setenta por cento dos compradores de Pepsi tomam Coca-Cola", já que esses 70% referem-se ao período de um ano.
+
+# Lei da Duplicação da compra
+Vamos ver a tabela de duplicação de compra de marcas de sorvete:
+![[duplicação de compra - sorvetes 2005.svg|697]]
