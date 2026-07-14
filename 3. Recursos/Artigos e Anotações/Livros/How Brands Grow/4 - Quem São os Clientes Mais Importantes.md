@@ -38,4 +38,92 @@ O comprador médio da Pepsi só compra nove vezes por ano, um consumo um pouco m
 Será que o mercado de refrigerantes de cola do Reino Unido é atípico? Como é o mercado dos Estados Unidos? A Figura 4.3 mostra o padrão de compras (dessa vez para famílias) de Coca-Cola nos Estados Unidos em 2007. O padrão de compras dos Estados Unidos é espantosamente semelhante ao do Reino Unido, porque esse padrão é generalizado ao redor do mundo. em diferentes períodos, em variadas categorias de produtos e para todos os diversos prestadores de pesquisas de mercado. 
 
 **FIGURA 4.3** Porcentagem de famílias dos Estados Unidos que compraram Coca-Cola x vezes, 2007
+![[Pasted image 20260714092703.png]]
 
+Desse modo, as marcas têm muitos compradores eventuais que compram a marca só ocasionalmente. Essas pessoas compram a marca com pouca frequência, tanto por não terem o costume de comprar da categoria como por comprarem várias marcas. Por exemplo, é muito comum para uma categoria de bens de consumo não duráveis de alto volume ser comprada em média menos de dez vezes por ano. Marcas dessas categorias só são compradas por seus consumidores três ou quatro vezes por ano, em media, e os compradores mais típicos as compram pouco mais de uma vez por ano.
+
+Os profissionais de marketing tendem a esquecer que os consumidores compram sua marca raramente. Eles costumam se surpreender ao constatar que sua métrica de frequência média de compra é bastante baixa (e concluem equivocadamente que isso significa que há muita margem para aumentar essa métrica com facilidade). Poucos se dão conta de que essa média ainda é muito "alta" se comparada com a média do comprador típico da marca e que seu cálculo não incluiu todas as pessoas que simplesmente não compraram a marca durante todo o período. A grande massa de compradores típicos só compra uma marca muito ocasionalmente.
+
+Esse fato também se revela nos mercados de serviços, nos quais uma grande proporção dos clientes faz boa parte de suas compras em outra marca. Por exemplo, no setor de serviços bancários pessoais, quase metade dos clientes de um banco mencionará outro banco como sua principal instituição financeira.
+
+Em um extremo do espectro de compra estão os consumidores que compram uma categoria com frequência,/alguns deles com muita frequência. Esses compradores são importantes por proporcionarem um grande volume de vendas, apesar de não serem numerosos. Por exemplo, os 4% ou mais de consumidores de Coca-Cola que compram a marca uma vez por semana ou mais (52 vezes ou mais por ano) geram quase um quarto do volume de vendas anual da marca.
+
+Por sorte, é relativamente fácil vender para esses compradores frequentes, porque a categoria e a marca são, em termos comparativos, muito mais importantes para eles do que para o comprador típico. Esses compradores frequentes têm muitas oportunidades de notar displays de promoção nos pontos de venda e mudanças nas embalagens (e supostamente são muito bons em se informar sobre promoções regulares). Também são muito mais receptivos à publicidade da marca: eles a notam mais e têm mais facilidade de processar e de se lembrar dos anúncios.
+
+Os compradores extremos, que tomam Coca-Cola de manha, a tarde e à noite, desenvolveram um hábito bastante arraigado. Eles dificilmente o abandonarão e podem até ser um pouco viciados no produto. Seria possível argumentar que há pouca necessidade de direcionar as ações de marketing a esses compradores, especialmente considerando que eles são comparativamente não responsivos à publicidade (ou seja, seu comportamento tende a não mudar em resposta à publicidade e sua frequência de compra não aumenta nem diminui). Eles vão continuar comprando em grandes volumes até alguma coisa acontecer e eles reduzirem as compras, abandonarem a marca ou largarem a categoria (ou morrerem), sendo que todos esses fatores estão fora do controle da marca.
+
+No outro extremo do espectro de compra estão os compradores típicos, muito raros.  
+Essas pessoas — que compõem a maior parte de seus consumidores - constituem um desafio de marketing, porque é difícil justificar gastar dinheiro nelas individualmente (ações de mala direta em geral estão fora de questão). No entanto, coletivamente, esses consumidores são importantes para o volume de vendas e oferecem um grande potencial de crescimento. Uma implicação da distribuição assimétrica das taxas de compra é o fato de que, para manter as vendas, a marca precisa se direcionar a essas massas de compradores, por duas razões:
+
+1. Esses compradores são muito numerosos.
+2. Eles compram com tão pouca frequência que podem facilmente se esquecer da marca.
+# A lei de Pareto (mas não como você a conhece)
+
+Você pode estar se perguntando se essa distribuição de frequências de compra nao tem alguma coisa a ver com a mais tamosa lei do marketing-80% das vendas provêm da categoria superior composta de 20% dos compradores da marca. Tem a ver, sim, e esse princípio fundamenta a lei de Pareto dos "80/20". No entanto, é importante saber que a "lei dos 80/20" não passa de uma simplificação enganosa. A proporção raramente chega a ser tão extrema quanto 80/20.
+
+A participação das compras feitas pelos 20% dos compradores de alta frequência de uma marca (a "proporção de Pareto") reflete a polarização das taxas de compra entre os compradores mais frequentes e os ocasionais. Em nosso exemplo da Coca-Cola, um grande número de consumidores de refrigerantes de cola compra Coca-Cola para si mesmos apenas umas poucas vezes por ano e um grupo menor compra com muito mais regularidade (uma vez por semana, diariamente ou mais).  
+Isso resulta em uma proporção de Pareto típica.
+
+Por outro lado, em algumas categorias, os consumidores são mais homogêneos. Por exemplo, a maioria das pessoas abastece o carro uma vez por semana. Um minúsculo grupo de pessoas não tem carro, mas mesmo assim elas ocasionalmente compram combustível quando alugam um carro — mas só algumas dessas pessoas são incluídas em um período de análise. Outras pessoas dirigem muito e abastecem duas ou até três vezes por semana. No entanto, a grande maioria compra combustível uma vez por semana (e nem os compradores frequentes compram muito mais do que isso), de modo que as taxas de compra não são polarizadas e a proporção de Pareto não é muito extrema.
+
+Segundo Schmittlein, Cooper e Morrison (1993), a métrica da proporção de Pareto depende do período de estudo. Em um período curto demais, todas as pessoas que compraram a marca terão comprado a uma taxa bastante similar; por exemplo, em uma semana, quase todas as pessoas que compraram terão comprado apenas uma vez, talvez algumas duas vezes, caso no qual os 20% dos compradores mais frequentes serão responsáveis por cerca de 20% das vendas (digamos 25/20). Com o passar do tempo, os compradores frequentes revelam sua verdadeira natureza e mostram que compram a marca com muito mais regularidade. Além disso, um número maior de compradores eventuais entra no período analisado comprando a marca apenas uma vez. Isso intensifica a polarização entre compradores frequentes e eventuais, levando a uma medida mais extrema da proporção de Pareto.
+
+Nossa pesquisa (Sharp e Romaniuk, 2007), que englobou muitas dezenas de marcas de diferentes categorias de produto, mostra que, em um período de três meses, uma marca de "bens de consumo de grande saída" normalmente terá uma proporção de Pareto de apenas 35%. Em um período de mais de um ano, essa métrica terá subido para mais de 50%, em geral não muito mais que isso, e raramente terá se aproximado dos famosos 80%.
+
+A Tabela 4.1 mostra que as marcas de dada categoria têm uma proporção de Pareto similar, e essa proporção também não varia muito de uma categoria à outra. A Tabela 4.2 contém dados do BrandScan da Nielsen relativos a 2007 apresentando as proporções de Pareto para marcas de uma seleção de categorias de produto nos Estados Unidos. Para demonstrar como esse padrão é generalizado em diferentes países, a Tabela 4-3 mostra algumas categorias de produto semelhantes na África do Sul e na Austrália.
+
+**TABELA 4.1 Proporção de Pareto para marcas da categoria de desodorantes**
+
+|**Marca**|**Participação de mercado (%)**|**% de vendas geradas pelos 20% compradores mais frequentes (3 meses)**|**% de vendas geradas pelos 20% compradores mais frequentes (12 meses)**|
+|---|---|---|---|
+|Sure|16|42|53|
+|Lynx|14|41|53|
+|Todas as outras|14|40|51|
+|Impulse|8|45|55|
+|Soft & Gentle|7|39|52|
+|Rightguard|7|39|51|
+|Dove|6|36|48|
+|Tesco|4|43|53|
+|Vaseline|3|39|51|
+|Asda|3|42|54|
+|Adidas|3|35|45|
+|Gillette Series|3|39|50|
+|Outras marcas|3|39|49|
+|Physio Sport|2|37|50|
+|Sanex|2|35|45|
+|Nivea|2|36|46|
+|Wilkinsons|1|41|54|
+|Arrid|1|37|45|
+|Natrel Plus|1|35|47|
+|Mum|1|35|46|
+|**Média**||**39**|**50**|
+_As marcas de dada categoria têm uma proporção de Pareto similar (Sharp e Romaniuk, 2007)._
+**Fonte de dados:** Kantar Worldpanel.
+
+**TABELA 4.2** Proporção de Pareto para marcas de uma seleção de categorias de produtos nos EUA
+
+| Produto                              | Média da marca (%) |
+| ------------------------------------ | ------------------ |
+| Ração para cachorros -  patê         | 56                 |
+| Ração para cachorros - sachê         | 65                 |
+| Ração para gatos - sachê             | 64                 |
+| Iogurte refrigerado                  | 60                 |
+| Condicionadores de cabelo            | 47                 |
+| Ração para gatos - seca              | 56                 |
+| Amaciantes de roupas - líquidos      | 51                 |
+| Ração para cachorros - seca          | 54                 |
+| Desodorantes - Spray                 | 48                 |
+| Desodorantes - colônia               | 48                 |
+| Manteiga e margarina                 | 53                 |
+| Sabão em pó - para tecidos delicados | 49                 |
+| Ração para gatos -                   | 46                 |
+|                                      | 42                 |
+|                                      | 54                 |
+|                                      | 45                 |
+|                                      | 46                 |
+|                                      | 53                 |
+|                                      | 43                 |
+|                                      | 44                 |
+|                                      | 35                 |
+|                                      | 64                 |
+|                                      | 51                 |
