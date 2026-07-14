@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title Section -->
+  <text x="50" y="45" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    FIGURA 9.1 Famílias compradoras da marca, dólares/1.000 famílias
+  </text>
+
+  <!-- Main Chart Area Border -->
+  <rect x="120" y="90" width="760" height="430" fill="none" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Divider Dotted Lines -->
+  <!-- Divider 1 (Pre-period boundary) -->
+  <line x1="380" y1="90" x2="380" y2="520" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4,4" />
+  <!-- Divider 2 (Within TV Ads period) -->
+  <line x1="630" y1="90" x2="630" y2="520" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4,4" />
+
+  <!-- Y-Axis Tick Marks -->
+  <line x1="120" y1="150" x2="112" y2="150" stroke="#1e293b" stroke-width="1.5" />
+  <line x1="120" y1="230" x2="112" y2="230" stroke="#1e293b" stroke-width="1.5" />
+  <line x1="120" y1="310" x2="112" y2="310" stroke="#1e293b" stroke-width="1.5" />
+  <line x1="120" y1="390" x2="112" y2="390" stroke="#1e293b" stroke-width="1.5" />
+  <line x1="120" y1="470" x2="112" y2="470" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Y-Axis Label (Rotated) -->
+  <text x="-305" y="90" transform="rotate(-90)" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">
+    Linha de base a cada quatro semanas em dólares/1.000 famílias
+  </text>
+
+  <!-- ================= SHADED AREA: PRESSÃO COMPETITIVA ================= -->
+  <polygon points="390,520 430,410 520,380 560,410 600,390 640,405 720,365 800,400 865,520" fill="#475569" opacity="0.8" />
+  <text x="630" y="465" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5px">
+    Pressão competitiva
+  </text>
+
+
+  <!-- ================= DATA SERIES LINES ================= -->
+  
+  <!-- Series 1: Expostas aos anúncios (Medium Gray Line) -->
+  <path d="M 250 185 L 520 215 L 760 205" fill="none" stroke="#64748b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Series 1 Markers -->
+  <rect x="246" y="181" width="8" height="8" fill="#64748b" />
+  <rect x="516" y="211" width="8" height="8" fill="#64748b" />
+  <rect x="756" y="201" width="8" height="8" fill="#64748b" />
+
+  <!-- Series 2: Não expostas aos anúncios (Dark Slate Line) -->
+  <path d="M 250 210 L 520 280 L 760 330" fill="none" stroke="#1e293b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Series 2 Markers -->
+  <rect x="246" y="206" width="8" height="8" fill="#1e293b" />
+  <rect x="516" y="276" width="8" height="8" fill="#1e293b" />
+  <rect x="756" y="326" width="8" height="8" fill="#1e293b" />
+
+
+  <!-- ================= VALUE BOXES & CONNECTORS ================= -->
+  
+  <!-- Box $269 -->
+  <line x1="247" y1="142" x2="250" y2="181" stroke="#475569" stroke-width="1" />
+  <rect x="210" y="110" width="75" height="32" fill="#ffffff" stroke="#1e293b" stroke-width="1.5" rx="3" />
+  <text x="247.5" y="131" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">$269</text>
+
+  <!-- Box $257 -->
+  <line x1="252" y1="245" x2="250" y2="214" stroke="#475569" stroke-width="1" />
+  <rect x="215" y="245" width="75" height="32" fill="#ffffff" stroke="#1e293b" stroke-width="1.5" rx="3" />
+  <text x="252.5" y="266" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">$257</text>
+
+  <!-- Box $250 -->
+  <line x1="520" y1="182" x2="520" y2="211" stroke="#475569" stroke-width="1" />
+  <rect x="482" y="150" width="75" height="32" fill="#ffffff" stroke="#1e293b" stroke-width="1.5" rx="3" />
+  <text x="519.5" y="171" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">$250</text>
+
+  <!-- Box $212 -->
+  <line x1="520" y1="305" x2="520" y2="284" stroke="#475569" stroke-width="1" />
+  <rect x="482" y="305" width="75" height="32" fill="#ffffff" stroke="#1e293b" stroke-width="1.5" rx="3" />
+  <text x="519.5" y="326" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">$212</text>
+
+  <!-- Box $258 -->
+  <line x1="760" y1="172" x2="760" y2="201" stroke="#475569" stroke-width="1" />
+  <rect x="722" y="140" width="75" height="32" fill="#ffffff" stroke="#1e293b" stroke-width="1.5" rx="3" />
+  <text x="759.5" y="161" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">$258</text>
+
+  <!-- Box $192 -->
+  <line x1="760" y1="355" x2="760" y2="334" stroke="#475569" stroke-width="1" />
+  <rect x="722" y="355" width="75" height="32" fill="#ffffff" stroke="#1e293b" stroke-width="1.5" rx="3" />
+  <text x="759.5" y="376" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">$192</text>
+
+
+  <!-- ================= SERIES LABELS ================= -->
+  <text x="760" y="120" font-size="13" font-weight="700" fill="#475569" text-anchor="middle">Expostas aos anúncios</text>
+  <text x="760" y="415" font-size="13" font-weight="700" fill="#1e293b" text-anchor="middle">Não expostas aos anúncios</text>
+
+
+  <!-- ================= X-AXIS LABELS ================= -->
+  <text x="250" y="555" font-size="16" font-weight="700" fill="#1e293b" text-anchor="middle">Pré-período</text>
+  <text x="630" y="555" font-size="16" font-weight="700" fill="#1e293b" text-anchor="middle">Anúncios de TV no ar</text>
+
+
+  <!-- ================= FOOTER ================= -->
+  <text x="900" y="605" font-size="14" fill="#64748b" text-anchor="end">Fonte: Flaherty, 2007.</text>
+</svg>
