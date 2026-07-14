@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title Section -->
+  <text x="50" y="45" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    TABELA 7.3 Estabilidade da imagem da marca de um levantamento ao outro: marcas
+  </text>
+  <text x="50" y="70" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    australianas de serviços financeiros
+  </text>
+
+  <!-- ================= HEADER SECTION ================= -->
+  <!-- Super Header: Afirmação -->
+  <rect x="50" y="100" width="900" height="60" fill="#1e293b" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="500" y="126" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Concorda com a afirmação "A marca me valoriza como pessoa</text>
+  <text x="500" y="146" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">e não como mera transação"</text>
+
+  <!-- Column 1: Marcas -->
+  <rect x="50" y="160" width="180" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" />
+  <text x="140" y="198" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Marcas</text>
+
+  <!-- Column 2: Concordância inicial (%) -->
+  <rect x="230" y="160" width="220" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" />
+  <text x="340" y="190" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Concordância</text>
+  <text x="340" y="210" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">inicial (%)</text>
+
+  <!-- Column 3: Concordância repetida (%) -->
+  <rect x="450" y="160" width="220" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" />
+  <text x="560" y="190" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Concordância</text>
+  <text x="560" y="210" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">repetida (%)</text>
+
+  <!-- Column 4: Respondentes que concordaram nos dois levantamentos (%) -->
+  <rect x="670" y="160" width="280" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" />
+  <text x="810" y="184" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Respondentes que</text>
+  <text x="810" y="201" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">concordaram nos dois</text>
+  <text x="810" y="218" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">levantamentos (%)</text>
+
+
+  <!-- ================= DATA ROWS ================= -->
+  
+  <!-- Row 1: ANZ -->
+  <rect x="50" y="225" width="180" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="75" y="252" font-size="14" font-weight="600" fill="#1e293b">ANZ</text>
+  
+  <rect x="230" y="225" width="220" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="340" y="252" font-size="14" fill="#1e293b" text-anchor="middle">11</text>
+  
+  <rect x="450" y="225" width="220" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="560" y="252" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">53</text>
+  
+  <rect x="670" y="225" width="280" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="810" y="252" font-size="14" fill="#1e293b" text-anchor="middle">0,53 × 11 = 6%</text>
+
+  <!-- Row 2: St.George -->
+  <rect x="50" y="270" width="180" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="75" y="297" font-size="14" font-weight="600" fill="#1e293b">St.George</text>
+  
+  <rect x="230" y="270" width="220" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="340" y="297" font-size="14" fill="#1e293b" text-anchor="middle">11</text>
+  
+  <rect x="450" y="270" width="220" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="560" y="297" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">35</text>
+  
+  <rect x="670" y="270" width="280" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="810" y="297" font-size="14" fill="#1e293b" text-anchor="middle">0,35 × 11 = 4%</text>
+
+  <!-- Row 3: NAB -->
+  <rect x="50" y="315" width="180" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="75" y="342" font-size="14" font-weight="600" fill="#1e293b">NAB</text>
+  
+  <rect x="230" y="315" width="220" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="340" y="342" font-size="14" fill="#1e293b" text-anchor="middle">11</text>
+  
+  <rect x="450" y="315" width="220" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="560" y="342" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">44</text>
+  
+  <rect x="670" y="315" width="280" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="810" y="342" font-size="14" fill="#1e293b" text-anchor="middle">0,44 × 11 = 5%</text>
+
+  <!-- Row 4: Colonial -->
+  <rect x="50" y="360" width="180" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="75" y="387" font-size="14" font-weight="600" fill="#1e293b">Colonial</text>
+  
+  <rect x="230" y="360" width="220" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="340" y="387" font-size="14" fill="#1e293b" text-anchor="middle">6</text>
+  
+  <rect x="450" y="360" width="220" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="560" y="387" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">33</text>
+  
+  <rect x="670" y="360" width="280" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="810" y="387" font-size="14" fill="#1e293b" text-anchor="middle">0,33 × 6 = 2%</text>
+
+
+  <!-- ================= SUMMARY ROW ================= -->
+  <!-- Taxa média de repetição (Merged Col 1 & 2) -->
+  <rect x="50" y="405" width="400" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="75" y="432" font-size="14" font-weight="700" fill="#1e293b">Taxa média de repetição</text>
+  
+  <!-- Value 37 -->
+  <rect x="450" y="405" width="220" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="560" y="432" font-size="15" font-weight="800" fill="#0f172a" text-anchor="middle">37</text>
+  
+  <!-- Empty space under Col 4 -->
+  <rect x="670" y="405" width="280" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+
+
+  <!-- ================= FOOTER NOTES ================= -->
+  <!-- Observation Note -->
+  <text x="50" y="485" font-size="13.5" font-weight="700" fill="#1e293b">Observação:</text>
+  <text x="142" y="485" font-size="13.5" fill="#334155">As taxas de repetição são sempre baixas; em geral, menos de 50% das pessoas</text>
+  <text x="50" y="506" font-size="13.5" fill="#334155">que concordaram com a afirmação em um levantamento voltam a concordar em outra</text>
+  <text x="50" y="527" font-size="13.5" fill="#334155">entrevista.</text>
+
+  <!-- Source -->
+  <text x="950" y="580" font-size="13.5" fill="#64748b" text-anchor="end">Fonte: Ehrenberg-Bass Institute.</text>
+</svg>

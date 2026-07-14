@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title Section -->
+  <text x="50" y="45" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    TABELA 7.4 Estabilidade da imagem da marca de um levantamento ao outro: várias
+  </text>
+  <text x="50" y="70" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    categorias, tipos diferentes de imagem da marca
+  </text>
+
+  <!-- ================= HEADER SECTION ================= -->
+  <!-- Column 1: Categoria -->
+  <rect x="50" y="100" width="250" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="175" y="138" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Categoria</text>
+
+  <!-- Column 2: Imagem da marca -->
+  <rect x="300" y="100" width="320" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="460" y="138" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Imagem da marca</text>
+
+  <!-- Column 3: Concordância inicial (%) -->
+  <rect x="620" y="100" width="160" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="700" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Concordância</text>
+  <text x="700" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">inicial (%)</text>
+
+  <!-- Column 4: Concordância repetida (%) -->
+  <rect x="780" y="100" width="170" height="65" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="865" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Concordância</text>
+  <text x="865" y="148" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">repetida (%)</text>
+
+
+  <!-- ================= DATA ROWS ================= -->
+  
+  <!-- Row 1: Restaurantes fast-food / Bom para fazer um lanche -->
+  <rect x="50" y="165" width="250" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="175" y="198" font-size="14" fill="#1e293b" text-anchor="middle">Restaurantes <tspan font-style="italic">fast-food</tspan></text>
+  
+  <rect x="300" y="165" width="320" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="460" y="198" font-size="14" fill="#1e293b" text-anchor="middle">Bom para fazer um lanche</text>
+  
+  <rect x="620" y="165" width="160" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="700" y="198" font-size="14" fill="#1e293b" text-anchor="middle">29</text>
+  
+  <rect x="780" y="165" width="170" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="865" y="198" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">56</text>
+
+  <!-- Row 2: Bancos / Progressista -->
+  <rect x="50" y="220" width="250" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="175" y="253" font-size="14" fill="#1e293b" text-anchor="middle">Bancos</text>
+  
+  <rect x="300" y="220" width="320" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="460" y="253" font-size="14" fill="#1e293b" text-anchor="middle">Progressista</text>
+  
+  <rect x="620" y="220" width="160" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="700" y="253" font-size="14" fill="#1e293b" text-anchor="middle">22</text>
+  
+  <rect x="780" y="220" width="170" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="865" y="253" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">47</text>
+
+  <!-- Row 3: Bancos / Especialista em suas áreas de atuação -->
+  <rect x="50" y="275" width="250" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="175" y="308" font-size="14" fill="#1e293b" text-anchor="middle">Bancos</text>
+  
+  <rect x="300" y="275" width="320" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="460" y="298" font-size="14" fill="#1e293b" text-anchor="middle">Especialista em suas áreas</text>
+  <text x="460" y="318" font-size="14" fill="#1e293b" text-anchor="middle">de atuação</text>
+  
+  <rect x="620" y="275" width="160" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="700" y="308" font-size="14" fill="#1e293b" text-anchor="middle">21</text>
+  
+  <rect x="780" y="275" width="170" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="865" y="308" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">48</text>
+
+  <!-- Row 4: Seguradoras / Rápido atendimento -->
+  <rect x="50" y="330" width="250" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="175" y="363" font-size="14" fill="#1e293b" text-anchor="middle">Seguradoras</text>
+  
+  <rect x="300" y="330" width="320" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="460" y="363" font-size="14" fill="#1e293b" text-anchor="middle">Rápido atendimento</text>
+  
+  <rect x="620" y="330" width="160" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="700" y="363" font-size="14" fill="#1e293b" text-anchor="middle">17</text>
+  
+  <rect x="780" y="330" width="170" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="865" y="363" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">42</text>
+
+  <!-- Row 5: Supermercados / Vende frutas de baixa qualidade -->
+  <rect x="50" y="385" width="250" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="175" y="418" font-size="14" fill="#1e293b" text-anchor="middle">Supermercados</text>
+  
+  <rect x="300" y="385" width="320" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="460" y="408" font-size="14" fill="#1e293b" text-anchor="middle">Vende frutas de baixa</text>
+  <text x="460" y="428" font-size="14" fill="#1e293b" text-anchor="middle">qualidade</text>
+  
+  <rect x="620" y="385" width="160" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="700" y="418" font-size="14" fill="#1e293b" text-anchor="middle">14</text>
+  
+  <rect x="780" y="385" width="170" height="55" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="865" y="418" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">36</text>
+
+  <!-- Row 6: Bebidas alcoólicas destiladas / Sem igual -->
+  <rect x="50" y="440" width="250" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="175" y="463" font-size="14" fill="#1e293b" text-anchor="middle">Bebidas alcoólicas</text>
+  <text x="175" y="483" font-size="14" fill="#1e293b" text-anchor="middle">destiladas</text>
+  
+  <rect x="300" y="440" width="320" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="460" y="473" font-size="14" fill="#1e293b" text-anchor="middle">Sem igual</text>
+  
+  <rect x="620" y="440" width="160" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="700" y="473" font-size="14" fill="#1e293b" text-anchor="middle">10</text>
+  
+  <rect x="780" y="440" width="170" height="55" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="865" y="473" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">36</text>
+
+
+  <!-- ================= FOOTER NOTES ================= -->
+  <!-- Observation Note -->
+  <text x="50" y="535" font-size="13.5" font-weight="700" fill="#1e293b">Observação:</text>
+  <text x="142" y="535" font-size="13.5" fill="#334155">As taxas de repetição costumam ser baixas; em geral, menos de 50% das pessoas</text>
+  <text x="50" y="556" font-size="13.5" fill="#334155">que concordaram com a afirmação em um levantamento voltam a concordar em outra</text>
+  <text x="50" y="577" font-size="13.5" fill="#334155">entrevista.</text>
+</svg>
