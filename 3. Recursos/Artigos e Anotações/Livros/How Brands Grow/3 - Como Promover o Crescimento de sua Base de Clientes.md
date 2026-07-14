@@ -118,6 +118,12 @@ Uma explicação simples para o padrão descrito no item anterior é que a perda
 |BankSA|1,4|5,0|
 |Adelaide Bank|0,8|7,0|
 |**Taxa de abandono média**||**4,8**|
-
 **Fonte:** Roy Morgan Research.
 
+A menor marca, o Adelaide Bank, é um pequeno banco regional com agências quase exclusivamente em Adelaide. O CBA, o maior banco por uma margem considerável, tem agências em todas as maiores cidades e centros regionais do país. Se uma pessoa se mudar de Adelaide para Sydney (cerca de 20% dos australianos se mudam a cada ano) e for cliente do Adelaide Bank, ficará muito longe da agência mais próxima. Nesse caso, ela tenderá a trocar de banco, escolhendo um com agências em Sydney. No entanto, se a pessoa já for cliente do CBA, serão maiores as chances de ela só trocar de agência quando se mudar para Sydney.
+
+Essas diferenças na distribuição física parecem explicar quase totalmente o padrão de duplo risco das taxas de abandono no setor bancário.   Desse modo, o nível de abandono comparativamente alto do Adelaide  Bank (o dobro do CBA) provavelmente não tem nada a ver com a diferença na satisfação do cliente nem pode ser visto como um indicador de que o CBA tem um programa de retenção superior. Essa diferença é explicada simplesmente pelo fato de o Adelaide Bank ser menor que o CBA e ter menos agências, de modo que deve ter mais abandono de clientes.   Portanto, o Adelaide Bank não deveria se preocupar com sua taxa de abandono mais alta, já que o banco praticamente não pode fazer nada a respeito, a menos que consiga aumentar acentuadamente sua participação de mercado.
+
+Não é de surpreender que as pesquisas voltadas a analisar as razões de abandono (Bogomolova e Romaniuk, 2005; Lees, Garland e Wright, 2007) tenham demonstrado que grande parte dele se deve a razões totalmente fora do controle da empresa (clientes mudando de cidade, não precisando mais do serviço etc.). Além disso, todas as marcas enfrentam muita concorrência e os concorrentes estão sempre tentando atrair novos clientes. Por mais que você cuide de seus clientes, de vez em quando um concorrente vai conseguir roubar alguns deles.
+# A aquisição d clientes não é opcional
+A ideia de que a aquisição de clientes deve ser essencial para o cresci mento está longe de ser revolucionária, mas ela costuma ser deixada de lado por causa da ênfase atual na segmentação, no marketing de banco de dados, no CRM e em programas de fidelidade. As evidências concretas do mundo real são mais do que claras: é essencial adquirir clientes. mesmo que seja só para manter a marca.
