@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1100" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title -->
+  <text x="50" y="55" font-size="22" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    TABELA 7.1 Os compradores 100% fiéis à marca são a minoria
+  </text>
+
+  <!-- ================= HEADER SECTION ================= -->
+  <!-- Col 1: Produto -->
+  <rect x="50" y="90" width="230" height="80" fill="#334155" stroke="#ffffff" stroke-width="2" rx="4" />
+  <text x="165" y="136" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Produto</text>
+
+  <!-- Col 2: Taxa anual de compra da categoria (média) -->
+  <rect x="280" y="90" width="230" height="80" fill="#334155" stroke="#ffffff" stroke-width="2" rx="4" />
+  <text x="395" y="118" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Taxa anual</text>
+  <text x="395" y="136" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">de compra da</text>
+  <text x="395" y="154" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">categoria (média)</text>
+
+  <!-- Col 3: Tamanho da marca (participação de mercado) (%) -->
+  <rect x="510" y="90" width="220" height="80" fill="#334155" stroke="#ffffff" stroke-width="2" rx="4" />
+  <text x="620" y="118" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Tamanho da marca</text>
+  <text x="620" y="136" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">(participação de</text>
+  <text x="620" y="154" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">mercado) (%)</text>
+
+  <!-- Col 4: Compradores 100% fiéis entre os compradores da marca (%) -->
+  <rect x="730" y="90" width="220" height="80" fill="#334155" stroke="#ffffff" stroke-width="2" rx="4" />
+  <text x="840" y="110" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Compradores 100%</text>
+  <text x="840" y="128" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">fiéis entre os</text>
+  <text x="840" y="146" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">compradores da</text>
+  <text x="840" y="164" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">marca (%)</text>
+
+
+  <!-- ================= DATA ROWS ================= -->
+  
+  <!-- CATEGORY 1: Analgésicos (y=170) -->
+  <rect x="50" y="170" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="65" y="192" font-size="14" font-weight="700" fill="#ffffff">Analgésicos</text>
+  <rect x="280" y="170" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="395" y="192" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">5,1</text>
+  <rect x="510" y="170" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="730" y="170" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+
+  <!-- Tesco -->
+  <rect x="50" y="205" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="227" font-size="14" fill="#1e293b">Tesco</text>
+  <rect x="280" y="205" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="205" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="227" font-size="14" fill="#1e293b" text-anchor="middle">22</text>
+  <rect x="730" y="205" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="227" font-size="14" fill="#1e293b" text-anchor="middle">37</text>
+
+  <!-- Nurofen -->
+  <rect x="50" y="240" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="262" font-size="14" fill="#1e293b">Nurofen</text>
+  <rect x="280" y="240" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="240" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="262" font-size="14" fill="#1e293b" text-anchor="middle">8</text>
+  <rect x="730" y="240" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="262" font-size="14" fill="#1e293b" text-anchor="middle">28</text>
+
+  <!-- Boots -->
+  <rect x="50" y="275" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="297" font-size="14" fill="#1e293b">Boots</text>
+  <rect x="280" y="275" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="275" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="297" font-size="14" fill="#1e293b" text-anchor="middle">3</text>
+  <rect x="730" y="275" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="297" font-size="14" fill="#1e293b" text-anchor="middle">26</text>
+
+  <!-- Panadol -->
+  <rect x="50" y="310" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="332" font-size="14" fill="#1e293b">Panadol</text>
+  <rect x="280" y="310" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="310" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="332" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+  <rect x="730" y="310" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="332" font-size="14" fill="#1e293b" text-anchor="middle">29</text>
+
+
+  <!-- CATEGORY 2: Desodorantes (y=345) -->
+  <rect x="50" y="345" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="65" y="367" font-size="14" font-weight="700" fill="#ffffff">Desodorantes</text>
+  <rect x="280" y="345" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="395" y="367" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">5,6</text>
+  <rect x="510" y="345" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="730" y="345" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+
+  <!-- Lynx -->
+  <rect x="50" y="380" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="402" font-size="14" fill="#1e293b">Lynx</text>
+  <rect x="280" y="380" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="380" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="402" font-size="14" fill="#1e293b" text-anchor="middle">17</text>
+  <rect x="730" y="380" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="402" font-size="14" fill="#1e293b" text-anchor="middle">21</text>
+
+  <!-- Dove -->
+  <rect x="50" y="415" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="437" font-size="14" fill="#1e293b">Dove</text>
+  <rect x="280" y="415" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="415" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="437" font-size="14" fill="#1e293b" text-anchor="middle">7</text>
+  <rect x="730" y="415" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="437" font-size="14" fill="#1e293b" text-anchor="middle">17</text>
+
+  <!-- Tesco -->
+  <rect x="50" y="450" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="472" font-size="14" fill="#1e293b">Tesco</text>
+  <rect x="280" y="450" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="450" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="472" font-size="14" fill="#1e293b" text-anchor="middle">4</text>
+  <rect x="730" y="450" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="472" font-size="14" fill="#1e293b" text-anchor="middle">14</text>
+
+  <!-- Nivea -->
+  <rect x="50" y="485" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="507" font-size="14" fill="#1e293b">Nivea</text>
+  <rect x="280" y="485" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="485" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="507" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+  <rect x="730" y="485" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="507" font-size="14" fill="#1e293b" text-anchor="middle">10</text>
+
+
+  <!-- CATEGORY 3: Batatas chips (y=520) -->
+  <rect x="50" y="520" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="65" y="542" font-size="14" font-weight="700" fill="#ffffff">Batatas chips</text>
+  <rect x="280" y="520" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="395" y="542" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">17,5</text>
+  <rect x="510" y="520" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="730" y="520" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+
+  <!-- Walkers -->
+  <rect x="50" y="555" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="577" font-size="14" fill="#1e293b">Walkers</text>
+  <rect x="280" y="555" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="555" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="577" font-size="14" fill="#1e293b" text-anchor="middle">68</text>
+  <rect x="730" y="555" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="577" font-size="14" fill="#1e293b" text-anchor="middle">37</text>
+
+  <!-- KP -->
+  <rect x="50" y="590" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="612" font-size="14" fill="#1e293b">KP</text>
+  <rect x="280" y="590" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="590" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="612" font-size="14" fill="#1e293b" text-anchor="middle">7</text>
+  <rect x="730" y="590" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="612" font-size="14" fill="#1e293b" text-anchor="middle">6</text>
+
+  <!-- Kettle Foods -->
+  <rect x="50" y="625" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="647" font-size="14" fill="#1e293b">Kettle Foods</text>
+  <rect x="280" y="625" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="625" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="647" font-size="14" fill="#1e293b" text-anchor="middle">1</text>
+  <rect x="730" y="625" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="647" font-size="14" fill="#1e293b" text-anchor="middle">10</text>
+
+
+  <!-- CATEGORY 4: Cereais matinais prontos para o consumo (y=660, h=50) -->
+  <rect x="50" y="660" width="230" height="50" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="65" y="681" font-size="13" font-weight="700" fill="#ffffff">Cereais matinais</text>
+  <text x="65" y="699" font-size="13" font-weight="700" fill="#ffffff">prontos para o consumo</text>
+  <rect x="280" y="660" width="230" height="50" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="395" y="690" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">21,5</text>
+  <rect x="510" y="660" width="220" height="50" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="730" y="660" width="220" height="50" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+
+  <!-- Kellogg's -->
+  <rect x="50" y="710" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="732" font-size="14" fill="#1e293b">Kellogg's</text>
+  <rect x="280" y="710" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="710" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="732" font-size="14" fill="#1e293b" text-anchor="middle">29</text>
+  <rect x="730" y="710" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="732" font-size="14" fill="#1e293b" text-anchor="middle">7</text>
+
+  <!-- Cereal Partners -->
+  <rect x="50" y="745" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="767" font-size="14" fill="#1e293b">Cereal Partners</text>
+  <rect x="280" y="745" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="745" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="767" font-size="14" fill="#1e293b" text-anchor="middle">17</text>
+  <rect x="730" y="745" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="767" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+
+  <!-- Weetbix -->
+  <rect x="50" y="780" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="802" font-size="14" fill="#1e293b">Weetbix</text>
+  <rect x="280" y="780" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="780" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="802" font-size="14" fill="#1e293b" text-anchor="middle">9</text>
+  <rect x="730" y="780" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="802" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+
+
+  <!-- CATEGORY 5: Iogurtes (y=815) -->
+  <rect x="50" y="815" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="65" y="837" font-size="14" font-weight="700" fill="#ffffff">Iogurtes</text>
+  <rect x="280" y="815" width="230" height="35" fill="#475569" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="395" y="837" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">29,7</text>
+  <rect x="510" y="815" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="730" y="815" width="220" height="35" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1.5" />
+
+  <!-- Muller -->
+  <rect x="50" y="850" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="872" font-size="14" fill="#1e293b">Muller</text>
+  <rect x="280" y="850" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="850" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="872" font-size="14" fill="#1e293b" text-anchor="middle">24</text>
+  <rect x="730" y="850" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="872" font-size="14" fill="#1e293b" text-anchor="middle">7</text>
+
+  <!-- Muller Light -->
+  <rect x="50" y="885" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="907" font-size="14" fill="#1e293b">Muller Light</text>
+  <rect x="280" y="885" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="885" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="907" font-size="14" fill="#1e293b" text-anchor="middle">14</text>
+  <rect x="730" y="885" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="907" font-size="14" fill="#1e293b" text-anchor="middle">4</text>
+
+  <!-- Ski -->
+  <rect x="50" y="920" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="942" font-size="14" fill="#1e293b">Ski</text>
+  <rect x="280" y="920" width="230" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="920" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="942" font-size="14" fill="#1e293b" text-anchor="middle">4</text>
+  <rect x="730" y="920" width="220" height="35" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="942" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+
+  <!-- Danone -->
+  <rect x="50" y="955" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="80" y="977" font-size="14" fill="#1e293b">Danone</text>
+  <rect x="280" y="955" width="230" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <rect x="510" y="955" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="977" font-size="14" fill="#1e293b" text-anchor="middle">3</text>
+  <rect x="730" y="955" width="220" height="35" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="977" font-size="14" fill="#1e293b" text-anchor="middle">2</text>
+
+
+  <!-- SUMMARY ROW: Média (y=990) -->
+  <rect x="50" y="990" width="460" height="40" fill="#1e293b" stroke="#cbd5e1" stroke-width="1.5" rx="2" />
+  <text x="280" y="1015" font-size="15" font-weight="800" fill="#ffffff" text-anchor="middle">Média</text>
+
+  <rect x="510" y="990" width="220" height="40" fill="#1e293b" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="620" y="1015" font-size="15" font-weight="800" fill="#ffffff" text-anchor="middle">13</text>
+
+  <rect x="730" y="990" width="220" height="40" fill="#1e293b" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="840" y="1015" font-size="15" font-weight="800" fill="#ffffff" text-anchor="middle">13</text>
+
+
+  <!-- Footer -->
+  <text x="950" y="1060" font-size="12" fill="#64748b" text-anchor="end">Fonte: TNS.</text>
+</svg>

@@ -38,7 +38,7 @@ Isso sugere que todas as marcas concorrem com a mesma proximidade com a Coca-Col
 
 ## A tabela de "duplicação da compra" 
 mostra o grau no qual as marcas de uma categoria compartilham seus compradores com todas as outras da categoria, ou seja, qual proporção de seus clientes também comprou outra marca específica durante o período. A Tabela 6.2 é uma tabela de duplicação da compra e não contém dados.
-![[gemini-svg.svg|683]]
+![[4. Arquivos/Images/gemini-svg.svg|683]]
 
 As células indicadas com 100% mostram a sobreposição de clientes da marca consigo mesma, que deve, pela lógica, ser sempre 100%. Em termos de apresentação dos dados, costuma ser interessante riscar essas células, já que elas não são necessárias.
 
@@ -98,7 +98,7 @@ No entanto, **as análises de duplicação da compra demonstram que as participa
 
 A tabela 6.4 mostra uma análise de duplicação da compra para as mesmas marcas de leite aromatizado com base nos dados de compra reais dos mesmos consumidores que forneceram os dados do mapa perceptivo.
 
-![[diplicação de compra leites aromartizados.svg|645]]
+![[duplicação de compra leites aromatizados.svg|645]]
 
 # Implicações para gestão de portfólio de marcas
 
