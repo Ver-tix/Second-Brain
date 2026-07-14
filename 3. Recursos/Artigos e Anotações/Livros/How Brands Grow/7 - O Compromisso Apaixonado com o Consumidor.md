@@ -47,3 +47,41 @@ Note que as categorias compradas com menos frequência possuem níveis mais elev
 ![[compradores 100% fiéis à marca são uma minoria.svg|697]]
 
 # Lei do Monopólio Natural
+As marcas maiores tendem a ter, proporcionalmente, mais compradores eventuais em suas bases de usuários. Os compradores ocasionais, eventuais, favorecem as marcas maiores. Esse fato reflete um efeito estatístico puro e é conhecido como "lei do monopólio natural" (ou seja, as marcas maiores detêm o monopólio sobre os compradores eventuais). Por exemplo, se você só comprar um refrigerante este ano, provavelmente a marca escolhida será a Coca-Cola. Se você comprar apenas um pacote de batatas chips no Reino Unido, a chance de a marca escolhida ser a  
+Walkers é enorme.
+
+Dito de outra forma, se observarmos um inglês comendo batata Walkers, não saberemos muito sobre suas preferências de compra. Ele simplesmente faz parte da maioria da população do Reino Unido que compra Walkers em algum momento. Mas, se observarmos um inglês comendo batatas chips da Red Mill' (marca que só tem 2% de penetração anual), existe uma boa chance de essa pessoa ser um comprador bastante frequente de salgadinhos industrializados.
+
+A lei do monopólio natural é ilustrada com os dados da Tabela 7.2. Os compradores da Heinz compram ketchup quatro vezes por ano, ao passo que os compradores da C&B compram ketchup oito vezes por ano, ou seja, com uma frequência duas vezes maior (embora a C&B só seja comprada, em média, 1,2 vez dessas oito compras).
+
+![[as marcas menores são compradas pelos compradores mais feequentes da categoria.svg|697]]
+
+Desse modo, as marcas maiores têm mais compradores 100% fiéis em parte por terem um grande número de compradores que não fizeram muitas compras no período analisado.  
+Se usarmos um período de análise mais longo, a proporção de compradores 100% fiéis sempre cairá. Dê às pessoas tempo suficiente para fazer várias compras e elas vão comprar mais marcas.  
+A fidelidade existe, mas também depende das oportunidades. As pessoas que compram uma categoria com menos frequência têm menos oportunidades de serem infiéis. Da mesma forma, as pessoas que fazem compras em lojas que não disponibilizam muitas marcas também podem parecer mais fiéis (um exemplo são os moradores de cidades pequenas).
+
+# Fidelidade Prosaica, Não Apaixonada
+A observação do comportamento de compra real das pessoas nos conta uma história de fidelidade prosaica, banal. No mundo real, a fidelidade está por toda parte e toda marca tem um pouco, mas é dividida e muito impulsionada pela oportunidade. Trata-se de uma imagem mais prosaica do que a maioria dos textos de marketing gosta de mostrar.
+>[! ]
+>### MARCAS DO CORAÇÃO
+>De acordo com Fournier e Yao (1997), as histórias a seguir demonstram que os consumidores podem criar vínculos muito fortes com as marcas.
+>
+>#### Pamela: caindo de amores por uma marca
+>Pamela tem 30 anos, é mãe solteira e tem um enorme apego por uma marca de café que ela compra há cinco anos. O vínculo é intensamente afetivo e ela lembra uma pessoa apaixonada. Os laços afetivos de Pamela com o café têm, pelo menos em parte, raízes na personificação que ela faz das qualidades especiais que fundamentam sua autoestima. Apesar de sua paixão por sua marca preferida de café, as intenções de Pamela revelam um compromisso limitado com a marca. Ela se mantém aberta ao amor de outras marcas potenciais. Sua fidelidade reside em seu vínculo emocional com a marca e não em promessas formais de fidelidade ou compromissos para o futuro. Pamela está apaixonada pela marca, mas não se casou com ela.
+>
+>#### Sara: caso dos melhores amigos da adolescência
+>Sara tem 23 anos, cresceu na região rural do meio oeste dos Estados Unidos e recentemente se mudou para a costa leste para fazer pós-graduação. Sua marca de café a ajuda a reforçar uma identidade positiva em uma fase importantíssima de sua vida. Além de deixar para trás a fazenda que define seu legado, Sara recentemente declarou que é homossexual. Em certo sentido, a ideia de amor à boa vida e de satisfação dos desejos que a marca implica a ajuda a se respeitar diante das dificuldades sociais resultantes de seu recente pronunciamento. Fonte: Parafraseado de Fourier e Yao, 1997.
+
+Pobres diretores de marketing. Não basta mais simplesmente desenvolver e manter as vendas e gerar lucros aos acionistas. Eles também têm de levar os consumidores a sentir um profundo e apaixonado compromisso com a marca. Não basta mais induzir os consumidores a desembolsar dinheiro para comprar a marca; eles também têm de adorá-la.
+
+Parece uma tarefa muito difícil, mas, estranhamente, muitos profissionais de marketing acolhem a ideia, talvez porque meramente vender coisas possa soar um tanto rudimentar. Muitos textos de marketing falam de criar valor, satisfazer o cliente e desenvolver relacionamentos. Pensar dessa forma dá certo ar de nobreza à profissão do marketing.
+
+Essa ortodoxia atual do marketing implica que é pejorativo sugerir a um gestor de marca que a fidelidade a sua marca se deve apenas ao hábito, disponibilidade e/ou desinteresse por parte dos compradores. Os acadêmicos têm ridicularizado esse comportamento de compra há um bom tempo usando termos depreciativos como "fidelidade espúria". Consultores e professores de marketing insistem que os gestores de marca devem desenvolver profundos relacionamentos com seus compradores. Empresas de pesquisas de mercado oferecem ferramentas para encontrar compradores apaixonadamente fiéis.
+
+Ao que parece, os consumidores podem até desenvolver vínculos profundos com bens de consumo baratos do dia a dia. Em 1997, um periódico acadêmico extremamente respeitado publicou um artigo baseado em longas (entre 2 e 3,5 horas) entrevistas pagas com consumidores de café (veja o quadro da página 134-135 para ter um gostinho do artigo). Os autores propuseram que os consumidores têm relações profundas e complexas com as marcas (de café) e os resultados das pesquisas se mostraram perfeitamente alinhados às expectativas dos pesquisadores.
+
+A ideia de que os consumidores têm "relacionamentos" com as marcas é uma antiga ideia, que volta e meia é reciclada pelos consultores de marketing. Kevin Roberts, do site Lovemarks ([www.lovemarks.com](http://www.lovemarks.com/)) é um exemplo clássico... e muito divertido. Por exemplo: "As lovemarks são marcas que criam uma ligação emocional íntima sem a qual você simplesmente não consegue viver. Jamais" (Roberts, 2004).
+
+Uma visão mais "pés no chão" seria dizer que, se os compradores não forem apaixonados pela marca, eles podem ser facilmente atraídos por uma concorrente. No entanto, até essa declaração aparentemente razoável não passa de uma suposição empírica não testada. Seria tão plausível argumentar quanto o desinteresse é o pilar da fidelidade.
+
+# Conexão com a Marca
