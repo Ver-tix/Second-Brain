@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Title Section -->
+  <text x="60" y="55" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    TABELA 10.1 Compras em diferentes níveis de preço: café solúvel em um ano
+  </text>
+
+  <!-- ================= HEADER SECTION ================= -->
+  <!-- Column 1: Nível de preço -->
+  <rect x="60" y="90" width="260" height="90" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="190" y="142" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Nível de preço</text>
+
+  <!-- Column 2: Compartilhado -->
+  <rect x="320" y="90" width="140" height="90" fill="#334155" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="390" y="142" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Compartilhado</text>
+
+  <!-- Super Header: Porcentagem que compra em outros níveis de preço -->
+  <rect x="460" y="90" width="480" height="45" fill="#1e293b" stroke="#ffffff" stroke-width="1.5" rx="4" />
+  <text x="700" y="118" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Porcentagem que compra em outros níveis de preço</text>
+
+  <!-- Subheaders under Porcentagem -->
+  <rect x="460" y="135" width="120" height="45" fill="#475569" stroke="#ffffff" stroke-width="1.5" />
+  <text x="520" y="162" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">—</text>
+
+  <rect x="580" y="135" width="120" height="45" fill="#475569" stroke="#ffffff" stroke-width="1.5" />
+  <text x="640" y="162" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">——</text>
+
+  <rect x="700" y="135" width="120" height="45" fill="#475569" stroke="#ffffff" stroke-width="1.5" />
+  <text x="760" y="162" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">++</text>
+
+  <rect x="820" y="135" width="120" height="45" fill="#475569" stroke="#ffffff" stroke-width="1.5" />
+  <text x="880" y="162" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">+</text>
+
+
+  <!-- ================= DATA ROWS ================= -->
+  
+  <!-- Row 1: Abaixo da média -->
+  <rect x="60" y="180" width="200" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="75" y="207" font-size="14" fill="#1e293b">Abaixo da média</text>
+  <rect x="260" y="180" width="60" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="290" y="207" font-size="14" fill="#64748b" text-anchor="middle">—</text>
+  
+  <rect x="320" y="180" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="390" y="207" font-size="14" fill="#1e293b" text-anchor="middle">35</text>
+  
+  <rect x="460" y="180" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="520" y="207" font-size="14" fill="#1e293b" text-anchor="middle"></text> <!-- Blank -->
+  <rect x="580" y="180" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="640" y="207" font-size="14" fill="#1e293b" text-anchor="middle">64</text>
+  <rect x="700" y="180" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="760" y="207" font-size="14" fill="#1e293b" text-anchor="middle">57</text>
+  <rect x="820" y="180" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="880" y="207" font-size="14" fill="#1e293b" text-anchor="middle">36</text>
+
+  <!-- Row 2: Baixo -->
+  <rect x="60" y="225" width="200" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="75" y="252" font-size="14" fill="#1e293b">Baixo</text>
+  <rect x="260" y="225" width="60" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="290" y="252" font-size="14" fill="#64748b" text-anchor="middle">——</text>
+  
+  <rect x="320" y="225" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="390" y="252" font-size="14" fill="#1e293b" text-anchor="middle">31</text>
+  
+  <rect x="460" y="225" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="520" y="252" font-size="14" fill="#1e293b" text-anchor="middle">69</text>
+  <rect x="580" y="225" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="640" y="252" font-size="14" fill="#1e293b" text-anchor="middle"></text> <!-- Blank -->
+  <rect x="700" y="225" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="760" y="252" font-size="14" fill="#1e293b" text-anchor="middle">51</text>
+  <rect x="820" y="225" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="880" y="252" font-size="14" fill="#1e293b" text-anchor="middle">30</text>
+
+  <!-- Row 3: Alto -->
+  <rect x="60" y="270" width="200" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="75" y="297" font-size="14" fill="#1e293b">Alto</text>
+  <rect x="260" y="270" width="60" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="290" y="297" font-size="14" fill="#64748b" text-anchor="middle">++</text>
+  
+  <rect x="320" y="270" width="140" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="390" y="297" font-size="14" fill="#1e293b" text-anchor="middle">27</text>
+  
+  <rect x="460" y="270" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="520" y="297" font-size="14" fill="#1e293b" text-anchor="middle">66</text>
+  <rect x="580" y="270" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="640" y="297" font-size="14" fill="#1e293b" text-anchor="middle">55</text>
+  <rect x="700" y="270" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="760" y="297" font-size="14" fill="#1e293b" text-anchor="middle">—</text>
+  <rect x="820" y="270" width="120" height="45" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="880" y="297" font-size="14" fill="#1e293b" text-anchor="middle">39</text>
+
+  <!-- Row 4: Acima da média -->
+  <rect x="60" y="315" width="200" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="75" y="342" font-size="14" fill="#1e293b">Acima da média</text>
+  <rect x="260" y="315" width="60" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="290" y="342" font-size="14" fill="#64748b" text-anchor="middle">+</text>
+  
+  <rect x="320" y="315" width="140" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="390" y="342" font-size="14" fill="#1e293b" text-anchor="middle">7</text>
+  
+  <rect x="460" y="315" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="520" y="342" font-size="14" fill="#1e293b" text-anchor="middle">78</text>
+  <rect x="580" y="315" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="640" y="342" font-size="14" fill="#1e293b" text-anchor="middle">61</text>
+  <rect x="700" y="315" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="760" y="342" font-size="14" fill="#1e293b" text-anchor="middle">73</text>
+  <rect x="820" y="315" width="120" height="45" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" />
+  <text x="880" y="342" font-size="14" fill="#1e293b" text-anchor="middle">—</text>
+
+  <!-- Row 5: Média -->
+  <rect x="60" y="360" width="200" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="75" y="387" font-size="14" font-weight="700" fill="#0f172a">Média</text>
+  <rect x="260" y="360" width="60" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="290" y="387" font-size="14" fill="#1e293b" text-anchor="middle"></text>
+  
+  <rect x="320" y="360" width="140" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="390" y="387" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">25</text>
+  
+  <rect x="460" y="360" width="120" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="520" y="387" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">71</text>
+  <rect x="580" y="360" width="120" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="640" y="387" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">60</text>
+  <rect x="700" y="360" width="120" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="760" y="387" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">60</text>
+  <rect x="820" y="360" width="120" height="45" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5" />
+  <text x="880" y="387" font-size="14" font-weight="700" fill="#0f172a" text-anchor="middle">35</text>
+
+
+  <!-- ================= FOOTER SECTION ================= -->
+  <!-- Observations -->
+  <text x="60" y="435" font-size="14.5" font-weight="700" fill="#0f172a">Observações:</text>
+  
+  <text x="60" y="460" font-size="14" fill="#334155">
+    As linhas e as colunas são ordenadas por popularidade do nível de preço.
+  </text>
+  <text x="60" y="485" font-size="14" fill="#334155">
+    Os compradores de qualquer nível de preço também compram em outros níveis de preço, mais ou menos de
+  </text>
+  <text x="60" y="505" font-size="14" fill="#334155">
+    acordo com a participação de mercado desses outros níveis de preço.
+  </text>
+  
+  <!-- Source -->
+  <text x="940" y="540" font-size="14" fill="#64748b" text-anchor="end">Fonte: TNS.</text>
+</svg>
