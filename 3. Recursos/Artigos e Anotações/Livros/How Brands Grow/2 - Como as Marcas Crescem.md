@@ -63,13 +63,58 @@ Em 2005, a Head & Shoulders foi vendida para um número quatro vezes maior de co
 
 Dados da Nielsen mostram que a categoria de xampus nos Estados Unidos apresenta o mesmo padrão (Tabela 2.4). As marcas, as participações de mercado, os consumidores, os intervalos de tempo, os painéis de consumidores e os analistas são diferentes, mas o padrão de duplo risco é o mesmo. Discutiremos mais adiante por que isso acontece e quais são as implicações de fidelidade; por ora, vamos manter nosso foco nas implicações dessa lei científica para o crescimento da marca.
 
-| Marcas de Sabão em pó | Participação de mercado (%) | Penetração de mercado atual (%) | Frequência de compra média |
-| --------------------- | --------------------------- | ------------------------------- | -------------------------- |
-| Persil                | 22                          | 41                              | 3,9                        |
-| Ariel                 | 14                          | 29                              | 3,9                        |
-| Bold                  | 10                          | 19                              | 3,8                        |
-| Daz                   | 9                           | 17                              | 3,7                        |
-| Surf                  | 8                           | 17                              | 3,4                        |
-| **Média**             |                             |                                 | **3,7**                    |
+| Marcas de xampu | Participação de mercado (%) | Penetração de mercado atual (%) | Frequência de compra média |
+| --------------- | --------------------------- | ------------------------------- | -------------------------- |
+| Suave Naturals  | 12                          | 19                              | 2,0                        |
+| Pantene Pro-V   | 10                          | 16                              | 1,9                        |
+| Alberto VO5     | 6                           | 11                              | 1,6                        |
+| Garnier Fructis | 5                           | 9                               | 1,7                        |
+| Dove            | 4                           | 8                               | 1,5                        |
+| Finesse         | 1                           | 2                               | 1,4                        |
+| **Média**       |                             |                                 | **1,5**                    |
 
 **Participações de mercado mudam o tempo todo** (pelo menos nos Estados Unidos, no Canada e no Reino Unido), mas também demonstram o duplo risco: as marcas crescem principalmente pelo aumento de sua penetração no mercado (Anschuetz, 2002; Baldinger, Blair e Echam-badi, 2002; Stern e Ehrenberg, 2003). Uma análise dinâmica de curto prazo conduzida por Andrew Ehrenberg e Colin McDonald (2003) mostrou 157 casos em que uma pequena mudança anual na participação de mercado deixou claro o duplo risco: marcas tanto em alta como em baixa exibiram uma alteração maior na penetração do que na frequência de compra. Dentre as marcas inscritas para o Advertising Effectiveness Awards (Prêmio de Eficácia na Publicidade) — promovido pelo Institu-te of Practitioners in Advertising (IPA) —, 82% registraram um grande crescimento da penetração, 6% tiveram crescimento tanto da penetração como da fidelidade e apenas 2% apresentaram crescimento somente da fidelidade. Por outro lado, uma meta-análise de testes ponderados envolvendo a comparação de 207 anúncios veiculados nos Estados Unidos concluiu que apenas uma das variáveis estratégicas mensuradas estava relacionada com maiores efeitos sobre as vendas — e essa estraté gia vencedora tinha o objetivo de aumentar a penetração (Lodish et al. 1995, p. 130).
+
+# Um guia quantitativo para as metas de crescimento
+>[! ]
+>A lei do duplo risco informa como serão as métricas de marketing]se estão tendo sucesso na conquista de vendas e participação de mercado.
+
+Alguns gestores têm dificuldade de admitir a existência de uma lei científica restringindo suas possibilidades, mas a lei deixa muito espaço para a criatividade no marketing. **Da mesma forma, como as leis da natureza restringem a criatividade dos arquitetos no bom sentido** (eles devem projetar prédios capazes de resistir à gravidades, ao vento e à chuva), **a lei do duplo risco simplesmente proporciona um guia prático formular a estratégia.**
+
+# Penetração: A Meta Vencedora
+
+>[! ]
+>Uma análise recente (Binet e Field, 2007) de 880 inscrições ao Effecti-veness Awards do IPA mostrou que os vencedores tenderam a definir metas para aumentar a penetração de mercado. Pediu-se aos inscritos que declarassem o propósito central do negócio: para 178 deles, o propósito central era "retenção de clientes/aumento da fidelidade", e, para 79, "penetração/aquisição de novos clientes". Veja abaixo os resultados da premiação.
+>
+>|                                 | meta           | meta           |
+| ------------------------------- | -------------- | -------------- |
+|                                 | Penetração (%) | Fidelidade (%) |
+| Ganhadores da medalha de ouro   | 21             | 2              |
+| Ganhadores da medalha de prata  | 20             | 6              |
+| Ganhadores da medalha de bronze | 18             | 3              |
+| Nenhuma medalha                 | 41             | 89             |
+>
+>Campanhas que optaram por não entrar na onda da moda e tiveram o objetivo de aumentar a penetração tinham duas vezes mais chances de conquistar enormes melhorias em todas as medidas concretas de eficácia, incluindo as vendas e os lucros. Porém somente metade dos participantes buscava aumentar a penetração, enquanto a outra metade visava melhorar a fidelidade/retenção. Isso mostra que o profissional de marketing está se concentrando nas metas comportamentais erradas.
+>
+>Les Binet, que presidiu a banca julgadora e concluiu a análise, me confessou que em certa ocasião elaborou um parecer no qual ele e seu cliente almejaram aumentar a penetração no norte do país e a fidelidade no sul. Como era de esperar, a fidelidade de fato aumentou no sul, mas a penetração naquela região melhorou ainda mais. Não importa quanto tentemos, se tivermos sucesso em aumentar as vendas, teremos poucas chances de violar a lei do duplo risco.
+>
+>E os resultados do Effectiveness Awards nos lembram que é mais vantagem agir a favor da lei do que contra ela. Jim Nyce, que atuou como diretor de insights na Kraft, diz que ir contra a lei é como "nadar contra a corrente". Uma análise conduzida pelo Departamento de Estratégia e Insights do Consumidor (liderada por Frank Cotignola) da empresa mostrou que 56% dos planejamentos de marca tentavam "nadar contra a corrente", buscando aumentar a frequência de compra, ao passo que um estudo interno voltado a analisar padrões de crescimento e declínio de 67 marcas da Kraft mostrou que a penetração era o principal impulsionador das vendas e da participação de mercado, em conformidade com a lei do duplo risco.
+
+# E o que dizer das marcas de nicho?
+O termo "nicho" é usado livremente no marketing, muitas vezes para simplesmente indicar o que é "pequeno", o que acaba sendo apropria-do, considerando que a maioria das marcas de nicho de fato é pequena. Tecnicamente, uma marca de nicho em uma categoria deveria, levando em conta sua pequena participação de mercado, ter uma base de compradores excepcionalmente pequena e fiel. Se todas as categorias tivessem várias dessas marcas e/ou se suas diferenças fossem de fato consideráveis, o padrão de duplo risco não existiria. Há uma quantidade muito menor de marcas de nicho do que as pessoas imaginam e, ainda por cima, essas marcas são menos "de nicho" do que imaginamos.
+# E o que dizer das vendas cruzadas?
+Outro possível caminho para o crescimento das vendas é incentivar os clientes atuais a comprar produtos diferentes da mesma marca. Sistemas de gestão de relacionamento com o cliente (CRM, na sigla em inglês) e programas de fidelidade muitas vezes prometem esse benefício, Tal opção costuma ser vista como um caminho fácil para o crescimento: você já tem um relacionamento com esses compradores e, se lhes der uma boa oferta, eles devem aceitar. Seguindo esse conceito, muitas grandes corporações oferecem boas ofertas aos próprios funcionários e ficam decepcionadas com a taxa de resposta. Se já é difícil vender novos produtos a eles, então provavelmente não será tão fácil fazer vendas cruzadas para os clientes existentes.
+
+As métricas de vendas cruzadas constituem outra medida de fidelidade, de modo que constatamos que a lei do duplo risco se aplica também a esse caso. As diferenças nas métricas de vendas cruzadas são poucas e tendem a refletir a participação de mercado — e não se essas marcas têm ou não programas especiais de vendas cruzadas.
+
+As Tabelas a seguir apresentam dados sobre as métricas de vendas cruzadas para o setor de seguros e para o setor bancário, respectivamente.
+
+| Seguradoras <br>(Austrália) | Penetração <br>de mercado (%) | Número médio de<br>produtos compradores<br>por clientes |
+| :-------------------------: | :---------------------------: | :-----------------------------------------------------: |
+|             RAA             |              16               |                                                         |
+|             CGU             |              14               |                                                         |
+|            SIGIC            |              13               |                                                         |
+|                             |               9               |                                                         |
+|            AAMI             |               6               |                                                         |
+|            APIA             |                               |                                                         |
+|            Média            |                               |                                                         |
