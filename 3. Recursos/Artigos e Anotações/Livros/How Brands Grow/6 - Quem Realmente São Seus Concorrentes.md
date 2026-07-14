@@ -87,3 +87,17 @@ A análise da duplicação da compra faz mais do que mostrar quem está competin
 Os mercados têm partições, e as partições de preço/qualidade premium são particularmente comuns. Mas é razoável pensar nessas divisões como submercados (segmentações ou partições) e não como mercados completamente distintos.
 
 # Posicionamento e Divisão em Participações
+Essa história de sobreposição de clientes diverge da imagem proporcionada pelos mapas perceptivos (e outras análises de imagem de marca).
+
+Esse tipo de imagem normalmente envolve algumas marcas competindo de perto umas com as outras e muito indiretamente com outras marcas do conjunto competitivo. Um mapa perceptivo típico pode ser como a Figura 6.1 (as marcas estão indicadas com círculos).
+
+Esse mapa perceptivo para leites aromatizados (iced coffee) na Austrália implica a existência de segmentações de mercado bastante significativas. A marca Max é voltada a trabalhadores braçais do sexo masculino, a Farmers' Union (FU) é mais popular e não tem uma "imagem" de marca; a Dairy Vale (DV) é uma marca para crianças, doce e gordurosa; e a Feel Good (FG) e a Take Care (TC) são marcas novas e saudáveis direcionadas às mulheres.
+![[mapa perceptivo - leites aromatizados.svg|697]]
+
+No entanto, **as análises de duplicação da compra demonstram que as participações de mercado, em geral se devem a consideráveis diferenças funcionais e semelhanças entre marcas, fatores como onde ou quando elas estão fisicamente disponíveis, em vez de sua imagem de marca.**
+
+A tabela 6.4 mostra uma análise de duplicação da compra para as mesmas marcas de leite aromatizado com base nos dados de compra reais dos mesmos consumidores que forneceram os dados do mapa perceptivo.
+
+![[diplicação de compra leites aromartizados.svg|645]]
+
+# Implicações para gestão de portfólio de marcas
