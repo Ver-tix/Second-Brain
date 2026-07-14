@@ -111,10 +111,26 @@ As Tabelas a seguir apresentam dados sobre as métricas de vendas cruzadas para 
 
 | Seguradoras <br>(Austrália) | Penetração <br>de mercado (%) | Número médio de<br>produtos compradores<br>por clientes |
 | :-------------------------: | :---------------------------: | :-----------------------------------------------------: |
-|             RAA             |              16               |                                                         |
-|             CGU             |              14               |                                                         |
-|            SIGIC            |              13               |                                                         |
-|                             |               9               |                                                         |
-|            AAMI             |               6               |                                                         |
-|            APIA             |                               |                                                         |
-|            Média            |                               |                                                         |
+|             RAA             |              16               |                           1,5                           |
+|             CGU             |              14               |                           1,4                           |
+|            SIGIC            |              13               |                           1,5                           |
+|            AAMI             |               9               |                           1,5                           |
+|            APIA             |               6               |                           1,4                           |
+|          **Média**          |            **12**             |                         **1,5**                         |
+
+| *Personal Banking*<br>(Austrália) | Penetração <br>de mercado (%) | Número médio de<br>produtos compradores<br>por clientes |
+| :-------------------------------: | :---------------------------: | :-----------------------------------------------------: |
+|         Commonwealth Bank         |              29               |                           2,0                           |
+|             ANZ Bank              |              18               |                           2,1                           |
+|           Westpac Bank            |              14               |                           2,2                           |
+|      National Australia Bank      |              13               |                           2,3                           |
+|               **Média**               |              **19**               |                           **2,1**                           |
+Os dados do setor de seguros mostram pouca diferença no sucesso das vendas cruzadas das marcas concorrentes. No setor bancário, vemos um pouco mais de variação, mas curiosamente parece haver uma ligeira inversão do padrão de duplo risco, em que as duas marcas menores contam com uma fidelidade do cliente um pouco superior. Isso se deve ao fato de as duas marcas menores tenderem ao banking empresarial e terem uma base de consumidores composta de clientes mais abastados, que em geral compram um número maior de produtos financeiros, ao passo que as duas marcas maiores têm mais sucesso com um único produto (como cartões de crédito) e esse sucesso lhes rende um número ligeiramente maior de clientes do que o esperado - clientes que só compram um produto delas. Desse modo, a métrica de vendas cruzadas de desempenho aparentemente deficitário dessas marcas na verdade se deve a seu sucesso incomum (em uma parte do mercado). Em outras palavras, não constatamos nenhuma evidência de excelência nas vendas cruzadas.
+
+Nos dois mercados há pouca diferença entre as marcas. Cada marca de seguro tem uma base de clientes que, em média, compra 1,5 serviço e cada marca de banco tem clientes que compram, em média, 2,1 serviços.
+
+Nada disso nos diz que as vendas cruzadas são impossíveis, mas significa que estão longe de ser tão fáceis quanto os textos de marketing dão a entender e que não são necessariamente um caminho garantido para enormes ganhos de vendas. A diferença quase inexistente entre as marcas mostradas nas Tabelas anteriores sugere que mudar radicalmente as métricas de vendas cruzadas é uma tarefa difícil e dispendiosa (algumas marcas até tentaram, mas não temos como saber isso vendo seus resultados).
+
+## Alguns Motivos
+1. Uma razão pela qual é mais difícil do que o esperado fazer vendas cruzadas de produtos aos compradores existentes é o fato de os consumidores que ainda não compraram esses produtos nem sempre precisarem deles. Por exemplo, não é possível vender um seguro de carro para uma pessoa que só dirige o carro da empresa. 
+2. Outra razão é que as marcas de serviços em geral desfrutam de uma grande fidelidade. A maioria das pessoas que precisaram financiar um imóvel procurou primeiro o gerente do banco do qual é cliente (e ele lhes concedeu o empréstimo ou o rejeitou). É difícil melhorar uma taxa de fidelidade já elevada.
