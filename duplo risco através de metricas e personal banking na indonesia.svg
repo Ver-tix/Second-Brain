@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%" style="background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Modern drop shadow for the card -->
+    <filter id="table-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04" />
+    </filter>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="30" y="30" width="940" height="540" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#table-shadow)" />
+
+  <!-- Table Header Title -->
+  <g transform="translate(60, 70)">
+    <text x="0" y="0" font-size="20" font-weight="800" fill="#0f172a" letter-spacing="-0.025em">Table 1.4: Double jeopardy across metrics for personal banking in Indonesia (2014)</text>
+  </g>
+
+  <!-- ================= TABLE STRUCTURE ================= -->
+  <g transform="translate(60, 100)">
+    
+    <!-- Header Row Background (Rounded Top Corners) -->
+    <path d="M 0,8 A 8,8 0 0 1 8,0 h 864 a 8,8 0 0 1 8,8 v 72 h -880 Z" fill="#475569" />
+
+    <!-- Alternating Row Backgrounds -->
+    <rect x="0" y="80" width="880" height="60" fill="#f8fafc" />
+    <rect x="0" y="140" width="880" height="60" fill="#ffffff" />
+    <rect x="0" y="200" width="880" height="60" fill="#f8fafc" />
+    <rect x="0" y="260" width="880" height="60" fill="#ffffff" />
+    <rect x="0" y="320" width="880" height="60" fill="#f8fafc" />
+
+    <!-- Bottom "Average" Row Background (Rounded Bottom Corners) -->
+    <path d="M 0,380 h 880 v 52 a 8,8 0 0 1 -8,8 h -864 a 8,8 0 0 1 -8,-8 Z" fill="#e2e8f0" />
+
+    <!-- Vertical Column Dividers -->
+    <line x1="240" y1="0" x2="240" y2="440" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="390" y1="0" x2="390" y2="440" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="570" y1="0" x2="570" y2="440" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="750" y1="0" x2="750" y2="440" stroke="#cbd5e1" stroke-width="1" />
+
+    <!-- Horizontal Row Dividers -->
+    <line x1="0" y1="80" x2="880" y2="80" stroke="#334155" stroke-width="2" />
+    <line x1="0" y1="140" x2="880" y2="140" stroke="#e2e8f0" stroke-width="1.2" />
+    <line x1="0" y1="200" x2="880" y2="200" stroke="#e2e8f0" stroke-width="1.2" />
+    <line x1="0" y1="260" x2="880" y2="260" stroke="#e2e8f0" stroke-width="1.2" />
+    <line x1="0" y1="320" x2="880" y2="320" stroke="#e2e8f0" stroke-width="1.2" />
+    <line x1="0" y1="380" x2="880" y2="380" stroke="#cbd5e1" stroke-width="2" />
+
+    <!-- ================= TEXT & DATA CONTENT ================= -->
+
+    <!-- COLUMN HEADERS (White Text) -->
+    <!-- Col 1: Brands -->
+    <text x="25" y="46" font-size="14" font-weight="700" fill="#ffffff">Brands</text>
+
+    <!-- Col 2: Penetration (%) -->
+    <text x="315" y="36" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Penetration</text>
+    <text x="315" y="56" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">(%)</text>
+
+    <!-- Col 3: Average number of products per customer -->
+    <text x="480" y="27" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Average number</text>
+    <text x="480" y="45" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">of products per</text>
+    <text x="480" y="63" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">customer</text>
+
+    <!-- Col 4: Customers who say brand is their favourite (%) -->
+    <text x="660" y="27" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Customers who</text>
+    <text x="660" y="45" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">say brand is their</text>
+    <text x="660" y="63" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">favourite (%)</text>
+
+    <!-- Col 5: Potential defection p.a. (%) -->
+    <text x="815" y="27" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Potential</text>
+    <text x="815" y="45" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">defection</text>
+    <text x="815" y="63" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">p.a. (%)</text>
+
+
+    <!-- ROW 1: Bank Central Asia -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="106">Bank</text>
+      <text x="25" y="124">Central Asia</text>
+      <text x="315" y="115" text-anchor="middle" font-weight="500">64</text>
+      <text x="480" y="115" text-anchor="middle" font-weight="500">1.8</text>
+      <text x="660" y="115" text-anchor="middle" font-weight="500">57</text>
+      <text x="815" y="115" text-anchor="middle" font-weight="500">13</text>
+    </g>
+
+    <!-- ROW 2: Bank Mandiri -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="166">Bank</text>
+      <text x="25" y="184">Mandiri</text>
+      <text x="315" y="175" text-anchor="middle" font-weight="500">63</text>
+      <text x="480" y="175" text-anchor="middle" font-weight="500">1.9</text>
+      <text x="660" y="175" text-anchor="middle" font-weight="500">48</text>
+      <text x="815" y="175" text-anchor="middle" font-weight="500">17</text>
+    </g>
+
+    <!-- ROW 3: Bank Rakyat Indonesia -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="226">Bank Rakyat</text>
+      <text x="25" y="244">Indonesia</text>
+      <text x="315" y="235" text-anchor="middle" font-weight="500">50</text>
+      <text x="480" y="235" text-anchor="middle" font-weight="500">1.6</text>
+      <text x="660" y="235" text-anchor="middle" font-weight="500">41</text>
+      <text x="815" y="235" text-anchor="middle" font-weight="500">17</text>
+    </g>
+
+    <!-- ROW 4: Bank Negara Indonesia -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="286">Bank Negara</text>
+      <text x="25" y="304">Indonesia</text>
+      <text x="315" y="295" text-anchor="middle" font-weight="500">49</text>
+      <text x="480" y="295" text-anchor="middle" font-weight="500">1.7</text>
+      <text x="660" y="295" text-anchor="middle" font-weight="500">43</text>
+      <text x="815" y="295" text-anchor="middle" font-weight="500">17</text>
+    </g>
+
+    <!-- ROW 5: Bank Tabungan Negara -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="346">Bank Tabungan</text>
+      <text x="25" y="364">Negara</text>
+      <text x="315" y="355" text-anchor="middle" font-weight="500">20</text>
+      <text x="480" y="355" text-anchor="middle" font-weight="500">1.5</text>
+      <text x="660" y="355" text-anchor="middle" font-weight="500">19</text>
+      <text x="815" y="355" text-anchor="middle" font-weight="500">36</text>
+    </g>
+
+    <!-- ROW 6 (Average): Bold, Distinct Highlight -->
+    <g fill="#0f172a" font-size="15" font-weight="800">
+      <text x="25" y="416">Average</text>
+      <text x="315" y="416" text-anchor="middle">49</text>
+      <text x="480" y="416" text-anchor="middle">1.7</text>
+      <text x="660" y="416" text-anchor="middle">42</text>
+      <text x="815" y="416" text-anchor="middle">20</text>
+    </g>
+
+  </g>
+</svg>

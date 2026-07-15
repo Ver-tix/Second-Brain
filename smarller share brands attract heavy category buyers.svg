@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%" style="background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Modern drop shadow for the card -->
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04" />
+    </filter>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="30" y="30" width="940" height="540" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#card-shadow)" />
+
+  <!-- Main Titles -->
+  <g transform="translate(60, 75)">
+    <text x="0" y="0" font-size="19" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">Figure 1.2: Smaller share brands attract heavy category buyers for fast food in</text>
+    <text x="0" y="24" font-size="17" font-weight="700" fill="#475569" letter-spacing="-0.015em">(a) Russia and (b) South Korea (2014)</text>
+  </g>
+
+  <!-- ================= CHART A: RUSSIA ================= -->
+  <g transform="translate(100, 160)">
+    <!-- Y-Axis Grid lines -->
+    <line x1="40" y1="0" x2="360" y2="0" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="56" x2="360" y2="56" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="112" x2="360" y2="112" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="168" x2="360" y2="168" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="224" x2="360" y2="224" stroke="#f1f5f9" stroke-width="1.5" />
+    
+    <!-- X-Axis Base Line -->
+    <line x1="40" y1="280" x2="360" y2="280" stroke="#0f172a" stroke-width="2" />
+
+    <!-- Y-Axis Labels -->
+    <text x="28" y="4" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">10</text>
+    <text x="28" y="60" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">8</text>
+    <text x="28" y="116" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">6</text>
+    <text x="28" y="172" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">4</text>
+    <text x="28" y="228" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">2</text>
+    <text x="28" y="284" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">0</text>
+
+    <!-- X-Axis Ticks & Labels -->
+    <line x1="120" y1="280" x2="120" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="120" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">25</text>
+
+    <line x1="200" y1="280" x2="200" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="200" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">50</text>
+
+    <line x1="280" y1="280" x2="280" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="280" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">75</text>
+
+    <line x1="360" y1="280" x2="360" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="360" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">100</text>
+
+    <!-- Axis Titles -->
+    <text x="-12" y="140" font-size="12" font-weight="700" fill="#475569" text-anchor="middle" transform="rotate(-90, -12, 140)">Number of other brands bought by customers</text>
+    <text x="200" y="332" font-size="13" font-weight="700" fill="#475569" text-anchor="middle">Brand penetration (%)</text>
+
+    <!-- Subplot Header -->
+    <text x="200" y="-25" font-size="16" font-weight="800" fill="#0f172a" text-anchor="middle">(a)</text>
+
+    <!-- Trendline Curve (Mathematically Fitted Negative Exponential) -->
+    <path d="M 52.8,115.6 L 56.5,126.5 L 60.1,134.6 L 63.8,141.1 L 67.4,146.4 L 71.1,150.9 L 74.7,154.7 L 78.4,158.1 L 82.1,161.0 L 85.7,163.7 L 89.4,166.1 L 93.0,168.3 L 96.7,170.3 L 100.3,172.2 L 104.0,173.9 L 107.7,175.5 L 111.3,177.0 L 115.0,178.4 L 118.6,179.7 L 122.3,180.9 L 125.9,182.1 L 129.6,183.2 L 133.3,184.2 L 136.9,185.2 L 140.6,186.2 L 144.2,187.1 L 147.9,187.9 L 151.5,188.8 L 155.2,189.6 L 158.9,190.3 L 162.5,191.1 L 166.2,191.8 L 169.8,192.5 L 173.5,193.1 L 177.1,193.8 L 180.8,194.4 L 184.5,195.0 L 188.1,195.5 L 191.8,196.1 L 195.4,196.6 L 199.1,197.2 L 202.7,197.7 L 206.4,198.2 L 210.1,198.7 L 213.7,199.1 L 217.4,199.6 L 221.0,200.0 L 224.7,200.5 L 228.3,200.9 L 232.0,201.3" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" opacity="0.8" />
+
+    <!-- Scatter Plot Points -->
+    <circle cx="56.0" cy="123.2" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="65.6" cy="142.8" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="75.2" cy="159.6" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="88.0" cy="173.6" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="94.4" cy="173.6" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="104.0" cy="165.2" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="107.2" cy="179.2" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="113.6" cy="165.2" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="139.2" cy="182.0" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="193.6" cy="201.6" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+
+    <!-- Labels for Point Highlights -->
+    <!-- Sbarro (5%, 5.6) -->
+    <text x="56.0" y="91" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Sbarro</text>
+    <text x="56.0" y="105" font-size="11" font-weight="600" fill="#64748b" text-anchor="middle">5%; 5.6</text>
+
+    <!-- McDonald's (49%, 2.6) -->
+    <text x="206.0" y="193" font-size="12" font-weight="700" fill="#0f172a" text-anchor="start">McDonald's</text>
+    <text x="206.0" y="207" font-size="11" font-weight="600" fill="#64748b" text-anchor="start">49%; 2.6</text>
+  </g>
+
+  <!-- ================= CHART B: SOUTH KOREA ================= -->
+  <g transform="translate(560, 160)">
+    <!-- Y-Axis Grid lines -->
+    <line x1="40" y1="0" x2="360" y2="0" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="56" x2="360" y2="56" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="112" x2="360" y2="112" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="168" x2="360" y2="168" stroke="#f1f5f9" stroke-width="1.5" />
+    <line x1="40" y1="224" x2="360" y2="224" stroke="#f1f5f9" stroke-width="1.5" />
+    
+    <!-- X-Axis Base Line -->
+    <line x1="40" y1="280" x2="360" y2="280" stroke="#0f172a" stroke-width="2" />
+
+    <!-- Y-Axis Labels -->
+    <text x="28" y="4" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">10</text>
+    <text x="28" y="60" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">8</text>
+    <text x="28" y="116" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">6</text>
+    <text x="28" y="172" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">4</text>
+    <text x="28" y="228" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">2</text>
+    <text x="28" y="284" font-size="12" font-weight="600" fill="#64748b" text-anchor="end">0</text>
+
+    <!-- X-Axis Ticks & Labels -->
+    <line x1="120" y1="280" x2="120" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="120" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">25</text>
+
+    <line x1="200" y1="280" x2="200" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="200" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">50</text>
+
+    <line x1="280" y1="280" x2="280" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="280" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">75</text>
+
+    <line x1="360" y1="280" x2="360" y2="286" stroke="#0f172a" stroke-width="1.5" />
+    <text x="360" y="303" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle">100</text>
+
+    <!-- Axis Titles -->
+    <text x="-12" y="140" font-size="12" font-weight="700" fill="#475569" text-anchor="middle" transform="rotate(-90, -12, 140)">Number of other brands bought by customers</text>
+    <text x="200" y="332" font-size="13" font-weight="700" fill="#475569" text-anchor="middle">Brand penetration (%)</text>
+
+    <!-- Subplot Header -->
+    <text x="200" y="-25" font-size="16" font-weight="800" fill="#0f172a" text-anchor="middle">(b)</text>
+
+    <!-- Trendline Curve (Mathematically Fitted Negative Exponential) -->
+    <path d="M 91.2,89.6 L 95.7,93.2 L 100.2,96.4 L 104.7,99.3 L 109.2,102.0 L 113.7,104.4 L 118.2,106.7 L 122.7,108.9 L 127.2,110.9 L 131.8,112.7 L 136.3,114.5 L 140.8,116.2 L 145.3,117.8 L 149.8,119.3 L 154.3,120.7 L 158.8,122.1 L 163.3,123.4 L 167.8,124.6 L 172.3,125.8 L 176.8,126.9 L 181.3,128.0 L 185.8,129.1 L 190.3,130.1 L 194.8,131.1 L 199.3,132.0 L 203.9,132.9 L 208.4,133.8 L 212.9,134.7 L 217.4,135.5 L 221.9,136.3 L 226.4,137.1 L 230.9,137.8 L 235.4,138.6 L 239.9,139.3 L 244.4,140.0 L 248.9,140.7 L 253.4,141.3 L 257.9,142.0 L 262.4,142.6 L 266.9,143.2 L 271.4,143.8 L 276.0,144.4 L 280.5,144.9 L 285.0,145.5 L 289.5,146.0 L 294.0,146.6 L 298.5,147.1 L 303.0,147.6 L 307.5,148.1 L 312.0,148.6" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" opacity="0.8" />
+
+    <!-- Scatter Plot Points -->
+    <circle cx="104.0" cy="100.8" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="113.6" cy="100.8" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="120.0" cy="112.0" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="145.6" cy="114.8" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="148.8" cy="123.2" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="209.6" cy="126.0" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="216.0" cy="131.6" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+    <circle cx="273.6" cy="151.2" r="5.5" fill="#ffffff" stroke="#1e293b" stroke-width="2.5" />
+
+    <!-- Labels for Point Highlights -->
+    <!-- Es Teler 77 (20%, 6.4) -->
+    <text x="104.0" y="67" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">Es Teler 77</text>
+    <text x="104.0" y="81" font-size="11" font-weight="600" fill="#64748b" text-anchor="middle">20%; 6.4</text>
+
+    <!-- KFC (73%, 4.6) -->
+    <text x="273.6" y="177" font-size="12" font-weight="700" fill="#0f172a" text-anchor="middle">KFC</text>
+    <text x="273.6" y="191" font-size="11" font-weight="600" fill="#64748b" text-anchor="middle">73%; 4.6</text>
+  </g>
+</svg>

@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="100%" height="100%" style="background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Modern drop shadow for the card container -->
+    <filter id="table-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04" />
+    </filter>
+  </defs>
+
+  <!-- Card Container Background -->
+  <rect x="30" y="30" width="940" height="560" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#table-shadow)" />
+
+  <!-- Table Header Title -->
+  <g transform="translate(60, 70)">
+    <text x="0" y="0" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">Table 1.5: An example of a growing brand over time—toothpaste in Brazil</text>
+    <text x="0" y="24" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">(2006–09)</text>
+  </g>
+
+  <!-- ================= TABLE STRUCTURE ================= -->
+  <g transform="translate(60, 120)">
+    
+    <!-- Header Row Background (Rounded Top Corners) -->
+    <path d="M 0,8 A 8,8 0 0 1 8,0 h 864 a 8,8 0 0 1 8,8 v 82 h -880 Z" fill="#475569" />
+
+    <!-- Alternating Row Backgrounds -->
+    <rect x="0" y="90" width="880" height="55" fill="#f8fafc" />
+    <rect x="0" y="145" width="880" height="55" fill="#ffffff" />
+    <rect x="0" y="200" width="880" height="55" fill="#f8fafc" />
+    <rect x="0" y="255" width="880" height="55" fill="#ffffff" />
+
+    <!-- Summary "% change" Row Background (Rounded Bottom Corners) -->
+    <path d="M 0,310 h 880 v 52 a 8,8 0 0 1 -8,8 h -864 a 8,8 0 0 1 -8,-8 Z" fill="#e2e8f0" />
+
+    <!-- Vertical Column Dividers -->
+    <line x1="130" y1="0" x2="130" y2="370" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="260" y1="0" x2="260" y2="370" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="450" y1="0" x2="450" y2="370" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="640" y1="0" x2="640" y2="370" stroke="#cbd5e1" stroke-width="1" />
+
+    <!-- Horizontal Row Dividers -->
+    <line x1="0" y1="90" x2="880" y2="90" stroke="#334155" stroke-width="2" />
+    <line x1="0" y1="145" x2="880" y2="145" stroke="#e2e8f0" stroke-width="1.2" />
+    <line x1="0" y1="200" x2="880" y2="200" stroke="#e2e8f0" stroke-width="1.2" />
+    <line x1="0" y1="255" x2="880" y2="255" stroke="#e2e8f0" stroke-width="1.2" />
+    <line x1="0" y1="310" x2="880" y2="310" stroke="#cbd5e1" stroke-width="2" />
+
+    <!-- ================= TEXT & DATA CONTENT ================= -->
+
+    <!-- COLUMN HEADERS (White Text) -->
+    <!-- Col 1: Year -->
+    <text x="20" y="52" font-size="14" font-weight="700" fill="#ffffff">Year</text>
+
+    <!-- Col 2: Market share (%) -->
+    <text x="195" y="34" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Market</text>
+    <text x="195" y="52" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">share</text>
+    <text x="195" y="70" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">(%)</text>
+
+    <!-- Col 3: Household penetration (%) -->
+    <text x="355" y="42" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Household</text>
+    <text x="355" y="60" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">penetration (%)</text>
+
+    <!-- Col 4: Average purchase frequency -->
+    <text x="545" y="34" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Average</text>
+    <text x="545" y="52" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">purchase</text>
+    <text x="545" y="70" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">frequency</text>
+
+    <!-- Col 5: Average share of category requirements -->
+    <text x="760" y="34" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Average share</text>
+    <text x="760" y="52" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">of category</text>
+    <text x="760" y="70" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">requirements</text>
+
+
+    <!-- ROW 1 (2006) -->
+    <g fill="#334155" font-size="14">
+      <text x="20" y="123" font-weight="700">2006</text>
+      <text x="195" y="123" text-anchor="middle" font-weight="500">6.3</text>
+      <text x="355" y="123" text-anchor="middle" font-weight="500">22</text>
+      <text x="545" y="123" text-anchor="middle" font-weight="500">2.3</text>
+      <text x="760" y="123" text-anchor="middle" font-weight="500">16</text>
+    </g>
+
+    <!-- ROW 2 (2007) -->
+    <g fill="#334155" font-size="14">
+      <text x="20" y="178" font-weight="700">2007</text>
+      <text x="195" y="178" text-anchor="middle" font-weight="500">10.1</text>
+      <text x="355" y="178" text-anchor="middle" font-weight="500">31</text>
+      <text x="545" y="178" text-anchor="middle" font-weight="500">2.8</text>
+      <text x="760" y="178" text-anchor="middle" font-weight="500">19</text>
+    </g>
+
+    <!-- ROW 3 (2008) -->
+    <g fill="#334155" font-size="14">
+      <text x="20" y="233" font-weight="700">2008</text>
+      <text x="195" y="233" text-anchor="middle" font-weight="500">11.7</text>
+      <text x="355" y="233" text-anchor="middle" font-weight="500">35</text>
+      <text x="545" y="233" text-anchor="middle" font-weight="500">2.9</text>
+      <text x="760" y="233" text-anchor="middle" font-weight="500">20</text>
+    </g>
+
+    <!-- ROW 4 (2009) -->
+    <g fill="#334155" font-size="14">
+      <text x="20" y="288" font-weight="700">2009</text>
+      <text x="195" y="288" text-anchor="middle" font-weight="500">14.1</text>
+      <text x="355" y="288" text-anchor="middle" font-weight="500">40</text>
+      <text x="545" y="288" text-anchor="middle" font-weight="500">3.1</text>
+      <text x="760" y="288" text-anchor="middle" font-weight="500">22</text>
+    </g>
+
+    <!-- ROW 5 (% change) -->
+    <g fill="#0f172a" font-size="14" font-weight="800">
+      <text x="20" y="338">% change</text>
+      <text x="20" y="356">2006–09</text>
+      <text x="195" y="347" text-anchor="middle">124</text>
+      <text x="355" y="347" text-anchor="middle">82</text>
+      <text x="545" y="347" text-anchor="middle">35</text>
+      <text x="760" y="347" text-anchor="middle">38</text>
+    </g>
+
+  </g>
+
+  <!-- Source Label -->
+  <text x="940" y="525" font-size="13" font-weight="500" font-style="italic" fill="#64748b" text-anchor="end">Source: Nielsen Household Panel Brazil</text>
+</svg>

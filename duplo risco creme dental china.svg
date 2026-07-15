@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" width="100%" height="100%" style="background-color: #ffffff;">
+  <text x="40" y="45" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="18" font-weight="800" fill="#0f172a" letter-spacing="-0.5px">
+    Tabela 1.2: Ilustração da lei do duplo risco — creme dental na China (dados anuais de 2011)
+  </text>
+  <rect x="40" y="80" width="160" height="70" fill="#1e293b" stroke="#e2e8f0" stroke-width="1" />
+  <text x="120" y="120" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Marcas</text>
+  <rect x="200" y="80" width="160" height="70" fill="#1e293b" stroke="#e2e8f0" stroke-width="1" />
+  <text x="280" y="112" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Participação de</text>
+  <text x="280" y="128" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">mercado (%)</text>
+  <rect x="360" y="80" width="180" height="70" fill="#1e293b" stroke="#e2e8f0" stroke-width="1" />
+  <text x="450" y="112" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Penetração nos</text>
+  <text x="450" y="128" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">lares (%)</text>
+  <rect x="540" y="80" width="220" height="70" fill="#1e293b" stroke="#e2e8f0" stroke-width="1" />
+  <text x="650" y="112" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Frequência média de compra</text>
+  <text x="650" y="128" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">(número de vezes comprado)</text>
+  <rect x="760" y="80" width="200" height="70" fill="#1e293b" stroke="#e2e8f0" stroke-width="1" />
+  <text x="860" y="112" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Participação média nas</text>
+  <text x="860" y="128" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">compras da categoria (%)</text>
+  <rect x="40" y="150" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="174" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">Crest</text>
+  <rect x="200" y="150" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="174" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">19</text>
+  <rect x="360" y="150" width="180" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="174" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">57</text>
+  <rect x="540" y="150" width="220" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="174" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2,8</text>
+  <rect x="760" y="150" width="200" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="174" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">29</text>
+  <rect x="40" y="190" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="214" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start" text-decoration="underline">Colgate</text>
+  <rect x="200" y="190" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="214" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">14</text>
+  <rect x="360" y="190" width="180" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="214" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">46</text>
+  <rect x="540" y="190" width="220" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="214" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">2,5</text>
+  <rect x="760" y="190" width="200" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="214" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">26</text>
+  <rect x="40" y="230" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="254" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">Zhonghua</text>
+  <rect x="200" y="230" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="254" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">12</text>
+  <rect x="360" y="230" width="180" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="254" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">43</text>
+  <rect x="540" y="230" width="220" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="254" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2,4</text>
+  <rect x="760" y="230" width="200" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="254" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">25</text>
+  <rect x="40" y="270" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="294" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">Darlie</text>
+  <rect x="200" y="270" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="294" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">11</text>
+  <rect x="360" y="270" width="180" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="294" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">35</text>
+  <rect x="540" y="270" width="220" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="294" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2,7</text>
+  <rect x="760" y="270" width="200" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="294" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">26</text>
+  <rect x="40" y="310" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="334" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start" text-decoration="underline">LSL</text>
+  <rect x="200" y="310" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="334" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">6</text>
+  <rect x="360" y="310" width="180" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="334" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">23</text>
+  <rect x="540" y="310" width="220" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="334" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">2,2</text>
+  <rect x="760" y="310" width="200" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="334" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle" text-decoration="underline">23</text>
+  <rect x="40" y="350" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="374" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">Hei mei</text>
+  <rect x="200" y="350" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="374" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">3</text>
+  <rect x="360" y="350" width="180" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="374" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">14</text>
+  <rect x="540" y="350" width="220" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="374" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">1,9</text>
+  <rect x="760" y="350" width="200" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="374" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">18</text>
+  <rect x="40" y="390" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="414" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">YNBY</text>
+  <rect x="200" y="390" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="414" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">3</text>
+  <rect x="360" y="390" width="180" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="414" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">14</text>
+  <rect x="540" y="390" width="220" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="414" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2,2</text>
+  <rect x="760" y="390" width="200" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="414" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">20</text>
+  <rect x="40" y="410" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="434" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">Bamboo</text>
+  <rect x="200" y="410" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="434" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2</text>
+  <rect x="360" y="410" width="180" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="434" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">9</text>
+  <rect x="540" y="410" width="220" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="434" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2,0</text>
+  <rect x="760" y="410" width="200" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="434" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">19</text>
+  <rect x="40" y="450" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="474" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">LMZ</text>
+  <rect x="200" y="450" width="160" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="474" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2</text>
+  <rect x="360" y="450" width="180" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="474" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">9</text>
+  <rect x="540" y="450" width="220" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="474" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">1,7</text>
+  <rect x="760" y="450" width="200" height="40" fill="#ffffff" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="474" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">17</text>
+  <rect x="40" y="490" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="56" y="514" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">Sensodyne</text>
+  <rect x="200" y="490" width="160" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="280" y="514" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">0,3</text>
+  <rect x="360" y="490" width="180" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="450" y="514" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">2</text>
+  <rect x="540" y="490" width="220" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="650" y="514" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">1,5</text>
+  <rect x="760" y="490" width="200" height="40" fill="#f8fafc" stroke="#e2e8f0" stroke-width="0.5" />
+  <text x="860" y="514" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="400" fill="#0f172a" text-anchor="middle">13</text>
+  <rect x="40" y="530" width="160" height="40" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <text x="56" y="554" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="start">Média</text>
+  <rect x="200" y="530" width="160" height="40" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <text x="280" y="554" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="middle">7</text>
+  <rect x="360" y="530" width="180" height="40" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <text x="450" y="554" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="middle">25</text>
+  <rect x="540" y="530" width="220" height="40" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <text x="650" y="554" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="middle">2,2</text>
+  <rect x="760" y="530" width="200" height="40" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1" />
+  <text x="860" y="554" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="13" font-weight="700" fill="#0f172a" text-anchor="middle">22</text>
+  <text x="960" y="595" style="font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;" font-size="12" font-style="italic" fill="#64748b" text-anchor="end">Fonte: Kantar Worldpanel China</text>
+</svg>
