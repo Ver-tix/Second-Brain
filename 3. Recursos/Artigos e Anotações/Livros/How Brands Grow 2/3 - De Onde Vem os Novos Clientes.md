@@ -143,7 +143,24 @@ Em terceiro lugar: o nome da marca importa? Vemos que a Pepsi Light compartilha 
 Nomes de marca compartilhados raramente resultam em desvios da lei de duplicação de compra, exceto quando se trata de uma marca "irmã" pequena e com distribuição deficiente.
 Essa é uma situação que deve ser corrigida, e não celebrada.
 
+**Table 3.9 — Duplication of purchase table for soft drinks in Turkey (2014)**
 
+|**Buyers of**|**Buyers buying brand (%)**|**Coca-Cola**|**Fanta**|**Uludağ**|**Pepsi**|**Yedigün**|**Sprite**|**Çamlıca**|**Sırma**|**Cola-Turka**|**Coca-Cola Light**|**Coke Zero**|**7up**|**Pepsi Light**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Coca-Cola**|**70**|—|59|48|52|40|43|38|29|**17**|19|16|12|11|
+|**Fanta**|**52**|79|—|55|55|57|47|45|35|23|20|14|14|12|
+|**Uludağ**|**45**|75|64|—|53|55|48|58|37|24|20|15|14|16|
+|**Pepsi**|**44**|83|65|54|—|54|47|45|34|25|22|15|15|16|
+|**Yedigün**|**38**|75|79|65|63|—|50|55|36|28|21|15|18|14|
+|**Sprite**|**37**|82|66|59|56|51|—|53|41|23|25|19|21|14|
+|**Çamlıca**|**36**|74|65|73|55|58|55|—|44|31|20|15|18|14|
+|**Sırma**|**26**|76|69|62|56|51|57|59|—|28|28|21|19|16|
+|**Cola-Turka**|**17**|**72**|73|65|66|63|50|67|44|—|30|17|18|23|
+|**Coca-Cola Light**|**16**|83|65|57|61|50|57|44|46|31|—|**41**|19|**41**|
+|**Coke Zero**|**14**|83|53|50|48|41|50|39|41|20|47|—|18|32|
+|**7up**|**10**|82|75|63|65|67|**80**|63|52|30|30|25|—|20|
+|**Pepsi Light**|**10**|83|68|56|**73**|56|55|53|44|40|68|47|21|—|
+|**Average**|**26**|**80**|**66**|**60**|**59**|**54**|**55**|**54**|**42**|**28**|**26**|**18**|**18**|**16**|
 # As marcas locais são um um submercado distinto?
 
 Ao longo da história das pesquisas sobre globalização, as marcas locais têm despertado grande interesse. Inicialmente, acreditava-se que elas sofreriam e seriam percebidas como sendo de qualidade inferior às suas equivalentes globais. Agora, diante do sucesso de algumas marcas locais em mercados emergentes, houve uma mudança radical de perspectiva: especula-se que as marcas locais conquistarão maior fidelidade do consumidor devido a sentimentos nacionalistas.
