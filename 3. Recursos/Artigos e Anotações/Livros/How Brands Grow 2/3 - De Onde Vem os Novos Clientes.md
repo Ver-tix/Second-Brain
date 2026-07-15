@@ -90,3 +90,75 @@ Com as marcas ordenadas por penetração decrescente, a lei da duplicação de c
 
 Agora que conseguimos visualizar tão claramente a lei da duplicação de compras, também podemos identificar algumas segmentações. Seria difícil percebê-las sem organizar os dados dessa maneira ou sem conhecer a referida lei. Quatro valores foram destacados para facilitar a visualização. L'Oréal Paris e Lancôme compartilham clientes entre si mais do que o esperado, assim como Avène e Clarins. L'Oréal Paris e Lancôme são comercializadas pela mesma empresa, o que é uma razão comum para uma sobreposição de clientes acima do esperado (canibalização).
 ![[Duplicação de compra para cuidados de pele na China (2017).png]]
+# Bens duráveis ​​ao longo do tempo
+
+No caso de categorias de bens duráveis, é necessário ampliar o horizonte temporal para observar os padrões de duplicação de compra. A Tabela 3.7 apresenta um exemplo envolvendo monitores de atividade física (*fitness trackers*) no Reino Unido. Trata-se de uma categoria relativamente nova; por isso, perguntamos às pessoas qual monitor elas possuem atualmente e quais outros — se houve algum — já possuíram anteriormente. Embora 62% tivessem possuído apenas uma marca — resultado de uma combinação entre compras únicas e recompras da mesma marca —, 38% já haviam possuído múltiplas marcas de monitores, incluindo o Apple Watch, que promoveu essa funcionalidade. Os dados mostram que, para todas as marcas de monitores (incluindo o Apple Watch), 40% da base de clientes possui ou já possuiu um Fitbit, enquanto apenas 13% possuem ou já possuíram um Goji. Nota-se uma sobreposição excessiva entre Honor e Goji: isso ocorre porque marcas menores tendem a ter, em sua base de clientes, uma proporção muito maior de compradores intensos da categoria. Isso significa que elas atraem clientes com repertórios de marca mais amplos e que, portanto, têm maior probabilidade de já ter possuído outras marcas pequenas.
+
+Tabela 3.7 — Duplication of purchase table for fitness trackers in the UK (2019)
+
+|Buyers of|Buyers buying brand (%)|Fitbit|Apple Watch|Garmin|Honor|Goji|
+|---|---|---|---|---|---|---|
+|Fitbit|37|—|16|13|5|4|
+|Apple Watch|14|43|—|21|13|7|
+|Garmin|12|42|25|—|18|17|
+|Honor|5|39|37|41|—|22|
+|Goji|4|45|28|55|31|—|
+|Average|14|42|26|33|17|13|
+
+# O desafio do McDonald's
+
+Vamos analisar como as marcas competem em uma categoria que apresenta diversas diferenças funcionais: o *fast-food*. Antes de consultar a Tabela 3.8, pense nas principais marcas que você conhece e em como elas podem compartilhar clientes. Onde estariam as divisões? Você esperaria que o McDonald's e o Burger King atraíssem pessoas que gostam de hambúrgueres e, consequentemente, compartilhassem mais clientes do que o esperado? Ou será que, pelo fato de essas marcas oferecerem uma linha de produtos semelhante, basta ao consumidor ter apenas uma delas em seu repertório para satisfazer aquele desejo de comer um hambúrguer? E quanto a Pizza Hut e Domino's? Você esperaria que elas compartilhassem mais ou menos clientes do que o previsto?
+
+Seria fácil elaborar uma narrativa plausível para justificar tanto uma maior quanto uma menor sobreposição de clientes entre as marcas. No entanto, os dados indicam que estaríamos enganados em ambos os casos. Na verdade, o compartilhamento de clientes entre McDonald's e Burger King está em conformidade com as previsões da lei de duplicação de compra, assim como ocorre com Pizza Hut e Domino's. De fato, o compartilhamento entre McDonald's e Domino's também segue as expectativas, o mesmo valendo para Pizza Hut e Burger King (veja a Tabela 3.8). A principal divisão (destacada) ocorre entre Vips e Sanborns; ambas oferecem apenas culinária local em estilo de cafeteria.
+
+À exceção desse caso, as redes de fast-food no México compartilham clientes com outras redes de acordo com a penetração de mercado de cada concorrente. Todas compartilham mais clientes com o Burger King (uma grande marca) e menos com a Gorditas Dona Tota (uma marca muito menor), independentemente do tipo específico de comida que vendem. É assim que esperamos que seja um mercado competitivo típico.
+
+Antes de nos aprofundarmos demais nas exceções, vamos relembrar o que esse padrão competitivo — que se comporta como uma lei — significa para o crescimento. Se o Chili's quiser dobrar de tamanho no México, terá de se tornar semelhante ao Pizza Hut no país. Isso não significa que passará a vender pizzas, mas sim que terá uma base de clientes muito maior; as vendas que conquistar virão principalmente dos concorrentes maiores (Burger King, Domino's) e, em menor grau, das marcas menores (Sanborns, Gorditas Dona Tota). Não se trata de mirar um concorrente específico, mas de atrair clientes de todas as marcas na proporção de suas respectivas participações de mercado.
+Tabela 3.8 — Duplication of purchase table for fast food in Mexico (2014)
+
+|Customers of|Customers buying brand (%)|Burger King|Domino’s|KFC|McDonald’s|Subway|Pizza Hut|Vips|Sanborns|Chili’s|Gorditas Dona Tota|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Burger King|56|—|65|63|62|61|52|46|42|28|16|
+|Domino’s|54|66|—|64|66|59|58|46|40|27|16|
+|KFC|52|67|67|—|63|57|56|44|38|28|17|
+|McDonald’s|51|68|70|64|—|60|55|44|37|30|15|
+|Subway|46|74|69|65|66|—|55|49|43|32|17|
+|Pizza Hut|42|69|75|70|67|61|—|47|44|29|14|
+|Vips|35|74|71|66|65|65|57|—|61|37|18|
+|Sanborns|30|78|72|66|63|65|61|70|—|40|19|
+|Chili’s|20|76|72|72|75|73|59|63|59|—|20|
+|Gorditas Dona Tota|13|72|71|70|60|63|48|49|45|33|—|
+|Average|40|72|70|67|65|63|56|51|45|32|17|
+# Insights a partir de partições
+A lei da duplicação de compras fornece parâmetros para identificar quando marcas compartilham mais ou menos clientes do que deveriam. Agrupamentos de segmentos com compartilhamento excessivo ou insuficiente são, geralmente, fáceis de identificar. Como regra prática, busca-se uma diferença de 10 pontos percentuais em relação à média, mas isso serve apenas como orientação. Os primeiros segmentos a serem observados são aqueles que apresentam desvios em ambos os lados da diagonal (como no caso de Sanborns e Vips, na Tabela 3.8). No entanto, desvios unilaterais ocasionais também merecem atenção, pois podem indicar falhas de marketing.
+
+Encontrar explicações para esses segmentos pode ajudar a identificar quais atributos são importantes para os consumidores, destacar problemas que precisam ser corrigidos ou revelar oportunidades de mercado. Vamos analisar a categoria de refrigerantes na Turquia. Novamente, trata-se de uma categoria com diversas diferenças funcionais (versões *diet*, sabores de fruta, colas) e algumas diferenças de posicionamento (como a Cola-Turka, que se promove como a marca que torna o consumidor "mais turco"), além de uma combinação de marcas locais (Uludag, Yedigün) e globais (Coca-Cola, Pepsi, Sprite).
+Diante das muitas formas de segmentar o mercado, vamos utilizar primeiramente uma tabela de duplicação de compra (Tabela 3.9) para identificar excessos ou déficits de compartilhamento — e descobrir quais características da marca realmente geram uma diferença significativa no comportamento dos compradores.
+
+Em primeiro lugar: o nacionalismo importa? Ao analisar a Tabela 3.9, parece que sim, mas não muito. A Cola-Turka e a Coca-Cola compartilham um número de clientes ligeiramente inferior à média; ainda assim, 72% dos consumidores de Cola-Turka também consumiram Coca-Cola nos últimos três meses — um índice não muito distante da média de 80%.
+
+Em segundo lugar: a versão *diet* importa? Observamos que os refrigerantes *diet* (Coca-Cola Light, Coke Zero, Pepsi Light) compartilham clientes acima do esperado, o que indica ser essa uma diferença funcional importante. Portanto, seria prudente que todas as empresas garantissem a oferta de uma versão *diet* para competir nesse segmento. A ausência dessa versão limitaria um pouco a penetração da marca, impedindo-a de atender a certas situações de compra.
+
+Em terceiro lugar: o nome da marca importa? Vemos que a Pepsi Light compartilha mais clientes do que o esperado com a Pepsi (73% contra uma média de 59%), mas o inverso não ocorre: apenas 16% dos clientes da Pepsi também compram Pepsi Light, o que está dentro do esperado. Isso provavelmente se deve a uma questão de disponibilidade física. Por ser uma marca menor, a Pepsi Light provavelmente possui uma distribuição incompleta. Onde é distribuída, geralmente fica posicionada ao lado da Pepsi, gerando o que parece ser um excesso de canibalização. A PepsiCo deveria buscar corrigir essa falha na distribuição; assim, os índices de compartilhamento tenderiam a se normalizar (como ocorre com Coca-Cola, Coca-Cola Light e Coke Zero).
+Nomes de marca compartilhados raramente resultam em desvios da lei de duplicação de compra, exceto quando se trata de uma marca "irmã" pequena e com distribuição deficiente.
+Essa é uma situação que deve ser corrigida, e não celebrada.
+
+
+# As marcas locais são um um submercado distinto?
+
+Ao longo da história das pesquisas sobre globalização, as marcas locais têm despertado grande interesse. Inicialmente, acreditava-se que elas sofreriam e seriam percebidas como sendo de qualidade inferior às suas equivalentes globais. Agora, diante do sucesso de algumas marcas locais em mercados emergentes, houve uma mudança radical de perspectiva: especula-se que as marcas locais conquistarão maior fidelidade do consumidor devido a sentimentos nacionalistas.
+
+Como ilustram os dois exemplos aqui apresentados (fast-food no México e refrigerantes na Turquia — Tabelas 3.8 e 3.9), nos quais coexistem marcas locais e globais, não existe uma divisão clara entre elas. Além disso, como vimos anteriormente neste capítulo, não há evidências de que as marcas locais atraiam um perfil de comprador diferente. Ou seja, não existe um grupo específico que compra (ou deixa de comprar) marcas locais.
+
+As marcas locais competem no mesmo mercado que todas as outras. A decisão de temê-las ou ignorá-las depende diretamente de sua participação de mercado atual.
+
+Ocasionalmente, observamos desvios no desempenho de marcas locais, mas, como mencionado anteriormente, isso geralmente decorre de uma distribuição irregular (muitas vezes restrita a certas regiões). Em países vastos e diversos como a China e a Índia — cujas economias historicamente permaneceram relativamente isoladas dos mercados globais —, a presença de fortes atores regionais não surpreende. A possibilidade de essas marcas regionais se tornarem marcas nacionais fortes é uma questão à parte. Nossa recomendação é que, sempre que você perceber uma marca apresentando um comportamento atípico, busque primeiro explicações relacionadas a falhas na distribuição ou a diferenças funcionais. Somente após descartar essas duas hipóteses é que se deve explorar explicações mais complexas, como o posicionamento ou a diferenciação da marca.
+
+# Conclusão
+
+Para crescer, sua marca precisa atrair novos clientes. Isso significa conquistar clientes de concorrentes, e este capítulo esclarece quais são eles. Compreender como as marcas competem — para não se distrair com concorrência menos relevante — não precisa ser algo complicado. Dispomos de algumas leis empíricas simples, válidas em uma ampla gama de mercados, que nos ajudam a entender categorias complexas e com múltiplas camadas. Lembre-se destes pontos fundamentais:
+
+- O perfil da base de clientes da sua marca deve acompanhar o perfil da categoria. Caso isso não ocorra, descubra por que seu mercado está restrito e, se possível, corrija a situação.
+- Espere que a principal concorrência da sua marca venha de marcas com maior participação de mercado, a menos que você tenha evidências empíricas que indiquem o contrário.
+- Se você crescer, muito provavelmente ganhará vendas de todas as marcas, na proporção de suas participações atuais; portanto, não se deixe distrair por alegações de posicionamento ou mesmo por diferenças funcionais ao buscar o crescimento — às vezes esses fatores importam, mas frequentemente menos do que você imagina.
+Utilize a análise de partição para garantir que você está atuando em todo o mercado e não deixando sua marca fora de subcategorias importantes por falta de uma variante adequada. Identifique e, se possível, elimine essas barreiras ao crescimento da penetração.
