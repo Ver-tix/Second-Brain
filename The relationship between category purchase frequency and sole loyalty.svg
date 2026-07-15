@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="100%" height="100%" style="background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Sombra elegante para o contêiner do card -->
+    <filter id="table-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04" />
+    </filter>
+  </defs>
+
+  <!-- Fundo do Card -->
+  <rect x="30" y="30" width="940" height="440" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#table-shadow)" />
+
+  <!-- Título da Tabela -->
+  <g transform="translate(60, 75)">
+    <text x="0" y="0" font-size="19" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">Table 2.5: The relationship between category purchase frequency and sole loyalty</text>
+    <text x="0" y="26" font-size="19" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">for soft drinks in Turkey and Mexico (2014)</text>
+  </g>
+
+  <!-- ================= ESTRUTURA DA TABELA ================= -->
+  <g transform="translate(0, 30)">
+    
+    <!-- Cabeçalho (Cantos Superiores Arredondados) -->
+    <path d="M 60,155 v -45 a 8,8 0 0 1 8,-8 h 864 a 8,8 0 0 1 8,8 v 45 Z" fill="#475569" />
+
+    <!-- Fundo de Linhas Alternadas -->
+    <rect x="60" y="155" width="880" height="42" fill="#f8fafc" />
+    <rect x="60" y="197" width="880" height="42" fill="#ffffff" />
+    <rect x="60" y="239" width="880" height="42" fill="#f8fafc" />
+    <rect x="60" y="281" width="880" height="42" fill="#ffffff" />
+    <rect x="60" y="323" width="880" height="42" fill="#f8fafc" />
+    
+    <!-- Última Linha (Cantos Inferiores Arredondados) -->
+    <path d="M 60,365 h 880 v 34 a 8,8 0 0 1 -8,8 h -864 a 8,8 0 0 1 -8,-8 Z" fill="#ffffff" />
+
+    <!-- Divisórias Verticais de Colunas -->
+    <line x1="390" y1="102" x2="390" y2="407" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="660" y1="102" x2="660" y2="407" stroke="#cbd5e1" stroke-width="1" />
+
+    <!-- Divisórias Horizontais de Linhas -->
+    <line x1="60" y1="155" x2="940" y2="155" stroke="#334155" stroke-width="2" />
+    <line x1="60" y1="197" x2="940" y2="197" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="239" x2="940" y2="239" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="281" x2="940" y2="281" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="323" x2="940" y2="323" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="365" x2="940" y2="365" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="407" x2="940" y2="407" stroke="#cbd5e1" stroke-width="1.5" />
+
+    <!-- ================= CONTEÚDO DE TEXTO E DADOS ================= -->
+
+    <!-- CABEÇALHOS DAS COLUNAS (Texto Branco) -->
+    <g font-size="14" font-weight="700" fill="#ffffff">
+      <text x="85" y="136">Purchase frequency</text>
+      <text x="525" y="136" text-anchor="middle">Turkey % solely loyal</text>
+      <text x="800" y="136" text-anchor="middle">Mexico % solely loyal</text>
+    </g>
+
+    <!-- LINHA 1 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="181">Once a day or more often</text>
+      <text x="525" y="181" text-anchor="middle" font-weight="500">0.5</text>
+      <text x="800" y="181" text-anchor="middle" font-weight="500">0.3</text>
+    </g>
+
+    <!-- LINHA 2 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="223">Every 2 or 3 days</text>
+      <text x="525" y="223" text-anchor="middle" font-weight="500">0.7</text>
+      <text x="800" y="223" text-anchor="middle" font-weight="500">0.5</text>
+    </g>
+
+    <!-- LINHA 3 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="265">Once a week</text>
+      <text x="525" y="265" text-anchor="middle" font-weight="500">7</text>
+      <text x="800" y="265" text-anchor="middle" font-weight="500">6</text>
+    </g>
+
+    <!-- LINHA 4 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="307">2 or 3 times a month</text>
+      <text x="525" y="307" text-anchor="middle" font-weight="500">14</text>
+      <text x="800" y="307" text-anchor="middle" font-weight="500">20</text>
+    </g>
+
+    <!-- LINHA 5 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="349">Once per month</text>
+      <text x="525" y="349" text-anchor="middle" font-weight="500">29</text>
+      <text x="800" y="349" text-anchor="middle" font-weight="500">31</text>
+    </g>
+
+    <!-- LINHA 6 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="391">Less than once a month</text>
+      <text x="525" y="391" text-anchor="middle" font-weight="500">40</text>
+      <text x="800" y="391" text-anchor="middle" font-weight="500">33</text>
+    </g>
+
+  </g>
+</svg>

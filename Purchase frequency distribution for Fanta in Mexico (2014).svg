@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%" style="background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Sombra elegante para o contêiner do card -->
+    <filter id="table-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04" />
+    </filter>
+  </defs>
+
+  <!-- Fundo do Card -->
+  <rect x="30" y="30" width="940" height="540" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#table-shadow)" />
+
+  <!-- Título da Tabela -->
+  <g transform="translate(60, 75)">
+    <text x="0" y="0" font-size="19" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">Table 2.3: Purchase frequency distribution for Fanta in Mexico (2014)</text>
+  </g>
+
+  <!-- ================= ESTRUTURA DA TABELA ================= -->
+  <g transform="translate(0, 0)">
+    
+    <!-- Cabeçalho (Cantos Superiores Arredondados) -->
+    <path d="M 60,155 v -45 a 8,8 0 0 1 8,-8 h 864 a 8,8 0 0 1 8,8 v 45 Z" fill="#475569" />
+
+    <!-- Fundo de Linhas Alternadas -->
+    <rect x="60" y="155" width="880" height="36" fill="#f8fafc" />
+    <rect x="60" y="191" width="880" height="36" fill="#ffffff" />
+    <rect x="60" y="227" width="880" height="36" fill="#f8fafc" />
+    <rect x="60" y="263" width="880" height="36" fill="#ffffff" />
+    <rect x="60" y="299" width="880" height="36" fill="#f8fafc" />
+    <rect x="60" y="335" width="880" height="36" fill="#ffffff" />
+    <rect x="60" y="371" width="880" height="36" fill="#f8fafc" />
+    <rect x="60" y="407" width="880" height="36" fill="#ffffff" />
+    <rect x="60" y="443" width="880" height="36" fill="#f8fafc" />
+    
+    <!-- Última Linha (Cantos Inferiores Arredondados) -->
+    <path d="M 60,479 h 880 v 28 a 8,8 0 0 1 -8,8 h -864 a 8,8 0 0 1 -8,-8 Z" fill="#ffffff" />
+
+    <!-- Blocos Mesclados para a Coluna "Weight" (Destaque visual sutil) -->
+    <!-- Bloco Top 20% (Linhas 1-4) -->
+    <rect x="740" y="155" width="180" height="144" fill="#f1f5f9" opacity="0.9" stroke="#cbd5e1" stroke-width="0.5" />
+    <!-- Bloco Top 50% (Linhas 5-7) -->
+    <rect x="740" y="299" width="180" height="108" fill="#f1f5f9" opacity="0.9" stroke="#cbd5e1" stroke-width="0.5" />
+
+    <!-- Divisórias Verticais de Colunas -->
+    <line x1="360" y1="102" x2="360" y2="515" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="540" y1="102" x2="540" y2="515" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="740" y1="102" x2="740" y2="515" stroke="#cbd5e1" stroke-width="1.5" />
+
+    <!-- Divisórias Horizontais de Linhas -->
+    <line x1="60" y1="155" x2="940" y2="155" stroke="#334155" stroke-width="2" />
+    <line x1="60" y1="191" x2="740" y2="191" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="227" x2="740" y2="227" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="263" x2="740" y2="263" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="299" x2="940" y2="299" stroke="#cbd5e1" stroke-width="1.5" />
+    <line x1="60" y1="335" x2="740" y2="335" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="371" x2="740" y2="371" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="407" x2="940" y2="407" stroke="#cbd5e1" stroke-width="1.5" />
+    <line x1="60" y1="443" x2="740" y2="443" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="479" x2="740" y2="479" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="60" y1="515" x2="940" y2="515" stroke="#cbd5e1" stroke-width="1.5" />
+
+
+    <!-- ================= CONTEÚDO DE TEXTO E DADOS ================= -->
+
+    <!-- CABEÇALHOS DAS COLUNAS (Texto Branco) -->
+    <g font-size="14" font-weight="700" fill="#ffffff">
+      <text x="85" y="136">Frequency of purchase</text>
+      <text x="450" y="136" text-anchor="middle">Buyers (%)</text>
+      <text x="640" y="136" text-anchor="middle">Cumulative (%)</text>
+      <text x="830" y="136" text-anchor="middle">Weight</text>
+    </g>
+
+    <!-- LINHA 1 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="178">10+ times</text>
+      <text x="450" y="178" text-anchor="middle" font-weight="500">13</text>
+      <text x="640" y="178" text-anchor="middle" font-weight="500">13</text>
+    </g>
+
+    <!-- LINHA 2 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="214">9 times</text>
+      <text x="450" y="214" text-anchor="middle" font-weight="500">1</text>
+      <text x="640" y="214" text-anchor="middle" font-weight="500">14</text>
+    </g>
+
+    <!-- LINHA 3 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="250">8 times</text>
+      <text x="450" y="250" text-anchor="middle" font-weight="500">3</text>
+      <text x="640" y="250" text-anchor="middle" font-weight="500">17</text>
+    </g>
+
+    <!-- LINHA 4 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="286">7 times</text>
+      <text x="450" y="286" text-anchor="middle" font-weight="500">3</text>
+      <text x="640" y="286" text-anchor="middle" font-weight="500">20</text>
+    </g>
+
+    <!-- LINHA 5 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="322">6 times</text>
+      <text x="450" y="322" text-anchor="middle" font-weight="500">7</text>
+      <text x="640" y="322" text-anchor="middle" font-weight="500">26</text>
+    </g>
+
+    <!-- LINHA 6 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="358">5 times</text>
+      <text x="450" y="358" text-anchor="middle" font-weight="500">9</text>
+      <text x="640" y="358" text-anchor="middle" font-weight="500">35</text>
+    </g>
+
+    <!-- LINHA 7 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="394">4 times</text>
+      <text x="450" y="394" text-anchor="middle" font-weight="500">10</text>
+      <text x="640" y="394" text-anchor="middle" font-weight="500">45</text>
+    </g>
+
+    <!-- LINHA 8 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="430">3 times</text>
+      <text x="450" y="430" text-anchor="middle" font-weight="500">16</text>
+      <text x="640" y="430" text-anchor="middle" font-weight="500">61</text>
+    </g>
+
+    <!-- LINHA 9 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="466">Twice</text>
+      <text x="450" y="466" text-anchor="middle" font-weight="500">21</text>
+      <text x="640" y="466" text-anchor="middle" font-weight="500">82</text>
+    </g>
+
+    <!-- LINHA 10 -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="85" y="502">Once</text>
+      <text x="450" y="502" text-anchor="middle" font-weight="500">18</text>
+      <text x="640" y="502" text-anchor="middle" font-weight="500">100</text>
+    </g>
+
+    <!-- TEXTOS DAS CÉLULAS MESCLADAS (Coluna Weight) -->
+    <text x="830" y="232" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">Top 20%</text>
+    <text x="830" y="358" font-size="14" font-weight="700" fill="#1e293b" text-anchor="middle">Top 50%</text>
+
+  </g>
+</svg>

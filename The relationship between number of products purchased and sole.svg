@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" width="100%" height="100%" style="background-color: #f8fafc; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <!-- Filtro de sombra elegante para o container do card -->
+    <filter id="card-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04" />
+    </filter>
+  </defs>
+
+  <!-- Fundo do Card -->
+  <rect x="30" y="30" width="940" height="580" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#card-shadow)" />
+
+  <!-- Título do Gráfico -->
+  <text x="60" y="80" font-size="18" font-weight="bold" fill="#0f172a">Figure 2.4: The relationship between number of products purchased and sole</text>
+  <text x="60" y="106" font-size="18" font-weight="bold" fill="#0f172a">loyalty for financial services in South Africa (2012)</text>
+
+  <!-- Linhas de Grade e Eixo Y -->
+  <g stroke="#e2e8f0" stroke-width="1.5">
+    <line x1="140" y1="185" x2="890" y2="185" />
+    <line x1="140" y1="245" x2="890" y2="245" />
+    <line x1="140" y1="305" x2="890" y2="305" />
+    <line x1="140" y1="365" x2="890" y2="365" />
+    <line x1="140" y1="425" x2="890" y2="425" />
+  </g>
+
+  <!-- Linha de base do Eixo X -->
+  <line x1="140" y1="485" x2="890" y2="485" stroke="#0f172a" stroke-width="2" />
+
+  <!-- Rótulos do Eixo Y -->
+  <g font-size="14" font-weight="bold" fill="#475569" text-anchor="end">
+    <text x="120" y="190">100</text>
+    <text x="120" y="250">80</text>
+    <text x="120" y="310">60</text>
+    <text x="120" y="370">40</text>
+    <text x="120" y="430">20</text>
+    <text x="120" y="490">0</text>
+  </g>
+
+  <!-- Título do Eixo Y (Rotacionado) -->
+  <g transform="translate(65, 335) rotate(-90)">
+    <text x="0" y="0" font-size="15" font-weight="bold" fill="#0f172a" text-anchor="middle">Solely loyal buyers (%)</text>
+  </g>
+
+  <!-- Rótulos do Eixo X -->
+  <g font-size="14" font-weight="bold" fill="#475569" text-anchor="middle">
+    <text x="180" y="515">1</text>
+    <text x="345" y="515">2</text>
+    <text x="510" y="515">3</text>
+    <text x="675" y="515">4</text>
+    <text x="840" y="515">5</text>
+  </g>
+
+  <!-- Título do Eixo X -->
+  <text x="510" y="550" font-size="15" font-weight="bold" fill="#0f172a" text-anchor="middle">Products (number)</text>
+
+  <!-- Curvas de Dados -->
+  <!-- ABSA (Pontilhado) -->
+  <path d="M 180,185 L 345,368 L 510,395 L 675,401 L 840,395" fill="none" stroke="#475569" stroke-width="3" stroke-dasharray="3,6" stroke-linecap="round" />
+
+  <!-- FNB (Tracejado) -->
+  <path d="M 180,185 L 345,362 L 510,395 L 675,395 L 840,392" fill="none" stroke="#64748b" stroke-width="3" stroke-dasharray="8,6" stroke-linecap="round" />
+
+  <!-- NedBank (Sólido Preto) -->
+  <path d="M 180,185 L 345,353 L 510,383 L 675,383 L 840,392" fill="none" stroke="#0f172a" stroke-width="3.5" stroke-linecap="round" />
+
+  <!-- Standard Bank (Sólido Cinza) -->
+  <path d="M 180,185 L 345,359 L 510,395 L 675,416 L 840,404" fill="none" stroke="#94a3b8" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Pontos/Marcadores (Dots) nos nós de cada linha -->
+  <g>
+    <!-- ABSA -->
+    <circle cx="180" cy="185" r="4.5" fill="#475569" />
+    <circle cx="345" cy="368" r="4.5" fill="#475569" />
+    <circle cx="510" cy="395" r="4.5" fill="#475569" />
+    <circle cx="675" cy="401" r="4.5" fill="#475569" />
+    <circle cx="840" cy="395" r="4.5" fill="#475569" />
+    <!-- FNB -->
+    <circle cx="180" cy="185" r="4.5" fill="#64748b" />
+    <circle cx="345" cy="362" r="4.5" fill="#64748b" />
+    <circle cx="510" cy="395" r="4.5" fill="#64748b" />
+    <circle cx="675" cy="395" r="4.5" fill="#64748b" />
+    <circle cx="840" cy="392" r="4.5" fill="#64748b" />
+    <!-- NedBank -->
+    <circle cx="180" cy="185" r="4.5" fill="#0f172a" />
+    <circle cx="345" cy="353" r="4.5" fill="#0f172a" />
+    <circle cx="510" cy="383" r="4.5" fill="#0f172a" />
+    <circle cx="675" cy="383" r="4.5" fill="#0f172a" />
+    <circle cx="840" cy="392" r="4.5" fill="#0f172a" />
+    <!-- Standard Bank -->
+    <circle cx="180" cy="185" r="4.5" fill="#94a3b8" />
+    <circle cx="345" cy="359" r="4.5" fill="#94a3b8" />
+    <circle cx="510" cy="395" r="4.5" fill="#94a3b8" />
+    <circle cx="675" cy="416" r="4.5" fill="#94a3b8" />
+    <circle cx="840" cy="404" r="4.5" fill="#94a3b8" />
+  </g>
+
+  <!-- Legenda do Gráfico -->
+  <g transform="translate(200, 582)" font-size="14" font-weight="bold" fill="#334155">
+    <!-- ABSA -->
+    <line x1="0" y1="-5" x2="30" y2="-5" stroke="#475569" stroke-width="3.5" stroke-dasharray="2,4" />
+    <text x="38" y="0">ABSA</text>
+
+    <!-- FNB -->
+    <line x1="120" y1="-5" x2="150" y2="-5" stroke="#64748b" stroke-width="3.5" stroke-dasharray="8,4" />
+    <text x="158" y="0">FNB</text>
+
+    <!-- NedBank -->
+    <line x1="230" y1="-5" x2="260" y2="-5" stroke="#0f172a" stroke-width="3.5" />
+    <text x="268" y="0">NedBank</text>
+
+    <!-- Standard Bank -->
+    <line x1="380" y1="-5" x2="410" y2="-5" stroke="#94a3b8" stroke-width="3.5" />
+    <text x="418" y="0">Standard Bank</text>
+  </g>
+
+  <!-- Fonte dos Dados (Footer/Rodapé) -->
+  <text x="940" y="590" font-size="12" font-weight="500" font-style="italic" fill="#64748b" text-anchor="end">Source: National Advertising Bureau Roots Survey, 2012</text>
+</svg>
