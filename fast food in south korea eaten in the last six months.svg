@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 780" width="100%" height="100%" style="background-color: #f8fafc; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0f172a" flood-opacity="0.05" />
+    </filter>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="25" y="25" width="1100" height="730" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" filter="url(#shadow)" />
+
+  <!-- Header Section -->
+  <g transform="translate(60, 65)">
+    <text x="0" y="0" font-size="20" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">Table 3.1: Fast food in South Korea eaten in the last six months</text>
+    <text x="0" y="26" font-size="15" font-weight="500" fill="#64748b">— Sample of demographic profiles (%)</text>
+  </g>
+
+  <!-- Table Headers Background -->
+  <rect x="50" y="125" width="1050" height="70" rx="8" fill="#1e293b" />
+
+  <!-- Headers Text -->
+  <g fill="#ffffff" font-weight="700" font-size="11.5" letter-spacing="0.02em">
+    <!-- Row 1 header -->
+    <text x="65" y="152">Brands</text>
+    <text x="330" y="152">Male</text>
+    <text x="425" y="152">18–24</text>
+    <text x="520" y="152">25–34</text>
+    <text x="615" y="152">Lower</text>
+    <text x="715" y="152">Higher</text>
+    <text x="815" y="152">Children</text>
+    <text x="925" y="152">One Person</text>
+    <text x="1025" y="152">Work</text>
+
+    <!-- Row 2 header -->
+    <text x="65" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">(penetration order)</text>
+    <text x="330" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">(%)</text>
+    <text x="425" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">years (%)</text>
+    <text x="520" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">years (%)</text>
+    <text x="615" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">income (%)</text>
+    <text x="715" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">income (%)</text>
+    <text x="815" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">under 5 (%)</text>
+    <text x="925" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">hhold (%)</text>
+    <text x="1025" y="172" fill="#94a3b8" font-size="10.5" font-weight="500">full-time (%)</text>
+  </g>
+
+  <!-- Data Rows (Y starts at 225, increments by 34px) -->
+  <g font-size="13" font-weight="600" fill="#334155">
+    
+    <!-- Row 1: Lotteria -->
+    <rect x="50" y="205" width="1050" height="34" fill="#f8fafc" rx="4" />
+    <text x="65" y="227" font-weight="700" fill="#0f172a">*Lotteria</text>
+    <text x="330" y="227">47</text>
+    <text x="425" y="227">16</text>
+    <text x="520" y="227">25</text>
+    <text x="615" y="227">37</text>
+    <text x="715" y="227">16</text>
+    <text x="815" y="227">13</text>
+    <text x="925" y="227">8</text>
+    <text x="1025" y="227">62</text>
+
+    <!-- Row 2: McDonald's -->
+    <text x="65" y="261">McDonald's</text>
+    <text x="330" y="261">52</text>
+    <text x="425" y="261">16</text>
+    <text x="520" y="261">28</text>
+    <text x="615" y="261">35</text>
+    <text x="715" y="261">17</text>
+    <text x="815" y="261">13</text>
+    <text x="925" y="261">8</text>
+    <text x="1025" y="261">67</text>
+
+    <!-- Row 3: KFC -->
+    <rect x="50" y="273" width="1050" height="34" fill="#f8fafc" rx="4" />
+    <text x="65" y="295">KFC</text>
+    <text x="330" y="295">51</text>
+    <text x="425" y="295">13</text>
+    <text x="520" y="295">29</text>
+    <text x="615" y="295">35</text>
+    <text x="715" y="295">18</text>
+    <text x="815" y="295">10</text>
+    <text x="925" y="295">9</text>
+    <text x="1025" y="295">68</text>
+
+    <!-- Row 4: Pizza Hut -->
+    <text x="65" y="329">Pizza Hut</text>
+    <text x="330" y="329">48</text>
+    <text x="425" y="329">14</text>
+    <text x="520" y="329">22</text>
+    <text x="615" y="329">31</text>
+    <text x="715" y="329">20</text>
+    <text x="815" y="329">12</text>
+    <text x="925" y="329">6</text>
+    <text x="1025" y="329">69</text>
+
+    <!-- Row 5: *Paris Baguette -->
+    <rect x="50" y="341" width="1050" height="34" fill="#f8fafc" rx="4" />
+    <text x="65" y="363" font-weight="700" fill="#0f172a">*Paris Baguette</text>
+    <text x="330" y="363">46</text>
+    <text x="425" y="363">15</text>
+    <text x="520" y="363">24</text>
+    <text x="615" y="363">36</text>
+    <text x="715" y="363">14</text>
+    <text x="815" y="363">11</text>
+    <text x="925" y="363">9</text>
+    <text x="1025" y="363">63</text>
+
+    <!-- Row 6: Dunkin' Donuts -->
+    <text x="65" y="397">Dunkin' Donuts</text>
+    <text x="330" y="397">46</text>
+    <text x="425" y="397">15</text>
+    <text x="520" y="397">27</text>
+    <text x="615" y="397">33</text>
+    <text x="715" y="397">20</text>
+    <text x="815" y="397">14</text>
+    <text x="925" y="397">6</text>
+    <text x="1025" y="397">66</text>
+
+    <!-- Row 7: Domino's pizza -->
+    <rect x="50" y="409" width="1050" height="34" fill="#f8fafc" rx="4" />
+    <text x="65" y="431">Domino's pizza</text>
+    <text x="330" y="431">44</text>
+    <text x="425" y="431">13</text>
+    <text x="520" y="431">29</text>
+    <text x="615" y="431">33</text>
+    <text x="715" y="431">20</text>
+    <text x="815" y="431">16</text>
+    <text x="925" y="431">7</text>
+    <text x="1025" y="431">72</text>
+
+    <!-- Row 8: *Tour Les Jour -->
+    <text x="65" y="465" font-weight="700" fill="#0f172a">*Tour Les Jour</text>
+    <text x="330" y="465">42</text>
+    <text x="425" y="465">18</text>
+    <text x="520" y="465">25</text>
+    <text x="615" y="465">35</text>
+    <text x="715" y="465">15</text>
+    <text x="815" y="465">15</text>
+    <text x="925" y="465">7</text>
+    <text x="1025" y="465">63</text>
+
+    <!-- Row 9: Burger King -->
+    <rect x="50" y="477" width="1050" height="34" fill="#f8fafc" rx="4" />
+    <text x="65" y="499">Burger King</text>
+    <text x="330" y="499">53</text>
+    <text x="425" y="499">16</text>
+    <text x="520" y="499">29</text>
+    <text x="615" y="499">31</text>
+    <text x="715" y="499">21</text>
+    <text x="815" y="499">11</text>
+    <text x="925" y="499">6</text>
+    <text x="1025" y="499">66</text>
+
+    <!-- Row 10: *Kyochon -->
+    <text x="65" y="533" font-weight="700" fill="#0f172a">*Kyochon</text>
+    <text x="330" y="533">50</text>
+    <text x="425" y="533">16</text>
+    <text x="520" y="533">18</text>
+    <text x="615" y="533">31</text>
+    <text x="715" y="533">19</text>
+    <text x="815" y="533">14</text>
+    <text x="925" y="533">7</text>
+    <text x="1025" y="533">70</text>
+
+    <!-- Separator Line before Summary/Averages -->
+    <line x1="50" y1="552" x2="1100" y2="552" stroke="#cbd5e1" stroke-width="2" />
+
+    <!-- Summary Row 1: Average -->
+    <text x="65" y="575" font-weight="700" fill="#0f172a">Average</text>
+    <text x="330" y="575" font-weight="700" fill="#0f172a">48</text>
+    <text x="425" y="575" font-weight="700" fill="#0f172a">15</text>
+    <text x="520" y="575" font-weight="700" fill="#0f172a">26</text>
+    <text x="615" y="575" font-weight="700" fill="#0f172a">34</text>
+    <text x="715" y="575" font-weight="700" fill="#0f172a">18</text>
+    <text x="815" y="575" font-weight="700" fill="#0f172a">13</text>
+    <text x="925" y="575" font-weight="700" fill="#0f172a">7</text>
+    <text x="1025" y="575" font-weight="700" fill="#0f172a">67</text>
+
+    <!-- Summary Row 2: Mean absolute deviation -->
+    <rect x="50" y="587" width="1050" height="34" fill="#f1f5f9" rx="4" />
+    <text x="65" y="609" font-weight="700" fill="#0f172a">Mean absolute deviation</text>
+    <text x="330" y="609" font-weight="700" fill="#0f172a">3</text>
+    <text x="425" y="609" font-weight="700" fill="#0f172a">1</text>
+    <text x="520" y="609" font-weight="700" fill="#0f172a">3</text>
+    <text x="615" y="609" font-weight="700" fill="#0f172a">2</text>
+    <text x="715" y="609" font-weight="700" fill="#0f172a">2</text>
+    <text x="815" y="609" font-weight="700" fill="#0f172a">2</text>
+    <text x="925" y="609" font-weight="700" fill="#0f172a">1</text>
+    <text x="1025" y="609" font-weight="700" fill="#0f172a">3</text>
+
+    <!-- Summary Row 3: Average (local brands only) -->
+    <text x="65" y="643" font-weight="700" fill="#0f172a">Average (local brands only)</text>
+    <text x="330" y="643" font-weight="700" fill="#0f172a">46</text>
+    <text x="425" y="643" font-weight="700" fill="#0f172a">16</text>
+    <text x="520" y="643" font-weight="700" fill="#0f172a">23</text>
+    <text x="615" y="643" font-weight="700" fill="#0f172a">35</text>
+    <text x="715" y="643" font-weight="700" fill="#0f172a">16</text>
+    <text x="815" y="643" font-weight="700" fill="#0f172a">13</text>
+    <text x="925" y="643" font-weight="700" fill="#0f172a">8</text>
+    <text x="1025" y="643" font-weight="700" fill="#0f172a">64</text>
+  </g>
+
+  <!-- Footer Info / Legend -->
+  <line x1="50" y1="665" x2="1100" y2="665" stroke="#e2e8f0" stroke-width="1.5" />
+  <g transform="translate(50, 695)">
+    <circle cx="10" cy="-4" r="3" fill="#0f172a" />
+    <text x="20" y="0" font-size="12" font-weight="600" fill="#475569">* Local brand</text>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%" style="background-color: #f8fafc; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <filter id="table-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0f172a" flood-opacity="0.08" />
+    </filter>
+  </defs>
+
+  <!-- Container da Tabela -->
+  <rect x="30" y="30" width="940" height="540" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#table-shadow)" />
+
+  <!-- Título -->
+  <text x="60" y="70" font-size="18" font-weight="800" fill="#0f172a">Table 3.2: Mean absolute deviations (in percentage points) in fast food brand-user profiles</text>
+  <text x="60" y="94" font-size="18" font-weight="800" fill="#0f172a">across eleven countries</text>
+
+  <!-- Cabeçalho -->
+  <rect x="40" y="120" width="920" height="60" fill="#475569" rx="6" />
+  <g font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    <text x="100" y="155">Country</text>
+    <text x="220" y="155">Gender</text>
+    <text x="320" y="155">Age</text>
+    <text x="450" y="155" style="white-space: pre-wrap;">Household size (people)</text>
+    <text x="600" y="155">Children</text>
+    <text x="730" y="155">Work status</text>
+    <text x="860" y="155">Income</text>
+  </g>
+
+  <!-- Dados da Tabela -->
+  <g font-size="14" fill="#334155" text-anchor="middle">
+    <text x="100" y="210">Brazil</text>    <text x="220" y="210">3*</text> <text x="320" y="210">3</text> <text x="450" y="210">2</text> <text x="600" y="210">3</text> <text x="730" y="210">5</text> <text x="860" y="210">3</text>
+    <text x="100" y="240">China</text>     <text x="220" y="240">5</text>  <text x="320" y="240">3</text> <text x="450" y="240">2</text> <text x="600" y="240">3</text> <text x="730" y="240">1</text> <text x="860" y="240">4</text>
+    <text x="100" y="270">India</text>     <text x="220" y="270">2</text>  <text x="320" y="270">3</text> <text x="450" y="270">2</text> <text x="600" y="270">3</text> <text x="730" y="270">2</text> <text x="860" y="270">2</text>
+    <text x="100" y="300">Indonesia</text> <text x="220" y="300">4</text>  <text x="320" y="300">2</text> <text x="450" y="300">2</text> <text x="600" y="300">2</text> <text x="730" y="300">2</text> <text x="860" y="300">2</text>
+    <text x="100" y="330">Kenya</text>     <text x="220" y="330">3</text>  <text x="320" y="330">4</text> <text x="450" y="330">2</text> <text x="600" y="330">3</text> <text x="730" y="330">3</text> <text x="860" y="330">3</text>
+    <text x="100" y="360">Mexico</text>    <text x="220" y="360">3</text>  <text x="320" y="360">3</text> <text x="450" y="360">2</text> <text x="600" y="360">2</text> <text x="730" y="360">3</text> <text x="860" y="360">2</text>
+    <text x="100" y="390">Nigeria</text>   <text x="220" y="390">4</text>  <text x="320" y="390">3</text> <text x="450" y="390">2</text> <text x="600" y="390">2</text> <text x="730" y="390">2</text> <text x="860" y="390">2</text>
+    <text x="100" y="420">Russia</text>    <text x="220" y="420">6</text>  <text x="320" y="420">3</text> <text x="450" y="420">2</text> <text x="600" y="420">2</text> <text x="730" y="420">3</text> <text x="860" y="420">3</text>
+    <text x="100" y="450">South Africa</text><text x="220" y="450">3</text><text x="320" y="450">2</text> <text x="450" y="450">3</text> <text x="600" y="450">2</text> <text x="730" y="450">3</text> <text x="860" y="450">4</text>
+    <text x="100" y="480">South Korea</text><text x="220" y="480">5</text><text x="320" y="480">4</text> <text x="450" y="480">2</text> <text x="600" y="480">2</text> <text x="730" y="480">3</text> <text x="860" y="480">2</text>
+    <text x="100" y="510">Turkey</text>    <text x="220" y="510">2</text>  <text x="320" y="510">3</text> <text x="450" y="510">2</text> <text x="600" y="510">3</text> <text x="730" y="510">2</text> <text x="860" y="510">3</text>
+  </g>
+
+  <!-- Linha de Média -->
+  <rect x="40" y="530" width="920" height="30" fill="#e2e8f0" rx="4" />
+  <g font-size="14" font-weight="bold" fill="#0f172a" text-anchor="middle">
+    <text x="100" y="550">Category average</text>
+    <text x="220" y="550">4</text> <text x="320" y="550">3</text> <text x="450" y="550">2</text> <text x="600" y="550">3</text> <text x="730" y="550">3</text> <text x="860" y="550">3</text>
+  </g>
+</svg>
