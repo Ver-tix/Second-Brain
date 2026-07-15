@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="100%" height="100%" style="background-color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <!-- Premium drop shadow for the container card -->
+    <filter id="table-shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.06" />
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.04" />
+    </filter>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="30" y="30" width="940" height="640" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" filter="url(#table-shadow)" />
+
+  <!-- Table Title -->
+  <g transform="translate(60, 75)">
+    <text x="0" y="0" font-size="19" font-weight="800" fill="#0f172a" letter-spacing="-0.02em">Table 1.6: Double jeopardy in insurance in South Africa (2012)</text>
+  </g>
+
+  <!-- ================= TABLE STRUCTURE ================= -->
+  <g transform="translate(60, 110)">
+    
+    <!-- Header Row Background (Rounded Top Corners) -->
+    <path d="M 0,8 A 8,8 0 0 1 8,0 h 864 a 8,8 0 0 1 8,8 v 47 h -880 Z" fill="#475569" />
+
+    <!-- Alternating Row Backgrounds -->
+    <rect x="0" y="55" width="880" height="36" fill="#f8fafc" />
+    <rect x="0" y="91" width="880" height="36" fill="#ffffff" />
+    <rect x="0" y="127" width="880" height="36" fill="#f8fafc" />
+    <rect x="0" y="163" width="880" height="36" fill="#ffffff" />
+    <rect x="0" y="199" width="880" height="36" fill="#f8fafc" />
+    <rect x="0" y="235" width="880" height="36" fill="#ffffff" />
+    <rect x="0" y="271" width="880" height="36" fill="#f8fafc" />
+    <rect x="0" y="307" width="880" height="36" fill="#ffffff" />
+    <rect x="0" y="343" width="880" height="36" fill="#f8fafc" />
+    <rect x="0" y="379" width="880" height="36" fill="#ffffff" />
+    <rect x="0" y="415" width="880" height="36" fill="#f8fafc" />
+
+    <!-- Bottom "Average" Row Background (Rounded Bottom Corners) -->
+    <path d="M 0,451 h 880 v 34 a 8,8 0 0 1 -8,8 h -864 a 8,8 0 0 1 -8,-8 Z" fill="#e2e8f0" />
+
+    <!-- Vertical Column Dividers -->
+    <line x1="240" y1="0" x2="240" y2="493" stroke="#cbd5e1" stroke-width="1" />
+    <line x1="430" y1="0" x2="430" y2="493" stroke="#cbd5e1" stroke-width="1" />
+
+    <!-- Horizontal Row Dividers -->
+    <line x1="0" y1="55" x2="880" y2="55" stroke="#334155" stroke-width="2" />
+    <line x1="0" y1="91" x2="880" y2="91" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="127" x2="880" y2="127" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="163" x2="880" y2="163" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="199" x2="880" y2="199" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="235" x2="880" y2="235" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="271" x2="880" y2="271" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="307" x2="880" y2="307" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="343" x2="880" y2="343" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="379" x2="880" y2="379" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="415" x2="880" y2="415" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="0" y1="451" x2="880" y2="451" stroke="#cbd5e1" stroke-width="2" />
+
+
+    <!-- ================= TEXT & DATA CONTENT ================= -->
+
+    <!-- COLUMN HEADERS (White Text) -->
+    <!-- Col 1: Brands -->
+    <text x="25" y="33" font-size="14" font-weight="700" fill="#ffffff">Brands</text>
+
+    <!-- Col 2: Penetration (%) -->
+    <text x="335" y="33" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Penetration (%)</text>
+
+    <!-- Col 3: Insurance products held with company -->
+    <text x="655" y="33" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Insurance products held with company</text>
+
+
+    <!-- ROW 1: Outsurance -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="79">Outsurance</text>
+      <text x="335" y="79" text-anchor="middle" font-weight="500">27</text>
+      <text x="655" y="79" text-anchor="middle" font-weight="500">2.3</text>
+    </g>
+
+    <!-- ROW 2: Mutual & Federal -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="115">Mutual &amp; Federal</text>
+      <text x="335" y="115" text-anchor="middle" font-weight="500">13</text>
+      <text x="655" y="115" text-anchor="middle" font-weight="500">2.3</text>
+    </g>
+
+    <!-- ROW 3: Santam -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="151">Santam</text>
+      <text x="335" y="151" text-anchor="middle" font-weight="500">12</text>
+      <text x="655" y="151" text-anchor="middle" font-weight="500">2.5</text>
+    </g>
+
+    <!-- ROW 4: ABSA idirect -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="187">ABSA idirect</text>
+      <text x="335" y="187" text-anchor="middle" font-weight="500">11</text>
+      <text x="655" y="187" text-anchor="middle" font-weight="500">2.1</text>
+    </g>
+
+    <!-- ROW 5: Auto & General -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="223">Auto &amp; General</text>
+      <text x="335" y="223" text-anchor="middle" font-weight="500">10</text>
+      <text x="655" y="223" text-anchor="middle" font-weight="500">2.0</text>
+    </g>
+
+    <!-- ROW 6: Budget -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="259">Budget</text>
+      <text x="335" y="259" text-anchor="middle" font-weight="500">7</text>
+      <text x="655" y="259" text-anchor="middle" font-weight="500">1.9</text>
+    </g>
+
+    <!-- ROW 7: AA -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="295">AA</text>
+      <text x="335" y="295" text-anchor="middle" font-weight="500">7</text>
+      <text x="655" y="295" text-anchor="middle" font-weight="500">1.3</text>
+    </g>
+
+    <!-- ROW 8: Dial Direct -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="331">Dial Direct</text>
+      <text x="335" y="331" text-anchor="middle" font-weight="500">6</text>
+      <text x="655" y="331" text-anchor="middle" font-weight="500">1.9</text>
+    </g>
+
+    <!-- ROW 9: St Bank/Stanbic -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="367">St Bank/Stanbic</text>
+      <text x="335" y="367" text-anchor="middle" font-weight="500">5</text>
+      <text x="655" y="367" text-anchor="middle" font-weight="500">2.0</text>
+    </g>
+
+    <!-- ROW 10: Miway -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="403">Miway</text>
+      <text x="335" y="403" text-anchor="middle" font-weight="500">4</text>
+      <text x="655" y="403" text-anchor="middle" font-weight="500">1.8</text>
+    </g>
+
+    <!-- ROW 11: 1st for Women -->
+    <g fill="#334155" font-size="14" font-weight="600">
+      <text x="25" y="439">1st for Women</text>
+      <text x="335" y="439" text-anchor="middle" font-weight="500">3</text>
+      <text x="655" y="439" text-anchor="middle" font-weight="500">1.9</text>
+    </g>
+
+    <!-- ROW 12 (Average): Bold Highlight -->
+    <g fill="#0f172a" font-size="14" font-weight="800">
+      <text x="25" y="478">Average</text>
+      <text x="335" y="478" text-anchor="middle">10</text>
+      <text x="655" y="478" text-anchor="middle">2.0</text>
+    </g>
+
+  </g>
+
+  <!-- Source Label -->
+  <text x="940" y="642" font-size="13" font-weight="500" font-style="italic" fill="#64748b" text-anchor="end">Source: National Advertising Bureau Roots Survey, 2012</text>
+</svg>
