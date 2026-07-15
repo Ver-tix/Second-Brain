@@ -100,3 +100,124 @@ perguntas:
 Se as perguntas anteriores indicarem que o novo canal tem potencial, questione:
 
 5.  Qual é a melhor opção de portfólio para começar nesse canal? Já vendemos esses produtos atualmente e/ou qual é o nosso nível de prontidão para fornecê-los (em escala, se necessário)?
+
+# Usando leis do comportamento de compra para priorizar canais e varejistas
+
+Os canais nos ajudam a entender estruturas mais amplas do varejo, mas os compradores, na prática, realizam suas compras em pontos de venda específicos. A boa notícia é que os consumidores compram em varejistas de forma semelhante a como compram marcas. Veja alguns exemplos:
+
+- Os compradores possuem um repertório de varejistas que visitam dentro de uma categoria e raramente são 100% fiéis a um único varejista, canal ou loja.
+- A relação entre penetração e fidelidade aos varejistas reflete o padrão de "dupla penalidade" (*double jeopardy*).
+- A concorrência entre varejistas pela preferência dos consumidores segue a lei da duplicação de compras (*duplication of purchase*), pela qual os varejistas competem proporcionalmente ao tamanho do concorrente. Em geral, os varejistas compartilham mais clientes com varejistas mais populares e menos clientes com varejistas menos populares.
+
+Os varejistas apresentam diversas diferenças estruturais entre suas lojas (formato, política de preços, localização) que influenciam a relação entre penetração e fidelidade. Essas diferenças ajudam a determinar a importância relativa de concorrentes específicos à medida que as estruturas da categoria se tornam mais complexas. Isso significa que podemos utilizar os padrões principais para definir a estratégia geral, mas também aproveitar os desvios para alcançar objetivos específicos.
+
+# Comprando em diversos locais
+
+Os consumidores não se restringem a um único lugar; eles compram em diferentes varejistas e canais. Atuar em múltiplos varejistas e canais gera disponibilidade física, uma vez que os consumidores raramente compram em apenas um ponto de venda. Observamos isso ao analisar a fidelidade de participação (*share loyalty*) aos varejistas no setor de produtos de mercearia. Ou seja: qual proporção do gasto total em uma categoria — como detergente para roupas ou iogurte — um comprador dedica a um varejista específico?
+
+O índice referente a um único varejista fica, tipicamente, abaixo de 50% do gasto total na categoria, o que significa que os compradores gastam a maior parte do seu orçamento da categoria em outros varejistas.
+
+A Figura 8.3 mostra a ausência de alta fidelidade em nível de varejista na compra de café solúvel, com índices variando de 52% (Tesco) a 31% (Lidl). Os gastos estão fragmentados entre os supermercados do Reino Unido. Outro exemplo vem dos varejistas de produtos para bebês na Austrália — uma categoria na qual se poderia esperar maior fidelidade ao varejista, à medida que os compradores passam a confiar em determinados pontos de venda. No entanto, observamos um padrão semelhante de fidelidade de participação, variando entre 25% e 34%. As pessoas compram produtos para bebês em diversos pontos de venda.
+# Usando leis do comportamento de compra para priorizar canais e varejistas
+
+Os canais nos ajudam a entender estruturas mais amplas do varejo, mas os compradores, na prática, realizam suas compras em pontos de venda específicos. A boa notícia é que os consumidores compram em varejistas de forma semelhante a como compram marcas. Veja alguns exemplos:
+
+- Os compradores possuem um repertório de varejistas que visitam dentro de uma categoria e raramente são 100% fiéis a um único varejista, canal ou loja.
+- A relação entre penetração e fidelidade aos varejistas reflete o padrão de "dupla penalidade" (*double jeopardy*).
+- A concorrência entre varejistas pela preferência dos consumidores segue a lei da duplicação de compras (*duplication of purchase*), pela qual os varejistas competem proporcionalmente ao tamanho do concorrente. Em geral, os varejistas compartilham mais clientes com varejistas mais populares e menos clientes com varejistas menos populares.
+
+Os varejistas apresentam diversas diferenças estruturais entre suas lojas (formato, política de preços, localização) que influenciam a relação entre penetração e fidelidade. Essas diferenças ajudam a determinar a importância relativa de concorrentes específicos à medida que as estruturas da categoria se tornam mais complexas. Isso significa que podemos utilizar os padrões principais para definir a estratégia geral, mas também aproveitar os desvios para alcançar objetivos específicos.
+
+# Comprando em diversos locais
+
+Os consumidores não se restringem a um único lugar; eles compram em diferentes varejistas e canais. Atuar em múltiplos varejistas e canais gera disponibilidade física, uma vez que os consumidores raramente compram em apenas um ponto de venda. Observamos isso ao analisar a fidelidade de participação (*share loyalty*) aos varejistas no setor de produtos de mercearia. Ou seja: qual proporção do gasto total em uma categoria — como detergente para roupas ou iogurte — um comprador dedica a um varejista específico?
+
+O índice referente a um único varejista fica, tipicamente, abaixo de 50% do gasto total na categoria, o que significa que os compradores gastam a maior parte do seu orçamento da categoria em outros varejistas.
+![[Pasted image 20260715162805.png]]
+
+
+# A fidelidade aos varejistas segue o padrão de "dupla penalidade"
+
+Assim como ocorre com as marcas, a fidelidade aos varejistas pode ser medida de diversas formas.
+
+Entre elas estão: frequência de visitas, participação nos gastos, repetição de visitas, fidelidade exclusiva e tempo de relacionamento com o varejista. Independentemente da métrica utilizada, a fidelidade a canais e varejistas segue o padrão de "dupla penalidade".
+
+Canais ou varejistas com menos clientes também observam que esses clientes visitam suas redes com menor frequência — como ilustrado na Tabela 8.2, que apresenta o exemplo da escolha de varejistas de xampu nos EUA, e na Tabela 8.3, que mostra o padrão de compra de bebidas alcoólicas para consumo fora do local (*off-trade*) e no local (*on-trade*) no Reino Unido.
+![[Pasted image 20260715162837.png]]
+![[Pasted image 20260715162847.png]]
+Tendo em mente a lei da "dupla penalidade" (*double jeopardy*), podemos facilmente verificar se as métricas de fidelidade de um varejista estão dentro da normalidade ou se apresentam níveis acima ou abaixo do esperado. Com o contexto fornecido por essa lei, conseguimos interpretar melhor as métricas de comportamento de compra e distinguir métricas de fidelidade normais daquelas situações em que varejistas obtêm níveis de fidelidade superiores ou inferiores ao que seria esperado, considerando o tamanho de suas bases de clientes. Essa informação é valiosa tanto para varejistas quanto para empresas que desejam priorizar canais de varejo para suas vendas.
+
+O fenômeno da dupla penalidade ocorre no comportamento do consumidor devido à estrutura subjacente das bases de clientes dos varejistas. Varejistas maiores monopolizam os compradores ocasionais (*light shoppers*), enquanto varejistas menores atraem uma proporção desproporcional de compradores intensivos da categoria (*heavy shoppers*); contudo, quem compra em um varejista menor geralmente também compra nos varejistas maiores. Assim, os varejistas maiores atraem mais clientes de todos os perfis, ao passo que os menores ficam apenas com aqueles que dividem sua fidelidade entre diferentes estabelecimentos.
+
+Portanto, mesmo que esses compradores intensivos comprem com mais frequência ou gastem mais no total, eles gastam menos ou compram com menor frequência no varejista menor.
+
+Embora pontos de venda com baixa penetração geralmente tenham menos clientes — e estes comprem com menor frequência —, existem exceções que podem tornar um canal de varejo de baixa penetração mais atraente:
+
+- capacidade de alcançar compradores vinculados àquele ponto de venda (por exemplo, membros de clubes de compras como o Costco; veja a Tabela 8.2)
+- capacidade de alcançar compradores não atingidos por outros pontos de venda (por exemplo, devido à localização geográfica)
+- capacidade de capturar diferentes ocasiões de consumo (por exemplo, em máquinas de venda automática próximas a parques ou outros locais de consumo em trânsito)
+- capacidade de praticar preços mais altos (por exemplo, em restaurantes, cinemas, postos de gasolina ou lojas de conveniência).
+
+Considere, por exemplo, o canal de clubes de compras (*warehouse clubs*), que inclui varejistas como o Costco (globalmente) ou o Sam's Club (nos EUA). Trata-se de formatos de grandes lojas que oferecem principalmente embalagens de grande porte ou pacotes múltiplos, praticamente exigindo a compra em grandes quantidades de qualquer categoria. Embora a penetração desses canais seja baixa, eles geralmente detêm uma participação incomumente alta nas necessidades de consumo de qualquer categoria específica (como demonstrado pelos dados de participação nas necessidades da categoria para Costco e Sam's Club na Tabela 8.2).
+
+Os consumidores que compram nesses clubes já supriram suas necessidades da categoria por um longo período e, consequentemente, ficam "fora do mercado" (sem necessidade de nova compra) por algum tempo. Isso significa que, se uma marca não estiver presente nesse canal, ela efetivamente perde o acesso a esse grupo de compradores por um longo período.
+
+Também pode haver uma vantagem tática ao trabalhar com varejistas menores. Eles competem com grandes varejistas e buscam formas de agregar valor à sua base de clientes. Isso significa que você pode conseguir negociar — a baixo custo — maior destaque para sua marca na loja ou uma presença forte nas atividades de publicidade de massa (*above-the-line*) do estabelecimento.
+No entanto, não se deixe levar por alegações de exclusividade de clientes sem dados independentes e centrados no consumidor para comprová-las.
+
+# Como os varejistas competem: aplicando a lei da duplicação de compras
+
+Quando você depende de um varejista para levar seu produto ou serviço aos compradores da categoria, é fácil sentir que eles são onipotentes e que você não tem poder de negociação. Há pouco tempo, a Tesco no Reino Unido e o Walmart nos EUA pareciam invencíveis — como se ninguém pudesse derrubá-los de suas posições dominantes no varejo. Agora, Tesco e Walmart enfrentam muitos desafios de concorrentes ágeis, como Aldi e Lidl, além da gigante Amazon.com. Os varejistas também temem a concorrência — a concorrência de outros varejistas.
+Eles buscam qualquer oportunidade para proteger seus clientes atuais e conquistar novos. Isso significa que compreender a estrutura competitiva do varejo pode ser um diferencial poderoso ao negociar com varejistas. Retomamos a lei da duplicação de compras (veja o Capítulo 3), pois ela fornece as referências necessárias para entender como canais e pontos de venda compartilham clientes em qualquer ambiente de varejo.
+
+A concorrência entre varejistas não foi tão estudada quanto a de outras categorias de marcas, mas alguns exemplos publicados que indicam evidências da lei da duplicação de compras referem-se a compras em supermercados na China (Uncles & Kwok, 2008, 2009) e a varejistas de vinho (Cohen, Lockshin & Sharp, 2012; Lockshin & Cohen, 2011). Aqui, podemos demonstrar que essa lei também se aplica às compras de produtos de supermercado entre diferentes varejistas (veja a Tabela 8.4 para compras em varejistas do Reino Unido), bem como à compra de uma categoria específica em diferentes pontos de venda de alimentos e produtos básicos (veja a Tabela 8.5 para detergentes de roupa). Todos compartilham mais clientes com os grandes varejistas e menos clientes com os varejistas menores.
+![[Pasted image 20260715162942.png]]
+![[Pasted image 20260715163007.png]]A existência do padrão de duplicação de compras entre canais e pontos de venda do varejo significa que cobrir os maiores canais ou varejistas permite alcançar também aqueles consumidores que compram em canais ou pontos de venda menores. No entanto, ocasionalmente observamos um déficit no compartilhamento de compradores, o que pode indicar boas opções de combinação de canais ou pontos de venda. Também surgem, por vezes, casos de compartilhamento excessivo de compradores, sugerindo combinações de varejistas menos adequadas.
+
+# O e-commerce muda completamente as regras do jogo
+
+Nada gera tanta repercussão quanto uma boa história de crescimento, e o e-commerce é um desses casos. Os exemplos variam desde o crescimento da Amazon.com — acelerado pela pandemia de COVID — até a ascensão contínua das gigantes chinesas Taobao.com, TMall.com e JD.com. Esse cenário é acompanhado pelo aumento da participação das vendas online no faturamento dos supermercados e pelo surgimento de marcas que ignoram os canais tradicionais de distribuição para vender diretamente ao consumidor pela internet (como Dollar Shave Club, Brooklinen e Away).
+
+O e-commerce eliminou algumas das barreiras de entrada que antes existiam para novas marcas, mas muitos desses varejistas, inicialmente focados no ambiente digital, rapidamente adotam uma estratégia *omnichannel* (Sharp et al., 2017). Por exemplo, a Dollar Shave Club, adquirida pela Unilever, agora está disponível no Walmart, enquanto a marca de malas Away abriu lojas físicas próprias em locais que vão de Austin a Londres. Até mesmo a Amazon.com adquiriu lojas físicas ao comprar a Whole Foods, ao passo que a Tesla mantém lojas de exposição em shopping centers, como o White City em Londres e o Paragon em Bangkok.
+
+Quando o e-commerce ainda era uma novidade, havia muita especulação sobre a existência de perfis de compradores e comportamentos de compra distintos (por exemplo, Nielsen, 2015). As diferenças no perfil dos compradores online em relação à população geral eram, em grande parte, um reflexo das diferenças demográficas do próprio público conectado à internet. Hoje, com a presença online consolidada, as compras pela internet tornaram-se uma atividade comum, abrangendo uma variedade cada vez maior de categorias de produtos. Por exemplo, é muito provável que os clientes de lojas físicas de um supermercado também se tornem clientes de sua loja online (observa-se uma sobreposição de 66%) (Dawes & Nenycz-Thiel, 2014). Ou seja, quem compra nas lojas físicas da Tesco também tende a comprar na loja online da rede. Portanto, é preciso ter cuidado para não superinterpretar as diferenças de comportamento no e-commerce dentro de uma categoria específica, pois elas podem ser simplesmente uma consequência de se tratar de um canal de pequeno porte.
+
+# O e-commerce gera fidelidade?
+
+Existem várias diferenças estruturais entre o ambiente online e o offline. A primeira é a lista de marcas pesquisável no ambiente online, na qual todas as marcas estão presentes. Nas lojas físicas, a falta de estoque pode tornar algumas marcas temporariamente indisponíveis justamente no momento em que o comprador precisa delas, resultando na perda da venda para um concorrente. Uma segunda diferença reside na funcionalidade de listas de compras que podem ser salvas e nos sistemas de lembrete ("você esqueceu de algo?"), que ajudam a recordar os consumidores dos produtos ou marcas comprados anteriormente. Por fim, a entrega em domicílio facilita a formação de estoques domésticos das marcas favoritas (por exemplo, quando estão em promoção).
+
+Essas diferenças favorecem uma maior fidelidade às marcas compradas online. Essa fidelidade mais elevada ocorre em detrimento de compras por impulso, promocionais ou motivadas pela lógica de "vou comprar essa marca só porque não encontro a que eu queria". Os compradores online podem até manter um repertório de marcas, mas ele tende a ser mais restrito e mais estável ao longo do tempo. A Tabela 8.6 apresenta a compra online de uma categoria comum de supermercado — creme dental — em comparação com as compras offline. Observa-se que a "lei da dupla penalidade" (*double jeopardy*) se aplica à compra de creme dental tanto no ambiente online quanto no offline; inclusive, a classificação das marcas é a mesma. Tanto no universo de compradores offline quanto no online, a principal diferença entre marcas concorrentes reside no número de pessoas que as compram, enquanto a fidelidade varia muito menos e acompanha a penetração da marca.
+
+**Tabela 8.6: Dupla penalidade na compra de creme dental online e offline no Reino Unido (2014)**
+
+| **Brand (rank order)** | **Offline sales (91% of total sales) Penetration over a year (%)** | **Offline sales (91% of total sales) Average purchase frequency** | **Online sales (9% of total sales) Penetration over a year (%)** | **Online sales (9% of total sales) Average purchase frequency** |
+| ---------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| Colgate                | 71                                                                 | 3.1                                                               | 63                                                               | 2.4                                                             |
+| Aquafresh              | 23                                                                 | 2.1                                                               | 27                                                               | 2.3                                                             |
+| Oral B                 | 20                                                                 | 2.1                                                               | 15                                                               | 1.8                                                             |
+| Sensodyne              | 15                                                                 | 2.4                                                               | 12                                                               | 2.1                                                             |
+| Macleans               | 10                                                                 | 1.7                                                               | 6                                                                | 2.0                                                             |
+| Arm+Hammer             | 9                                                                  | 1.9                                                               | 4                                                                | 1.8                                                             |
+| Tesco Steps            | 1                                                                  | 1.6                                                               | 3                                                                | 1.8                                                             |
+| **Average**            | **21**                                                             | **2.1**                                                           | **18**                                                           | **2.0**                                                         |
+
+**Source:** Kantar Worldwide Panel UK
+
+A direct comparison of online and offline buying data does suggest loyalty is higher in an online environment (see Table 8.7), but loyalty levels are still a long way from 100%, even though the online shopping conditions are conducive for them to be. However, the higher loyalty online makes it more challenging for small brands to enter buyer repertoires in this shopping environment. Even with a more levelled physical availability playing field, differences in mental availability mean big brands still have many advantages online.
+
+|**Category**|**Share loyalty (2013) Offline (%)**|**Share loyalty (2013)Online (%)**|**Share loyalty (2014)Offline (%)**|**Share loyalty (2014)Online (%)**|
+|---|---|---|---|---|
+|Dog food|21|33|20|34|
+|Instant coffee|31|48|31|49|
+|Nappies|28|42|33|41|
+|Fabric softener|38|50|37|50|
+|Toothpaste|35|43|37|41|
+|**Average**|**31**|**43**|**32**|**43**|
+
+# And for retailers?
+
+Since the online space offers shoppers an additional channel and more retail brands to choose from, and all of this (almost) independent of location, multi-channel shopping also affects shopper loyalty to retailers. Shoppers do not substitute an offline store with an online option but rather expand their store repertoires and buy from more retailers in more channels. Over time, after the initial plunge into online grocery shopping, we see more competition between online channels. This shows that, once having entered the online world and bought at one online supermarket retailer (most likely the one which was their main chain offline), shoppers easily enter other supermarkets (that might be less geographically convenient) via their online stores. This means that online buying can negatively affect loyalty to retailers (Dawes & Nenycz-Thiel, 2014).
+
+For durables, the majority of shoppers purchase a product in person, even if they found it, read reviews or compared prices online. We see this in a study we conducted into the pre-purchase shopping behaviour for 150 first-time buyers of mobile phones in India. There were two groups of first-time buyers: those buying a feature phone for the first time, and those upgrading to their first smartphone. We see no difference in the length of time from starting to think about the category to making a purchase-around one month for 70% of both types of new category buyers. Shopping outlets are also similar-around 95% researched the product online the sample group were active internet active users and researching an electronic product), while around 70% visited bricks-and-mortar stores.
+
+But, while both types of new category buyers visited the same number of online stores (around four, feature phone new buyers visited more bricks-and-mortar stores (around four than smartphone new category buyers (only one or two stores). This means being easy to find in a physical presence is even more important to reach new smartphone buyers, who visit fewer stores during the purchase process.
