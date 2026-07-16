@@ -1,0 +1,27 @@
+**Executa totalmente no local.** Esta sessão armazena a memória de conversa em um **banco de dados SQLite local** (em `~/.adk/`), para que suas preferências persistam em reinicializações sem a necessidade do **Google Cloud, faturamento ou créditos**. O agente lê a chave do AI Studio do `~/adk_tutorial/.env` que você criou na configuração.
+
+👉💻 Teste sua memória de longo prazo acessando a pasta e usando o executor para ativar o agente:
+
+```bash
+cd ~/adk_tutorialsource .adk_env/bin/activatecd ~/adk_tutorial/f_agent_with_memorypython main.py
+```
+
+👉 **Comando de teste:**
+
+```bash
+I like Art and Italian food.
+```
+
+Em seguida, encerre a sessão pressionando **Ctrl+C**. Reinicie a sessão:
+
+```bash
+cd ~/adk_tutorialsource .adk_env/bin/activatecd ~/adk_tutorial/f_agent_with_memorypython main.py
+```
+
+👉 **Comando de teste:**
+
+```bash
+Plan a trip to San Francisco based on my preference.
+```
+
+✅ O agente deve lembrar **"Arte e comida italiana"** da execução anterior. Essa é a memória de longo prazo funcionando em todas as sessões.

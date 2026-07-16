@@ -1,0 +1,19 @@
+**⚠️ Não pule esta etapa!** Crie um arquivo `.env` na **raiz** da pasta `adk_tutorial`. Esse arquivo alimenta **todas as sessões** neste codelab. As sessões da Web do ADK (1 a 5) e as sessões de memória e MCP de linha de comando (6 a 7) leem automaticamente.
+
+👉💻 Crie o arquivo `.env` com sua chave (substitua `your_actual_api_key_here` pela chave da etapa 1):
+
+```bash
+cat > .env <<'EOF'GOOGLE_GENAI_USE_VERTEXAI=FALSEGOOGLE_API_KEY=your_actual_api_key_hereEOF
+```
+
+Seu `~/adk_tutorial/.env` agora deve conter:
+
+```env
+GOOGLE_GENAI_USE_VERTEXAI=FALSEGOOGLE_API_KEY=your_actual_api_key_here
+```
+
+**🚨 CRÍTICO**: substitua `your_actual_api_key_here` pela chave de API da **etapa 1** (ela começa com `AIza...`).
+
+⚠️ Verifique se `GOOGLE_GENAI_USE_VERTEXAI` está definido como **`FALSE`**. Isso informa ao ADK para autenticar com a chave de API do Google AI Studio em vez do Vertex AI.
+
+✅ **Ponto de verificação**:você tem um arquivo `.env` em `~/adk_tutorial/.env` contendo sua chave `AIza...`, e o prompt do terminal mostra `(.adk_env)`. Você está pronto para criar agentes!
