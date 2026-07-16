@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"41c6970229ed7218","type":"text","text":"\n<h1 align=\"center\">Forma</h1>\n<div align=\"center\">Formas/Shape</div>\n<div align=\"center\">Tamanho</div>\n<div align=\"center\">Base</div>\n<div align=\"center\">Relevo</div>","x":-660,"y":-260,"width":280,"height":200},
+		{"id":"a13b2ed8705910e4","type":"text","text":"\n<h1 align=\"center\">Rótulos</h1>\n<div align=\"center\">Padrões</div>\n<div align=\"center\">Formatos</div>\n<div align=\"center\">Estilos de Bordas</div>","x":-20,"y":-260,"width":280,"height":200},
+		{"id":"fcb239206679916d","type":"text","text":"\n<h1 align=\"center\">Imagens</h1>\n<div align=\"center\">Pessoas/personagem</div>\n<div align=\"center\">Formas</div>\n<div align=\"center\">Logotipos</div>\n<div align=\"center\">Ingredientes</div>","x":-520,"y":-520,"width":280,"height":200},
+		{"id":"4ffe8a4f24c608d0","type":"text","text":"\n<h1 align=\"center\">Palavras</h1>\n<div align=\"center\">Tipo de Palavra</div>\n<div align=\"center\">Fontes</div>","x":-160,"y":-520,"width":280,"height":200},
+		{"id":"7b27b595ed12b4a0","type":"text","text":"\n<h1 align=\"center\">Imagens</h1>\n<div align=\"center\">Pessoas/personagem</div>\n<div align=\"center\">Formas</div>\n<div align=\"center\">Logotipos</div>\n<div align=\"center\">Ingredientes</div>","x":-520,"y":0,"width":280,"height":200},
+		{"id":"440957a545c29e54","type":"text","text":"\n<h1 align=\"center\">Palavras</h1>\n<div align=\"center\">Tipo de Palavra</div>\n<div align=\"center\">Fontes</div>","x":-160,"y":0,"width":280,"height":200}
+	],
+	"edges":[]
+}
