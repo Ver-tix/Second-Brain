@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" width="100%" height="100%" role="img">
+<title>Figura 6.1 - Tomando decisões sobre ativos variantes</title>
+<desc>Árvore de decisão para decidir como tratar ativos de marca variantes: primeiro pergunta se o ativo é uma qualidade fixa ou opcional, depois se é um ativo da marca-mãe, chegando a recomendações como manter consistência, permitir variação, desenvolver o ativo ou escolher outro tipo de ativo.</desc>
+
+<style>
+  .lbl-title { font: bold 20px sans-serif; fill: #f1f5f9; }
+  .lbl-q { font: bold 17px sans-serif; fill: #f1f5f9; }
+  .lbl-box-title { font: bold 16px sans-serif; fill: #f1f5f9; }
+  .lbl-box-text { font: 14px sans-serif; fill: #cbd5e1; }
+  .lbl-yn { font: bold 15px sans-serif; fill: #f1f5f9; }
+  .lbl-oval { font: bold 15px sans-serif; fill: #0f172a; }
+  .box { fill: #1e293b; stroke: #94a3b8; stroke-width: 1.5; }
+  .oval-dark { fill: #475569; stroke: #cbd5e1; stroke-width: 1.5; }
+  .oval-light { fill: #94a3b8; stroke: #e2e8f0; stroke-width: 1.5; }
+  .conn { stroke: #f1f5f9; stroke-width: 1.5; fill: none; }
+</style>
+<defs>
+<marker id="arrowd" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#f1f5f9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+
+<text class="lbl-title" x="20" y="30">Figura 6.1: Tomando decisões sobre ativos variantes</text>
+
+<text class="lbl-q" x="470" y="90" text-anchor="middle"><tspan x="470" dy="0">O ativo é uma qualidade</tspan><tspan x="470" dy="22">fixa ou opcional?</tspan></text>
+
+<path d="M430 120 L280 220" class="conn" marker-end="url(#arrowd)"/>
+<path d="M560 120 L850 220" class="conn" marker-end="url(#arrowd)"/>
+
+<rect x="130" y="225" width="330" height="115" rx="12" class="box"/>
+<text class="lbl-box-title" x="295" y="258" text-anchor="middle">Qualidades fixas</text>
+<text class="lbl-box-text" x="295" y="300" text-anchor="middle">cores, fontes, formato da embalagem</text>
+
+<rect x="700" y="225" width="330" height="115" rx="12" class="box"/>
+<text class="lbl-box-title" x="865" y="258" text-anchor="middle">Qualidades opcionais</text>
+<text class="lbl-box-text" x="865" y="300" text-anchor="middle">slogan, personagens</text>
+
+<text class="lbl-q" x="295" y="380" text-anchor="middle">É um ativo da marca-mãe?</text>
+<text class="lbl-q" x="865" y="380" text-anchor="middle">É um ativo da marca-mãe?</text>
+
+<path d="M240 400 L140 480" class="conn" marker-end="url(#arrowd)"/>
+<path d="M350 400 L450 480" class="conn" marker-end="url(#arrowd)"/>
+<text class="lbl-yn" x="165" y="440">Sim</text>
+<text class="lbl-yn" x="400" y="440">Não</text>
+
+<path d="M820 400 L790 500" class="conn" marker-end="url(#arrowd)"/>
+<path d="M920 400 L1080 480" class="conn" marker-end="url(#arrowd)"/>
+<text class="lbl-yn" x="770" y="450">Sim</text>
+<text class="lbl-yn" x="960" y="440">Não</text>
+
+<ellipse cx="130" cy="540" rx="130" ry="65" class="oval-dark"/>
+<text class="lbl-box-title" x="130" y="533" text-anchor="middle">Manter</text>
+<text class="lbl-box-title" x="130" y="555" text-anchor="middle">consistente</text>
+
+<ellipse cx="460" cy="555" rx="150" ry="70" class="oval-light"/>
+<text class="lbl-oval" x="460" y="548" text-anchor="middle">Pode mudar</text>
+<text class="lbl-oval" x="460" y="570" text-anchor="middle">na variante</text>
+
+<ellipse cx="1100" cy="540" rx="170" ry="80" class="oval-light"/>
+<text class="lbl-oval" x="1100" y="518" text-anchor="middle">Pode desenvolver</text>
+<text class="lbl-oval" x="1100" y="540" text-anchor="middle">esse tipo de ativo</text>
+<text class="lbl-oval" x="1100" y="562" text-anchor="middle">na variante</text>
+
+<text class="lbl-q" x="800" y="670" text-anchor="middle"><tspan x="800" dy="0">A marca-mãe tem outros</tspan><tspan x="800" dy="24">ativos de qualidade fixa?</tspan></text>
+
+<path d="M730 720 L700 800" class="conn" marker-end="url(#arrowd)"/>
+<path d="M880 720 L920 800" class="conn" marker-end="url(#arrowd)"/>
+<text class="lbl-yn" x="670" y="770">Sim</text>
+<text class="lbl-yn" x="900" y="770">Não</text>
+
+<ellipse cx="670" cy="880" rx="160" ry="80" class="oval-light"/>
+<text class="lbl-oval" x="670" y="858" text-anchor="middle">Escolher outro tipo</text>
+<text class="lbl-oval" x="670" y="880" text-anchor="middle">de ativo para</text>
+<text class="lbl-oval" x="670" y="902" text-anchor="middle">desenvolver</text>
+
+<ellipse cx="1030" cy="880" rx="180" ry="80" class="oval-dark"/>
+<text class="lbl-box-title" x="1030" y="858" text-anchor="middle">Manter algo</text>
+<text class="lbl-box-title" x="1030" y="880" text-anchor="middle">consistente para</text>
+<text class="lbl-box-title" x="1030" y="902" text-anchor="middle">servir de ponte</text>
+</svg>

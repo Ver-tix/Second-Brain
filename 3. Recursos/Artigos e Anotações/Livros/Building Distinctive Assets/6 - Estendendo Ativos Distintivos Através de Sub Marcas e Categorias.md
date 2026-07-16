@@ -13,78 +13,69 @@ A Tabela 6.1 mostra que as principais semelhanças são o logotipo, o vermelho c
 
 **Tabela 6.1: Características visuais da Lysol em um subconjunto de variantes no walmart.com**
 
-|                                             | **Colours**                                 | **Images** | **Words on pack** | **Closure** | **Logo font/colour** |
-| ------------------------------------------- | ------------------------------------------- | ---------- | ----------------- | ----------- | -------------------- |
-| **Parent: Lysol Power Toilet Bowl Cleaner** | Dark blue*<br>**Red (accent)**              |            |                   |             |                      |
-|                                             | Dark blue*<br>**White**<br>**Red (accent)** |            |                   |             |                      |
+|                                                                  |                                 **Colours**                                  |                            **Images**                            |                                             **Words on pack**                                              |  **Closure**  |         **Logo font/colour**          |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------: | :-----------------------------------: |
+|                      **Lysol Power & Free**                      |                Dark blue*,<br>**White**,<br>**Red (accent)**                 | Overlapping OO, <br>Bubbles,<br>White circular space under logo  |            Removes the toughest stains in seconds<br><br>**Kills 99% of viruses and bacteria**             | Dark blue top | Blue cursive font on white background |
+| **Lysol Power & Fresh Cling Toilet Bowl Cleaner, Country Scent** | Light green*,<br>**White**,<br>Blue,<br>**Red (accent)**,<br>Yellow (accent) |    Sunflowers,<br>Droplet,<br>White circular space under logo    |                     **Kills 99% of bacteria**<br><br>0% bleach with hydrogen peroxide                      | Dark blue top | Blue cursive font on white background |
+|           **Parent: Lysol Power Toilet Bowl Cleaner**            |                       Dark, blue*,<br>**Red (accent)**                       |                               None                               | **Kills 99% of viruses and bacteria**<br><br>Clean & Fresh<br><br>Thick formula cleans, leaves fresh scent | Dark blue top | Blue cursive font on white background |
+|          **Lysol Clean & Fresh Lavender Fields Scent**           |    Purple*,<br>**White**<br>Dark blue (top and font),<br>**Red (accent)**    | Lavender flowers,<br>Droplet,<br>White circular space under logo | **Kills 99% of viruses and bacteria**<br><br>Clean & Fresh<br><br>Thick formula cleans, leaves fresh scent | Dark blue top | Blue cursive font on white background |
+|            **Lysol Toilet Bowl Cleaner with Bleach**             |                Dark Green*,<br>**White**,<br>**Red (accent)**                |       Green swirl,<br>Red O with arrows in word 'complete'       |              **Kills 99% of viruses and bacteria**<br><br>Max coverage<br><br>Complete clean               | Dark blue top | Blue cursive font on white background |
+|     **Lysol Toilet Bowl Cleaner with Lime and Rust Remover**     |                   Black*<br>**White**<br>**Red (accent)**                    |                White light (on black background)                 |                 Kills 99% of viruses and bacteria<br><br>Powers through hard water stains                  |   Black top   | Blue cursive font on white background |
+Esta discussão não se limita ao Lysol; diversas outras marcas poderiam ter sido usadas como exemplo. O Lysol apenas reflete uma arquitetura de marca muito comum para marcas que possuem variantes. Isso também explica, em parte, por que — como demonstrado no Capítulo 5 — é raro que as cores das embalagens obtenham bons resultados para uma marca, apesar da popularidade e importância desse tipo de ativo. Se a sua marca possui variantes ou submarcas, realizar o mesmo exercício pode ser revelador, permitindo identificar quais dimensões se sobrepõem e quantas diferenças existem.
 
-**
+# Qualidades fixas ou opcionais são importantes para a estratégia de submarcas
 
- | None | Removes the toughest stains in seconds
+Além de avaliar a força dos ativos da marca principal (*parent brand*), é útil classificar os ativos atuais e potenciais com base em sua origem — se derivam de qualidades fixas ou opcionais —, pois isso influencia como eles podem ou precisam ser integrados às identidades das submarcas.
 
-**Kills 99% of viruses and bacteria** | **Dark blue top** | **Blue cursive font on white background** |  
-| **Lysol Power & Free** | Light blue*
+- *Qualidades fixas* – são qualidades que precisam estar presentes em um item tangível, como cor, fonte e (no caso de itens físicos) formato. Por exemplo, o cartão de crédito de um banco precisa ter uma cor; uma embalagem não pode existir sem um formato; e o nome da marca ou qualquer texto não podem ser escritos sem uma fonte. Embora a tomada de decisões sobre essas qualidades seja inevitável, você pode decidir se deseja transformar uma qualidade específica em um dos Ativos Distintivos da marca: embora toda palavra escrita utilize uma fonte, nem toda fonte precisa ser desenvolvida como um Ativo Distintivo. No entanto, se um ativo com qualidade fixa não for utilizado, ele deve ser substituído por outro ativo do mesmo tipo. Por exemplo, se a marca utiliza o vermelho como ativo, qualquer elemento que não seja vermelho terá de apresentar outra cor, criando assim condições para confusão.
+- *Qualidades opcionais* – para essas qualidades, como slogans, personagens e *jingles*, você escolhe se deseja incluí-las ou não. Por exemplo, você pode decidir incluir ou não uma frase em uma embalagem ou um personagem em um anúncio. Se você não incluir esse ativo, não há necessidade de utilizar outro ativo de tipo semelhante para substituí-lo. Por exemplo, se o ativo for um slogan, você pode omiti-lo da publicidade sem precisar inserir outro slogan em seu lugar.
 
-**White**
+Os Ativos Distintivos da marca principal podem derivar tanto de qualidades fixas quanto de opcionais. Classificar ativos prioritários como fixos ou opcionais ajuda a orientar as decisões sobre Ativos Distintivos ao realizar a extensão da marca. A seção a seguir aborda duas condições de extensão: o lançamento de uma variante ou submarca na mesma categoria e a extensão da marca para outra categoria.
 
-Dark blue (base)
+# Lançamento de uma submarca ou variante
 
-**Red (accent)**
+Uma submarca ou variante precisa aproveitar alguns dos Ativos Distintivos da marca principal; caso contrário, atribuir-lhe o nome da marca principal agrega pouco valor. A questão, portanto, é quais ativos utilizar e quais ignorar, alterar ou adotar para a variante. A seguir, apresentam-se algumas diretrizes sobre como abordar essa decisão (resumidas na Figura 6.1).
 
-Green (accent) | Overlapping OO
+## Qualidades fixas exigem consistência
 
-Bubbles
+Os Ativos Distintivos da marca principal que estão incorporados a qualidades fixas devem permanecer consistentes em todas as suas manifestações que utilizam esse nome de marca. Essa consistência cumpre três objetivos:
 
-White circular space under logo | **Kills 99% of bacteria**
+- cria uma ponte entre a marca principal e a submarca;
+- aumenta a visibilidade total da marca principal, ampliando assim sua proeminência nos ambientes de compra;
+- evita o enfraquecimento, a longo prazo, das associações estabelecidas para a marca principal.
+![[figura_6_1_decisoes_ativos_variantes.svg|607]]
 
-0% bleach with hydrogen peroxide | **Dark blue top** | **Blue cursive font on white background** |  
-| **Lysol Power & Fresh Cling Toilet Bowl Cleaner, Country Scent** | Light green*
+This cohesion across fixed quality assets is of particular importance in situations where the full range is unavailable. For example where distribution is through small 'nano' or convenience stores, common in emerging markets, that rarely stock the full range of any brand; or m (mobile)-commerce, where only a limited number of brands is shown on screen at one time three is typical). In these situations, the sub-brand needs strong memory links to the parent brand, in the absence of a visual image of the parent brand.
 
-**White**
+## Optional qualities mean choices
 
-Blue
+You choose whether to use assets that draw on optional qualities. The degree of this flexibility depends on whether the parent brand has fixed quality assets to act as the bridge between the parent and the sub-brand. If no assets have fixed qualities, then an optional asset needs to become that bridge to the parent brand, and this asset should be kept consistent.
 
-**Red (accent)**
+The usual concern is how to signal the sub-brand specifics, or how to distinguish it from the parent brand. It is not always necessary to create a Distinctive Asset to separate the sub-brand from the parent: visible text-for example gluten free'—or a simple image signalling the characteristic difference of the variant can also achieve this aim. If the option is expected to be short-lived (for example a seasonal flavour or coinciding with a sporting event such as the Olympics), there is no value in building a Distinctive Asset specifically for that option. Any Distinctive Assets should only be drawn from the parent brand. But if the variant is expected to be around for the long term, it might then be worthwhile considering options for its own Distinctive Assets. This is where the assets with optional qualities can be useful. Many different optional asset types are possible (see Chapter 12 for a comprehensive list) and so the key decision is which type of asset will be most effective for the sub-brand but not damage the parent brand.
 
-Yellow (accent) | Sunflowers
+Replacing one type of optional asset with something very different within he same type (for example replacing one tagline with another tagline) risks the same confusion and competition issues evident with changes to fixed quality assets, as two taglines become linked to the parent brand. If using the same type of asset is advantageous, due to media or distribution channel benefits, then think about stretching, rather than supplanting, the existing asset. For example if the brand has a character, you can introduce a new family member that shares some characteristics with the existing character. If the brand has a tagline, you could change some words, while keeping others the same. The aim is to keep the total idea cohesive, but carve out a part of the total brand identity to be unique for that variant. But if the available optional assets do not lend to stretching, then chose an asset type unused by the parent brand. This will reduce the risk of mental conflict with the parent brand.
 
-Droplet
+## Designing Distinctive Assets for innovations
 
-White circular space under logo | **Kills 99% of viruses and bacteria**
+When designing Distinctive Assets to signal an innovation, whether it be a sub-brand or a new brand, a common trap is to draw on the substance of the innovation to inspire the Distinctive Asset. For example if it is highlighting a natural ingredient, it might incorporate green, a flower, or an image of the earth. The danger is that the additional meaning for the asset. makes it attractive for competitors to also draw on the same inspiration when designing their inevitable similar variant. This means that what could have been an asset for the brand becomes a sub-category signal instead.
 
-Clean & Fresh
+For example when Coke launched Coke Life, made with a natural sweetener, it came in a green can, which is a common 'natural' colour signal. Pepsi then launched a naturally sweetened product, Pepsi True, in a green can (O'Reilly, 2014). This turned green into a signal for a natural sweetener rather than a potential Distinctive Asset for Coke Life. In a similar vein, Veggie Pret, a vegetarian variant of healthy food chain Pret a Manger, also chose green for its livery. The link between green and vegetarian makes it an obvious choice not only for Pret, but also for any other chain that wants to launch a similar option, while at the same time not building the burgundy colour of the parent brand. In an example in the banking sector, while Citibank uses the colours red, white and blue in its logo, it changes both the name and the colour palette for Citigold, its high-end banking services (for customers with a bank balance of at least $US200,000). Gold is a predictable colour choice for a premium variant, and indeed a quick survey of global banking brands reveals most have a 'gold' variant or sub-brand.
 
-Thick formula cleans, leaves fresh scent | **Dark blue top** | **Blue cursive font on white background** |  
-| **Lysol Clean & Fresh Lavender Fields Scent** | Purple*
+## Same, same, but different
 
-**White**
+A marca principal é a prioridade de longo prazo; isso significa que a variante deve apresentar uma aparência suficientemente semelhante para que um comprador da categoria, mesmo que não a conheça, consiga identificar sua vinculação à marca principal. Na publicidade, deve haver uma ênfase dupla nos ativos distintivos da marca principal e nos elementos que sinalizam a variante. Isso permite que a variante contribua positivamente para a disponibilidade mental e física geral da marca principal, independentemente da duração de seu ciclo de vida.
 
-Dark blue (top and font)
+# Ativos Distintivos para extensões de marca 
+Lançar uma marca em uma categoria diferente só faz sentido se isso permitir aproveitar estruturas mentais existentes, como os Ativos Distintivos. Quando se possui Ativos Distintivos fortes, o nome da marca e esses ativos tornam-se indissociáveis. Portanto, assim como ocorre com uma variante de produto, se você deseja conferir ao produto da nova categoria uma identidade de marca distinta, atribua-lhe também um nome diferente para minimizar os riscos à marca principal.
 
-**Red (accent)** | Lavender flowers
+A capacidade de transferir estruturas de memória preexistentes para uma nova categoria geralmente depende da sobreposição das bases de clientes. Assim, aplicam-se os mesmos princípios de consistência em ativos com características fixas, visando minimizar o risco de confusão e interferência competitiva que poderiam prejudicar a marca principal.
 
-Droplet
+Uma exceção a essa regra geral ocorre quando concorrentes possuem vínculos significativos com algum desses ativos; nesse caso, pode ser necessário alterar os ativos principais da extensão. Nesse cenário, contar com mais de um Ativo Distintivo forte é vantajoso. Por exemplo, se sua marca possui três ativos — uma cor, um slogan e um logotipo — e a cor já é um ponto forte de um concorrente na nova categoria, você pode optar por enfatizar os outros dois Ativos Distintivos. Mais uma vez: não presuma a força dos ativos distintivos da concorrência; baseie-se em evidências empíricas para evitar modificações desnecessárias nos ativos originais da marca.
 
-White circular space under logo | **Kills 99% of viruses and bacteria**
+Existem outros motivos para adaptar as atividades de construção de Ativos Distintivos ao estender uma marca para uma nova categoria ou país:
 
-Clean & Fresh
+- força do ativo significativamente menor, o que exige maior foco inicial em execuções voltadas à construção do ativo, em vez de apenas ao seu uso;
 
-Thick formula cleans, leaves fresh scent | **Dark blue top** | **Blue cursive font on white background** |  
-| **Lysol Toilet Bowl Cleaner with Bleach** | Dark Green*
+- plataformas de mídia ou canais de distribuição diferentes, o que pode levar à priorização ou à redução da importância de certos ativos, dependendo de sua eficácia nos novos ambientes. Às vezes, novos tipos de ativos podem ser necessários para esses ambientes distintos.
 
-**White**
-
-**Red (accent)** | Green swirl
-
-Red O with arrows in word 'complete' | **Kills 99% of viruses and bacteria**
-
-Max coverage
-
-Complete clean | **Dark Blue top** | **Blue cursive font on white background** |  
-| **Lysol Toilet Bowl Cleaner with Lime and Rust Remover** | Black*
-
-**White**
-
-**Red (accent)** | White light (on black background) | Kills 99% of viruses and bacteria
-
-Powers through hard water stains | Black top | Blue cursive font on white background |
+A ênfase deve recair sobre a adaptação, e não sobre uma reformulação radical. Se os ativos da marca principal não funcionarem bem na nova categoria, considere cuidadosamente a utilização de um novo nome para a marca.
