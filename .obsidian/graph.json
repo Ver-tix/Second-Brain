@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#inteligenciaartificial  ",
@@ -33,13 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 9175295
-      }
-    },
-    {
-      "query": "file:\"ZCode\"",
-      "color": {
-        "a": 1,
-        "rgb": 5111552
       }
     },
     {
@@ -95,6 +88,6 @@
   "repelStrength": 12.5520833333333,
   "linkStrength": 1,
   "linkDistance": 163,
-  "scale": 0.06576990945719645,
+  "scale": 0.04691206259471793,
   "close": true
 }
