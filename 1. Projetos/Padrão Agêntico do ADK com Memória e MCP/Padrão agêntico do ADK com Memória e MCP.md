@@ -13,40 +13,20 @@ kanban-plugin: board
 - [ ] [[Etapa 4🔥 IMPORTANTE adicionar sua chave de API]]
 
 
-## Seu Primeiro Agente no ADK Web
+## Agentes
 
-- [ ] [[Abra a Web do ADK]]
-
-
-## Agente de Fluxo de Trabalho: Agente Sequencial, Agente Paralelo, Agente de Repetição
-
+- [ ] [[Seu Primeiro Agente no ADK Web]]
 - [ ] [[Agente Paralelo]]
 - [ ] [[Agente Sequencial]]
 - [ ] [[Agente de Loop]]
-
-
-## Agente Personalizado
-
 - [ ] [[Agente Personalizado]]
-
-
-## Padrão de Orqustrador: agente de Roteamento
-
 - [ ] [[Agente de rotetamento]]
 
 
-## Agente como Ferramenta
+## Tópicos Avançados
 
 - [ ] [[Agente como Ferramenta]]
-
-
-## Agente com memória de longo prazo
-
 - [ ] [[Agente com memória de longo prazo]]
-
-
-## Capacite seu Agente com o MCP
-
 - [ ] [[Capacite seu Agente com MCP]]
 
 
@@ -54,6 +34,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
