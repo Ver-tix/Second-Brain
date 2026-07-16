@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%" style="background-color: white;">
+  <defs>
+    <style>
+      .node { fill: #94a3b8; stroke: #475569; stroke-width: 1; }
+      .center-node { fill: #334155; stroke: #1e293b; }
+      .label { font-family: sans-serif; font-size: 12px; text-anchor: middle; fill: white; }
+    </style>
+  </defs>
+
+  <!-- Node Central -->
+  <circle cx="400" cy="300" r="40" class="center-node" />
+  <text x="400" y="305" class="label" font-weight="bold">Apple</text>
+
+  <!-- Associações (posicionadas ao redor) -->
+  <g stroke="#94a3b8" stroke-width="2">
+    <line x1="400" y1="300" x2="250" y2="200" /> <!-- Gift my nieces -->
+    <line x1="400" y1="300" x2="350" y2="150" /> <!-- Innovative -->
+    <line x1="400" y1="300" x2="480" y2="150" /> <!-- Genius Bar -->
+    <line x1="400" y1="300" x2="600" y2="150" /> <!-- iTunes store -->
+    <line x1="400" y1="300" x2="650" y2="250" /> <!-- iPad -->
+    <line x1="650" y1="250" x2="750" y2="250" /> <!-- Apple Watch -->
+    <line x1="400" y1="300" x2="650" y2="350" /> <!-- iPhone -->
+    <line x1="400" y1="300" x2="600" y2="450" /> <!-- White headphones -->
+    <line x1="400" y1="300" x2="500" y2="480" /> <!-- Apple logo -->
+    <line x1="400" y1="300" x2="350" y2="480" /> <!-- Steve Jobs -->
+    <line x1="400" y1="300" x2="250" y2="480" /> <!-- Byron Sharp -->
+    <line x1="400" y1="300" x2="200" y2="400" /> <!-- Michael Fassbender -->
+    <line x1="400" y1="300" x2="250" y2="350" /> <!-- Fruit -->
+    <line x1="400" y1="300" x2="180" y2="300" /> <!-- Pie -->
+    <line x1="400" y1="300" x2="250" y2="250" /> <!-- Good for travel -->
+    <line x1="400" y1="300" x2="350" y2="250" /> <!-- Helpful staff -->
+  </g>
+
+  <!-- Círculos das associações -->
+  <circle cx="250" cy="200" r="35" class="node" />
+  <circle cx="350" cy="150" r="35" class="node" />
+  <circle cx="480" cy="150" r="35" class="node" />
+  <circle cx="600" cy="150" r="35" class="node" />
+  <circle cx="650" cy="250" r="35" class="node" />
+  <circle cx="750" cy="250" r="35" class="node" />
+  <circle cx="650" cy="350" r="35" class="node" />
+  <circle cx="600" cy="450" r="35" class="node" />
+  <circle cx="500" cy="480" r="35" class="node" />
+  <circle cx="350" cy="480" r="35" class="node" />
+  <circle cx="250" cy="480" r="35" class="node" />
+  <circle cx="200" cy="400" r="35" class="node" />
+  <circle cx="250" cy="350" r="35" class="node" />
+  <circle cx="180" cy="300" r="35" class="node" />
+  <circle cx="250" cy="250" r="35" class="node" />
+  <circle cx="350" cy="250" r="35" class="node" />
+
+  <!-- Rótulos -->
+  <text x="250" y="195" class="label">Gift my</text> <text x="250" y="210" class="label">nieces</text>
+  <text x="350" y="155" class="label">Innovative</text>
+  <text x="480" y="145" class="label">Genius</text> <text x="480" y="160" class="label">Bar</text>
+  <text x="600" y="145" class="label">iTunes</text> <text x="600" y="160" class="label">store</text>
+  <text x="650" y="255" class="label">iPad</text>
+  <text x="750" y="245" class="label">Apple</text> <text x="750" y="260" class="label">Watch</text>
+  <text x="650" y="355" class="label">iPhone</text>
+  <text x="600" y="445" class="label">White</text> <text x="600" y="460" class="label">heads</text>
+  <text x="500" y="475" class="label">Apple</text> <text x="500" y="490" class="label">logo</text>
+  <text x="350" y="475" class="label">Steve</text> <text x="350" y="490" class="label">Jobs</text>
+  <text x="250" y="475" class="label">Byron</text> <text x="250" y="490" class="label">Sharp</text>
+  <text x="200" y="395" class="label">Michael</text> <text x="200" y="410" class="label">Fassb.</text>
+  <text x="250" y="355" class="label">Fruit</text>
+  <text x="180" y="305" class="label">Pie</text>
+  <text x="250" y="245" class="label">Good for</text> <text x="250" y="260" class="label">travel</text>
+  <text x="350" y="245" class="label">Helpful</text> <text x="350" y="260" class="label">staff</text>
+</svg>
