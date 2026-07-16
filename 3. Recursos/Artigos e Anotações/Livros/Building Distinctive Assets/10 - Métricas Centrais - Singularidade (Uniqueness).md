@@ -22,8 +22,8 @@ Os [[8 - Medindo o Valor de um Ativo Distintivo|capítulos 8]] e [[9 - Métricas
 A exclusividade (*uniqueness*) pode variar de 0% (nenhuma associação) a 100% das respostas (a única marca mencionada). Se a exclusividade de uma marca for inferior a 50% para um determinado ativo, as marcas concorrentes dominarão as respostas, tornando o uso desse ativo arriscado. Se a exclusividade for superior a 50%, então a marca domina as respostas e o risco é mais baixo, com o risco continuando a cair até *Uniqueness* chegar perto de 100%.
 
 
-| Possible rsponse options from 100 respondents | Brand responses ($n$) | Competitors response ($n$) | Calculation          | Uniqueness (%) |
-| --------------------------------------------- | --------------------- | -------------------------- | -------------------- | -------------- |
-| Scenario 1                                    | 50                    | 20                         | $\frac{50}{(50+20)}$ | 71             |
-| Scenario 2                                    | 50                    | 100                        |                      | 33             |
-| Scenario 3                                    | 50                    | 40                         |                      | 55             |
+| Possible rsponse options from 100 respondents | Brand responses ($n$) | Competitors response ($n$) | Calculation           | Uniqueness (%) |
+| --------------------------------------------- | --------------------- | -------------------------- | --------------------- | -------------- |
+| Scenario 1                                    | 50                    | 20                         | $\frac{50}{(50+20)}$  | 71             |
+| Scenario 2                                    | 50                    | 100                        | $\frac{50}{(50+100)}$ | 33             |
+| Scenario 3                                    | 50                    | 40                         | $\frac{50}{(50+40)}$  | 55             |
