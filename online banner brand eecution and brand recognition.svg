@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" style="background-color: white;">
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; }
+      .label-text { font-family: Arial, sans-serif; font-size: 14px; }
+      .axis-text { font-family: Arial, sans-serif; font-size: 14px; text-anchor: end; }
+      .axis-text-x { font-family: Arial, sans-serif; font-size: 14px; text-anchor: middle; }
+      .legend-text { font-family: Arial, sans-serif; font-size: 14px; }
+      .axis { stroke: #555; stroke-width: 1.5; fill: none; }
+      .grid-line { stroke: #ccc; stroke-width: 1; stroke-dasharray: 4; fill: none; }
+      .line-main { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+      .line-mcd { stroke: #d11; } /* McDonald's - Red */
+      .line-oreo { stroke: #333; } /* Oreo - Black */
+      .line-nike { stroke: #393; } /* Nike - Green */
+      .line-user { stroke: #33a; } /* User - Blue */
+      .line-nonuser { stroke: #aa3; } /* Non-user - Yellow */
+    </style>
+  </defs>
+
+  <!-- Title -->
+  <text x="30" y="30" class="title">Figure 4.5: Online banner brand execution and brand recognition</text>
+
+  <!-- CHART 1 (LEFT) - BRANDS -->
+  <g transform="translate(60, 60)">
+    <!-- Legend -->
+    <g transform="translate(30, 0)">
+      <line x1="0" y1="10" x2="30" y2="10" class="line-main line-mcd" />
+      <text x="35" y="15" class="legend-text">McDonalds</text>
+      <line x1="120" y1="10" x2="150" y2="10" class="line-main line-oreo" />
+      <text x="155" y="15" class="legend-text">Oreo</text>
+      <line x1="210" y1="10" x2="240" y2="10" class="line-main line-nike" />
+      <text x="245" y="15" class="legend-text">Nike</text>
+    </g>
+
+    <!-- Y-axis labeling -->
+    <text x="-5" y="275" class="axis-text">0</text>
+    <text x="-5" y="235" class="axis-text">10</text>
+    <text x="-5" y="195" class="axis-text">20</text>
+    <text x="-5" y="155" class="axis-text">30</text>
+    <text x="-5" y="115" class="axis-text">40</text>
+    <text x="-5" y="75" class="axis-text">50</text>
+    <text x="-5" y="35" class="axis-text">60</text>
+    <text x="-5" y="-5" class="axis-text">70</text>
+    <text x="-60" y="140" class="label-text" transform="rotate(-90 -60,140)">% Brand recognition</text>
+
+    <!-- Grid lines and lines from image_14.png -->
+    <line x1="0" y1="270" x2="400" y2="270" class="axis" /> <!-- X-axis base -->
+    <line x1="0" y1="230" x2="400" y2="230" class="grid-line" />
+    <line x1="0" y1="190" x2="400" y2="190" class="grid-line" />
+    <line x1="0" y1="150" x2="400" y2="150" class="grid-line" />
+    <line x1="0" y1="110" x2="400" y2="110" class="grid-line" />
+    <line x1="0" y1="70" x2="400" y2="70" class="grid-line" />
+    <line x1="0" y1="30" x2="400" y2="30" class="grid-line" />
+    <line x1="0" y1="-10" x2="400" y2="-10" class="grid-line" /> <!-- 70 line -->
+
+    <!-- X-axis labeling -->
+    <text x="0" y="290" class="axis-text-x">Brand</text>
+    <text x="200" y="290" class="axis-text-x">Visual DA</text>
+    <text x="400" y="290" class="axis-text-x">Tagline</text>
+    <text x="400" y="305" class="axis-text-x">DA</text>
+
+    <!-- Lines - Calculated based on pixel measurement for accuracy -->
+    <!-- McDonald's (Red) -->
+    <polyline points="0,94 200,82 400,98" class="line-main line-mcd" />
+    <!-- Oreo (Black) -->
+    <polyline points="0,118 200,218 400,234" class="line-main line-oreo" />
+    <!-- Nike (Green) -->
+    <polyline points="0,158 200,174 400,190" class="line-main line-nike" />
+  </g>
+
+  <!-- CHART 2 (RIGHT) - USERS -->
+  <g transform="translate(540, 60)">
+    <!-- Legend -->
+    <g transform="translate(70, 0)">
+      <line x1="0" y1="10" x2="30" y2="10" class="line-main line-user" />
+      <text x="35" y="15" class="legend-text">Brand users</text>
+      <line x1="140" y1="10" x2="170" y2="10" class="line-main line-nonuser" />
+      <text x="175" y="15" class="legend-text">Non users</text>
+    </g>
+
+    <!-- Y-axis labeling -->
+    <text x="-5" y="275" class="axis-text">0</text>
+    <text x="-5" y="215" class="axis-text">10</text>
+    <text x="-5" y="155" class="axis-text">20</text>
+    <text x="-5" y="95" class="axis-text">30</text>
+    <text x="-5" y="35" class="axis-text">40</text>
+    <text x="-5" y="-25" class="axis-text">50</text>
+    <text x="-60" y="140" class="label-text" transform="rotate(-90 -60,140)">% Brand recognition</text>
+
+    <!-- Grid lines -->
+    <line x1="0" y1="270" x2="330" y2="270" class="axis" /> <!-- X-axis base -->
+    <line x1="0" y1="210" x2="330" y2="210" class="grid-line" />
+    <line x1="0" y1="150" x2="330" y2="150" class="grid-line" />
+    <line x1="0" y1="90" x2="330" y2="90" class="grid-line" />
+    <line x1="0" y1="30" x2="330" y2="30" class="grid-line" />
+    <line x1="0" y1="-30" x2="330" y2="-30" class="grid-line" /> <!-- 50 line -->
+
+    <!-- X-axis labeling -->
+    <text x="0" y="290" class="axis-text-x">Brand</text>
+    <text x="165" y="290" class="axis-text-x">Visual DA</text>
+    <text x="330" y="290" class="axis-text-x">Tagline</text>
+    <text x="330" y="305" class="axis-text-x">DA</text>
+
+    <!-- Lines - Calculated based on pixel measurement -->
+    <!-- Brand Users (Blue) -->
+    <polyline points="0,36 165,102 330,144" class="line-main line-user" />
+    <!-- Non Users (Yellow) -->
+    <polyline points="0,81 165,132 330,144" class="line-main line-nonuser" />
+  </g>
+</svg>
