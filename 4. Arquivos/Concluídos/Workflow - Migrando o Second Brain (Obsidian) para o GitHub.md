@@ -1,7 +1,8 @@
 ---
-
 kanban-plugin: board
-
+tags:
+  - programação
+  - inteligenciaartificial
 ---
 
 ## Etapa 1 — Instalar o Git

@@ -1,7 +1,7 @@
 ---
-
 kanban-plugin: board
-
+tags:
+  - inteligenciaartificial
 ---
 
 ## Configuração: Receber sua chave de API

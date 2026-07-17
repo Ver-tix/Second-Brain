@@ -1,3 +1,9 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
+
 Abra a Web do ADK executando:
 
 ```bash

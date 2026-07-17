@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 ## Configuração da chave de API do Google AI Studio
 
 **Este codelab é executado inteiramente em uma chave de API sem custo financeiro do Google AI Studio**. Não é necessário um projeto do Google Cloud, uma conta de faturamento ou créditos. **Todas** as sessões, incluindo memória (sessão 6) e MCP (sessão 7), são executadas **localmente** na sua chave. Cada aluno usa a **própria** chave, então a cota de API é por pessoa, não compartilhada.

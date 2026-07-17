@@ -1,3 +1,9 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
+
 Abra a interface da Web do ADK seguindo as etapas da **sessão 1**.
 
 Depois que a interface da Web do ADK for aberta, escolha **`e_agent_as_tool`** no menu suspenso.

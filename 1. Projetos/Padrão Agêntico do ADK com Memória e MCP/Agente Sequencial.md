@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 ## Agente sequencial
 
 ![Agente sequencial](https://codelabs.developers.google.com/static/adkcourse/img/sequential_agent_1.svg?hl=pt-br)

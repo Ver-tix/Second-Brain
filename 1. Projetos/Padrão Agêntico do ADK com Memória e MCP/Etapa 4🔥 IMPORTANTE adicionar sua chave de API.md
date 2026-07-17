@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 **⚠️ Não pule esta etapa!** Crie um arquivo `.env` na **raiz** da pasta `adk_tutorial`. Esse arquivo alimenta **todas as sessões** neste codelab. As sessões da Web do ADK (1 a 5) e as sessões de memória e MCP de linha de comando (6 a 7) leem automaticamente.
 
 👉💻 Crie o arquivo `.env` com sua chave (substitua `your_actual_api_key_here` pela chave da etapa 1):

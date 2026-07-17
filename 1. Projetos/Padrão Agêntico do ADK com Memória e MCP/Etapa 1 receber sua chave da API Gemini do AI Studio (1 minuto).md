@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 1. Abra [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey?hl=pt-br) em uma nova guia do navegador.
 2. Faça login usando sua Conta do Google.
 3. Clique em **"Criar chave de API"** (canto superior direito).

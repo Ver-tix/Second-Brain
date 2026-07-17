@@ -1,3 +1,9 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
+
 **Executa totalmente no local.** Esta sessão armazena a memória de conversa em um **banco de dados SQLite local** (em `~/.adk/`), para que suas preferências persistam em reinicializações sem a necessidade do **Google Cloud, faturamento ou créditos**. O agente lê a chave do AI Studio do `~/adk_tutorial/.env` que você criou na configuração.
 
 👉💻 Teste sua memória de longo prazo acessando a pasta e usando o executor para ativar o agente:

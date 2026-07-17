@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 Abra a interface da Web do ADK seguindo as etapas da **sessão 1**.
 
 ## Agente paralelo

@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 ![Agente de roteamento](https://codelabs.developers.google.com/static/adkcourse/img/router_agent_3.svg?hl=pt-br)
 
 Abra a interface da Web do ADK seguindo as etapas da **sessão 1**.

@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 **Executa totalmente no local.** Esta sessão inicia um servidor de caixa de ferramentas do MCP **local** que lê um banco de dados SQLite **local** (`destinations.db`). Não é necessário o Google Cloud, faturamento ou créditos. O único download externo é o binário da caixa de ferramentas do MCP de código aberto.
 
 ## Etapa 1: preparar o banco de dados local

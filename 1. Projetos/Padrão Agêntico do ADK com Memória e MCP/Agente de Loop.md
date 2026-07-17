@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 ![Agente de loop](https://codelabs.developers.google.com/static/adkcourse/img/lopp_agent_1.svg?hl=pt-br)
 **Escolha o agente de fluxo de trabalho de loop** No menu suspenso na parte de cima da interface, escolha **`b3_loop_agent`**.
 

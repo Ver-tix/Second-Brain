@@ -1,3 +1,8 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
 👉💻 Crie e ative um ambiente virtual chamado `.adk_env` e instale as dependências:
 
 ```bash
