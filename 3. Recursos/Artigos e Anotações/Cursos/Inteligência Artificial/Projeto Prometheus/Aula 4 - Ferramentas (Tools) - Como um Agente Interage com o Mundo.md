@@ -553,8 +553,7 @@ Responda, **sem escrever código**:
     
 4. Desenhe o fluxo da informação, desde a pergunta do investidor até a resposta final.
 
-
-[[Desafio M5 004]]
+[[🛠Desafio M5 004]]
 
 ---
 
