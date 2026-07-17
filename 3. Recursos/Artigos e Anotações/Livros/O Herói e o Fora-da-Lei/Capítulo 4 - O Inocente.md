@@ -162,11 +162,10 @@ O ponto em questão aqui não é se estamos ou não perto de entrar no paraíso.
 
 Em Beleza americana, o herói deixa o vazio de sua carreira (no marketing, ironicamente), reconhece a patologia de sua família disfuncional e escapa para os padrões regressivos de preparar hambúrguer numa lanchonete e cobiçar uma adolescente. No final, ele tem a visão mística quintessencial do Inocente e reconhece que o simples prazer de viver a vida é realmente suficiente. Sua expressão de profunda gratidão pela dádiva de estar vivo - bem como a inesperada simpatia do público pelo filme — sugere um novo nível do Inocente no mundo de hoje: ele é capaz de ver a beleza da vida e, ao mesmo tempo, reconhecer suas limitações.
 
-O arquétipo do Inocente proporciona uma boa identidade para as marcas que:
-
-- oferecem uma resposta relativamente simples a um problema identificável.
-- estão associadas à bondade, à moralidade, à simplicidade, à nostalgia ou à infância.
-- têm funções associadas à limpeza, à saúde ou à virtude — e que são duplicáveis ao infinito.
-- têm preços de moderados a baixos.
-- são produzidas por uma empresa com valores centrais "corretos".
-- desejam se diferenciar de algum produto cuja imagem está manchada.
+> [! O arquétipo do Inocente proporciona uma boa identidade para as marcas que:]
+> - oferecem uma resposta relativamente simples a um problema identificável.
+> - estão associadas à bondade, à moralidade, à simplicidade, à nostalgia ou à infância.
+> - têm funções associadas à limpeza, à saúde ou à virtude — e que são duplicáveis ao infinito.
+> - têm preços de moderados a baixos.
+> - são produzidas por uma empresa com valores centrais "corretos".
+> - desejam se diferenciar de algum produto cuja imagem está manchada.
