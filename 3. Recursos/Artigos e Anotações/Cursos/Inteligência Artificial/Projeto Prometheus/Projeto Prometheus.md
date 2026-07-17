@@ -96,6 +96,7 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[Aula 4 - Ferramentas (Tools) - Como um Agente Interage com o Mundo]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 5 - Ferramentas Inteligentes - Como um Agente Escolhe Qual Tool Utilizar|Aula 5 - Ferramentas Inteligentes - Como um Agente Escolhe Qual Tool Utilizar]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 6 - O Ciclo de Execução de um Agente (Agent Loop)]] 
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 7 - Planejamento - Como um Agente Divide um Problema Complexo]]
 
 
 

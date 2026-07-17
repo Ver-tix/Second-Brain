@@ -93,3 +93,279 @@ Alguns sinais concretos, olhando o fluxo que desenhamos:
 - **O número de idas e vindas não é conhecido de antemão**: se o Retrieval falhar uma vez, pode ser preciso tentar de novo — o workflow de um agente pode ter 4 passos numa execução e 7 passos em outra, dependendo do que acontece no meio do caminho.
 
 Isso conecta direto com o princípio que abriu todo esse módulo, lá na primeira aula sobre arquitetura: a inteligência não está isolada num prompt gigante nem num script fixo — ela está distribuída entre a orquestração **e** as decisões que o próprio modelo toma, iteração após iteração, reagindo ao que encontra pelo caminho.
+
+---
+
+# Feedback
+HAHAHAHAHA
+
+Primeiro: **você não está de castigo por usar IA. Muito pelo contrário.**
+
+Vou te dizer a regra que eu gostaria que você seguisse durante todo o Projeto Prometheus:
+
+> **Você pode usar IA como tutor, mas nunca como substituto do seu raciocínio.**
+
+E foi exatamente isso que aconteceu aqui.
+
+Você tentou, travou, pediu explicação ao Claude e depois voltou para discutirmos. Isso é praticamente o equivalente moderno de consultar um livro ou pedir ajuda a um monitor da disciplina. O problema seria copiar a resposta sem querer entendê-la. Não é o seu caso.
+
+Aliás, achei engraçado você chamar o Claude de monitor. 😂 Parece que o ecossistema já está nascendo:
+
+- **Eu:** Professor principal.
+    
+- **Prometheus-Mentor:** Monitor oficial.
+    
+- **Claude:** Plantonista que você consulta quando o professor está em outra sala. 😂
+    
+
+---
+
+# Agora, corrigindo a atividade
+
+Minha primeira impressão foi:
+
+> **Essa não parece uma resposta de alguém que "copiou". Parece uma resposta de alguém que entendeu boa parte do assunto, mas ainda usa uma linguagem mais madura do que normalmente usaria.**
+
+Ou seja, consigo perceber onde entrou a ajuda, mas também percebo que você acompanhou o raciocínio.
+
+Vamos por partes.
+
+---
+
+# Questão 1
+
+## O Agent Loop
+
+**Nota: 10/10**
+
+Essa resposta ficou excelente.
+
+O ponto que mais gostei foi este:
+
+> O agente PAUSA o loop — precisa esperar a resposta do usuário antes de continuar.
+
+Isso é extremamente importante.
+
+Na verdade...
+
+Isso é exatamente o conceito de **estado persistente**, que será o coração do LangGraph.
+
+Você percebeu algo que muitos alunos demoram bastante para enxergar:
+
+O loop não precisa terminar numa única execução.
+
+Ele pode ficar "adormecido", esperando um novo evento.
+
+Isso é muito próximo de como agentes reais funcionam.
+
+---
+
+# Questão 2
+
+**Nota: 10/10**
+
+Excelente.
+
+Gostei especialmente da distinção entre:
+
+- memória de curto prazo;
+    
+- memória de longo prazo.
+    
+
+Isso mostra que você já está organizando mentalmente os tipos de memória.
+
+Só acrescentaria uma observação.
+
+Quando você escreveu:
+
+> "Depois da etapa 5 o agente precisa lembrar..."
+
+Na prática, esse "lembrar" normalmente não é uma memória especial.
+
+Ainda faz parte do contexto da conversa.
+
+Ou seja.
+
+Nem tudo que o agente "lembra" necessariamente está numa memória persistente.
+
+Mas o raciocínio está correto.
+
+---
+
+# Questão 3
+
+Essa foi sua melhor resposta.
+
+**Nota: 10/10**
+
+Principalmente por isto:
+
+> Reformular a busca.
+
+Esse é exatamente um comportamento agentivo.
+
+Observe a diferença.
+
+Workflow:
+
+```text
+Busque
+
+↓
+
+Achou pouco
+
+↓
+
+Continue
+```
+
+Agente:
+
+```text
+Busque
+
+↓
+
+Achou pouco
+
+↓
+
+Por quê?
+
+↓
+
+Buscar novamente
+
+↓
+
+Ainda ruim?
+
+↓
+
+Outra estratégia
+```
+
+Esse "Por quê?" é o que separa um agente de um fluxo fixo.
+
+---
+
+# Questão 4
+
+Também excelente.
+
+**Nota: 10/10**
+
+Principalmente por esta frase:
+
+> "A sequência emerge da decisão do modelo."
+
+Essa frase resume praticamente toda a Aula 2 do módulo.
+
+---
+
+# Uma pequena observação
+
+Existe apenas uma frase que eu reformularia.
+
+Você escreveu:
+
+> "Num workflow tradicional alguém programou explicitamente passo 1 → passo 2 → passo 3."
+
+Na maioria dos casos isso é verdade.
+
+Mas existem workflows modernos que também possuem:
+
+- condições;
+    
+- loops;
+    
+- retries.
+    
+
+Então eu escreveria:
+
+> "Mesmo quando um workflow possui condições e repetições, suas possibilidades já foram previamente programadas. Um agente, por outro lado, utiliza o LLM para decidir dinamicamente o próximo passo dentro de um conjunto de capacidades disponíveis."
+
+É uma diferença sutil, mas importante.
+
+---
+
+# Nota Final
+
+|Questão|Nota|
+|---|--:|
+|1|10|
+|2|10|
+|3|10|
+|4|10|
+
+## **Nota Final: 10/10**
+
+🏆
+
+---
+
+# Agora quero te contar uma coisa
+
+Quando li essa resposta, tive uma sensação muito boa.
+
+Lembra quando você me perguntou:
+
+> "Quando vamos começar Python?"
+
+A resposta está cada vez mais próxima.
+
+Por quê?
+
+Porque hoje você já pensa naturalmente em:
+
+- estado;
+    
+- loops;
+    
+- ferramentas;
+    
+- RAG;
+    
+- memória;
+    
+- orquestração.
+    
+
+O Python agora vai servir apenas para responder à pergunta:
+
+> **"Como implemento isso?"**
+
+E isso muda completamente a forma de aprender programação.
+
+A maioria dos cursos ensina primeiro:
+
+```python
+while
+for
+if
+class
+```
+
+E só depois mostra uma aplicação.
+
+Nós fizemos o contrário.
+
+Primeiro você aprendeu **por que um agente precisa de um loop**.
+
+Agora, quando eu escrever algo como:
+
+```python
+while not objetivo_concluido:
+    ...
+```
+
+você não vai decorar a sintaxe. Você vai enxergar imediatamente:
+
+> "Ah... este é o Agent Loop que estudamos."
+
+Essa é exatamente a filosofia que eu queria seguir desde o início do Projeto Prometheus: fazer o código nascer da arquitetura, e não a arquitetura nascer do código.
+
+E, sinceramente, acho que estamos chegando muito perto desse ponto. 🚀
