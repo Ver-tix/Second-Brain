@@ -1,7 +1,6 @@
 ---
 tags:
-  - inteligenciaartificial
-  - programação
+  - branding
 ---
 LEMBRA-SE DO FILME A LENDA DOS BEIJOS PERDIDOS? Um vislumbre do paraíso e depois as pessoas estavam condenadas a suportar a vida do dia-a-dia. Todos os consumidores de hoje têm alguma lembrança, alguma experiência de um momento maravilhoso em que a vida boa e perfeita parecia possível. Durante grande parte do resto da vida, as pessoas procuram realizar o anseio por algum lugar ideal onde se sintam em casa e plenamente elas mesmas.
 
