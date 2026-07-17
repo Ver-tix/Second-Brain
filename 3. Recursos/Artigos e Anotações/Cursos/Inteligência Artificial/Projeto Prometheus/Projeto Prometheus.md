@@ -31,7 +31,7 @@ author:
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 6 — Autenticação, API Keys e Variáveis de Ambiente|Aula 6 — Autenticação, API Keys e Variáveis de Ambiente]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 7 — JSON, A Linguagem Universal dos Dados|Aula 7 — JSON, A Linguagem Universal dos Dados]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 8 — O Ciclo Completo de uma Requisição|Aula 8 — O Ciclo Completo de uma Requisição]]
-- [[Aula 9 — A Arquitetura de uma Aplicação Moderna com IA]]
+- [[Aula 9 - A Arquitetura de uma Aplicação Moderna com IA]]
 - [[Aula 10 - O Mapa do Ecossistema de Engenharia de IA]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Mini Curso de RAG|Mini Curso de RAG]]
 # Módulo 1- Fundamentos dos LLMs
