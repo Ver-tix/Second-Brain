@@ -57,7 +57,7 @@ tags:
 - [[Aula 4 - Alucinações, Por Que Um Modelo Pode Responder Com Absoluta Confiança… E Estar Completamente Errado]]
 - [[Aula 5 - Instruction Tuning, Por que um Modelo Treinado Para Completar Textos Passou a Obedecer Instruções]]
 - [[Aula 6 - RLHF, Reinforcement Learning from Human Feedback, Como ensinar uma IA a preferir boas respostas]]
-- [[Aula 7 - Constitutional AI, Quando uma IA Aprende Seguindo Princípios Em Vez De Apenas Preferências Humanas]]
+- [[Aula 7 - Constitutional AI ou Reiforcement Leaning AI Feedback, Quando uma IA Aprende Seguindo Princípios Em Vez De Apenas Preferências Humanas]]
 - [[Ponte Entre Aulas 7 e 8]]
 - [[Aula 8 - Mixture of Experts (MoE), Como Construir Modelos Gigantes Sem Pagar O Custo De Usar Todo O Modelo O Tempo Todo]]
 - [[Aula 9 - Como Nasce Um LLM Moderno, Da Internet Ao ChatGPT - A Cadeia Completa De Treinamento]]
@@ -90,6 +90,7 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[Introdução 005]]
 - [[Aula 1 - O Que é, Afinal, um Agente de IA]]
 - [[Aula 2 - Planejamento, o que separa um agente de um workflow]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa]]
 
 
 
