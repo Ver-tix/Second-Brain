@@ -603,13 +603,13 @@ Para cada um dos pedidos abaixo, diga **quais ferramentas o agente utilizaria e 
 
 **Pedido B**
 
-> "Analise minha carteira de criptomoedas, calcule a distribuição percentual de cada ativo e salve o resultado em uma planilha."
+> "Analise minha carteira de criptomoedas, calcule a distribuição percentual de cada ativo e salve o resultado em uma planilha." 
 
 ---
 
 **Pedido C**
 
-> "Marque uma reunião com João para terça às 14h e envie um e-mail avisando sobre o compromisso."
+> "Marque uma reunião com João para terça às 14h e envie um e-mail avisando sobre o compromisso." 
 
 ---
 
@@ -632,6 +632,8 @@ Descrição:
 ```
 
 Explique por que **a qualidade da descrição da ferramenta** influencia diretamente a capacidade do agente de tomar boas decisões.
+
+[[🛠 Desafio M5 005]] 
 
 ---
 

@@ -94,7 +94,8 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[Aula 2 - Planejamento, o que separa um agente de um workflow]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa|Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa]]
 - [[Aula 4 - Ferramentas (Tools) - Como um Agente Interage com o Mundo]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 5 - Ferramentas Inteligentes - Como um Agente Escolhe Qual Tool Utilizar]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 5 - Ferramentas Inteligentes - Como um Agente Escolhe Qual Tool Utilizar|Aula 5 - Ferramentas Inteligentes - Como um Agente Escolhe Qual Tool Utilizar]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/]] 
 
 
 
