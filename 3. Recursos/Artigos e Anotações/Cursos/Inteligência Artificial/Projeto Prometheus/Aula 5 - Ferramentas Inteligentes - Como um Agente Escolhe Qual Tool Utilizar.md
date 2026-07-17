@@ -402,7 +402,7 @@ Negado.
 
 ---
 
-Para ferramentas críticas, normalmente existe uma camada de segurança.
+<h4 align="center">Para ferramentas críticas, normalmente existe uma camada de segurança.</h4>
 
 ---
 
@@ -497,7 +497,7 @@ Envia
 LLM confirma ao usuário
 ```
 
-Perceba que o LLM alterna constantemente entre raciocínio e uso de ferramentas.
+<h4 align="center">Perceba que o LLM alterna constantemente entre raciocínio e uso de ferramentas. </h4>
 
 ---
 
