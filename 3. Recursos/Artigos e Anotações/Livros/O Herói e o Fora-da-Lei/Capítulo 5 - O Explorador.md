@@ -2,6 +2,9 @@
 tags:
   - branding
 ---
+>[! Lema]
+>*"Não levante cercas à minha volta"*
+
 ENQUANTO O INOCENTE ESPERA ser capaz de viver no paraíso, como direita seu ou devido a uma mudança de consciência. o Explorador sai em busca de um mundo melhor. A jornada dos Exploradores é uma experiência ao mesmo tempo interna e externa, porque eles são motivados por um profundo desejo de encontrar, no mundo exterior, aquilo que se adapta às suas necessidades, preferências e esperanças interiores.
 
 A história do Explorador está na raiz do sucesso de todo o gênero "relatos de viagens" (incluindo as narrativas de imigrantes); contos de fada (como Joãozinho e Maria) nos quais o protagonista sai de viagem, cai em algum tipo de armadilha e finalmente escapa; ficção científica (sobre a exploração do Universo); histórias sobre a entrada na vida adulta; narrativas sobre pessoas que largam o casamento, o emprego ou a cidade natal; literatura de expatriados; literatura sobre a busca da terra prometida; e toda a literatura do absurdo, que demonstra a alienação humana.
@@ -176,8 +179,15 @@ Lembremos também que os Exploradores mais jovens gostam de vascuIhar a internet
 
 Em uma das novas e mais "descoladas" lojas carro-chefe de Ralph Lauren, localizada no Soho nova-iorquino, peças de colecionador estão misturadas aos itens recém-lançados. Ao lado das novíssimas calças cargo, você encontra uma velha e gasta camisa de flanela e a clássica jaqueta de veludo Levis, com 50 anos de idade, toda desbotada. As peças de colecionador emprestam um inconfundível ar de autenticidade à loja e a tudo o que está dentro dela — Ralph Lauren não está apenas vendendo suas próprias criações, ele está "homenageando" as grandes criações de outras empresas clássicas, como a Levi-Strauss. A "mistura" na loja se torna ainda mais incomum pelas surpreendentes combinações montadas pelo estilista nos manequins e cabides — por exemplo, uma luxuosa saia de tafetá com um corpete de couro xadrez e uma jaqueta de aviador casualmente jogada sobre os ombros.
 
-Como resultado tanto dos itens clássicos quanto da mistura incomum, fazer compras nessa loja é uma experiência de busca, exploração e descoberta. E, amarrando esse conceito varejista bem integrado, temos as seguintes palavras impressas na vitrine ao lado da entrada da loja: "Polo Sport: Ex-ploradores, Viajantes e Aventureiros, desde 1970."
+Como resultado tanto dos itens clássicos quanto da mistura incomum, fazer compras nessa loja é uma experiência de busca, exploração e descoberta. E, amarrando esse conceito varejista bem integrado, temos as seguintes palavras impressas na vitrine ao lado da entrada da loja: "Polo Sport: Exploradores, Viajantes e Aventureiros, desde 1970."
 
-Se a análise de Lewis e Bridger em Soul of the New Consumer é acura-da, então o arquétipo do Explorador está influenciando as decisões do consumidor neste início do século XXI. Talvez isso ocorra porque todos nós estamos vivendo em um novo milênio. Basta dizer que este parece ser um momento particularmente propício para as marcas do Explorador.
+Se a análise de Lewis e Bridger em Soul of the New Consumer é acurada, então o arquétipo do Explorador está influenciando as decisões do consumidor neste início do século XXI. Talvez isso ocorra porque todos nós estamos vivendo em um novo milênio. Basta dizer que este parece ser um momento particularmente propício para as marcas do Explorador.
 
-> [! O arquétipo deo Explorador poderá dar uma identidade à sua marca se:]
+> [! O arquétipo do Explorador poderá dar uma identidade à sua marca se:]
+> - seu produto ajuda as pessoas a se sentirem livres; é, de algum modo, não-conformista ou pioneiro.
+> - seu produto é forte e vigoroso; ou é apropriado para uso na natureza, na estrada ou em ambientes e ocupações perigosos.
+> - seu produto pode ser comprado via catálogo, internet ou outra fonte alternativa.
+> - seu produto ajuda as pessoas a expressarem sua individualidade (por exemplo, moda, mobiliários).
+> - seu produto pode ser comprado e consumido "em movimento".
+> - você procura diferenciar sua marca de outras bem-sucedidas, seja do Cara Comum ou alguma mais conformista.
+> - sua organização tem uma cultura do Explorador.
