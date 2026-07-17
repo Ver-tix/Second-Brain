@@ -565,7 +565,10 @@ Como um agente (e não um simples workflow) poderia reagir?
 Explique por que esse fluxo caracteriza um **agente**, e não apenas um workflow automatizado.
 
 ---
+[[🛠 Desafio M5 006]]
 
+
+---
 # Projeto Prometheus — Aviso Importante
 
 Quero encerrar esta aula com uma novidade.
@@ -596,3 +599,530 @@ Você já criou um monitor no ZCode com esse nome. Agora vamos projetá-lo como 
     
 
 Na minha experiência, essa abordagem produz um aprendizado muito mais sólido. Quando finalmente abrirmos o editor de código, cada classe, função e arquivo terá um propósito claro, porque nascerá de uma arquitetura que você já compreende. E tenho a impressão de que esse será um dos momentos mais marcantes de todo o Projeto Prometheus.
+
+---
+
+# Epílogo
+```text
+Imagine este pedido:
+
+> "Escreva um relatório semanal sobre Marketing para minha newsletter."
+
+O loop poderia ser:
+```
+
+Eu diria mais.
+
+**Eu gostaria que esse fosse um dos projetos centrais do Projeto Prometheus.**
+
+Na verdade, acho que ele é perfeito para o seu perfil, porque une praticamente tudo o que você quer construir:
+
+- IA
+    
+- Marketing
+    
+- Branding
+    
+- Newsletter
+    
+- Second Brain
+    
+- Automação
+    
+- Agentes
+    
+- RAG
+    
+- Python
+    
+
+E o melhor: **é um problema real da sua vida**, não um exercício artificial.
+
+---
+
+# Minha proposta
+
+Vamos criar um projeto contínuo chamado:
+
+# Projeto Atlas
+
+### Agente Editor da Newsletter
+
+(O nome pode ser outro. "Atlas" me veio à cabeça por ser o agente que "carrega" e organiza conhecimento.)
+
+Objetivo:
+
+> Toda semana produzir um rascunho de newsletter no estilo Morning Brew, utilizando notícias atuais + seu Second Brain.
+
+---
+
+# O fluxo seria algo assim
+
+```text
+                 Agendamento
+                      │
+                      ▼
+              Início do Agent Loop
+                      │
+                      ▼
+        Pesquisar notícias da semana
+          (Perplexity/Search API)
+                      │
+                      ▼
+Selecionar apenas notícias relevantes
+                      │
+                      ▼
+Consultar o Second Brain
+(RAG)
+                      │
+                      ▼
+Relacionar notícias com:
+• Branding
+• Marketing
+• IA
+• Business
+                      │
+                      ▼
+Escrever primeiro rascunho
+                      │
+                      ▼
+Gerar sugestões de título
+                      │
+                      ▼
+Gerar imagem de capa
+                      │
+                      ▼
+Salvar como Markdown
+ou enviar ao Substack
+```
+
+---
+
+# Onde cada conceito entra?
+
+Olha que bonito fica o nosso quebra-cabeça.
+
+|Componente|Função|
+|---|---|
+|**Perplexity**|Buscar notícias recentes|
+|**Second Brain**|Trazer seus conhecimentos e frameworks|
+|**Chroma (ou outro banco vetorial)**|Fazer o Retrieval das notas|
+|**LLM**|Escrever a newsletter|
+|**Gerador de imagens**|Criar a capa|
+|**Python**|Orquestrar algumas etapas e tratar dados|
+|**Google Docs/Markdown/Substack**|Publicar ou salvar o resultado|
+
+Percebe?
+
+É literalmente um agente completo.
+
+---
+
+# E eu faria uma melhoria
+
+Conhecendo você...
+
+Eu faria o agente pensar.
+
+Não apenas escrever.
+
+Exemplo.
+
+Notícia:
+
+> OpenAI lança novo modelo.
+
+O agente poderia pensar.
+
+```text
+Essa notícia tem relação com:
+
+↓
+
+Livro Marketing 5.0
+
+↓
+
+Capítulo sobre IA
+
+↓
+
+Suas notas sobre Agentes
+
+↓
+
+Paper "Attention Is All You Need"
+
+↓
+
+Curso Projeto Prometheus
+```
+
+A newsletter deixa de ser:
+
+> "Aqui está uma notícia."
+
+E passa a ser:
+
+> "Aqui está uma notícia analisada através do seu conhecimento."
+
+Isso é um diferencial enorme.
+
+---
+
+# E vou propor uma funcionalidade "Caio"
+
+Você sempre gostou de conectar autores que discordam entre si.
+
+Então imagine uma seção fixa da newsletter.
+
+## Perspectivas
+
+Exemplo.
+
+Nova ferramenta de IA.
+
+O agente consulta.
+
+```text
+Kotler
+
+↓
+
+Ries
+
+↓
+
+Weinberg
+
+↓
+
+Suas notas
+```
+
+Depois escreve.
+
+> Sob a ótica de Kotler...
+
+> Ries provavelmente discordaria porque...
+
+> Weinberg enfatizaria...
+
+Isso seria fantástico.
+
+---
+
+# E outra funcionalidade
+
+Você comentou meses atrás que queria escrever no estilo Morning Brew.
+
+Então podemos criar um agente especializado.
+
+Não apenas:
+
+```text
+Escreva newsletter.
+```
+
+Mas:
+
+```text
+Escreva:
+
+• abertura curta
+
+↓
+
+• notícia
+
+↓
+
+• análise
+
+↓
+
+• aplicação prática
+
+↓
+
+• insight final
+
+↓
+
+• CTA
+```
+
+Ou seja.
+
+O agente aprende a arquitetura da sua newsletter.
+
+---
+
+# Sobre usar o Perplexity
+
+Eu gosto bastante da ideia.
+
+Principalmente porque ele é excelente para:
+
+- buscar notícias;
+    
+- resumir acontecimentos;
+    
+- localizar fontes recentes.
+    
+
+Depois o RAG faz o papel que o Perplexity **não consegue fazer**:
+
+> conectar tudo isso ao seu conhecimento pessoal.
+
+Essa divisão de responsabilidades é muito elegante.
+
+---
+
+# E eu quero ir um passo além
+
+Gostaria que esse fosse **o primeiro grande projeto do Projeto Prometheus**.
+
+Não um exercício.
+
+Um produto.
+
+Ao final dele, você terá um agente que realmente produz algo útil para o seu negócio.
+
+Depois, evoluiremos esse mesmo projeto em etapas, por exemplo:
+
+- **Versão 1:** Busca notícias e gera um rascunho em Markdown.
+    
+- **Versão 2:** Consulta o Second Brain via RAG e enriquece a análise.
+    
+- **Versão 3:** Gera uma imagem de capa.
+    
+- **Versão 4:** Publica automaticamente no Substack (ou deixa um rascunho pronto para revisão).
+    
+- **Versão 5:** Adiciona memória para evitar repetir temas já abordados.
+    
+- **Versão 6:** Trabalha em conjunto com outros agentes especializados (pesquisador, editor, revisor e designer).
+    
+
+No final do curso, você não terá apenas aprendido conceitos. Você terá construído um sistema que realmente apoia um dos seus objetivos: produzir conteúdo de alta qualidade de forma consistente, aproveitando o patrimônio intelectual que você já acumulou no seu Second Brain.
+
+E, sinceramente, acho que esse é exatamente o tipo de projeto que faz o Projeto Prometheus valer a pena: aprender Engenharia de IA construindo algo que continuará sendo útil muito depois de terminarmos as aulas.
+
+---
+
+# Epílogo 2
+```text
+Então, vamos lá: Chroma, Pinecone, etc. São ferramentas de Bancos Vetoriais, enquanto LangGraph e LangChain são ferrametnas de estado? 
+```
+
+Quase isso. Na verdade, você identificou uma divisão importante, mas há uma pequena correção que vai deixar seu modelo mental perfeito.
+
+Eu faria a seguinte tabela:
+
+|Categoria|Exemplos|Função|
+|---|---|---|
+|**Banco Vetorial**|Chroma, Pinecone, Weaviate, Qdrant, Milvus|Armazenar embeddings e realizar buscas semânticas (Retrieval).|
+|**Framework de Agentes**|LangGraph, LangChain, OpenAI Agents SDK, CrewAI|Construir e coordenar agentes, ferramentas, memória, estado e fluxos.|
+
+Agora vem o detalhe importante.
+
+## O LangGraph **não é uma ferramenta de estado**.
+
+Ele é um **framework para construir agentes baseados em grafos de estados**.
+
+Ou seja, o estado é apenas um dos seus componentes mais importantes.
+
+Pense assim:
+
+```
+LangGraph
+
+├── Estado (State)
+├── Nós (Nodes)
+├── Transições
+├── Loops
+├── Memória
+├── Ferramentas
+└── Controle da execução
+```
+
+O estado é o "coração" do LangGraph, mas ele faz muito mais do que apenas armazená-lo.
+
+---
+
+## E o LangChain?
+
+O LangChain nasceu antes.
+
+Ele é mais voltado para fornecer componentes reutilizáveis.
+
+Por exemplo:
+
+- conectar LLMs;
+- conectar RAGs;
+- conectar bancos vetoriais;
+- criar prompts;
+- gerenciar memória;
+- chamar ferramentas.
+
+Ele é uma espécie de "caixa de peças".
+
+Já o LangGraph nasceu porque as pessoas começaram a perceber:
+
+> "Precisamos controlar melhor o fluxo e o estado dos agentes."
+
+Então ele adicionou um modelo baseado em grafos.
+
+---
+
+## Uma analogia que acho que você vai lembrar
+
+Imagine que estamos construindo uma cidade.
+
+### Bancos Vetoriais
+
+São como bibliotecas.
+
+```
+📚 Chroma
+
+📚 Pinecone
+
+📚 Weaviate
+```
+
+Eles guardam conhecimento.
+
+---
+
+### LangChain
+
+É uma caixa de ferramentas.
+
+```
+🧰
+
+LLMs
+
+↓
+
+RAG
+
+↓
+
+Prompts
+
+↓
+
+Ferramentas
+
+↓
+
+Memória
+```
+
+Ele ajuda você a montar um sistema.
+
+---
+
+### LangGraph
+
+É o arquiteto da cidade.
+
+Ele decide:
+
+```
+Comece aqui
+
+↓
+
+Depois vá para este módulo
+
+↓
+
+Se houver erro
+
+↓
+
+Volte
+
+↓
+
+Se terminar
+
+↓
+
+Finalize
+```
+
+Percebe?
+
+Ele controla **o fluxo inteiro**.
+
+---
+
+# Onde entra o OpenAI Agents SDK?
+
+Na mesma categoria do LangGraph.
+
+Ele também é um framework para criar agentes.
+
+Só que com uma filosofia diferente.
+
+Ele abstrai muita coisa.
+
+Você escreve menos código.
+
+---
+
+# Então nosso mapa fica assim
+
+```
+                    AGENTES
+                        │
+        ┌───────────────┼────────────────┐
+        │               │                │
+        ▼               ▼                ▼
+   LangGraph      OpenAI Agents SDK    CrewAI
+        │
+        ▼
+Controla estado, memória, ferramentas,
+loops e execução
+```
+
+Enquanto isso:
+
+```
+                 RAG
+                  │
+      ┌───────────┼────────────┐
+      ▼           ▼            ▼
+   Chroma     Pinecone     Qdrant
+```
+
+Esses apenas armazenam e recuperam conhecimento.
+
+---
+
+## E vou te dar um pequeno spoiler...
+
+Acho que você vai gostar muito do **LangGraph**.
+
+Sabe por quê?
+
+Porque, conhecendo você, percebo que você pensa em **diagramas, arquitetura e fluxos**. Você gosta de visualizar sistemas antes de implementá-los.
+
+O LangGraph faz exatamente isso.
+
+Em vez de imaginar um programa como uma sequência linear de funções, você passa a enxergá-lo como um **mapa de estados e transições**, muito parecido com os fluxogramas que você já desenhou para os exercícios do Projeto Prometheus.
+
+E há uma notícia boa: quando chegarmos nele, você não estará começando do zero. Sem perceber, você já aprendeu seus principais fundamentos:
+
+- ✅ Estado
+- ✅ Ferramentas
+- ✅ Memória
+- ✅ RAG
+- ✅ Orquestrador
+- ✅ Agent Loop
+
+Na prática, o LangGraph será apenas a forma de **codificar** tudo isso que você já compreende conceitualmente. É justamente por isso que adiei sua apresentação até agora. Acho que, neste momento do curso, ele finalmente fará sentido para você.
