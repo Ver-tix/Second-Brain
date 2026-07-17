@@ -1,6 +1,8 @@
 ---
 tags:
   - inteligenciaartificial
+author:
+  - Caio Emanuel
 ---
 
 ---
@@ -90,7 +92,8 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[Introdução 005]]
 - [[Aula 1 - O Que é, Afinal, um Agente de IA]]
 - [[Aula 2 - Planejamento, o que separa um agente de um workflow]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa|Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa]]
+- [[Aula 4 - Ferramentas (Tools) - Como um Agente Interage com o Mundo]]
 
 
 

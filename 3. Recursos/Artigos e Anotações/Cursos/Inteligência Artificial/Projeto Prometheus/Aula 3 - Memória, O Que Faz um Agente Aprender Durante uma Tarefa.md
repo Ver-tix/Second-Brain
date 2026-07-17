@@ -167,8 +167,7 @@ O caderno muda a cada reunião.
 
 Essa divisão não é absoluta, mas é muito usada.
 
-[[4 - Criando Disponibilidade Mental]]
-
+Outros tipos incluem: ![[4 - Criando Disponibilidade Mental#Tipos de memória|Tipos de memória]]
 ## 1. Memória de Trabalho (Working Memory)
 
 É a mais curta.
