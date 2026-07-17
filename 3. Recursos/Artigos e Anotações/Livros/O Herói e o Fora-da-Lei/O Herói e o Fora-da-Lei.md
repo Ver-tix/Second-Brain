@@ -22,7 +22,7 @@ tags:
 
 ## Parte 5. Os que dão estrutura ao mundo: Prestativo, Criador, Governante
 
-## Parte 6. O encontro da direção correta: como posicionar uma marca arquitípica
+## Parte 6. O encontro da direção correta: como posicionar uma marca arquetípica
 
 ## Parte 7. Águas mais profundas
 
