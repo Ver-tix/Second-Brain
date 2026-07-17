@@ -10,6 +10,10 @@ tags:
 - [[Capítulo 3 - O marketing pós-moderno]]
 
 ## Parte 2. O Anseio pelo paraíso: Inocente, Explorador, Sábio
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 2]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 4 - O Inocente]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 4 - O Inocente]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 4 - O Inocente]]
 
 ## Parte 3. Os que deixam sua marca no mundo: Herói, Fora-da-Lei, Mago
 
@@ -20,3 +24,7 @@ tags:
 ## Parte 6. O encontro da direção correta: como posicionar uma marca arquitípica
 
 ## Parte 7. Águas mais profundas
+
+
+
+3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei
