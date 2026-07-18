@@ -19,7 +19,7 @@
 		{"id":"8d4e906a3c265fa4","type":"text","text":"## Posicionamento da Marca\n- Subconjunto da identidade da marca e proposta de valor\n- Em um público-alvo\n- A ser ativamente comunicado\n- Provendo uma vantagem competitiva [[V.R.I.O Framework]]","x":-400,"y":1380,"width":680,"height":160},
 		{"id":"2520982b4e7152cb","type":"text","text":"## Execução\n- Gerar Alternativas\n- Símbolos e Metáforas\n- Teste","x":-400,"y":1580,"width":680,"height":140},
 		{"id":"33e2e869e3c05ba9","type":"text","text":"## Monitoramento","x":-400,"y":1760,"width":680,"height":80},
-		{"id":"c481487f30da0c4b","x":-298,"y":-681,"width":250,"height":60,"type":"text","text":"---\n\n---\n#marketing "}
+		{"id":"c481487f30da0c4b","type":"text","text":"---\n\n---\n#marketing #branding ","x":-298,"y":-681,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2e4c2ceea5ddd1b3","fromNode":"08b22f9b420e6e00","fromSide":"bottom","toNode":"44b951340af9e948","toSide":"top"},
