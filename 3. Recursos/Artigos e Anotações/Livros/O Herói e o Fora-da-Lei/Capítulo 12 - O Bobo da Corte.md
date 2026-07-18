@@ -70,5 +70,33 @@ A seguradora MetLife usou os personagens de Peanuts [Minduim] para sua-vizar sua
 
 A organização do Bobo da Corte faz do prazer a sua "bottom line". Al Ben & Jerry's, por exemplo, se orgulha de ser um lugar onde é gostoso trabalhar. As paredes são pintadas com murais inspirados em sorvetes, algumas flores se movem e saltam, o pessoal ganha vales-sorvete. Em certa épo-ca, a empresa chegou a realizar um concurso de ensaios para escolher seu novo presidente. Noutra época, teve um "ministro da alegria" oficial. A Ben & Jerry's também se protege contra a associação do Bobo da Corte com a irresponsabilidade, por meio de seu programa de responsabilidade social, doando uma porcentagem dos lucros a causas apoiadas por grande parte do público.
 
->[! ]
->
+>[! Os níveis do Bobo da Corte]
+> **Motivação:** tédio, aborrecimento 
+> **Nível 1:** a vida é um jogo; diversão 
+> **Nível 2:** usa a esperteza para enganar os outros, livrar-se de problemas e se desviar dos obstáculos; transformação 
+> **Nível 3:** a vida é experimentada no momento presente, um dia de cada vez Sombra: autocomplacência, irresponsabilidade, brincadeiras mesquinhas
+
+Quando o mar está bom, a fábrica californiana Patagonia fecha para seu pessoal ir à praia. A expectativa não-escrita nesse tipo de empresa é que os empregados são motivados pelo desejo de se divertirem. E improvável que um indivíduo pomposo ou maçante, sem qualquer senso de humor, chegue a progredir nessas empresas. E, claro, os produtos oferecidos pela empresa ajudam as pessoas a se divertir.
+
+A sede da Burger King em Miami tem um espaço de recreação integrado ao espaço de trabalho, incluindo uma mesa de sinuca, hóquei sobre patins, uma pista de skate e uma quadra de basquete (em construção). Sabe-se que os empregados jogam frisbees ao passarem por colegas que estão trabalhando duro; beliches e chuveiros oferecem a infra-estrutura para aqueles que gostam de permanecer no local 24 horas por dia, alternando trabalho e lazer.
+
+O Bobo da Corte ajuda a promover a inovação nas organizações (qual-quer que seja o arquétipo básico delas), quebrando as categorias tradicionais de pensamento. Por exemplo, Carol Pearson dividiu em grupos de brainstorm, por arquétipo, a equipe de um grande hospital do câncer, a fim de gerar idéias sobre as possibilidades de melhorar a experiência dos pacientes hospitalizados. Todos os grupos geraram boas idéias, mas a melhor delas veio do grupo identificado com o arquétipo do Bobo da Corte: os pacientes de câncer devem curtir a vida! Em vez de desperdiçar as tardes nas salas de espera quando os médicos estão atrasados com as consultas, cada paciente receberia um bip ou celular e iria tranquilamente passear no shopping center ou, acrescentou o grupo de Bobos da Corte, assistir a um bom filme no cinema especial para os pacientes (o cinema também foi uma idéia do grupo)! Para o Bobo da Corte, nenhum resultado — mesmo a salvação de sua vida — deveria implicar o sacrifício da alegria no aqui e agora.
+
+# O marketing para o Bobo da Corte
+
+O Bobo da Corte que existe em cada um de nós adora o bom humor. Gostamos dos comerciais engraçados porque eles nos entretêm, e a sensação agradável daí resultante cria um efeito-halo em torno do produto. Os anúncios e as embalagens do Bobo da Corte enfatizam cores vivas e muita ação — quanto mais "doido" melhor. O Bobo da Corte também adora viver.  
+Por isso, as experiências virtuais são excelentes caminhos publicitários para se atingir o Bobo da Corte. O website do Club Med, por exemplo, tem links com aldeias virtuais para simular as experiências que você ali espera encontrar. Você começa selecionando como quer passar o tempo, quase como se estivesse lá de verdade. Quer jogar tênis? Mergulhar com snorkel?  
+Dançar? A simples seleção põe sua imaginação em marcha e logo você está curtindo férias virtuais — na sua imaginação. O Planet Explorer do Disco-very Channel também oferece viagens virtuais para lugares exóticos.?
+
+Acima de tudo, o Bobo da Corte nos ajuda a escapar das ideias pequenas e mesquinhas que nos prendem como uma armadilha. O Bobo da Corte se sobressai nas sessões de brainstorm. O aspecto mais importante do marketing para o Bobo da Corte é a inteligência. O Bobo da Corte que existe em cada um de nós adora as maneiras novas, ousadas e inteligentes de ver o mundo. O melhor modo de desenvolver essas estratégias de marketing é dar leveza à sua equipe de marketing. Deixe a equipe se divertir, traga brinquedos, apareça com todas as ideias malucas que você puder encontrar — não importa quão bizarras elas pareçam ser — para lubrificar as rodas da criatividade. Quanto mais livre for sua equipe, melhores serão suas novas idéias.
+
+O Bobo da Corte adora ficar de cabeça para baixo, vendo o mundo de uma maneira inesperada e imprevisível. O Bobo da Corte não possui um forte senso do "proprietário", como outros arquetipos. Se você pensar no assunto, perceberá que raramente se sabe quem inventou esta ou aquela piada. As piadas voam pelo mundo, por meio da tradição oral ou via internet, em questão de dias ou de minutos, e fazem todos rirem. O marketing do Bobo da Corte sabe que abrir mão de certas coisas geralmente aumenta a reputação de uma empresa. A Kinetix, uma empresa multimídia de San Francisco, desenvolveu o Dancing Baby™ como parte do pacote de demonstração, antes que a empresa estivesse realmente estabelecida. De algum modo, a imagem do produto foi enviada em um e-mail, que passou de pessoa a pessoa até se tornar um cultuado ícone clandestino. Por fim, apareceu no seriado Ally McBeal e a empresa estava lançada. Se a Kinetix tivesse conseguido controlar o uso daquela imagem registrada, teria arruinado seu próprio sucesso.
+
+> [! O Bobo da Corte é um arquétipo promissor para oferecer identidade às marcas:]
+> - cujo uso ajuda as pessoas a pertencerem, ou sentirem que pertencem, a um grupo
+> - cuja função ajuda as pessoas a se divertirem
+> - com preços de moderados a baixos
+> - produzidas e/ou vendidas por uma empresa que tem uma cultura organizacional brincalhona e desinibida
+> - que precisam se diferenciar de alguma marca estabelecida que tenha presunção e excesso de autoconfiança
+
+Acima de tudo, o Bobo da Corte simplesmente ama a alegria do mar-keting. Este arquétipo não se assusta ao perceber que estamos em uma nova era. Em vez disso, ele nos ajuda a desfrutar realmente o enfrentamento de uma nova situação a cada dia. Nesse processo, o Bobo da Corte ajuda a manter a publicidade suficientemente renovada para poder focalizar a atenção dos consumidores, de modo que os olhos deles não fiquem embaçados — pelo menos não quando eles olham para o seu anúncio.

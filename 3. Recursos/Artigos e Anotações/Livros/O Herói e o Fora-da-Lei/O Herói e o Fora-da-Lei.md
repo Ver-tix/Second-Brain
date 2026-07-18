@@ -23,9 +23,11 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 10 - O Cara Comum]]
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 11 - O Amante]]
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 12 - O Bobo da Corte]]
-
 ## Parte 5. Os que dão estrutura ao mundo: Prestativo, Criador, Governante
-
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 5]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 13 - Prestativo]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 14 - Criador]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 15 - Governante]]
 ## Parte 6. O encontro da direção correta: como posicionar uma marca arquetípica
 
 ## Parte 7. Águas mais profundas
