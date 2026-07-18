@@ -2,6 +2,9 @@
 tags:
   - branding
 ---
+>[! Lema]
+>*"Pode acontecer!"*
+
 AS PRIMEIRAS IMAGENS do Mago foram as do xamã, do curandeiro e da bruxa ou feiticeiro da aldeia. Mais tarde tivemos o alquimista, procurando transformar chumbo em ouro. Mais tarde ainda, tivemos os cientistas sondando os segredos fundamentais do Universo, os psicólogos estudando o funcionamento da consciência humana e os gurus se oferecendo para compartilhar os segredos do sucesso espiritual. O aspecto mais básico do Mago é o desejo de procurar as leis fundamentais que governam o funcionamento das coisas e aplicar esses princípios para que as coisas aconteçam. As aplicações mais típicas da sabedoria mágica são: curar a mente, o coração e o corpo; descobrir a fonte da juventude e o segredo da longevidade; descobrir meios de criar e manter a prosperidade; e inventar produtos que façam as coisas acontecerem.
 
 Talvez o Mago mais famoso da cultura ocidental seja Merlin, que olha na sua bola de cristal e prediz o potencial de Camelot. Porém, consciente do contrapotencial para a ruína, ele expande sua energia para assegurar o resultado ideal. Para alcançar esse fim, ele fala de sua visão de uma sociedade justa e pacífica; desenvolve seus talentos (diz a lenda que foi Merlin quem desenvolveu os talentos do rei Artur); e elabora ou encontra objetos mágicos (a Távola Redonda, Excalibur, o Graal) que apóiam os valores comunitários desejados, a bravura e a iluminação. No processo, ele também estuda astronomia, ciências naturais e engenharia.
