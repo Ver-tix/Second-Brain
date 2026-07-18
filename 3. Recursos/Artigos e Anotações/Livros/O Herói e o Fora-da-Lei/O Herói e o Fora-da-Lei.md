@@ -19,6 +19,10 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 8 - O Fora-da-lei]]
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capíulo 9 - O Mago]]
 ## Parte 4. Nenhum homem (ou mulher) é uma ilha: Cara Comum, Amante, Bobo da Corte
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 4]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 10 - O Cara Comum]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 11 - O Amante]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 12 - O Bobo da Corte]]
 
 ## Parte 5. Os que dão estrutura ao mundo: Prestativo, Criador, Governante
 

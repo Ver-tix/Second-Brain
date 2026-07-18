@@ -180,8 +180,10 @@ Como resultado do movimento feminista, a vida de milhões de mulheres — de tod
 >- o produto ou serviço é transformador.
 >- sua promessa implícita é transformar o consumidor.
 >- o produto apela para os consumidores Nova Era ou para os Criativos Culturais.
-- ajuda a expandir ou ampliar a consciência.
-- é uma tecnologia amiga-do-usuário.
-- possui um componente espiritual ou psicológico.
-- é um produto novo e muito contemporâneo.
-- tem preço de médio a alto.
+>- ajuda a expandir ou ampliar a consciência.
+>- é uma tecnologia amiga-do-usuário.
+>- possui um componente espiritual ou psicológico.
+>- é um produto novo e muito contemporâneo.
+>- tem preço de médio a alto.
+
+Quando fizer marketing para os Magos ou candidatos a Mago, evite a tentação de forçar a atenção com elementos perturbadores e chocantes. Reserve um tempo para desenvolver uma identidade que esteja alinhada com a verdade de seu propósito transformador. Não é preciso que sua mensagem seja destruída por imagens desagradáveis vindas da mídia, dos concorrentes ou de outros grupos. O antídoto é ter uma personalidade de marca arquetípica suficientemente forte para vencer a publicidade negativa dramática. Quando o Pillsbury Doughboy apareceu como um espírito maligno em Ghostbusters: Os caça-fantasmas, a identidade Inocente da marca permaneceu intacta. Esse é o poder da marca arquetípica.
