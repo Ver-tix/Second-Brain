@@ -2,6 +2,9 @@
 tags:
   - branding
 ---
+>[! Lema:]
+>*"As regras são feitas para ser quebradas"*
+
 O VILAO DO MELODRAMA retorce o bigode e sorri, e as mocinhas sentem um misto de medo e atração. A sereia canta e o marinheiro é atraído para a morte.
 
 O Fora-da-lei tem a sedução do fruto proibido. Recentemente, em um ciclo de conferências, Carol Pearson assistiu a uma palestra sobre "Ser o Fora-da-lei ou namorar um deles". Não havia um só assento vazio! Parece que quanto mais comportados e responsáveis somos, tanto mais ansiamos por ser um Fora-da-lei, pelo menos um pouquinho, pelo menos parte do tempo.

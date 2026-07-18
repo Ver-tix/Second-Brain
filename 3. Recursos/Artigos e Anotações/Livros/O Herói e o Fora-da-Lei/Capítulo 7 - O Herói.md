@@ -2,6 +2,9 @@
 tags:
   - branding
 ---
+>[! Lema:]
+>*"Onde há vontade, há um caminho"*
+
 TUDO PARECE PERDIDO, mas então o Herói vem cavalgando pela colina e salva o dia. Embora haja infinitas variações nessa história, em todas elas o Herói triunfa sobre o mal, a adversidade ou um grande desafio e, ao fazê-lo, serve de inspiração para todos nós.
 
 Para fazer uma ideia do Herói, pense em John Wayne, John Glenn ou Susan B. Anthony e, num nível mais baixo, em James Bond e na equipe de Missão Impossível. Quase todos os super-heróis — Super-homem, Mulher Maravilha, Batman, etc. — se encaixam aqui, assim como seus adversários são os clássicos Fora-da-lei.
