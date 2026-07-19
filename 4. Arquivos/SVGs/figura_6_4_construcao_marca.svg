@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="100%" height="100%" role="img">
+<title>Construção da marca</title>
+<desc>Diagrama circular mostrando o ciclo entre "a marca" e "a oferta": no lado esquerdo, os "depósitos" (valor que contribui para a marca) fluem da marca para a oferta; no lado direito, os "saques" (alavancagem recebida a partir da marca) fluem da oferta de volta para a marca.</desc>
+
+<style>
+  .lbl-title { font: bold 26px sans-serif; fill: #f8fafc; }
+  .lbl-node { font: bold 20px sans-serif; fill: #f8fafc; }
+  .lbl-head { font: bold 19px sans-serif; fill: #f8fafc; }
+  .lbl-text { font: 17px sans-serif; fill: #e2e8f0; }
+  .circle { fill: none; stroke: #94a3b8; stroke-width: 2.5; }
+  .tagbg { fill: #0f172a; stroke: #475569; stroke-width: 1; }
+</style>
+
+<text class="lbl-title" x="500" y="45" text-anchor="middle">Construção da marca</text>
+
+<circle cx="500" cy="530" r="330" class="circle"/>
+
+<polygon points="500,175 480,205 520,205" fill="#e2e8f0"/>
+<rect x="520" y="175" width="150" height="40" rx="8" class="tagbg"/>
+<text class="lbl-node" x="595" y="202" text-anchor="middle">A marca</text>
+
+<polygon points="775,850 745,830 745,870" fill="#e2e8f0"/>
+<rect x="600" y="850" width="150" height="40" rx="8" class="tagbg"/>
+<text class="lbl-node" x="675" y="877" text-anchor="middle">A oferta</text>
+
+<rect x="60" y="640" width="230" height="50" rx="8" class="tagbg"/>
+<text class="lbl-head" x="175" y="674" text-anchor="middle">"Depósitos"</text>
+<rect x="40" y="700" width="290" height="110" rx="8" class="tagbg"/>
+<text class="lbl-text" x="55" y="728">Valor que</text>
+<text class="lbl-text" x="55" y="752">contribui para</text>
+<text class="lbl-text" x="55" y="776">a marca</text>
+
+<rect x="710" y="620" width="180" height="50" rx="8" class="tagbg"/>
+<text class="lbl-head" x="800" y="654" text-anchor="middle">"Saques"</text>
+<rect x="700" y="680" width="290" height="130" rx="8" class="tagbg"/>
+<text class="lbl-text" x="715" y="708">Alavancagem</text>
+<text class="lbl-text" x="715" y="732">recebida a</text>
+<text class="lbl-text" x="715" y="756">partir da marca</text>
+
+<text class="lbl-text" x="20" y="980" font-style="italic" font-size="18">Figura 6.4</text>
+</svg>
