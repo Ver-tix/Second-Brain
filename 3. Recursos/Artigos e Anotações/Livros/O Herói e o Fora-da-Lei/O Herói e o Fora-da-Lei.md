@@ -1,6 +1,9 @@
 ---
 tags:
   - branding
+author:
+  - Margaret Mark
+  - Carol S. Pearson
 ---
 # Sumário
 ## Parte 1. Os ativos fundamentais: um sistema para administrar o significado
@@ -32,10 +35,9 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 6]]
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 16 - A Alcachofra]]
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 17 - Contando a História da Sua Marca]]
-- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/]]
-
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 18 - O Caso da March of Dimes]]
 ## Parte 7. Águas mais profundas
-
-
-
-3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 7]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 19 - Que a Força Esteja com Você]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 20 - O Verdadeiro McCoy]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 21 - Deixando um Legado]]
