@@ -29,6 +29,10 @@ tags:
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 14 - Criador]]
 - [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 15 - Governante]]
 ## Parte 6. O encontro da direção correta: como posicionar uma marca arquetípica
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 6]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 16 - A Alcachofra]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/Capítulo 17 - Contando a História da Sua Marca]]
+- [[3. Recursos/Artigos e Anotações/Livros/O Herói e o Fora-da-Lei/]]
 
 ## Parte 7. Águas mais profundas
 
