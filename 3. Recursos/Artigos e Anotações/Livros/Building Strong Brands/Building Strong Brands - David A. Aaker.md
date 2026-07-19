@@ -3,6 +3,8 @@ tags:
   - marketing
   - branding
   - estratégia
+author:
+  - David A. Aaker
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/Building Strong Brands/1 - O Que É uma Marca Forte]]

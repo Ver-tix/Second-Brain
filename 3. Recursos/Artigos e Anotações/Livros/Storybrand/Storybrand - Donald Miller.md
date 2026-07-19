@@ -3,6 +3,8 @@ tags:
   - marketing
   - branding
   - promoção
+author:
+  - Donald Miller
 ---
 
 # Sumário

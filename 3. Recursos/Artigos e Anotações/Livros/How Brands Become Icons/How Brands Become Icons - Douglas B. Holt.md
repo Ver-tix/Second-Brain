@@ -2,6 +2,8 @@
 tags:
   - marketing
   - branding
+author:
+  - Douglas B. Holt
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Become Icons/1. O QUE É UMA MARCA ICÔNICA]]

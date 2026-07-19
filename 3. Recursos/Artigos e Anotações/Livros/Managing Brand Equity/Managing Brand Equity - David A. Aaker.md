@@ -2,6 +2,8 @@
 tags:
   - branding
   - estratégia
+author:
+  - David A. Aaker
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/Managing Brand Equity/1 - O Que É Brand Equity]]

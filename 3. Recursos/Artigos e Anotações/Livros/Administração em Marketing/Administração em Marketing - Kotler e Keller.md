@@ -3,6 +3,9 @@ tags:
   - marketing
   - estratégia
   - tático
+author:
+  - Philip Kotler
+  - Kevin L. Keller
 ---
 ## Sumário
 ### Parte 1: O Que É Administração de Marketing

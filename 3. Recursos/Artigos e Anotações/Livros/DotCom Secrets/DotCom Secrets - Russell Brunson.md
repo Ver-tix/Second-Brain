@@ -2,6 +2,8 @@
 tags:
   - marketing
   - estratégia
+author:
+  - Russell Brunson
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/DotCom Secrets/Prefácio]]

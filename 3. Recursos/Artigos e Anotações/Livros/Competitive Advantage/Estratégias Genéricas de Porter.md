@@ -1,6 +1,9 @@
-## Tags
-#business #estratégia
-
+---
+tags:
+  - business
+  - estratégia
+author:
+  - Michael Porter
 ---
 # Sumário
 ### 1. A Essência da Vantagem Competitiva

@@ -3,6 +3,8 @@ tags:
   - marketing
   - branding
   - comportamental
+author:
+  - Martin Lindstrom
 ---
 # Capítulo 1: Um Afluxo de Sangue Para a Cabeça
 

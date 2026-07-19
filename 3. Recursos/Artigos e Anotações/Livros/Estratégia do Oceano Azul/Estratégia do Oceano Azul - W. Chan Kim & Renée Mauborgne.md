@@ -2,9 +2,11 @@
 tags:
   - business
   - marketing
+author:
+  - W. Chan Kim
+  - Renée Mauborgne
 ---
 # Sumário
-3. Recursos/Artigos e Anotações/Livros/Estratégia do Oceano Azul
 ## Parte 1 - Crie Oceanos Azuis
 - [[Capítulo 1 - Crie Oceanos Azuis]]
 - [[Capítulo 2 - Ferramentas e Modelos de Análise]]
