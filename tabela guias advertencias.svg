@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 1300" width="100%" height="100%" role="img">
+<title>Os Guias e As Advertências</title>
+<desc>Tabela com necessidades psicológicas, mensagens e padrões narrativos correspondentes aos arquétipos "Os Guias" (interdependência e segurança, desejo de aventura e individuação, realizar a aventura) e "As Advertências" (conformismo e paralisia, isolamento e paralisia, anarquia e isolamento).</desc>
+
+<style>
+  .lbl-section { font: bold 24px sans-serif; fill: #f8fafc; }
+  .lbl-head { font: bold 18px sans-serif; fill: #f8fafc; }
+  .lbl-cell { font: 16px sans-serif; fill: #e2e8f0; }
+  .lbl-narr { font: italic 16px sans-serif; fill: #93c5fd; }
+  .head-bg { fill: #334155; stroke: #64748b; stroke-width: 1; }
+  .row-bg { fill: #1e293b; stroke: #475569; stroke-width: 1; }
+  .section-bg { fill: #0f172a; stroke: #64748b; stroke-width: 1; }
+</style>
+
+<rect x="10" y="10" width="1280" height="46" class="section-bg"/>
+<text class="lbl-section" x="650" y="40" text-anchor="middle">Os Guias</text>
+
+<rect x="10" y="56" width="400" height="50" class="head-bg"/>
+<text class="lbl-head" x="25" y="88">Necessidades psicológicas</text>
+<rect x="410" y="56" width="480" height="50" class="head-bg"/>
+<text class="lbl-head" x="425" y="88">Mensagem/dom</text>
+<rect x="890" y="56" width="400" height="50" class="head-bg"/>
+<text class="lbl-head" x="905" y="88">Padrões narrativos</text>
+
+<!-- row 1 -->
+<rect x="10" y="106" width="400" height="100" class="row-bg"/>
+<text class="lbl-cell" x="25" y="150">Interdependência e</text>
+<text class="lbl-cell" x="25" y="174">segurança</text>
+
+<rect x="410" y="106" width="480" height="100" class="row-bg"/>
+<text class="lbl-cell" x="425" y="140">Aprecie o mundo onde vive</text>
+<text class="lbl-cell" x="425" y="164">e o lugar que você nele ocupa</text>
+
+<rect x="890" y="106" width="400" height="100" class="row-bg"/>
+<text class="lbl-narr" x="905" y="140">Paraíso (Quase) Perdido</text>
+<text class="lbl-narr" x="905" y="164">Paraíso Visitado</text>
+
+<!-- row 2 -->
+<rect x="10" y="206" width="400" height="200" class="row-bg"/>
+<text class="lbl-cell" x="25" y="250">Desejo de aventura</text>
+<text class="lbl-cell" x="25" y="274">e individuação</text>
+
+<rect x="410" y="206" width="480" height="200" class="row-bg"/>
+<text class="lbl-cell" x="425" y="240">Amadurecimento e crescimento</text>
+<text class="lbl-cell" x="425" y="264">são difíceis, mas possíveis;</text>
+<text class="lbl-cell" x="425" y="288">é dentro de você mesmo</text>
+<text class="lbl-cell" x="425" y="312">que está a mudança</text>
+
+<rect x="890" y="206" width="400" height="200" class="row-bg"/>
+<text class="lbl-narr" x="905" y="240">Histórias de Redenção</text>
+<text class="lbl-narr" x="905" y="264">Histórias do Enjeitado</text>
+<text class="lbl-narr" x="905" y="288">O Patinho Feio</text>
+
+<!-- row 3 -->
+<rect x="10" y="406" width="400" height="150" class="row-bg"/>
+<text class="lbl-cell" x="25" y="450">Realizar a aventura</text>
+<text class="lbl-cell" x="25" y="474">e a individuação</text>
+
+<rect x="410" y="406" width="480" height="150" class="row-bg"/>
+<text class="lbl-cell" x="425" y="440">Se você tiver coragem de</text>
+<text class="lbl-cell" x="425" y="464">crescer, alcançará a verdadeira</text>
+<text class="lbl-cell" x="425" y="488">felicidade nesta vida</text>
+
+<rect x="890" y="406" width="400" height="150" class="row-bg"/>
+<text class="lbl-narr" x="905" y="440">A Jornada</text>
+<text class="lbl-narr" x="905" y="464">Paraíso Encontrado</text>
+
+<!-- As advertências header -->
+<rect x="10" y="576" width="1280" height="46" class="section-bg"/>
+<text class="lbl-section" x="650" y="606" text-anchor="middle">As Advertências</text>
+
+<rect x="10" y="622" width="400" height="50" class="head-bg"/>
+<text class="lbl-head" x="25" y="654">Medo</text>
+<rect x="410" y="622" width="480" height="50" class="head-bg"/>
+<text class="lbl-head" x="425" y="654">Mensagem/Advertência</text>
+<rect x="890" y="622" width="400" height="50" class="head-bg"/>
+<text class="lbl-head" x="905" y="654">Padrões narrativos</text>
+
+<!-- row 1 -->
+<rect x="10" y="672" width="400" height="150" class="row-bg"/>
+<text class="lbl-cell" x="25" y="716">Conformismo e</text>
+<text class="lbl-cell" x="25" y="740">paralisia</text>
+
+<rect x="410" y="672" width="480" height="150" class="row-bg"/>
+<text class="lbl-cell" x="425" y="706">Você se perderá em um desejo</text>
+<text class="lbl-cell" x="425" y="730">excessivo de segurança</text>
+<text class="lbl-cell" x="425" y="754">e conformismo</text>
+
+<rect x="890" y="672" width="400" height="150" class="row-bg"/>
+<text class="lbl-narr" x="905" y="706">Os Lemingues</text>
+
+<!-- row 2 -->
+<rect x="10" y="822" width="400" height="180" class="row-bg"/>
+<text class="lbl-cell" x="25" y="866">Isolamento e</text>
+<text class="lbl-cell" x="25" y="890">paralisia</text>
+
+<rect x="410" y="822" width="480" height="180" class="row-bg"/>
+<text class="lbl-cell" x="425" y="856">Somente o indivíduo</text>
+<text class="lbl-cell" x="425" y="880">disciplinado e corajoso poderá</text>
+<text class="lbl-cell" x="425" y="904">restaurar a ordem</text>
+
+<rect x="890" y="822" width="400" height="180" class="row-bg"/>
+<text class="lbl-narr" x="905" y="856">A Voz Solitária</text>
+<text class="lbl-narr" x="905" y="880">Os Três Porquinhos</text>
+
+<!-- row 3 -->
+<rect x="10" y="1002" width="400" height="200" class="row-bg"/>
+<text class="lbl-cell" x="25" y="1046">Anarquia e</text>
+<text class="lbl-cell" x="25" y="1070">isolamento</text>
+
+<rect x="410" y="1002" width="480" height="200" class="row-bg"/>
+<text class="lbl-cell" x="425" y="1036">Sem disciplina e</text>
+<text class="lbl-cell" x="425" y="1060">interdependência, a destruição</text>
+<text class="lbl-cell" x="425" y="1084">é inevitável</text>
+
+<rect x="890" y="1002" width="400" height="200" class="row-bg"/>
+<text class="lbl-narr" x="905" y="1036">Tristão &amp; Isolda</text>
+<text class="lbl-narr" x="905" y="1060">As Sombras</text>
+<text class="lbl-narr" x="905" y="1084">O Vampiro</text>
+</svg>
