@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1990 1100" width="100%" height="100%" role="img">
+<title>Os oito estágios do ser humano e os conflitos pessoais correlatos, segundo Erikson</title>
+<desc>Grade 8x8 de Erikson mostrando os oito estágios de desenvolvimento psicossocial nas colunas e sua manifestação em cada faixa etária nas linhas, com a diagonal principal destacando a crise central de cada estágio e a linha V (adolescência) mostrando como a crise de identidade se relaciona com todos os outros estágios.</desc>
+<style>
+  .lbl-title { font: bold 22px sans-serif; fill: #f8fafc; }
+  .lbl-roman { font: bold 18px sans-serif; fill: #f8fafc; }
+  .lbl-colnum { font: bold 15px sans-serif; fill: #f8fafc; }
+  .lbl-colname { font: bold 13px sans-serif; fill: #e2e8f0; }
+  .cell-empty { fill: #0f172a; stroke: #475569; stroke-width: 1; }
+  .cell-diag { fill: #164e63; stroke: #67e8f9; stroke-width: 1.5; }
+  .cell-fill { fill: #273548; stroke: #64748b; stroke-width: 1; }
+  .txt-diag { font: bold 13px sans-serif; fill: #f8fafc; }
+  .txt-fill { font: 12.5px sans-serif; fill: #e2e8f0; }
+  .bridge-border { fill: none; stroke: #f8fafc; stroke-width: 3; }
+  .caption { font: italic bold 16px sans-serif; fill: #cbd5e1; }
+</style>
+<text class="lbl-title" x="995.0" y="30" text-anchor="middle">Os oito estágios do ser humano e os conflitos pessoais correlatos, segundo Erikson</text>
+<rect x="110" y="60" width="230" height="110" class="cell-empty"/>
+<rect x="340" y="60" width="230" height="110" class="cell-empty"/>
+<rect x="570" y="60" width="230" height="110" class="cell-empty"/>
+<rect x="800" y="60" width="230" height="110" class="cell-empty"/>
+<rect x="1030" y="60" width="230" height="110" class="cell-empty"/>
+<rect x="1260" y="60" width="230" height="110" class="cell-empty"/>
+<rect x="1490" y="60" width="230" height="110" class="cell-empty"/>
+<rect x="1720" y="60" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="1730" y="106.0">INTEGRIDADE X</text>
+<text class="txt-diag" x="1730" y="124.0">DESESPERO</text>
+<rect x="110" y="170" width="230" height="110" class="cell-empty"/>
+<rect x="340" y="170" width="230" height="110" class="cell-empty"/>
+<rect x="570" y="170" width="230" height="110" class="cell-empty"/>
+<rect x="800" y="170" width="230" height="110" class="cell-empty"/>
+<rect x="1030" y="170" width="230" height="110" class="cell-empty"/>
+<rect x="1260" y="170" width="230" height="110" class="cell-empty"/>
+<rect x="1490" y="170" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="1500" y="216.0">FERTILIDADE X</text>
+<text class="txt-diag" x="1500" y="234.0">ESTAGNAÇÃO</text>
+<rect x="1720" y="170" width="230" height="110" class="cell-empty"/>
+<rect x="110" y="280" width="230" height="110" class="cell-empty"/>
+<rect x="340" y="280" width="230" height="110" class="cell-empty"/>
+<rect x="570" y="280" width="230" height="110" class="cell-empty"/>
+<rect x="800" y="280" width="230" height="110" class="cell-empty"/>
+<rect x="1030" y="280" width="230" height="110" class="cell-empty"/>
+<rect x="1260" y="280" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="1270" y="326.0">INTIMIDADE X</text>
+<text class="txt-diag" x="1270" y="344.0">ISOLAMENTO</text>
+<rect x="1490" y="280" width="230" height="110" class="cell-empty"/>
+<rect x="1720" y="280" width="230" height="110" class="cell-empty"/>
+<rect x="110" y="390" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="120" y="427.0">Perspectiva</text>
+<text class="txt-fill" x="120" y="445.0">temporal x</text>
+<text class="txt-fill" x="120" y="463.0">Confusão temporal</text>
+<rect x="340" y="390" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="350" y="436.0">Certeza pessoal x</text>
+<text class="txt-fill" x="350" y="454.0">Autoconsciência</text>
+<rect x="570" y="390" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="580" y="418.0">Experimentação</text>
+<text class="txt-fill" x="580" y="436.0">de papéis x</text>
+<text class="txt-fill" x="580" y="454.0">Fixação em um</text>
+<text class="txt-fill" x="580" y="472.0">papel</text>
+<rect x="800" y="390" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="810" y="427.0">Aprendizado x</text>
+<text class="txt-fill" x="810" y="445.0">Paralisia</text>
+<text class="txt-fill" x="810" y="463.0">profissional</text>
+<rect x="1030" y="390" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="1040" y="427.0">IDENTIDADE X</text>
+<text class="txt-diag" x="1040" y="445.0">CONFUSÃO DE</text>
+<text class="txt-diag" x="1040" y="463.0">IDENTIDADE</text>
+<rect x="1260" y="390" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="1270" y="427.0">Polarização sexual</text>
+<text class="txt-fill" x="1270" y="445.0">x Confusão</text>
+<text class="txt-fill" x="1270" y="463.0">bissexual</text>
+<rect x="1490" y="390" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="1500" y="418.0">Liderança e</text>
+<text class="txt-fill" x="1500" y="436.0">companheirismo x</text>
+<text class="txt-fill" x="1500" y="454.0">Confusão</text>
+<text class="txt-fill" x="1500" y="472.0">autoritária</text>
+<rect x="1720" y="390" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="1730" y="418.0">Compromisso</text>
+<text class="txt-fill" x="1730" y="436.0">ideológico x</text>
+<text class="txt-fill" x="1730" y="454.0">Confusão de</text>
+<text class="txt-fill" x="1730" y="472.0">valores</text>
+<rect x="110" y="500" width="230" height="110" class="cell-empty"/>
+<rect x="340" y="500" width="230" height="110" class="cell-empty"/>
+<rect x="570" y="500" width="230" height="110" class="cell-empty"/>
+<rect x="800" y="500" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="810" y="546.0">ESFORÇO x</text>
+<text class="txt-diag" x="810" y="564.0">INFERIORIDADE</text>
+<rect x="1030" y="500" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="1040" y="537.0">Identificação</text>
+<text class="txt-fill" x="1040" y="555.0">com a tarefa x</text>
+<text class="txt-fill" x="1040" y="573.0">Senso de futilidade</text>
+<rect x="1260" y="500" width="230" height="110" class="cell-empty"/>
+<rect x="1490" y="500" width="230" height="110" class="cell-empty"/>
+<rect x="1720" y="500" width="230" height="110" class="cell-empty"/>
+<rect x="110" y="610" width="230" height="110" class="cell-empty"/>
+<rect x="340" y="610" width="230" height="110" class="cell-empty"/>
+<rect x="570" y="610" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="580" y="656.0">INICIATIVA x</text>
+<text class="txt-diag" x="580" y="674.0">CULPA</text>
+<rect x="800" y="610" width="230" height="110" class="cell-empty"/>
+<rect x="1030" y="610" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="1040" y="647.0">Antecipação de</text>
+<text class="txt-fill" x="1040" y="665.0">papéis x Inibição</text>
+<text class="txt-fill" x="1040" y="683.0">nos papéis</text>
+<rect x="1260" y="610" width="230" height="110" class="cell-empty"/>
+<rect x="1490" y="610" width="230" height="110" class="cell-empty"/>
+<rect x="1720" y="610" width="230" height="110" class="cell-empty"/>
+<rect x="110" y="720" width="230" height="110" class="cell-empty"/>
+<rect x="340" y="720" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="350" y="757.0">AUTONOMIA x</text>
+<text class="txt-diag" x="350" y="775.0">VERGONHA E</text>
+<text class="txt-diag" x="350" y="793.0">DÚVIDA</text>
+<rect x="570" y="720" width="230" height="110" class="cell-empty"/>
+<rect x="800" y="720" width="230" height="110" class="cell-empty"/>
+<rect x="1030" y="720" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="1040" y="757.0">Vontade de ser si-</text>
+<text class="txt-fill" x="1040" y="775.0">mesmo x Dúvida</text>
+<text class="txt-fill" x="1040" y="793.0">sobre si mesmo</text>
+<rect x="1260" y="720" width="230" height="110" class="cell-empty"/>
+<rect x="1490" y="720" width="230" height="110" class="cell-empty"/>
+<rect x="1720" y="720" width="230" height="110" class="cell-empty"/>
+<rect x="110" y="830" width="230" height="110" class="cell-diag"/>
+<text class="txt-diag" x="120" y="876.0">CONFIANÇA x</text>
+<text class="txt-diag" x="120" y="894.0">DESCONFIANÇA</text>
+<rect x="340" y="830" width="230" height="110" class="cell-empty"/>
+<rect x="570" y="830" width="230" height="110" class="cell-empty"/>
+<rect x="800" y="830" width="230" height="110" class="cell-empty"/>
+<rect x="1030" y="830" width="230" height="110" class="cell-fill"/>
+<text class="txt-fill" x="1040" y="867.0">Reconhecimento</text>
+<text class="txt-fill" x="1040" y="885.0">mútuo x Isolamento</text>
+<text class="txt-fill" x="1040" y="903.0">Autístico</text>
+<rect x="1260" y="830" width="230" height="110" class="cell-empty"/>
+<rect x="1490" y="830" width="230" height="110" class="cell-empty"/>
+<rect x="1720" y="830" width="230" height="110" class="cell-empty"/>
+<text class="lbl-roman" x="95" y="121.0" text-anchor="end">VIII.</text>
+<text class="lbl-roman" x="95" y="231.0" text-anchor="end">VII.</text>
+<text class="lbl-roman" x="95" y="341.0" text-anchor="end">VI.</text>
+<text class="lbl-roman" x="95" y="451.0" text-anchor="end">V.</text>
+<text class="lbl-roman" x="95" y="561.0" text-anchor="end">IV.</text>
+<text class="lbl-roman" x="95" y="671.0" text-anchor="end">III.</text>
+<text class="lbl-roman" x="95" y="781.0" text-anchor="end">II.</text>
+<text class="lbl-roman" x="95" y="891.0" text-anchor="end">I.</text>
+<text class="lbl-colnum" x="225.0" y="970" text-anchor="middle">1.</text>
+<text class="lbl-colname" x="225.0" y="990" text-anchor="middle">Primeira infância</text>
+<text class="lbl-colnum" x="455.0" y="970" text-anchor="middle">2.</text>
+<text class="lbl-colname" x="455.0" y="990" text-anchor="middle">Infância</text>
+<text class="lbl-colnum" x="685.0" y="970" text-anchor="middle">3.</text>
+<text class="lbl-colname" x="685.0" y="990" text-anchor="middle">Estágio</text>
+<text class="lbl-colname" x="685.0" y="1006" text-anchor="middle">dos jogos</text>
+<text class="lbl-colnum" x="915.0" y="970" text-anchor="middle">4.</text>
+<text class="lbl-colname" x="915.0" y="990" text-anchor="middle">Estágio escolar</text>
+<text class="lbl-colnum" x="1145.0" y="970" text-anchor="middle">5.</text>
+<text class="lbl-colname" x="1145.0" y="990" text-anchor="middle">Adolescência</text>
+<text class="lbl-colnum" x="1375.0" y="970" text-anchor="middle">6.</text>
+<text class="lbl-colname" x="1375.0" y="990" text-anchor="middle">Fase jovem</text>
+<text class="lbl-colname" x="1375.0" y="1006" text-anchor="middle">da vida adulta</text>
+<text class="lbl-colnum" x="1605.0" y="970" text-anchor="middle">7.</text>
+<text class="lbl-colname" x="1605.0" y="990" text-anchor="middle">Maturidade</text>
+<text class="lbl-colnum" x="1835.0" y="970" text-anchor="middle">8.</text>
+<text class="lbl-colname" x="1835.0" y="990" text-anchor="middle">Velhice</text>
+<rect x="800" y="60" width="690" height="440" class="bridge-border"/>
+<text class="lbl-colname" x="1145.0" y="50" text-anchor="middle" font-size="16" font-style="italic">"Os anos-ponte"</text>
+<text class="caption" x="20" y="1085">Figura 6.3</text>
+</svg>
