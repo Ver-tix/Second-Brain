@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 794" width="100%" height="100%" role="img">
+<title>Padrões de qualidade no marketing: Não cause danos</title>
+<desc>Tabela com os doze arquétipos de marca, suas virtudes correspondentes e os vícios em que podem incorrer quando expressos de forma negativa.</desc>
+<style>
+  .lbl-title { font: bold 22px sans-serif; fill: #f8fafc; }
+  .lbl-head { font: bold 18px sans-serif; fill: #f8fafc; }
+  .lbl-cell { font: 17px sans-serif; fill: #e2e8f0; }
+  .title-bg { fill: #0f172a; stroke: #64748b; stroke-width: 1; }
+  .head-bg { fill: #334155; stroke: #64748b; stroke-width: 1; }
+  .row-bg { fill: #1e293b; stroke: #475569; stroke-width: 1; }
+</style>
+<rect x="10" y="20" width="1140" height="60" class="title-bg"/>
+<text class="lbl-title" x="580.0" y="58" text-anchor="middle">Padrões de qualidade no marketing: Não cause danos</text>
+<rect x="10" y="80" width="320" height="50" class="head-bg"/>
+<text class="lbl-head" x="25" y="112">Arquétipo</text>
+<rect x="330" y="80" width="380" height="50" class="head-bg"/>
+<text class="lbl-head" x="345" y="112">Virtude</text>
+<rect x="710" y="80" width="420" height="50" class="head-bg"/>
+<text class="lbl-head" x="725" y="112">Vício</text>
+<rect x="10" y="130" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="162.0">Inocente</text>
+<rect x="330" y="130" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="162.0">Fé</text>
+<rect x="710" y="130" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="162.0">Negação</text>
+<rect x="10" y="182" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="214.0">Prestativo</text>
+<rect x="330" y="182" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="214.0">Compaixão</text>
+<rect x="710" y="182" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="214.0">Martírio</text>
+<rect x="10" y="234" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="266.0">Governante</text>
+<rect x="330" y="234" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="266.0">Responsabilidade</text>
+<rect x="710" y="234" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="266.0">Ditadura</text>
+<rect x="10" y="286" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="318.0">Bobo da Corte</text>
+<rect x="330" y="286" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="318.0">Diversão</text>
+<rect x="710" y="286" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="318.0">Brincadeiras cruéis</text>
+<rect x="10" y="338" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="370.0">Cara Comum</text>
+<rect x="330" y="338" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="370.0">Igualdade</text>
+<rect x="710" y="338" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="370.0">Bando de linchadores</text>
+<rect x="10" y="390" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="422.0">Amante</text>
+<rect x="330" y="390" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="422.0">Amor</text>
+<rect x="710" y="390" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="422.0">Promiscuidade</text>
+<rect x="10" y="442" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="474.0">Herói</text>
+<rect x="330" y="442" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="474.0">Coragem</text>
+<rect x="710" y="442" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="474.0">Arrogância</text>
+<rect x="10" y="494" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="526.0">Fora-da-lei</text>
+<rect x="330" y="494" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="526.0">Revolução</text>
+<rect x="710" y="494" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="526.0">Destrutividade</text>
+<rect x="10" y="546" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="578.0">Mago</text>
+<rect x="330" y="546" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="578.0">Transformação</text>
+<rect x="710" y="546" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="578.0">Manipulação</text>
+<rect x="10" y="598" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="630.0">Criador</text>
+<rect x="330" y="598" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="630.0">Inovação</text>
+<rect x="710" y="598" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="630.0">"Cientista louco"</text>
+<rect x="10" y="650" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="682.0">Explorador</text>
+<rect x="330" y="650" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="682.0">Autenticidade</text>
+<rect x="710" y="650" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="682.0">Autocomplacência</text>
+<rect x="10" y="702" width="320" height="52" class="row-bg"/>
+<text class="lbl-cell" x="25" y="734.0">Sábio</text>
+<rect x="330" y="702" width="380" height="52" class="row-bg"/>
+<text class="lbl-cell" x="345" y="734.0">Sabedoria</text>
+<rect x="710" y="702" width="420" height="52" class="row-bg"/>
+<text class="lbl-cell" x="725" y="734.0">Dogmatismo</text>
+<text class="lbl-title" x="10" y="789" font-style="italic" font-size="16">Figura 7.7</text>
+</svg>
