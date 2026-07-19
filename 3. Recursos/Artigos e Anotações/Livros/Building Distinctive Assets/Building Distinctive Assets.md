@@ -2,6 +2,8 @@
 tags:
   - branding
   - tático
+author:
+  - Jenni Romaniuk
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/Building Distinctive Assets/1 - Os Sete Pecados Custosos da Identidade de Marca|1 - Os Sete Pecados Custosos da Identidade de Marca]]

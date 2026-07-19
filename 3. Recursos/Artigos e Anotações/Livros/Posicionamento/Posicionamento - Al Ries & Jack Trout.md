@@ -3,6 +3,9 @@ tags:
   - marketing
   - branding
   - promoção
+author:
+  - Al Ries
+  - Jack Trout
 ---
 
 ---

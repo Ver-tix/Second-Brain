@@ -2,6 +2,8 @@
 tags:
   - branding
   - "#descoberta"
+author:
+  - Byron Sharp
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Grow/1 - Marketing Baseado em Evidências|1 - Marketing Baseado em Evidências]]

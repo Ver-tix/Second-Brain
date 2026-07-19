@@ -2,6 +2,9 @@
 tags:
   - branding
   - estratégia
+author:
+  - Byron Sharp
+  - Jenni Romaniuk
 ---
 # Sumário
 - [[3. Recursos/Artigos e Anotações/Livros/How Brands Grow 2/1 - Como Marcas Crescem|1 - Como Marcas Crescem|]]

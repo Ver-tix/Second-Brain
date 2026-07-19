@@ -1,5 +1,10 @@
 ---
 tags:
   - marketing
-  - startups
+  - tático
+  - canais
+author:
+  - Gabriel Weinberg
+  - Justin Mares
 ---
+# Sumário
