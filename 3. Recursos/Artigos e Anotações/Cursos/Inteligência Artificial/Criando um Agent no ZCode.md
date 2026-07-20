@@ -158,7 +158,7 @@ Cada agente é um arquivo Markdown independente. ([ZCode](https://zcode.z.ai/en/
 
 ## Um insight para o seu caso
 
-Pelo que conheço dos seus interesses ([[Projeto Prometheus]], [[3. Inteligência Artificial HUB|Inteligência Artificial]], [[2.1. Marketing HUB|Marketing]], [[4. Mercado Imobiliário HUB|Imobiliário]] e [[1. Business HUB|business]]), eu iria um passo além: em vez de criar agentes por profissão ("marketing", "finanças"), criaria agentes por **papel no processo de construção de um negócio**.
+Pelo que conheço dos seus interesses ([[🔥Projeto Prometheus]], [[3. Inteligência Artificial HUB|Inteligência Artificial]], [[2.1. Marketing HUB|Marketing]], [[4. Mercado Imobiliário HUB|Imobiliário]] e [[1. Business HUB|business]]), eu iria um passo além: em vez de criar agentes por profissão ("marketing", "finanças"), criaria agentes por **papel no processo de construção de um negócio**.
 
 Por exemplo:
 

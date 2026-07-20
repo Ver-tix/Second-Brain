@@ -6,7 +6,7 @@ author:
 ---
 
 ---
-# Artigos (Resumos)
+# Artigos (Resumos) 
 ### Módulo 1
 - [[Attention is All You Need]]
 - [[A Revolução do Word2vec, Conceitos, Arquiteturas e Aplicações dos Artigos de Mikolov (2013)]]
@@ -95,8 +95,8 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa|Aula 3 - Memória, O Que Faz um Agente Aprender Durante uma Tarefa]]
 - [[Aula 4 - Ferramentas (Tools) - Como um Agente Interage com o Mundo]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 5 - Ferramentas Inteligentes - Como um Agente Escolhe Qual Tool Utilizar|Aula 5 - Ferramentas Inteligentes - Como um Agente Escolhe Qual Tool Utilizar]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 6 - O Ciclo de Execução de um Agente (Agent Loop)]] 
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 7 - Planejamento - Como um Agente Divide um Problema Complexo]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 6 - O Ciclo de Execução de um Agente (Agent Loop)|Aula 6 - O Ciclo de Execução de um Agente (Agent Loop)]] 
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 7 - Planejamento - Como um Agente Divide um Problema Complexo|Aula 7 - Planejamento - Como um Agente Divide um Problema Complexo]]
 
 
 

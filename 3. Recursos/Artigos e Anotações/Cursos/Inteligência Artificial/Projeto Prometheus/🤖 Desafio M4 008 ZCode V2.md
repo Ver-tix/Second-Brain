@@ -210,4 +210,4 @@ Ambas usaram o mesmo cimento. Mas só uma mora numa casa — e é por isso que, 
 - [[Aula 1 - O LLM Deixa De Ser Um Chatbot]]
 - [[Aula 8 - Arquitetando Sistemas de Prompt]]
 - [[Aula 7 - Prompt Debugging & Evaluation]]
-- [[Projeto Prometheus]]
+- [[🔥Projeto Prometheus]]
