@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 ### O que são palavras-chave de SEO?

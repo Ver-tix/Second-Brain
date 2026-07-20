@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 Não há dúvidas sobre isso: a pesquisa de [palavras-chave](https://backlinko.com/tools/keyword "Pesquisa de palavras-chave") é A parte mais importante do SEO.

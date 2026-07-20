@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 ### O que é posicionamento em mecanismos de busca?

@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 Uma das coisas mais difíceis sobre SEO é esta:

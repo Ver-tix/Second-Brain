@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 Web design otimizado para SEO é a prática de criar sites totalmente acessíveis e indexáveis por mecanismos de [busca](https://backlinko.com/search-engines).

@@ -28,81 +28,78 @@ Em outras palavras: um slug claro informa aos mecanismos de busca e aos usuário
 
 John Mueller, do Google, [confirmou](https://www.youtube.com/watch?v=kzM7fi43cMc&t=3094s "Horário de expediente do Google SEO em inglês a partir de 12 de março de 2021") que **as palavras em uma URL são um fator de classificação**:
 
-![](https://api.backlinko.com/app/uploads/2024/03/john-mueller.png)
+> ![35](https://api.backlinko.com/app/uploads/2024/03/john-mueller.png)  “Usamos as palavras em uma URL como um fator muito, muito leve… e se esta for a primeira vez que vemos esta URL… então podemos usar as palavras na URL como algo para nos ajudar a nos classificar melhor.”
 
-> “We use the words in a URL as a very very lightweight factor…and if this is the absolute first time we see this URL… then we might use the words in the URL as something to help rank us better.”
+No entanto, essa influência é leve quando comparada à qualidade do seu conteúdo.
 
-However, this influence is lightweight compared to the quality of your content.
+Considere estes exemplos:
 
-Consider these examples:
+exemplo.com/dicas de SEO
 
-example.com/seo-tips
+Esta é clara e direta. Você sabe o que vai aprender se clicar no link.
 
-This one is clear and direct. You know what you’re going to learn about if you click on the link.
+Em contraste, o slug desta URL não tem contexto sobre o que a página trata:
 
-In contrast, this URL’s slug lacks context on what the page is about:
+exemplo.com/artigo123
 
-example.com/article123
+O primeiro tem mais probabilidade de atrair cliques e compartilhamentos porque fica claro rapidamente do que se trata a página. E mecanismos de busca como o Google também ganharão algum contexto útil sobre o conteúdo da página.
 
-The first is more likely to attract clicks and shares because it’s clear at a glance what the page is about. And search engines like Google will also gain some useful context about the page’s content.
 
-![](https://api.backlinko.com/app/uploads/2024/06/icon-note.png)
+> **Importante:** Não tenha pressa em alterar todos os seus slugs de URL existentes se você ainda não os otimizou. Isso pode ter efeitos negativos no seu SEO se você não tomar as precauções certas, como configurar [redirecionamentos 301](https://backlinko.com/redirects "Redirecionamentos 101: Um guia para iniciantes sobre configuração e melhores práticas").
 
-> **Important:** Don’t rush to change all your existing URL slugs if you haven’t optimized them yet. This can have negative effects on your SEO if you don’t take the right precautions, like setting up [301 redirects](https://backlinko.com/redirects "Redirecionamentos 101: Um guia para iniciantes sobre configuração e melhores práticas").
+## Melhores práticas para criar slugs de URL otimizados
 
-## Best Practices for Creating Optimized URL Slugs
+Siga estas práticas recomendadas para otimizar seus slugs de URL:
 
-Follow these best practices to optimize your URL slugs:
+### 1. Mantenha-os curtos e descritivos
 
-### 1. Keep Them Short and Descriptive
+Slugs mais curtos são melhores tanto para usuários quanto para mecanismos de busca porque são mais fáceis de ler e entender.
 
-Shorter slugs are better for both users and search engines because they’re easier to read and understand.
+Por exemplo:
 
-For example:
+dicas de SEO para blog
 
-blog-seo-tips
+É mais eficaz do que:
 
-Is more effective than:
+como melhorar o desempenho do seu seoblog
 
-how-to-improve-your-seo-blog-performance
+Os slugs curtos fornecem uma descrição clara e concisa do conteúdo da página.
 
-Short slugs provide a clear and concise description of the page’s content.
+No entanto, não existe um comprimento ou fórmula mágica para criar slugs que irão melhorar sua classificação. Concentre-se apenas em torná-los fáceis de usar.
 
-However, there’s no magic length or formula for creating slugs that will improve your rankings. Just focus on making them user-friendly.
+### 2. Usar palavras-chave
 
-### 2. Use Keywords
+Incluir palavras-chave primárias no seu slug de URL ajuda os mecanismos de busca e os usuários a entender o tópico da página. O que pode ter um pequeno impacto na forma como o Google classifica seu conteúdo para consultas de pesquisa relevantes.
 
-Including primary keywords in your URL slug helps search engines and users understand the page’s topic. Which could have a small impact on how Google ranks your content for relevant search queries.
+Por exemplo, o slug “**dicas de SEO”** pode ser otimizado para a palavra-chave “[dicas de SEO](https://backlinko.com/actionable-seo-tips)” Isso pode ter um pequeno efeito positivo em suas classificações, ao mesmo tempo em que permanece legível e claro sobre o que a página trata.
 
-For example, the slug “**seo-tips**” might be optimized for the keyword “[SEO tips](https://backlinko.com/actionable-seo-tips).” This could have a small positive effect on your rankings, while staying readable and clear on what the page is about.
-
-It can also improve your [click-through rate](https://backlinko.com/what-is-ctr "O que é taxa de cliques (CTR)?: E como melhorá-la"). Because if users see that URL in search results for a relevant query, they may be more likely to click your article.
+Também pode melhorar sua [taxa de cliques](https://backlinko.com/what-is-ctr "O que é taxa de cliques (CTR)?: E como melhorá-la"). Porque se os usuários virem esse URL nos resultados de pesquisa para uma consulta relevante, eles poderão ter mais probabilidade de clicar no seu artigo.
 
 ![Google SERP – O que é SEO – Slug](https://api.backlinko.com/app/uploads/2024/10/google-serp-what-is-seo-slug.png "Google SERP – O que é SEO – Slug")
 
-(But Google may not always show the slug in search results, like the Moz example above. And you often won’t see them in mobile results.)
+(Mas o Google nem sempre mostra o slug nos resultados de pesquisa, como no exemplo do Moz acima. E muitas vezes você não os verá nos resultados móveis.)
 
-While optimizing can help your SEO, avoid keyword stuffing or making the slug excessively long just to cram in keywords.
+Embora a otimização possa ajudar seu SEO, evite o uso excessivo de palavras-chave ou deixar o slug excessivamente longo só para incluir palavras-chave.
 
-In other words, avoid slugs like:
+Em outras palavras, evite slugs como:
 
-example.com/what-is-seo-guide-to-seo-tips-for-seo
+example.com/o que é-seo-guia-para-dicas-de-seo-para-seo
 
-### 3. Avoid Special Characters and Capitalization
+### 3. Evite caracteres especiais e capitalização
 
-Special characters are symbols like &, %, and # that are not standard letters or numbers.
+Caracteres especiais são símbolos como &, % e # que não são letras ou números padrão.
 
-Including these characters in URL slugs can cause technical issues, such as browsers or crawlers not being able to process the URL.
+Incluir esses caracteres em slugs de URL pode causar problemas técnicos, como navegadores ou rastreadores não conseguirem processar a URL.
 
-Avoid using capitalized words too. This doesn’t just improve readability: it can also prevent [broken links](https://backlinko.com/how-to-find-and-fix-broken-links "Como encontrar (e corrigir) links quebrados"). Because URLs are often case-sensitive.
+Evite usar palavras em maiúsculas também. Isso não só melhora a legibilidade: também pode evitar [links quebrados](https://backlinko.com/how-to-find-and-fix-broken-links "Como encontrar (e corrigir) links quebrados"). Porque os URLs geralmente diferenciam maiúsculas de minúsculas.
 
-For example, a good URL slug is:
+Por exemplo, um bom slug de URL é:
 
-digital-marketing-tools
+ferramentas de marketing digital
 
-While a poor one is something like:
+Enquanto um pobre é algo como:
 
-#5-Best-Digital-Marketing-Tools
+# 5-Melhores ferramentas de marketing digital
 
 Os emojis se enquadram em caracteres especiais e você também deve evitá-los. Embora possam parecer interessantes, não são fáceis de usar e podem ser difíceis de digitar (ou impossíveis, dependendo do dispositivo).
 
@@ -144,8 +141,6 @@ Ao remover as palavras de parada, torna-se simplesmente:
 melhores estratégias de SEO
 
 Essa mudança não apenas encurta o slug, mas também melhora a clareza ao focar apenas nas palavras essenciais. Ele ainda informa ao Google e aos usuários do que se trata a página. Mas em menos da metade das palavras.
-
-![](https://api.backlinko.com/app/uploads/2024/06/icon-note.png)
 
 > **Bônus: Os sl**ugs concisos são mais fáceis de ler e lembrar para os usuários e, portanto, também mais fáceis de compartilhar.
 
@@ -241,7 +236,6 @@ E URLs com sublinhados:
 
 Isso torna muito fácil detectar problemas com seus URLs em escala.
 
-![](https://api.backlinko.com/app/uploads/2024/06/icon-note.png)
 
 > **Nota:** Uma conta gratuita do Semrush permite auditar até 100 URLs por vez. Ou você pode usar este link para acessar um [teste de 14 dias em uma assinatura do Semrush Pro](https://www.semrush.com/lp/backlinko-offer/en/ "Backlinko e Semrush: teste PRO de 14 dias").
 

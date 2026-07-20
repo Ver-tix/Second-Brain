@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 As páginas de resultados dos mecanismos de busca (também conhecidas como “SERPs” ou “SERP”) são a resposta do Google à consulta de pesquisa de um usuário. As SERPs tendem a incluir resultados de pesquisa orgânica, resultados pagos do Google Ads, [trechos em destaque](https://backlinko.com/hub/seo/featured-snippets), gráficos de conhecimento e resultados de vídeo.

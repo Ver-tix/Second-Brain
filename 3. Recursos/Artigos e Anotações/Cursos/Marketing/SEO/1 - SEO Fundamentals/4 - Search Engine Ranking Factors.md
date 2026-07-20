@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 Você deve ter lido que [o Google usa 200 fatores de classificação](https://backlinko.com/google-ranking-factors "Fatores de classificação do Google") em seu algoritmo.

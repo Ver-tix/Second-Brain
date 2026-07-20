@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 A principal diferença é que a otimização de [mecanismos de busca](https://backlinko.com/hub/seo/what-is-seo) (SEO) se concentra na otimização de um site para obter tráfego de resultados de pesquisa orgânica. Por outro lado, o objetivo do [Search Engine Marketing](https://www.semrush.com/blog/search-engine-marketing/ "O que é marketing de mecanismos de busca?") (SEM) é obter tráfego e visibilidade tanto da pesquisa orgânica quanto da paga.

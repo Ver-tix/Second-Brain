@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - tático
+  - operacional
   - canais
 ---
 Termos de pesquisa são as palavras ou frases que os usuários digitam nos [mecanismos de pesquisa](https://backlinko.com/search-engines) para encontrar informações.

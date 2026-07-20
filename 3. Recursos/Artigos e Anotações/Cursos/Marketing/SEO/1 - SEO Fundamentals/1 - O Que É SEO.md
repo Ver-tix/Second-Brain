@@ -1,3 +1,10 @@
+---
+tags:
+  - marketing
+  - operacional
+  - canais
+---
+
 # O Que É SEO?
 Otimização de mecanismos de busca (SEO) é a prática de direcionar tráfego para um site a partir de classificações orgânicas (não pagas) de um mecanismo de busca.
 

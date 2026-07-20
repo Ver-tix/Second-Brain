@@ -40,9 +40,9 @@ That’s because the Featured Snippet often gives someone the direct answer they
 
 ![Google SERP – Como fazer burpees](https://api.backlinko.com/app/uploads/2024/06/google-serp-how-to-do-burpees.png "Google SERP – Como fazer burpees")
 
-So, before you decide on a specific keyword, it’s important to [check the SERP](https://backlinko.com/tools/serp-checker) to see whether the results have a Featured Snippet. If so, [according to an industry study by Ahrefs](https://ahrefs.com/blog/featured-snippets-study/ "Ahrefs industry study"), you’ll get fewer clicks compared to [SERPs](https://backlinko.com/hub/seo/serps "What Are SERPs?") without a Featured Snippet.
+Então, antes de decidir sobre uma palavra-chave específica, é importante [verificar a SERP](https://backlinko.com/tools/serp-checker) para ver se os resultados têm um Trecho em Destaque. Nesse caso, de [acordo com um estudo do setor realizado pela Ahrefs](https://ahrefs.com/blog/featured-snippets-study/ "Estudo da indústria Ahrefs"), você obterá menos cliques em comparação com [SERPs](https://backlinko.com/hub/seo/serps "O que são SERPs?") sem trecho em destaque.
 
-That’s not to say you should automatically toss out a keyword if there’s a Featured Snippet. After all, [Semrush reports](https://www.semrush.com/sensor/ "Semrush Sensor") that 4.77% of all queries have a Featured Snippet.
+Isso não quer dizer que você deva descartar automaticamente uma palavra-chave se houver um trecho em destaque. Afinal, o [Semrush relata](https://www.semrush.com/sensor/ "Sensor Semrush") que 4,77% de todas as consultas têm um Featured Snippet.
 
 ![Semrush Sensor – Featured snippet](https://api.backlinko.com/app/uploads/2024/09/semrush-sensor-featured-snippet.png "Semrush Sensor – Featured snippet")
 
@@ -50,21 +50,25 @@ This means that it’s going to be tough to completely avoid keywords with a Fea
 
 It’s more that, along with competition and monthly search volume, Featured Snippets should factor into your process [for choosing keywords](https://backlinko.com/hub/seo/choosing-keywords "Choosing Keywords").
 
-### Types of Featured Snippets
+Isso significa que será difícil evitar completamente palavras-chave com um trecho em destaque.
 
-There are 4 main types of Featured Snippets that appear most often in Google’s search results.
+É mais que, junto com a concorrência e o volume de pesquisa mensal, os Featured Snippets devem ser levados em consideração no seu processo de [escolha de palavras-chave](https://backlinko.com/hub/seo/choosing-keywords "Escolhendo palavras-chave").
 
-**1. The Definition Box:** This is a snippet of text designed to give searchers a direct, concise definition or description.
+### Tipos de trechos em destaque
 
-For example, when you search for “outreach email”, there’s a definition box at the top of the results.
+Existem 4 tipos principais de Featured Snippets que aparecem com mais frequência nos resultados de pesquisa do Google.
+
+**1. Caixa de definição:** é um trecho de texto criado para dar aos pesquisadores uma definição ou descrição direta e concisa.
+
+Por exemplo, quando você pesquisa por “e-mail de divulgação”, há uma caixa de definição na parte superior dos resultados.
 
 ![Google SERP – Outreach email](https://api.backlinko.com/app/uploads/2024/09/google-serp-outreach-email.png "Google SERP – Outreach email")
 
-Google commonly uses these paragraph snippets to provide a quick answer to “what is” queries. Here’s an example:
+O Google geralmente usa esses trechos de parágrafo para fornecer uma resposta rápida a “o que são” consultas. Eis um exemplo:
 
 ![Google SERP – What is the low carb diet](https://api.backlinko.com/app/uploads/2024/09/google-serp-what-is-the-low-carb-diet.png "Google SERP – What is the low carb diet")
 
-As you can see, the definitions that Google tends to use are short and sweet. In fact, Semrush found that [the average definition Featured Snippet is between 40-60 words long](https://www.semrush.com/blog/large-scale-study-how-to-rank-for-featured-snippets-in-2018/ "The average definition Featured Snippet is between 40-60 words long").
+Como você pode ver, as definições que o Google tende a usar são curtas e agradáveis. Na verdade, Semrush descobriu que [a definição média do Featured Snippet tem entre 40 e 60 palavras](https://www.semrush.com/blog/large-scale-study-how-to-rank-for-featured-snippets-in-2018/ "A definição média do trecho em destaque tem entre 40 e 60 palavras").
 
 ![The average definition featured snippet is 40-60 words](https://api.backlinko.com/app/uploads/2024/09/the-average-definition-featured-snippet-is-40-60-words.png "The average definition featured snippet is 40-60 words")
 
@@ -88,165 +92,161 @@ Por exemplo, nossa lista de ferramentas de [rastreamento de classificação](ht
 
 ![Backlinko – Best rank tracking tools – Table](https://api.backlinko.com/app/uploads/2024/09/backlinko-best-rank-tracking-tools-table.png "Backlinko – Best rank tracking tools – Table")
 
-Which is why Google just presents each tool that we list as a simple list, without any information that ranks them one way or the other.
+É por isso que o Google apenas apresenta cada ferramenta que listamos como uma lista simples, sem nenhuma informação que as classifique de uma forma ou de outra.
 
 ![Google SERP – Unordered list featured snippet](https://api.backlinko.com/app/uploads/2024/09/google-serp-unordered-list-featured-snippet.png "Google SERP – Unordered list featured snippet")
 
-### How to Optimize For Featured Snippets
+### Como otimizar para trechos em destaque
 
-**Find SERPs With a Featured Snippet**
+**Encontre SERPs com um trecho em destaque**
 
-Your first step is to look for a search results page that already has a Featured Snippet.
+Seu primeiro passo é procurar uma página de resultados de pesquisa que já tenha um trecho em destaque.
 
-(In other words, Featured Snippet opportunities.)
+(Em outras palavras, oportunidades de trechos em destaque.)
 
-That way, you KNOW that Google wants to show a Featured Snippet for that term. In fact, they already do!
+Dessa forma, você SABE que o Google quer mostrar um trecho em destaque para esse termo. Na verdade, eles já fazem isso!
 
-Also, you can see what type of Featured Snippet Google wants to show for that term (The Definition, Unordered List, etc.). Which makes optimizing your page for that specific type of Featured Snippet super simple.
+Além disso, você pode ver que tipo de trecho em destaque o Google deseja mostrar para esse termo (definição, lista não ordenada, etc.). O que torna a otimização da sua página para aquele tipo específico de Featured Snippet super simples.
 
-There are two ways to look for SERPs that have a Featured Snippet.
+Existem duas maneiras de procurar SERPs que tenham um trecho em destaque.
 
-First, you can search for a bunch of keywords one-by-one. So if you have a list of potential keywords to target, you can search for each one and jot down whether or not the results for that term have a Featured Snippet.
+Primeiro, você pode pesquisar várias palavras-chave uma por uma. Portanto, se você tiver uma lista de palavras-chave potenciais para segmentar, poderá pesquisar cada uma delas e anotar se os resultados desse termo possuem ou não um trecho em destaque.
 
 ![SEO keyword list](https://api.backlinko.com/app/uploads/2024/09/seo-keyword-list.png "SEO keyword list")
 
-Second, you can use a tool like [Semrush](https://backlinko.com/hub/seo/semrush "Semrush") and [Ahrefs](https://backlinko.com/hub/seo/ahrefs "Ahrefs") to zero-in on keywords with a Featured Snippet.
+Em segundo lugar, você pode usar uma ferramenta como Sem[rush](https://backlinko.com/hub/seo/semrush "Semrush") e [Ahrefs](https://backlinko.com/hub/seo/ahrefs "Ahrefs") para se concentrar em palavras-chave com um trecho em destaque.
 
-For example, when you run an Organic Keywords report on Backlinko using Semrush, you can filter out any keywords that don’t have a Featured Snippet already.
+Por exemplo, ao executar um relatório de Palavras-chave orgânicas no Backlinko usando o Semrush, você pode filtrar quaisquer palavras-chave que ainda não tenham um Trecho em Destaque.
 
 ![Position Tracking – Backlinko – Keywords without featured snippet](https://api.backlinko.com/app/uploads/2024/09/position-tracking-backlinko-keywords-without-featured-snippet.png "Position Tracking – Backlinko – Keywords without featured snippet")
 
-**Optimize For That Specific Featured Snippet**
+**Otimize para aquele trecho específico em destaque**
 
-Next, it’s time to optimize the content on your page so Google chooses to use your content in the Featured Snippet.
+Em seguida, é hora de otimizar o conteúdo da sua página para que o Google opte por usar seu conteúdo no Trecho em Destaque.
 
-Here’s how to optimize your content for the 4 most popular types of Featured Snippets.
+Veja como otimizar seu conteúdo para os 4 tipos mais populares de Featured Snippets.
 
-**The Definition:** You need to provide Google a short (40-60 word) snippet of text that they can directly use in the Featured Snippet. It also helps if you have “What is X” directly above your definition.
+**Definição:** Você precisa fornecer ao Google um pequeno trecho de texto (40-60 palavras) que ele possa usar diretamente no Trecho em Destaque. Também ajuda se você tiver “O que é X” diretamente acima da sua definição.
 
-Here’s an example of this type of setup on one of our pages.
+Aqui está um exemplo desse tipo de configuração em uma de nossas páginas.
 
 ![Backlinko – Nofollow Links post](https://api.backlinko.com/app/uploads/2019/08/backlinko-no-follow-links-post.png "Backlinko – Nofollow Links post")
 
-And because we’re giving Google a word-for-word definition they can use, we got in the Featured Snippet spot within a few months.
+E como estamos dando ao Google uma definição palavra por palavra que eles podem usar, entramos no spot Featured Snippet em poucos meses.
 
 ![Google SERP – Nofollow link](https://api.backlinko.com/app/uploads/2024/07/google-serp-nofollow-link.png "Google SERP – Nofollow link")
 
-[HubSpot](https://www.hubspot.com/ "HubSpot") takes this a step further. They actually design little boxes in their content that look just like a Featured Snippet.
+[A HubSpot](https://www.hubspot.com/ "HubSpot") leva isso um passo adiante. Na verdade, eles criam pequenas caixas em seu conteúdo que se parecem com um trecho em destaque.
 
 ![HubSpot Featured Snippet](https://api.backlinko.com/app/uploads/2019/08/hubspot-featured-snippet.png "HubSpot Featured Snippet")
 
-I don’t think you need to go this far. But it does go to show that formatting is KEY for getting your content in the Featured Snippet. Specifically, the closer your content looks like a Featured Snippet, the more likely it is that Google will use it.
+Acho que você não precisa ir tão longe. Mas isso mostra que a formatação é FUNDAMENTAL para colocar seu conteúdo no Trecho em Destaque. Especificamente, quanto mais próximo seu conteúdo se parecer com um Featured Snippet, maior será a probabilidade de o Google usá-lo.
 
-The only other thing to keep in mind is that you want your definition to be objective. In other words: don’t include an opinion on the topic either way.
+A única outra coisa a ter em mente é que você quer que sua definição seja objetiva. Ou seja: não inclua opinião sobre o tema de qualquer forma.
 
-![](https://api.backlinko.com/app/uploads/2024/06/icon-tip.png)
+> **Lembre-se:** o Google não quer que as opiniões apareçam como definições. Então, mesmo que você tenha um forte sentimento sobre o assunto, faça o possível para escrever a definição sem nenhuma emoção. Na verdade, você deve escrever a definição como uma entrada de dicionário.
 
-> **Remember:** Google doesn’t want opinions showing up as definitions. So, even if you have a strong feeling about the topic, do your best to write the definition without any emotion. In fact, you should write the definition like a dictionary entry.
+Por exemplo, você pode ver que nossa definição para “links nofollow” parece ter sido retirada diretamente do Dicionário Webster.
 
-For example, you can see that our definition for “nofollow links” sounds like it was pulled directly from Webster’s Dictionary.
+**A tabela: Pela** minha própria análise, descobri que o Google tende a obter conteúdo para trechos em destaque da tabela a partir de tabelas.
 
-**The Table:** From my own analysis I’ve found that Google tends to get content for Table Featured Snippets from tables.
+Em outras palavras: eles não estão coletando dados de várias partes da sua página e apresentando-os em forma de tabela. Em vez disso, eles estão essencialmente raspando tabelas que já existem.
 
-In other words: they’re not collecting data from various parts of your page and presenting it in table form. Instead, they’re essentially scraping tables that already exist.
-
-For example, check out this table Featured Snippet.
+Por exemplo, confira esta tabela Trecho em destaque.
 
 ![Google SERP – Top grossing comedy movies](https://api.backlinko.com/app/uploads/2024/09/google-serp-top-grossing-comedy-movies.png "Google SERP – Top grossing comedy movies")
 
-Well, when you look at the source of that content, you can see that it’s literally the exact same table.
+Bem, quando você olha para a fonte desse conteúdo, você pode ver que é literalmente exatamente a mesma tabela.
 
 ![Wikipedia – Highest-grossing comedy films](https://api.backlinko.com/app/uploads/2024/09/wikipedia-highest-grossing-comedy-films.png "Wikipedia – Highest-grossing comedy films")
 
-As another example, at one point, we compared the top 4 [backlink checker](https://backlinko.com/tools/backlink-checker) tools.
+Como outro exemplo, em determinado momento, comparamos as 4 principais ferramentas de verificação de backlinks.
 
 ![Backlinko – Best Backlink Checker](https://api.backlinko.com/app/uploads/2020/06/backlinko-best-backlink-checker.png "Backlinko – Best Backlink Checker")
 
-And one of the ways that we optimized for the Featured Snippet was to present a lot of the data in the form of tables.
+E uma das maneiras que otimizamos para o Featured Snippet foi apresentar muitos dados na forma de tabelas.
 
 ![Backlinko – Backlink Checker Data](https://api.backlinko.com/app/uploads/2020/06/backlinko-backlink-checker-data.png "Backlinko – Backlink Checker Data")
 
-How you code these tables depends on how your site is set up (and whether or not you use WordPress). But in general, as long as your HTML uses [the <tr> tag](https://www.w3schools.com/tags/tag_tr.asp "The TR tag") to present the data in a table, Google should have an easy time “reading” your table.
+A maneira como você codifica essas tabelas depende de como seu site está configurado (e se você usa ou não o WordPress). Mas, em geral, desde que seu HTML use [a tag `<tr>`](https://www.w3schools.com/tags/tag_tr.asp "A etiqueta TR") para apresentar os dados em uma tabela, o Google deve ter facilidade “em ler” sua tabela.
 
-**The Ordered List:** The key here is to lay out your page so that the specific steps or lists of items are presented in a way that Google can easily understand.
+**Lista ordenada:** o segredo aqui é criar uma página para que as etapas ou listas específicas de itens sejam apresentadas de uma forma que o Google possa entender facilmente.
 
-Specifically, you want to wrap every item or step in H2 or H3 text. And present each item as a subheader.
+Especificamente, você deseja envolver cada item ou etapa no texto H2 ou H3. E apresente cada item como um subtítulo.
 
-![Use headings for section titles](https://api.backlinko.com/app/uploads/2019/08/use-headings-for-section-titles.png "Use headings for section titles")
+![[Pasted image 20260720101533.png]]
 
-To make the order of your items or steps crystal clear to Google, you can even include text like “Step #1” or “1.” in each subheading. Here’s an example:
+Para deixar a ordem dos seus itens ou etapas bem clara para o Google, você pode até incluir texto como “Etapa 1” ou “1.” em cada subtítulo.
 
-![SEO site audit post – Table of content](https://api.backlinko.com/app/uploads/2021/08/tools/seo-checker-post-table-of-content.png "SEO site audit post – Table of content")
+O mais importante a ter em mente é que a consistência é fundamental. Então, se você apresentar o passo #1 como “Passo #1: Faça X”, não dê seu segundo passo: “Passo 2: Faça Y”.
 
-The most important thing to keep in mind is that consistency is key. So if you present step #1 as “Step #1: Do X”, don’t make your second step: “Step 2: Do Y”.
+Em vez disso, apresente seus passos assim:
 
-Instead, present your steps like this:
+Etapa 1, Etapa 2, Etapa 3…
 
-Step #1, Step #2, Step #3…
-
-Or like this:
+Ou assim:
 
 1., 2., 3…
 
-I personally prefer “Step #1” over “1.” because it’s easier for users to follow along. But Google can understand both.
+Eu pessoalmente prefiro “Passo #1” em vez de “1.” porque é mais fácil para os usuários acompanharem. Mas o Google consegue entender ambos.
 
-For example, [this post lays out a 9-step SEO strategy](https://backlinko.com/seo-strategy "SEO Strategy: How to Create an Effective Plan").
+Por exemplo, [esta postagem apresenta uma estratégia de SEO em 9 etapas](https://backlinko.com/seo-strategy "Estratégia de SEO: Como criar um plano eficaz").
 
-![Backlinko – SEO Strategy](https://api.backlinko.com/app/uploads/2024/06/backlinko-seo-strategy-2024.png "Backlinko – SEO Strategy")
+![Backlinko – Estratégia de SEO](https://api.backlinko.com/app/uploads/2024/06/backlinko-seo-strategy-2024.png "Backlinko – Estratégia de SEO")
 
-Each step in the process uses the exact same format (“Step #1”, “Step #2”, etc.).
+Cada etapa do processo usa exatamente o mesmo formato (“Etapa no 1”, “Etapa no 2”, etc.).
 
-![SEO strategy – Steps](https://api.backlinko.com/app/uploads/2024/09/seo-strategy-steps.png "SEO strategy – Steps")
+![Estratégia de SEO – Etapas](https://api.backlinko.com/app/uploads/2024/09/seo-strategy-steps.png "Estratégia de SEO – Etapas")
 
-We also wrap each step in an H2 tag.
+Também envolvemos cada etapa em uma etiqueta H2.
 
-**Optimize Your Page Around Several Different Long Tail Terms**
+**Otimize sua página em torno de vários termos diferentes de cauda longa**
 
-Ahrefs discovered that the vast majority of Featured Snippets show up when people search for [long-tail keywords](https://backlinko.com/long-tail-keywords "Long tail keywords").
+Ahrefs descobriu que a grande maioria dos Featured Snippets aparece quando as pessoas pesquisam palavras[-chave de cauda longa](https://backlinko.com/long-tail-keywords "Palavras-chave de cauda longa").
 
-![Most featured snippets come from long tail searches](https://api.backlinko.com/app/uploads/2024/09/most-featured-snippets-come-from-long-tail-searches.png "Most featured snippets come from long tail searches")
+![Os trechos mais apresentados vêm de pesquisas de cauda longa](https://api.backlinko.com/app/uploads/2024/09/most-featured-snippets-come-from-long-tail-searches.png "Os trechos mais apresentados vêm de pesquisas de cauda longa")
 
-(Long tail keywords=terms that people use in search engines that are super long and super specific.)
+(Palavras-chave de cauda longa=termos que as pessoas usam em mecanismos de busca que são super longos e superespecíficos.)
 
-Queries that people use for [voice search](https://backlinko.com/optimize-for-voice-search "Voice search") are perfect examples of this type of search.
+Consultas que as pessoas usam para pesquisa por [voz](https://backlinko.com/optimize-for-voice-search "Pesquisa por voz") são exemplos perfeitos desse tipo de pesquisa.
 
-Here’s an example of a traditional search.
+Aqui está um exemplo de uma pesquisa tradicional.
 
-![Traditional search example](https://api.backlinko.com/app/uploads/2019/08/traditional-search-example.png "Traditional search example")
+![Exemplo de pesquisa tradicional](https://api.backlinko.com/app/uploads/2019/08/traditional-search-example.png "Exemplo de pesquisa tradicional")
 
-And here’s a conversational, long tail version of that same search query.
+E aqui está uma versão conversacional e de cauda longa dessa mesma consulta de pesquisa.
 
-![Conversational search example](https://api.backlinko.com/app/uploads/2019/08/conversational-search-example.png "Conversational search example")
+![Exemplo de pesquisa conversacional](https://api.backlinko.com/app/uploads/2019/08/conversational-search-example.png "Exemplo de pesquisa conversacional")
 
-The takeaway here is that you don’t just want to optimize your content for Featured Snippet keywords that lots of people search for ([like “what is SEO”](https://backlinko.com/hub/seo/what-is-seo "\"What is SEO\"")).
+A conclusão aqui é que você não quer apenas otimizar seu conteúdo para palavras-chave Featured Snippet que muitas pessoas pesquisam ([como “o que é SEO”](https://backlinko.com/hub/seo/what-is-seo "\"O que é SEO\"")).
 
-You ALSO want to optimize for Featured Snippets that show up when people search for variations and long tail versions of those terms.
+Você TAMBÉM deseja otimizar os trechos em destaque que aparecem quando as pessoas pesquisam variações e versões de cauda longa desses termos.
 
-For example, you can see that we added sections to this page that are designed to rank for a bunch of different long tail Featured Snippets.
+Por exemplo, você pode ver que adicionamos seções a esta página que foram projetadas para classificar vários trechos em destaque de cauda longa diferentes.
 
-![Long tail keywords for Featured Snippets](https://api.backlinko.com/app/uploads/2019/08/long-tail-keywords-for-featured-snippets.png "Long tail keywords for Featured Snippets")
+![Palavras-chave de cauda longa para trechos em destaque](https://api.backlinko.com/app/uploads/2019/08/long-tail-keywords-for-featured-snippets.png "Palavras-chave de cauda longa para trechos em destaque")
 
-It’s almost like a mini FAQ page.
+É quase como uma mini página de perguntas frequentes.
 
-So: how do you know what long tail keywords to target?
+Então: como você sabe quais palavras-chave de cauda longa segmentar?
 
-I recommend checking out the “[People Also Ask](https://backlinko.com/tools/people-also-ask) boxes” in the SERPs.
+Recomendo conferir as caixas “[As pessoas também perguntam](https://backlinko.com/tools/people-also-ask)” nas SERPs.
 
-![Google SERP – Life insurance – People also ask](https://api.backlinko.com/app/uploads/2024/06/google-serp-life-insurance-people-also-ask.png "Google SERP – Life insurance – People also ask")
+![Google SERP – Seguro de vida – As pessoas também perguntam](https://api.backlinko.com/app/uploads/2024/06/google-serp-life-insurance-people-also-ask.png "Google SERP – Seguro de vida – As pessoas também perguntam")
 
-These are related questions that Google considers closely related to the keyword you just searched for.
+Essas são perguntas relacionadas que o Google considera intimamente relacionadas à palavra-chave que você acabou de pesquisar.
 
-For example, one keyword that we’re in the Featured Snippet spot for is “search intent”.
+Por exemplo, uma palavra-chave para a qual estamos no spot Featured Snippet é “intenção de pesquisa”.
 
-![Google SERP – Search intent](https://api.backlinko.com/app/uploads/2024/09/google-serp-search-intent.png "Google SERP – Search intent")
+![Google SERP – Intenção de pesquisa](https://api.backlinko.com/app/uploads/2024/09/google-serp-search-intent.png "Google SERP – Intenção de pesquisa")
 
 E essa classificação é um resultado direto da otimização do nosso conteúdo para o trecho de definição.
 
-![Backlinko – Hub – Search intent](https://api.backlinko.com/app/uploads/2024/09/backlinko-hub-search-intent.png "Backlinko – Hub – Search intent")
+![Backlinko – Hub – Intenção de pesquisa](https://api.backlinko.com/app/uploads/2024/09/backlinko-hub-search-intent.png "Backlinko – Hub – Intenção de pesquisa")
 
 Dito isto: existem muitas consultas de cauda longa que poderíamos responder na mesma página. Consultas que o Google nos mostra diretamente nos resultados da pesquisa.
 
-![People also ask – Search intent](https://api.backlinko.com/app/uploads/2024/09/people-also-ask-search-intent.png "People also ask – Search intent")
+![As pessoas também perguntam – Intenção de pesquisa](https://api.backlinko.com/app/uploads/2024/09/people-also-ask-search-intent.png "As pessoas também perguntam – Intenção de pesquisa")
 
 Falando em escala…
 
@@ -258,11 +258,11 @@ A chave para ampliar isso é adicionar muitas definições, listas ordenadas e o
 
 Por exemplo, você pode ver que o HubSpot tem uma definição “principal” no topo da maioria de suas páginas.
 
-![HubSpot – Main definition example](https://api.backlinko.com/app/uploads/2019/08/hubspot-main-definition-example.png "HubSpot – Main definition example")
+![HubSpot – Exemplo de definição principal](https://api.backlinko.com/app/uploads/2019/08/hubspot-main-definition-example.png "HubSpot – Exemplo de definição principal")
 
 Mas eles também colocam várias perguntas e respostas em uma única página.
 
-![HubSpot – Several questions and answers on single page](https://api.backlinko.com/app/uploads/2019/08/hubspot-several-questions-and-answers-on-single-page.png "HubSpot – Several questions and answers on single page")
+![HubSpot – Várias perguntas e respostas em uma única página](https://api.backlinko.com/app/uploads/2019/08/hubspot-several-questions-and-answers-on-single-page.png "HubSpot – Várias perguntas e respostas em uma única página")
 
 **Melhore suas classificações do Google**
 
@@ -270,7 +270,7 @@ Uma coisa é otimizar seu conteúdo para Featured Snippets. Mas a verdade é: se
 
 Na verdade, de acordo com o estudo Ahrefs que mencionei anteriormente, 99% de todos os trechos em destaque são de páginas **que já estão classificadas na página 1**.
 
-![Almost 100% of featured snippets use content from the top 10 results](https://api.backlinko.com/app/uploads/2024/09/almost-100-percent-of-featured-snippets-use-content-from-the-top-10-results.png "Almost 100% of featured snippets use content from the top 10 results")
+![Quase 100% dos trechos em destaque usam conteúdo dos 10 principais resultados](https://api.backlinko.com/app/uploads/2024/09/almost-100-percent-of-featured-snippets-use-content-from-the-top-10-results.png "Quase 100% dos trechos em destaque usam conteúdo dos 10 principais resultados")
 
 Isso faz sentido se você pensar bem: a primeira página é uma lista dos melhores e mais confiáveis conteúdos do Google sobre esse assunto. Então eles não vão extrair informações de um site na página 11… mesmo que ele esteja formatado perfeitamente.
 
@@ -278,12 +278,12 @@ Então, além de formatar seu conteúdo da maneira correta, você também precis
 
 Por exemplo, esta página do nosso site é classificada “#0” como um trecho em destaque.
 
-![Google SERP – How to get more subscribers on YouTube](https://api.backlinko.com/app/uploads/2024/06/google-serp-how-to-get-more-subscribers-on-youtube.png "Google SERP – How to get more subscribers on YouTube")
+![Google SERP – Como conseguir mais inscritos no YouTube](https://api.backlinko.com/app/uploads/2024/06/google-serp-how-to-get-more-subscribers-on-youtube.png "Google SERP – Como conseguir mais inscritos no YouTube")
 
 E só fomos apresentados lá **depois** que deciframos a primeira página do Google naquele semestre.
 
 Saiba mais
 
-[Como otimizar para a caixa de trechos em destaque do Google](https://www.youtube.com/watch?v=4rbrouufDP0 "How to Optimize for Google's Featured Snippet Box"): Este vídeo mostra como aumentar as chances de você se classificar na seção Trechos em destaque do Google.
+[Como otimizar para a caixa de trechos em destaque do Google](https://www.youtube.com/watch?v=4rbrouufDP0 "Como otimizar para a caixa de trechos em destaque do Google"): Este vídeo mostra como aumentar as chances de você se classificar na seção Trechos em destaque do Google.
 
-[Como ser destaque no Google](https://www.youtube.com/watch?v=9MVhnoRnFoE "How To Be Featured On Top Of Google"): um tutorial otimista e detalhado sobre a otimização do Google Featured Snippet.
+[Como ser destaque no Google](https://www.youtube.com/watch?v=9MVhnoRnFoE "Como ser destaque no Google"): um tutorial otimista e detalhado sobre a otimização do Google Featured Snippet.
