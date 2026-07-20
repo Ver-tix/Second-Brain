@@ -686,13 +686,13 @@ It’ll show you whether your brand has favorable overall sentiment in these too
 
 ![Perception – Backlinko – Overal Sentiment & Key Sentiment Drivers](https://api.backlinko.com/app/uploads/2025/12/perception-backlinko-overal-sentiment-and-key-sentiment-drivers.png "Perception – Backlinko – Overal Sentiment & Key Sentiment Drivers")
 
-You’ll also get recommendations on where you could improve your sentiment.
+Você também receberá recomendações sobre onde pode melhorar seu sentimento.
 
-These improvements can shape how AI tools represent your business to users. And over time, better brand sentiment means better chances of earning clicks and conversions from these platforms.
+Essas melhorias podem moldar a forma como as ferramentas de IA representam sua empresa para os usuários. E com o tempo, um melhor sentimento da marca significa maiores chances de ganhar cliques e conversões nessas plataformas.
 
-### Questions
+### Perguntas
 
-Finally, the Questions tab shows you examples of questions real users are asking about your industry.
+Por fim, a aba Perguntas mostra exemplos de perguntas que usuários reais estão fazendo sobre seu setor.
 
 ![Questions – Backlinko – Query Topics](https://api.backlinko.com/app/uploads/2025/10/questions-backlinko-query-topics.png "Questions – Backlinko – Query Topics")
 
@@ -722,19 +722,19 @@ And you’ll then get access to useful insights about your profile:
 
 ![Local GBP Optimization – GBP Insights](https://api.backlinko.com/app/uploads/2024/09/local-gbp-optimization-gbp-insights.png "Local GBP Optimization – GBP Insights")
 
-But the next tool is where Semrush’s local SEO toolkit really comes in handy.
+Mas a próxima ferramenta é onde o kit de ferramentas de SEO local da Semrush realmente é útil.
 
-### Listing Management
+### Gerenciamento de Listagens
 
-Listing Management helps establish and maintain your local listings.
+O gerenciamento de listagens ajuda a estabelecer e manter suas listagens locais.
 
-If you’re yet to submit your business data to directories, Listing Management can do it for you.
+Se você ainda não enviou os dados da sua empresa para diretórios, o Listing Management pode fazer isso por você.
 
 ![Semrush – Gerenciamento de Listagens](https://api.backlinko.com/app/uploads/2024/05/semrush-listing-management.png "Semrush – Gerenciamento de Listagens")
 
-Through Listing Management, you can register your business with over 70 directories in the US and 40+ international ones. This includes major platforms like Amazon Alexa, Google, Bing, and Apple.
+Por meio do Listing Management, você pode registrar sua empresa em mais de 70 diretórios nos EUA e 40+ internacionais. Isso inclui grandes plataformas como Amazon Alexa, Google, Bing e Apple.
 
-By editing your business data in one place, you avoid discrepancies in NAP data (Name, Address, and Phone number) that are common when submitting data to multiple directories.
+Ao editar os dados da sua empresa em um só lugar, você evita discrepâncias nos dados do NAP (nome, endereço e número de telefone) que são comuns ao enviar dados para vários diretórios.
 
 Ele também facilita a atualização e a edição de suas listagens à medida que sua empresa cresce e se expande para novos locais, agilizando seus esforços locais de SEO.
 
@@ -792,8 +792,6 @@ Depois, você pode ler e responder a todas as avaliações—sem sair da ferrame
 
 ![Gerenciamento de avaliações – Avaliações](https://api.backlinko.com/app/uploads/2024/06/review-management-reviews.png "Gerenciamento de avaliações – Avaliações")
 
-![](https://api.backlinko.com/app/uploads/2024/06/icon-further-reading.png)
-
 > **Leitura adicional:** [SEO local: o guia definitivo (+ kit de ferramentas gratuito)](https://backlinko.com/local-seo-guide "SEO local: o guia definitivo (+ kit de ferramentas gratuito)")
 
 ## Publicidade PPC
@@ -804,7 +802,7 @@ Vamos dar uma olhada mais de perto nas principais ferramentas de anúncios pagos
 
 ### Assistente de lançamento de anúncios
 
-O Ad[s Launch Assistant](https://www.semrush.com/apps/ads-launch-assistant/?utm_campaign=semrush&utm_source=backlinko.com&utm_medium=referral "Assistente de lançamento de anúncios") é uma ferramenta que pode ajudar você a aproveitar melhor suas campanhas do Google Ads.
+O [Ads Launch Assistant](https://www.semrush.com/apps/ads-launch-assistant/?utm_campaign=semrush&utm_source=backlinko.com&utm_medium=referral "Assistente de lançamento de anúncios") é uma ferramenta que pode ajudar você a aproveitar melhor suas campanhas do Google Ads.
 
 Ele fornecerá sugestões de palavras-chave com base em seu URL, idioma e localização:
 
@@ -844,29 +842,29 @@ Você também pode obter uma estimativa de **quanto sua concorrência gasta** 
 
 Você pode até ter uma ideia de como esses hábitos de licitação mudam ao longo do ano, usando a seção Histórico de **anúncios**.
 
-This could help you time your own campaign to take advantage of months when the competition promotes their product less.
+Isso pode ajudar você a programar sua própria campanha para aproveitar os meses em que a concorrência promove menos seus produtos.
 
 ![Pesquisa de Publicidade – Histórico de Anúncios](https://api.backlinko.com/app/uploads/2024/09/advertising-research-ads-history.png "Pesquisa de Publicidade – Histórico de Anúncios")
 
-Combine that with the **Position Changes** report, which shows you how the domain’s ad positions have improved or declined over time.
+Combine isso com o relatório Mudanças de Posição, que mostra como as posições dos anúncios do domínio melhoraram ou diminuíram ao longo do tempo.
 
 ![Pesquisa Publicitária – Mudanças de Posição](https://api.backlinko.com/app/uploads/2024/09/advertising-research-position-changes.png "Pesquisa Publicitária – Mudanças de Posição")
 
-In the **Competitors** tab, you’ll find the Competitive Positioning Map.
+Na aba **Concorrentes**, você encontrará o Mapa de Posicionamento Competitivo.
 
-This captures the spending habits of all the leading sites in your niche, which gives you a clear idea of how to budget your own PPC campaigns.
+Isso captura os hábitos de consumo de todos os principais sites do seu nicho, o que lhe dá uma ideia clara de como orçar suas próprias campanhas de PPC.
 
 ![Pesquisa Publicitária – Mapa de Posicionamento Competitivo](https://api.backlinko.com/app/uploads/2024/02/advertising-research-competitive-positioning-map.png "Pesquisa Publicitária – Mapa de Posicionamento Competitivo")
 
-On the **Ads Copies** tab, you can review the [competitor’s ads](https://backlinko.com/tools/competitor-search-ads) that are currently live.
+Na guia Cópias de anúncios, você pode revisar os [anúncios do concorrente](https://backlinko.com/tools/competitor-search-ads) que estão ativos no momento.
 
 ![Nike – Cópias de anúncios](https://api.backlinko.com/app/uploads/2024/05/nike-ads-copies.png "Nike – Cópias de anúncios")
 
-With this data, you can learn how to word and structure your own PPC campaigns.
+Com esses dados, você pode aprender a formular e estruturar suas próprias campanhas de PPC.
 
-### Ads History
+### Histórico de anúncios
 
-Ads History allows you to review your competitors’ advertising campaigns based on a specific keyword.
+O Histórico de Anúncios permite que você analise suas campanhas publicitárias de concorrentes’ com base em uma palavra-chave específica.
 
 Depois de inserir a palavra-chave que servirá de base para sua campanha publicitária, você poderá visualizar outros domínios que usaram essa palavra-chave em seus próprios anúncios.
 
@@ -942,29 +940,29 @@ Social Poster ensures you never miss a beat with its scheduling calendar, which 
 
 ![Cartaz de mídia social](https://api.backlinko.com/app/uploads/2024/05/social-media-poster.png "Cartaz de mídia social")
 
-Once posted, you can monitor individual post performance using Social Poster’s analytical data.
+Depois de publicado, você pode monitorar o desempenho de cada postagem usando os dados analíticos do Social Poster.
 
-You can do this for accounts including:
+Você pode fazer isso para contas como:
 
 - Instagram
 - Facebook
 - TikTok
 - LinkedIn
 - X (Twitter)
-- Google Business Profile
+- Perfil de negócios do Google
 - Pinterest
 
-You can use the Social Poster to deliver posts at specified times to catch your target audience (more on that shortly).
+Você pode usar o Social Poster para entregar postagens em horários específicos para atingir seu público-alvo (mais sobre isso em breve).
 
-### Social Tracker
+### Rastreador Social
 
-Social Tracker is Semrush’s social media [competitor analysis tool](https://backlinko.com/competitor-analysis-tools). It also works well as a performance indicator, mapping the success of your social media posts and engagement levels.
+O Social Tracker é a ferramenta de análise de concorrentes de mídia social da Semrush. Ele também funciona bem como um indicador de desempenho, mapeando o sucesso de suas postagens nas redes sociais e os níveis de engajamento.
 
 ![Rastreador de mídia social](https://api.backlinko.com/app/uploads/2024/05/social-media-tracker.png "Rastreador de mídia social")
 
-The main aim of the Social Tracker is to identify what’s working for your social media channels – and where you need to improve.
+O principal objetivo do Social Tracker é identificar o que está funcionando para seus canais de mídia social – e onde você precisa melhorar.
 
-Social Tracker is compatible with:
+O Social Tracker é compatível com:
 
 - Facebook
 - X (Twitter)
@@ -973,25 +971,25 @@ Social Tracker is compatible with:
 - LinkedIn
 - Pinterest
 
-Social Tracker shows you what, when, and how often your competitors are posting. So you can understand what’s working for them and use that to guide your own strategy.
+O Social Tracker mostra o que, quando e com que frequência seus concorrentes estão postando. Então você pode entender o que está funcionando para eles e usar isso para orientar sua própria estratégia.
 
 ![Rastreador Social – Concorrentes](https://api.backlinko.com/app/uploads/2024/09/social-tracker-competitors.png "Rastreador Social – Concorrentes")
 
-Social Tracker shows you what, when, and how often your competitors are posting. So you can understand what’s working for them and use that to guide your own strategy.
+O Social Tracker mostra o que, quando e com que frequência seus concorrentes estão postando. Então você pode entender o que está funcionando para eles e usar isso para orientar sua própria estratégia.
 
-### Social Content Insights
+### Insights de conteúdo social
 
-Semrush’s Social Content Insights tool makes it simple and digestible to monitor and analyze social media content.
+A ferramenta Social Content Insights da Semrush torna simples e digerível monitorar e analisar conteúdo de mídia social.
 
-Helping you keep track of key engagement metrics across multiple platforms, including Facebook, Instagram, X (Twitter), and LinkedIn.
+Ajudando você a monitorar as principais métricas de engajamento em diversas plataformas, incluindo Facebook, Instagram, X (Twitter) e LinkedIn.
 
 ![Conteúdo Social – Insights](https://api.backlinko.com/app/uploads/2024/09/social-content-insights.png "Conteúdo Social – Insights")
 
-The tool lets you tag individual posts too. So you can monitor different parts of your social presence with greater ease and accuracy.
+A ferramenta também permite marcar postagens individuais. Assim, você pode monitorar diferentes partes da sua presença social com maior facilidade e precisão.
 
-For example, you could tag all of your recipe posts across multiple platforms to understand how that content resonates with your audience compared to your cookware guides.
+Por exemplo, você pode marcar todas as suas postagens de receitas em diversas plataformas para entender como esse conteúdo repercute no seu público em comparação aos seus guias de utensílios de cozinha.
 
-By easily monitoring the posts’ performance over time and analyzing various engagement metrics.
+Monitorando facilmente o desempenho das postagens’ ao longo do tempo e analisando diversas métricas de engajamento.
 
 ![Conteúdo Social – Insights – Monitoramento](https://api.backlinko.com/app/uploads/2024/09/social-content-insights-monitoring.png "Conteúdo Social – Insights – Monitoramento")
 
@@ -1067,28 +1065,28 @@ Vejamos mais de perto as ferramentas oferecidas:
 
 ### Localizador de tópicos
 
-The Topic Finder tool finds content ideas for you, complete with data about the number of keywords for that topic, the total search volume, and how difficult it would be to rank for.
+A ferramenta Localizador de Tópicos encontra ideias de conteúdo para você, completas com dados sobre o número de palavras-chave para esse tópico, o volume total de pesquisa e quão difícil seria a classificação.
 
 ![Semrush – Localizador de tópicos – Marketing de conteúdo](https://api.backlinko.com/app/uploads/2025/07/semrush-topic-finder-content-marketing.png "Semrush – Localizador de tópicos – Marketing de conteúdo")
 
-Once you find a topic that’s relevant to your site, click the “**Start writing**” button to send it to the next stage.
+Depois de encontrar um tópico relevante para o seu site, clique no botão “Come**çar a escrever**” para enviá-lo para a próxima etapa.
 
-### SEO Brief Generator
+### Gerador de resumos de SEO
 
-The SEO Brief Generator can create a full content brief based on the topic you chose in the Topic Finder, or for a completely new seed keyword.
+O SEO Brief Generator pode criar um resumo de conteúdo completo com base no tópico que você escolheu no Topic Finder ou para uma palavra-chave inicial completamente nova.
 
 ![Localizador de tópicos – Resumo de conteúdo de SEO – Concluído](https://api.backlinko.com/app/uploads/2025/10/topic-finder-seo-content-brief-finished.png "Localizador de tópicos – Resumo de conteúdo de SEO – Concluído")
 
-It’ll automatically add:
+Ele adicionará automaticamente:
 
-- Competitor articles to analyze
-- Secondary keywords to target
-- A structure to follow
-- Meta data to add to the post
+- Artigos concorrentes a analisar
+- Palavras-chave secundárias a serem segmentadas
+- Uma estrutura a seguir
+- Metadados para adicionar à postagem
 
-You can edit the brief right within the tool, which is super handy. Then, when you’re done, you can send it to the AI Article Generator to start the writing process.
+Você pode editar o briefing diretamente na ferramenta, o que é muito útil. Então, quando terminar, você pode enviá-lo para o Gerador de Artigos de IA para iniciar o processo de escrita.
 
-### AI Article Generator
+### Gerador de artigos de IA
 
 O AI Article Generator pode pegar seu resumo de conteúdo ou começar do zero para gerar um primeiro rascunho para seu artigo.
 
@@ -1138,33 +1136,31 @@ Você pode ver um mapa das principais fontes que direcionam tráfego para seu si
 
 ![Traffic Journey – To Backlinko](https://api.backlinko.com/app/uploads/2025/12/traffic-journey-to-backlinko.png "Traffic Journey – To Backlinko")
 
-…and the top destinations people go to after visiting your site:
+…e os principais destinos que as pessoas visitam depois de visitar seu site:
 
 ![Traffic Journey – After Backlinko](https://api.backlinko.com/app/uploads/2025/12/traffic-journey-after-backlinko.png "Traffic Journey – After Backlinko")
 
-This makes it a great way to reverse engineer what’s already working for your competitors. And use these insights to improve your own digital marketing strategy by identifying new (potentially profitable) marketing channels to explore.
+Isso faz com que seja uma ótima maneira de fazer engenharia reversa do que já está funcionando para seus concorrentes. E use esses insights para melhorar sua própria estratégia de marketing digital, identificando novos canais de marketing (potencialmente lucrativos) para explorar.
 
-### Traffic Distribution
+### Distribuição de Tráfego
 
-Outside of Traffic Analytics, you can also drill down into your or your competitor’s traffic distribution.
+Além do Traffic Analytics, você também pode detalhar sua distribuição de tráfego ou a do seu concorrente.
 
-For example, you can see a breakdown of their AI traffic:
+Por exemplo, você pode ver um detalhamento do tráfego de IA:
 
 ![Semrush – AI Traffic – Backlinko – Distribution & Trend](https://api.backlinko.com/app/uploads/2025/12/semrush-ai-traffic-backlinko-distribution-and-trend.png "Semrush – AI Traffic – Backlinko – Distribution & Trend")
 
-You can see similar trend data for:
+Você pode ver dados de tendências semelhantes para:
 
-- Referral
-- Organic search
-- Paid search
-- Organic social
-- Paid social
-- Email
-- Display ads
+- Referência
+- Pesquisa orgânica
+- Pesquisa paga
+- Orgânico social
+- Social pago
+- E-mail
+- Exibir anúncios
 
-![](https://api.backlinko.com/app/uploads/2024/06/icon-note.png)
-
-> **Note:** There’s a whole lot more you can do with the Traffic & Market Toolkit, from analyzing top pages and subfolders, to identifying regional trends.
+> **Observação:** há muito mais que você pode fazer com o Traffic & Market Toolkit, desde analisar as principais páginas e subpastas até identificar tendências regionais.
 
 ### Audience Profile
 
@@ -1189,8 +1185,6 @@ Para facilitar, as estatísticas são divididas em quatro abas:
 ![Traffic & Market – Behavior – Backlinko](https://api.backlinko.com/app/uploads/2025/12/traffic-and-market-behavior-backlinko.png "Traffic & Market – Behavior – Backlinko")
 
 Ao cruzar essas quatro categorias, você pode determinar o público que realmente lhe trará mais negócios. Você pode então formar suas estratégias de marketing digital em torno desses dados.
-
-![](https://api.backlinko.com/app/uploads/2024/06/icon-further-reading.png)
 
 > **Leitura adicional:** [Pesquisa de público: pare de adivinhar o que seus compradores se importam](https://backlinko.com/audience-research "Audience Research: Stop Guessing What Your Buyers Care About")
 
@@ -1292,8 +1286,6 @@ Você também pode editar os modelos para incluir widgets relevantes, que podem 
 
 Como alternativa, o My Reports também permite que você gere relatórios totalmente do zero. Mas você ainda pode usar os recursos de arrastar e soltar para criar seus próprios relatórios personalizados.
 
-![](https://api.backlinko.com/app/uploads/2024/06/icon-further-reading.png)
-
 > **Leitura adicional:** [Como criar um relatório de SEO que ganhe confiança (e orçamentos)](https://backlinko.com/seo-report "How to Create an SEO Report That Wins Trust (and budgets)")
 
 ## O Centro de Aplicativos Semrush
@@ -1384,8 +1376,6 @@ Aqui está um detalhamento dos preços dos outros kits de ferramentas da Semrush
 - **Publicidade:** US$ 99/mês (Base) ou US$ 220/mês (Pro)
 
 (Você também pode ter que pagar mais por determinados complementos para os diferentes kits de ferramentas.)
-
-![](https://api.backlinko.com/app/uploads/2024/06/icon-note.png)
 
 > **Nota:** Antes de selecionar um plano de preços premium, você pode experimentar recursos básicos com uma [conta Semrush gratuita](https://backlinko.com/free-semrush-account "7 poderosos recursos de conta gratuita do Semrush (nós testamos)"). O plano gratuito permite que os usuários executem tarefas como pesquisa limitada de palavras-chave e uma auditoria de site de 100 páginas.
 
