@@ -43,7 +43,7 @@ O que a tecnologia da Inflection faz é agregar e organizar bilhões de dados de
 
 O [Archives.com](http://archives.com/) usou o Ad Words para atrair trafego para as landing pages antes de investir pesado para criar um produto. Cada landing page foi projetada para testar o interesse por determinada abordagem. Por exemplo, uma delas vendia "acesso a dados públicos do censo"; outra oferecia "acesso à árvore genealógica da família" do interessado. Ao medir a CTR de cada anúncio e a conversão nas respectivas landing pages, foi possível descobrir que recursos do produto eram mais interessantes para potenciais clientes e quanto essas pessoas aceitariam pagar por isso. Nas palavras de Matthew:
 
-> A ideia era conseguir o máximo de informação gastando o mínimo possível. O que fizemos foi testar segmentos de palavras-chave distintos, hipóteses diferentes. Uma das primeiras que testamos, por exem-plo, foi se a pessoa queria criar uma árvore genealógica para encontrar o maior número possível de antepassados. Aqui, nossas dúvidas eram: "Devemos criar um produto capaz de revelar centenas e centenas de antepassados ou algo que permita à pessoa retroceder o máximo possível e traçar uma árvore genealógica até o século XIII, por exemplo? Ou será que as pessoas estão mais interessadas em descobrir se têm parentesco com uma celebridade ou com um personagem histórico, e então devemos nos concentrar mais nessas árvores genealógicas e nessas linhagens?"
+> A ideia era conseguir o máximo de informação gastando o mínimo possível. O que fizemos foi testar segmentos de palavras-chave distintos, hipóteses diferentes. Uma das primeiras que testamos, por exemplo, foi se a pessoa queria criar uma árvore genealógica para encontrar o maior número possível de antepassados. Aqui, nossas dúvidas eram: "Devemos criar um produto capaz de revelar centenas e centenas de antepassados ou algo que permita à pessoa retroceder o máximo possível e traçar uma árvore genealógica até o século XIII, por exemplo? Ou será que as pessoas estão mais interessadas em descobrir se têm parentesco com uma celebridade ou com um personagem histórico, e então devemos nos concentrar mais nessas árvores genealógicas e nessas linhagens?"
 
 Tal abordagem mostra a vantagem de buscar tração e desenvolver o produto paralelamente. Esses testes deram ao site uma ideia clara daquilo que o público queria. Quando finalmente criaram o produto, o resultado foi algo que eles sabiam — e não só achavam — que o mercado queria.
 
@@ -53,11 +53,11 @@ Em poucas semanas, a campanha inicial de SEM do [Archives.com](http://archives.c
 
 No processo básico de SEM, a empresa define palavras-chave de alto potencial, reúne todas em grupos de anúncios e, em seguida, testa diferentes textos e landing pages para cada um desses grupos. A medida que os dados vão chegando, a empresa descarta anúncios e landing pages que não deram resultado e faz ajustes nos que exibiram melhor desempenho para continuar melhorando os resultados.
 
-O Google Ad Words é a principal plataforma de SEM porque o Google é o buscador com mais tráfego. No entanto, também vale a pena considerar o Bing Ads (cujos anúncios saem nos buscadores Ya-hoo!, Bing e DuckDuckGo). Embora o foco aqui seja a plataforma do Google, tudo o que for dito se aplica igualmente às demais plataformas de SEM.
+O Google Ad Words é a principal plataforma de SEM porque o Google é o buscador com mais tráfego. No entanto, também vale a pena considerar o Bing Ads (cujos anúncios saem nos buscadores Yahoo!, Bing e DuckDuckGo). Embora o foco aqui seja a plataforma do Google, tudo o que for dito se aplica igualmente às demais plataformas de SEM.
 
 À pesquisa por palavra-chave é o primeiro componente de uma boa estratégia de SEM. Com o planejador de palavras-chave do Google, é possível saber quais são os principais termos usados pelo público visado para encontrar um produto como o seu. Quando uma palavra-chave é digitada no planejador, a ferramenta informa com que frequência ela (e termos similares) aparece em buscas. Já ferramentas como KeywordSpy, SEMrush e SpyFu revelam que palavras-chave os concorrentes estão usando para atrair clientes.
 
-Para filtrar ainda mais a lista de palavras-chave, é possível acrescentar outros termos à keyword geral, criando as chamadas "palavras-cha-ve de cauda longa" ("long tail keywords"). Por exemplo, para tornar uma busca por "dados do censo" mais específica, seria possível acrescentar a keyword "1990", formando "dados do censo de 1990", ou algo ainda mais long tail, como "dados do censo da Filadélfia de 1990". Palavras-chave de cauda longa são menos competitivas, e o volume de buscas por elas é menor, o que faz com que sejam ideais para testes com pequenos grupos de clientes.
+Para filtrar ainda mais a lista de palavras-chave, é possível acrescentar outros termos à keyword geral, criando as chamadas "palavras-chave de cauda longa" ("long tail keywords"). Por exemplo, para tornar uma busca por "dados do censo" mais específica, seria possível acrescentar a keyword "1990", formando "dados do censo de 1990", ou algo ainda mais long tail, como "dados do censo da Filadélfia de 1990". Palavras-chave de cauda longa são menos competitivas, e o volume de buscas por elas é menor, o que faz com que sejam ideais para testes com pequenos grupos de clientes.
 
 É preciso lembrar que, quanto mais disputadas as palavras-chave, maior será o custo do SEM. Daí ser importante escolher palavras-chave com taxas de conversão positivas.
 
@@ -67,7 +67,7 @@ Uma campanha é uma série de anúncios pensados para cumprir um objetivo geral,
 
 Depois de definir os grupos de anúncios e as respectivas palavras-chave, cria-se o anúncio em si. É preciso bolar um título chamativo. interessante e relevante para as palavras-chave às quais está associado.  
 Também é importante repetir a keyword pelo menos uma vez no texto do anúncio.  
-Por último, é boa ideia concluir com um CTA ("call to ac-tion") bem visível — algo como "Tênis Nike em promoção. Confira!".
+Por último, é boa ideia concluir com um CTA ("call to action") bem visível — algo como "Tênis Nike em promoção. Confira!".
 
 Quando os anúncios estiverem prontos, use o criador de URLs do Google Analytics para gerar um endereço para cada landing page. Assim, será possível verificar que anúncios estão gerando conversão, e não só recebendo o maior número de cliques.  
 Na opinião de Matthew, quem estiver usando esse canal pela primeira vez deve começar testando uns quatro anúncios — não mais. Com quatro anúncios dá não só para ter uma boa noção do desempenho geral do SEM, mas também testar diferentes mensagens, públicos e landing pages.
@@ -75,11 +75,13 @@ Na opinião de Matthew, quem estiver usando esse canal pela primeira vez deve co
 Se os resultados de um teste forem promissores, o certo é seguir otimizando a campanha até que se torne rentável. Criar uma campanha escalável de SEM pode levar um bom tempo, pois são muitas as variáveis a testar: palavras-chave, texto do anúncio, perfil demográfico, landing pages, CPC e por aí vai. Essa complexidade, no entanto, pode agir a seu favor. À medida que cada componente da estratégia de SEM vai sendo testado e otimizado, podem surgir oportunidades para ganhos imensos. É como disse Matthew na entrevista:
 
 > Acho que é uma enorme vantagem competitiva. E que, ainda que na hora possa parecer um pequeno ajuste ou incremento, estamos falando de um grande salto no negócio. Digamos que uma palavra-chave custe 15 centavos e que, para cada clique em sua página, você consiga ganhar 13 centavos. Se escalar isso, não é um bom negócio. Já se melhorar (..) e subir esses 13 centavos para 16, imediatamente a coisa passa a ser mais sustentável. E, se passar de 16 para 20 centavos, estamos falando de uma margem de lucro de 25% em termos de vendas menos marketing.  
+> 
 > Ou seja, um avanço pequeno, de 13 para 20 centavos, é basicamente um ganho de 50%, mas muda radicalmente sua capacidade de anunciar e de escalar o negócio. E é possível conseguir esses 50% com a otimização de cada um desses fatores.
 
 Ferramentas como Optimizely e Visual Website Optimizer ajudam a fazer testes A/B com landing pages. Quando perguntamos a Mat-thew se a abordagem de SEM que ele descreveu ainda servia quando o mercado da Inflection ficou mais concorrido, a resposta foi:
 
 > Os conceitos básicos de pesquisa de palavras-chave, investigação de mercado, testes A/B, testes de anúncios, controle do orçamento, tentar chegar o mais perto possível do breakeven (ponto de equilíbrio), ir aprendendo (...). Acho que tudo isso ainda vale. Com certeza vale à medida que criamos novos segmentos de palavras-chave. Essa parte do conselho não muda, ainda que a dinâmica seja mais competitiva.  
+> 
 > Cada anúncio e grupo de anúncios — bem como sua conta geral no Google Ad Words — tem um índice de qualidade. Essa avaliação indica se os anúncios estão atraindo o público e computa muitos fatores, desde a CTR até o tempo que as pessoas permanecem em seu site depois de ver o anúncio.
 
 Um índice de qualidade alto pode garantir um posicionamento me-Ihor para o anúncio e um preço melhor — e é um jeito de o Google recompensar o anunciante pela qualidade da publicidade.
@@ -90,7 +92,7 @@ Várias pessoas que ouvimos disseram que a CTR média para uma campanha do Ad Wo
 
 Para a Inflection, ter um índice de qualidade alto é prioridade, pois isso não só dá uma vantagem em relação a empresas menos estabeleci-das, como também deixa mais espaço para otimizar anúncios e taxas de conversão.
 
-# TÁTICAS De SEM
+# TÁTICAS DE SEM
 
 Quando sua campanha de marketing em buscadores já estiver dando resultados, é hora de começar a explorar ferramentas e recursos mais avançados.
 
