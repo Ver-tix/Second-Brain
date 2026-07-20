@@ -85,7 +85,7 @@ Quando recebe uma tarefa grande, ele pode primeiro perguntar:
 
 Isso se chama:
 
-> **Task Decomposition** (Decomposição de Tarefas)
+<h4 align="center"> Task Decomposition (Decomposição de Tarefas)</h4>
 
 Guarde esse nome.
 
@@ -249,7 +249,7 @@ E
 F
 ```
 
-O plano depende do problema.
+**O plano depende do problema.**
 
 ---
 
@@ -335,7 +335,7 @@ O planejamento pode ser contínuo.
 
 Na literatura existe uma expressão chamada:
 
-> **Plan → Execute → Replan**
+<h3 align="center">Plan → Execute → Replan</h3>
 
 Visualmente.
 
@@ -356,7 +356,7 @@ Não
 
 ↓
 
-Planejar novamente
+Planejar novamente (replanejar)
 
 ↓
 
@@ -472,7 +472,7 @@ Replanejar
 Executar
 ```
 
-Na prática, o orquestrador é quem coordena esse ciclo.
+<h4 align="center">Na prática, o orquestrador é quem coordena esse ciclo.</h4>
 
 ---
 
@@ -652,6 +652,8 @@ Como ele poderia **replanejar** sua estratégia?
 ## Parte 3
 
 Explique por que esse novo plano é melhor do que simplesmente continuar executando o plano original.
+
+[[⚒ Desafio M5 007]]
 
 ---
 
