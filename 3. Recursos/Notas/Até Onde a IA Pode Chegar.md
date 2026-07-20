@@ -9,7 +9,7 @@ tags:
 | Human-in-the-loop (HITL) | agente age, humano aprova cada passo sensível                 | dentro do fluxo, em portões           |
 | Human-on-the-loop (HOTL) | agente age sozinho num escopo delimitado, humano supervisiona | monitorando, intervindo só em exceção |
 | Human-out-of-the-loop    | autonomia total                                               | ausente — raro e perigoso             |
-Na pequena empresa da [[🤖 Desafio M4 008 ZCode|Questão 2]], o desenho saudável é **híbrido**: :
+Na pequena empresa da [[🛠 Desafio M4 008 ZCode|Questão 2]], o desenho saudável é **híbrido**: :
 - _HITL_ para compra e comunicação (Camada 3), 
 - _HOTL_ para relatórios e atualização de planilha (Camada 2 autônoma + Camada 4 de auditoria). 
 

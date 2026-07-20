@@ -4,7 +4,6 @@ tags:
   - programação
   - inovação
 ---
-
 # Resolução — Desafio Prometheus #008
 
 > Aula 8 — *Agentes de IA: Quando o Sistema Começa a Planejar*

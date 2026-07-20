@@ -653,7 +653,7 @@ Como ele poderia **replanejar** sua estratégia?
 
 Explique por que esse novo plano é melhor do que simplesmente continuar executando o plano original.
 
-[[⚒ Desafio M5 007]]
+[[🛠 Desafio M5 007]]
 
 ---
 

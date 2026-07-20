@@ -646,7 +646,7 @@ Quero observar principalmente sua forma de pensar a arquitetura.
 
 Explique por que você **preferiu dividir** o sistema em vários agentes, em vez de criar um único "Super Agente". 
 
-[[⚒ Desafio M5 008]]
+[[🛠 Desafio M5 008]]
 
 ---
 

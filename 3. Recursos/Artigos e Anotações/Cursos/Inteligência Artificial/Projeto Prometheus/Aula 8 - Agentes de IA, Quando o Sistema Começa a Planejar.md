@@ -398,7 +398,7 @@ Projete a arquitetura respondendo:
 4. Como o orquestrador controla o fluxo para evitar erros, loops infinitos ou decisões inadequadas?
 
 [[🛠️ Desafio M4 008]] 🤖
-[[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/🤖 Desafio M4 008 ZCode]]
+[[🛠 Desafio M4 008 ZCode]]
 
 ---
 
@@ -709,7 +709,7 @@ Como arquiteto de IA:
     
 3. Indique quais princípios estudados desde o início do Prometheus aparecem nessa comparação.
     
-[[🤖 Desafio M4 008 ZCode V2]]
+[[🛠 Desafio M4 008 ZCode V2]]
 
 ---
 
