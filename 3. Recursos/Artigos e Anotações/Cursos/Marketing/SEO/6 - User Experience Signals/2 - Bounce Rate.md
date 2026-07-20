@@ -449,12 +449,6 @@ Como você pode ver, esses links internos não são inseridos ou forçados ali. 
 
 O fato de que eles também ajudam minha taxa de rejeição e SEO é apenas um bônus.
 
-![](https://api.backlinko.com/app/uploads/2024/06/icon-tip.png)
-
-> **Dica profissional:** abra links internos (e externos) em uma nova aba, assim:
-> 
-> ![](https://embed-ssl.wistia.com/deliveries/602292dd0f24904a84a47436cb5d369fdf77e994.jpg)
-
 Dessa forma, os usuários não saem da sua página quando clicam em um link.
 
 **10. Impressione os visitantes com um design incrível**

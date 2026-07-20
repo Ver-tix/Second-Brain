@@ -1,0 +1,6 @@
+---
+tags:
+  - marketing
+  - operacional
+  - canais
+---
