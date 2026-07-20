@@ -100,6 +100,7 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 6 - O Ciclo de Execução de um Agente (Agent Loop)|Aula 6 - O Ciclo de Execução de um Agente (Agent Loop)]] 
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 7 - Planejamento - Como um Agente Divide um Problema Complexo|Aula 7 - Planejamento - Como um Agente Divide um Problema Complexo]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 8 - Multiagentes, Quando um Agente não é o Suficiente|Aula 8 - Multiagentes, Quando um Agente não é o Suficiente]]
+- 
 
 
 
