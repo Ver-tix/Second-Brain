@@ -6,5 +6,11 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
   ]
 }
