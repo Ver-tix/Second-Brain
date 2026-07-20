@@ -209,3 +209,148 @@ Por exemplo, esta página de recursos contém links SOMENTE para sites .edu e .g
 
 ![Ligações governamentais](https://api.backlinko.com/app/uploads/2019/01/government-links.png "Ligações governamentais")
 
+É provável que eles abram uma exceção para o seu site? Provavelmente não. Então é melhor você passar para o próximo site da sua lista.
+
+Você provavelmente também encontrará páginas de recursos com links apenas para seus próprios itens:
+
+![Salto paleo](https://api.backlinko.com/app/uploads/2019/01/paleo-leap.png "Salto paleo")
+
+Novamente, páginas de recursos como esta não valem o seu tempo. Assim que você perceber que uma página provavelmente não terá links para você, recomendo excluí-la de seus clientes em potencial para que você possa se concentrar em alvos mais realistas.
+
+Use uma mistura de pesquisas amplas e específicas
+
+Dessa forma, você pode encontrar muitas páginas de recursos que podem querer adicionar seu link.
+
+Por exemplo, digamos que você administre um blog sobre dieta Paleo.
+
+Strings de pesquisa como “Paleo” inurl:links exibirão um bom pedaço de páginas:
+
+!["Paleo" inurl:links](https://api.backlinko.com/app/uploads/2019/01/paleo-links.png "“Paleo” inurl:links")
+
+Mas não pare por aí.
+
+Você também deve misturar algumas palavras-chave AMPLAS (como “nutrição”, “saúde” e “condicionamento físico”) que também descrevam seu conteúdo:
+
+![Links nutricionais](https://api.backlinko.com/app/uploads/2019/01/nutrition-links.png "Links nutricionais")
+
+Dessa forma, você lança uma rede larga.
+
+Envie um e-mail para a pessoa que gerencia a página
+
+Isso é muito importante.
+
+Sempre que alguém me diz: “Enviei um e-mail para um site, mas nunca obtive resposta”, sempre pergunto PARA QUEM eles enviaram o e-mail.
+
+Faz uma grande diferença.
+
+Por exemplo, confira esta página de recursos no site da Rutgers University:
+
+![Recursos Rutgers](https://api.backlinko.com/app/uploads/2019/01/rutgers-resources.png "Recursos Rutgers")
+
+Bem, se você quiser que alguém adicione seu link para essa página, você precisa entrar em contato com a pessoa certa.
+
+Especificamente, a pessoa que administra e gerencia essa página.
+
+Neste caso, não há link “Enviar recurso”.
+
+Então você precisa fazer algumas escavações.
+
+Voilá!
+
+Fui até a página de diretório do site e encontrei o “Bibliotecário de Negócios/Coordenador de Alfabetização Informacional” daquele departamento.
+
+![Bibliotecário de negócios](https://api.backlinko.com/app/uploads/2019/01/business-librarian.png "Bibliotecário de negócios")
+
+_Essa é_ a pessoa com quem você quer entrar em contato.
+
+Caso contrário, se você enviar sua mensagem pelo temido formulário de contato, você estará frito.
+
+Facilite a adição do seu link
+
+Não faça a pessoa pensar sobre onde seu link faz sentido na página dela.
+
+Em vez disso, dê a eles uma área específica da página onde seu link deve ficar.
+
+Por exemplo, dê uma olhada nesta página de recursos.
+
+![Recursos essenciais para a construção de tráfego](https://api.backlinko.com/app/uploads/2019/01/essential-traffic-building-resources.png "Recursos essenciais para a construção de tráfego")
+
+Bem, meu site seria perfeito para esta seção da página:
+
+![Marketing de mecanismos de busca](https://api.backlinko.com/app/uploads/2019/01/search-engine-marketing.png "Marketing de mecanismos de busca")
+
+Para ser claro: nem todas as páginas de recursos são divididas em pequenas seções como esta.
+
+Mas se você vir uma seção onde seu link seria uma adição certeira, não tenha medo de ressaltar isso.
+
+Personalize seus e-mails de divulgação
+
+Quanto mais você personalizar seus e-mails de divulgação, melhor será sua taxa de conversão.
+
+E isso DEFINITIVAMENTE se aplica à criação de links para páginas de recursos.
+
+Por exemplo, aqui está um e-mail de divulgação que enviei há algum tempo:
+
+![E-mail de divulgação](https://api.backlinko.com/app/uploads/2019/01/outreach-email-1.png "E-mail de divulgação")
+
+Vês como isso é personalizado?
+
+Essa é uma das razões pelas quais recebi um link.
+
+![Resposta por e-mail](https://api.backlinko.com/app/uploads/2019/01/email-response.png "Resposta por e-mail")
+
+Dito isto:
+
+Embora eu sempre envie e-mails de divulgação superpersonalizados, geralmente começo com um modelo. E eu torno esse modelo o mais pessoal possível.
+
+Com isso, aqui estão dois modelos de link building de páginas de recursos com os quais você pode começar:
+
+### Modelo no 1: Página de recursos padrão
+
+> Assunto: Pergunta rápida
+> 
+> Olá [Primeiro Nome],
+> 
+> Eu estava procurando algumas informações sobre [Tópico] hoje, quando me deparei com seu excelente [Nome da Página].
+> 
+> Foi super útil! Obrigado.
+> 
+> Gostei especialmente de [Frase personalizada ou duas].
+> 
+> De qualquer forma, percebi que publiquei recentemente uma página sobre [Tópico Relacionado]: [URL].
+> 
+> É [Breve Descrição].
+> 
+> Pode ser uma boa adição abaixo do [Nome da Seção] da sua página.
+> 
+> De qualquer forma, obrigado novamente por todos os excelentes recursos. E tenha uma semana incrível!
+> 
+> Falamos em breve, [Seu nome]
+
+### Modelo no 2: Página de recursos com link quebrado
+
+> Assunto: Encontrou um link quebrado
+> 
+> Olá [Primeiro Nome],
+> 
+> Queria que você soubesse que encontrei alguns links quebrados no seu [Título da página de recursos].
+> 
+> [URL #1]  
+> [URL #2]  
+> [URL #3]
+> 
+> Sua página foi super útil para mim quando eu estava aprendendo sobre [Tópico] recentemente, então eu queria retribuir o favor.
+> 
+> Além disso, gostaria de informar que publiquei um conteúdo que pode ser um bom substituto para [URL].
+> 
+> Aqui está o link: [URL]
+> 
+> De qualquer forma, espero que isso ajude e continue com o ótimo trabalho!
+> 
+> Falamos em breve, [Seu nome]
+
+## **Saiba mais**
+
+[Divulgação para blogueiros: o guia definitivo](https://backlinko.com/blogger-outreach/ "Divulgação para blogueiros: o guia definitivo"): um guia superdetalhado para divulgação para blogueiros com MUITOS exemplos da vida real e dicas importantes.
+
+[Link Building: como obter backlinks poderosos](https://www.youtube.com/watch?v=t_838Dk966Y "Link Building: Como obter backlinks poderosos"): as páginas de recursos são apenas um dos muitos lugares de onde obtenho backlinks. Aprenda sobre outras 7 estratégias comprovadas neste vídeo.
