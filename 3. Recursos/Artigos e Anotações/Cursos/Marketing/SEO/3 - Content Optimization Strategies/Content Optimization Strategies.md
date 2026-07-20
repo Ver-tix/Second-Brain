@@ -1,4 +1,6 @@
 ---
 tags:
   - marketing
+  - tático
+  - canais
 ---
