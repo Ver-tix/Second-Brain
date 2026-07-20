@@ -289,7 +289,6 @@ Encontrar problemas.
 - erros gramaticais;
     
 - falta de clareza.
-    
 
 ---
 
@@ -371,7 +370,7 @@ Nenhum agente sabe fazer tudo.
 
 # Um detalhe extremamente importante
 
-Os agentes **não precisam usar o mesmo LLM**.
+<h3 align="center">Os agentes não precisam usar o mesmo LLM.</h3>
 
 Imagine.
 
@@ -401,11 +400,11 @@ Modelo pequeno,
 barato e rápido.
 ```
 
-Isso reduz custos.
+<h3 align="center">Isso reduz custos.</h3>
 
 ---
 
-# Quem coordena tudo isso?
+# Quem coordena tudo isso?=
 
 Excelente pergunta.
 
@@ -413,14 +412,14 @@ Surge novamente um velho conhecido.
 
 O...
 
-## Orquestrador
+## ==Orquestrador==
 
 Agora ele controla agentes.
 
 Não apenas ferramentas.
 
 ```text
-                 Orquestrador
+    Orquestrador
 
           │
 
@@ -645,7 +644,9 @@ Quero observar principalmente sua forma de pensar a arquitetura.
 
 ## Parte 3
 
-Explique por que você **preferiu dividir** o sistema em vários agentes, em vez de criar um único "Super Agente".
+Explique por que você **preferiu dividir** o sistema em vários agentes, em vez de criar um único "Super Agente". 
+
+[[⚒ Desafio M5 008]]
 
 ---
 
