@@ -18,12 +18,6 @@ Assim, quando usarmos LangChain, LangGraph, OpenAI SDK ou qualquer outra tecnolo
 
 ---
 
-# Projeto Prometheus
-
-# Módulo 6 — Aula 2
-
-# Organizando um Projeto Profissional de IA
-
 > **Objetivo da aula**
 > 
 > Aprender a estruturar um projeto de IA de forma escalável, entendendo por que cada pasta existe antes de escrever qualquer código.
