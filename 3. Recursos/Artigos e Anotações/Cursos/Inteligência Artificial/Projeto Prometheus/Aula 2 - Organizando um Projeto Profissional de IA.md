@@ -549,53 +549,130 @@ Projetos grandes exigem arquitetura.
 
 ---
 
-# Desafio — Aula 2
+# Laboratório 2 — Criando a Estrutura do Projeto
 
-## Parte 1 — Revisão da Estrutura
+## Objetivo
 
-Observe a estrutura apresentada nesta aula.
+Hoje não escreveremos lógica de IA.
 
-Escolha **três pastas** e explique:
-
-- qual problema ela resolve;
-    
-- por que ela merece existir separadamente;
-    
-- o que aconteceria se seu conteúdo fosse espalhado pelo projeto.
-    
+Vamos construir a fundação do projeto.
 
 ---
 
-## Parte 2 — Evoluindo o Prometheus-Mentor
+## Etapa 1 — Criar a pasta do projeto
 
-Pensando apenas no módulo **Prometheus-Mentor**, proponha uma estrutura um pouco mais detalhada.
+Crie uma pasta chamada:
 
-Você pode adicionar novas pastas, remover algumas ou reorganizá-las.
+```
+prometheus-mentor
+```
 
-O importante é justificar cada decisão arquitetural.
+Abra essa pasta no VS Code.
 
 ---
 
-## Parte 3 — Pensando como Arquiteto
+## Etapa 2 — Criar o ambiente virtual
 
-Suponha que, daqui a dois anos, o Prometheus tenha:
+No terminal:
 
-- 40 agentes;
-    
-- 15 desenvolvedores;
-    
-- milhares de arquivos.
-    
+```
+python -m venv .venv
+```
 
-Na sua opinião:
+Ative o ambiente virtual.
 
-- quais princípios desta aula continuarão válidos?
-    
-- quais partes da estrutura talvez precisem evoluir?
-    
-- como evitar que o projeto se torne um "final_final_v2.py" gigante?
-    
+Windows (PowerShell):
 
+```
+.venv\Scripts\Activate.ps1
+```
+
+---
+
+## Etapa 3 — Criar a estrutura inicial
+
+Monte esta árvore:
+
+```
+prometheus-mentor/
+
+│
+├── app/
+│   ├── agents/
+│   ├── tools/
+│   ├── services/
+│   ├── memory/
+│   ├── prompts/
+│   ├── models/
+│   ├── config/
+│   └── main.py
+│
+├── docs/
+├── tests/
+├── scripts/
+│
+├── .env
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
+
+Não coloque código ainda.
+
+Queremos apenas a estrutura.
+
+---
+
+## Etapa 4 — Criar o `.gitignore`
+
+Adicione, no mínimo:
+
+```
+.venv/
+__pycache__/
+.env
+*.pyc
+```
+
+---
+
+## Etapa 5 — Criar o `README.md`
+
+Escreva apenas um primeiro rascunho contendo:
+
+- Nome do projeto
+- Objetivo
+- Tecnologias (por enquanto apenas Python)
+- Status do projeto
+
+Não precisa ficar bonito.
+
+Só queremos iniciar a documentação.
+
+---
+
+## Etapa 6 — Criar o `requirements.txt`
+
+Por enquanto, deixe vazio.
+
+Nós o preencheremos conforme novas bibliotecas forem entrando no projeto.
+
+---
+
+## Entrega
+
+Quando terminar, envie:
+
+1. Um print da árvore de arquivos do VS Code **ou**
+2. A saída do comando:
+
+```
+tree
+```
+
+(Se o `tree` não estiver disponível, pode copiar a estrutura em texto.)
+
+Depois disso, na Aula 3, começaremos a escrever nosso **primeiro código do Prometheus-Mentor**. A partir daí, cada laboratório acrescentará uma funcionalidade real ao sistema. Tenho a impressão de que essa dinâmica vai combinar muito melhor com a forma como você gosta de aprender
 ---
 
 ### Observação do professor
