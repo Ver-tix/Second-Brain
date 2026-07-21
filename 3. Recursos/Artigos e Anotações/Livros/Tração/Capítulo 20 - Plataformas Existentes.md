@@ -22,7 +22,7 @@ Matt decidiu experimentar essa tática. Quando lançou a versão gratuita do Tra
 
 Com isso, o Trainyard Express passou a encabeçar o ranking de aplicativos gratuitos na Itália. Naquele único dia foi baixado mais de 22 mil vezes. O app foi parar no primeiro lugar também no Reino Unido e teve mais de 450 mil downloads em uma semana.
 
-Sete dias depois, a Apple decidiu dar destaque ao game, extrapolando tudo o que acontecera até ali. O número de downloads disparou 50 vezes e permaneceu nesse patamar enquanto o destaque ficou no ar. O jogo foi baixado milhões de vezes e, mesmo depois de perder o desta-que, o número de downloads diários continuou em níveis bem mais elevados do que antes de tudo isso.
+Sete dias depois, a Apple decidiu dar destaque ao game, extrapolando tudo o que acontecera até ali. O número de downloads disparou 50 vezes e permaneceu nesse patamar enquanto o destaque ficou no ar. O jogo foi baixado milhões de vezes e, mesmo depois de perder o destaque, o número de downloads diários continuou em níveis bem mais elevados do que antes de tudo isso.
 
 O Trainyard é um exemplo da importância de atrair atenção suficiente para que seu aplicativo apareça em rankings e entre os destaques da loja. Mark Johnson, fundador da Focused Apps LLC, explicou em um texto como costuma ser o processo de promoção de um aplicativo:
 
@@ -47,7 +47,7 @@ Embora seja possível lançar mão de um punhado de macetes — como pedir que a
 
 Extensões do Chrome e do Firefox são aplicativos que o usuário pode instalar nesses navegadores. A extensão de navegador mais popular é o Adblock Plus, que bloqueia anúncios nos principais sites.
 
-Outras extensóes populares ajudam a baixar vídeos do YouTube, a salvar favoritos em vários aparelhos e a guardar senhas.  
+Outras extensões populares ajudam a baixar vídeos do YouTube, a salvar favoritos em vários aparelhos e a guardar senhas.  
 Usuários da internet visitam dezenas de sites diferentes todo dia. Fazer com que seu site seja constantemente visitado pode ser difícil. Um add-on no navegador permite que as pessoas se beneficiem do produto sem ter de voltar sempre a seu site.
 
 O Evernote, um aplicativo de produtividade e uma espécie de memória auxiliar, registrou um salto enorme no número de usuários quando lançou extensões de navegadores. Em um post no blog com um resumo do ano de 2010 ("2010 Year in Review"), o Evernote disse que o uso de seu site tinha subido 205% graças a essas extensóes — e isso para uma empresa que na época já contava com mais de 6 milhões de usuários.
@@ -86,8 +86,7 @@ Quando o iPhone foi lançado, fomos um dos primeiros aplicativos para o aparelho
 
 Vale repetir: quem chega primeiro pode se beneficiar da campanha inicial de marketing e da promoção que a própria plataforma está fazendo. É como diz Alex, do Evernote:
 
-> Todo ano há uma nova plataforma, um novo aparelho, uma novidade.  
-> E, como alguém que está começando uma empresa, é bom pensar se você pode criar algo bacana para uma plataforma dessas. Obviamente, não há como saber se uma plataforma vai ter sucesso, mas é possível [tecer algumas] hipóteses razoáveis com base em experiências anteriores com uma empresa.
+> Todo ano há uma nova plataforma, um novo aparelho, uma novidade. E, como alguém que está começando uma empresa, é bom pensar se você pode criar algo bacana para uma plataforma dessas. Obviamente, não há como saber se uma plataforma vai ter sucesso, mas é possível [tecer algumas] hipóteses razoáveis com base em experiências anteriores com uma empresa.
 
 A meu ver, muita gente acha que isso é apostar. O normal é dizerem: "Quando essa plataforma tiver 1 milhão de usuários, eu entro." Pensar assim pode até funcionar para uma EA ou uma Adobe. E, daqui a um ano, talvez seja o mais sensato para o Evernote também. Só que uma startup não está nessa posição. Quando uma plataforma é popular, é congestionada (..). Muitas pessoas têm um aplicativo bacana que poderia ter muito sucesso se conseguisse esse empurrão inicial, e esse empurrão inicial é grátis se você chegar cedo. No entanto, você corre o risco de que todo esse esforço seja um desperdício.
 
@@ -112,5 +111,6 @@ Embora o grosso do crescimento do Evernote venha de canais no mobile, a estraté
 # Metas
 
 - **Descubra por onde seus potenciais clientes estão circulando na internet.** Pelas maiores plataformas? Por plataformas de nicho? Por ambas? Depois disso, trace uma estratégia para chegar a todas essas plataformas.
+	- Você pode se basear no framework abaixo: ![[Segredo 1 - A Fórmula Secreta#Pergunta 2 - Onde Seu Cliente dos Sonhos está se Congregando?]]
 - **Aproveite brechas em plataformas existentes.** Crie algo que preencha alguma lacuna para os usuários da plataforma em questão. Grandes empresas foram erguidas assim.
 - **Foque plataformas novas, inexploradas.** Ou prove novos recursos de plataformas estabelecidas, pois a concorrência ali será menor.
