@@ -300,7 +300,7 @@ Exemplos.
 - Qdrant
 - Weaviate
 - Milvus
-[[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Então, os nomes nessa lista são RAGs, sim ou não]]
+[[Então, os nomes nessa lista são RAGs, sim ou não]]
 
 Eles possuem uma única responsabilidade.
 

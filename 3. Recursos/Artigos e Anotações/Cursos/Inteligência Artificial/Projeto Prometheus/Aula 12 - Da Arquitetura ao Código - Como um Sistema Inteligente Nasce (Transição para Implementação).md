@@ -598,50 +598,77 @@ Isso torna o aprendizado muito mais profundo.
 
 # Desafio Final do Módulo 5
 
+^165a7c
+
 Este será menos técnico e mais arquitetural.
 
-## Parte 1 — Tradução Arquitetura → Código
+# Parte 1 — Estruturando o Ecossistema Prometheus
 
-Escolha um dos módulos (Mentor, Editor, Office, Knowledge ou Invest) e proponha uma estrutura de pastas e arquivos para implementá-lo em Python.
+^0aacc6
 
-Não escreva código.
+Considere a arquitetura atual do projeto:
 
-Apenas a organização do projeto e explique por que escolheu essa divisão.
+- **Prometheus OS** (Orquestrador)
+- **Prometheus-Mentor**
+- **Prometheus-Knowledge**
+- **Prometheus-Editor**
 
----
+Escolha **um desses módulos** e proponha como ele seria organizado em Python.
 
-## Parte 2 — Seu primeiro documento de arquitetura
+Descreva apenas a estrutura de pastas e arquivos (sem escrever código) e explique:
 
-Imagine que você vai contratar uma equipe de desenvolvedores para construir o Prometheus OS.
-
-Em uma ou duas páginas (texto livre), descreva:
-
-- a filosofia do sistema;
-    
-- os princípios arquiteturais;
-    
-- o papel do Orquestrador;
-    
-- o papel dos agentes;
-    
-- o papel do Second Brain;
-    
-- por que optamos por múltiplos agentes em vez de um superagente.
-    
-
-Escreva como se fosse o primeiro documento oficial do projeto.
+- por que escolheu essa divisão;
+- quais seriam as responsabilidades de cada componente;
+- como esse módulo se comunica com o restante do ecossistema.
 
 ---
 
-## Parte 3 — A maior mudança
+# Parte 2 — Documento Oficial de Arquitetura do Prometheus
 
-Responda apenas uma pergunta:
+Imagine que você acabou de fundar o Projeto Prometheus e precisa apresentar sua arquitetura para uma equipe de engenheiros que irá implementá-la.
 
-> **Qual foi a ideia mais transformadora que você aprendeu em todo o Módulo 5?**
+Escreva o primeiro documento oficial do projeto.
 
-Não existe resposta certa.
+Seu texto deve abordar, pelo menos:
 
-Quero saber qual conceito realmente mudou sua forma de enxergar sistemas inteligentes.
+- a visão do Ecossistema Prometheus;
+- a filosofia do projeto;
+- os princípios arquiteturais que guiam todas as decisões;
+- o papel do Prometheus OS;
+- o papel de cada módulo (Mentor, Knowledge e Editor);
+- como os módulos se comunicam;
+- o papel dos serviços compartilhados (Second Brain, Memória Compartilhada, Eventos e Guardrails);
+- por que escolhemos uma arquitetura multiagente em vez de um superagente.
+
+Escreva como se esse documento fosse servir de referência para todos os desenvolvedores que participarão do projeto.
+
+---
+
+# Parte 3 — Evoluindo a Arquitetura
+
+Imagine que, daqui a um ano, o Prometheus terá dezenas de módulos.
+
+Sem alterar a filosofia do sistema, responda:
+
+1. Quais características da arquitetura atual facilitam esse crescimento?
+2. Quais componentes você acredita que podem se tornar gargalos?
+3. Como você imagina que essa arquitetura poderia evoluir para suportar centenas de agentes?
+
+Não é necessário conhecer tecnologias específicas. O objetivo é exercitar o raciocínio arquitetural.
+
+---
+
+# Parte 4 — Reflexão Final
+
+Ao iniciar o Módulo 5, você provavelmente imaginava que construir agentes era principalmente escrever prompts.
+
+Hoje, após concluir o módulo, responda:
+
+> **Qual foi a mudança mais importante na sua forma de enxergar sistemas inteligentes?**
+
+Não quero saber qual conceito foi o mais difícil ou o mais interessante.
+
+Quero saber **qual ideia alterou definitivamente seu modelo mental** sobre como sistemas de IA devem ser projetados.
 
 [[🛠 Desafio M5 012]]
 

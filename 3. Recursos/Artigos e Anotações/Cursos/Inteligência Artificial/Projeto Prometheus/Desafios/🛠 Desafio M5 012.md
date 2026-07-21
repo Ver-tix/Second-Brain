@@ -4,3 +4,5 @@ tags:
   - programação
   - inovação
 ---
+[[🤖 Monitoria com Auditor de Aula]] 
+

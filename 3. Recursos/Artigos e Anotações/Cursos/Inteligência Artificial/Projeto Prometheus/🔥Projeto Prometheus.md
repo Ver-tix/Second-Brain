@@ -25,17 +25,17 @@ author:
 - [[A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT]]
 
 # Módulo 0 - Nivelamento
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 1 — O que é uma Aplicação|Aula 1 — O que é uma Aplicação]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 2 — Cliente × Servidor|Aula 2 — Cliente × Servidor]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 3 — HTTP, A Linguagem da Internet|Aula 3 — HTTP, A Linguagem da Internet]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 4 — O que é uma API|Aula 4 — O que é uma API]]
+- [[Aula 1 - O que é uma Aplicação|Aula 1 - O que é uma Aplicação]]
+- [[Aula 2 - Cliente × Servidor|Aula 2 - Cliente × Servidor]]
+- [[Aula 3 - HTTP, A Linguagem da Internet|Aula 3 - HTTP, A Linguagem da Internet]]
+- [[Aula 4 - O que é uma API|Aula 4 - O que é uma API]]
 - [[Aula 5 - Endpoints, Como uma API organiza seus serviços]]
 - [[Aula 6 - Autenticação, API Keys e Variáveis de Ambiente|Aula 6 - Autenticação, API Keys e Variáveis de Ambiente]]
 - [[Aula 7 - JSON, A Linguagem Universal dos Dados|Aula 7 - JSON, A Linguagem Universal dos Dados]]
 - [[Aula 8 - O Ciclo Completo de uma Requisição|Aula 8 - O Ciclo Completo de uma Requisição]]
 - [[Aula 9 - A Arquitetura de uma Aplicação Moderna com IA]]
 - [[Aula 10 - O Mapa do Ecossistema de Engenharia de IA]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Mini Curso de RAG|Mini Curso de RAG]]
+- [[Mini Curso de RAG|Mini Curso de RAG]]
 # Módulo 1- Fundamentos dos LLMs
 - [[Aula 1 - Como um LLM Aprende Padrões]]
 - [[Aula 2 - O Nascimento dos Transformers]]
