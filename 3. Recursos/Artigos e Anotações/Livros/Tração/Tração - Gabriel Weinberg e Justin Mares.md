@@ -20,7 +20,7 @@ author:
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 10 - Social Ads e Display Ads|Capítulo 10 - Social Ads e Display Ads]]
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 11 - Anúncios Offline|Capítulo 11 - Anúncios Offline]]
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 12 - Search Engine Optmization (SEO) ou Otimização para Buscadores|Capítulo 12 - Search Engine Optmization (SEO) ou Otimização para Buscadores]]
-- [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 13 - Marketing de Contúdo|Capítulo 13 - Marketing de Contúdo]]
+- [[Capítulo 13 - Marketing de Conteúdo|Capítulo 13 - Marketing de Conteúdo]]
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 14 - E-mail Marketing|Capítulo 14 - E-mail Marketing]]
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 15 - Marketing Viral|Capítulo 15 - Marketing Viral]]
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 16 - Engenharia como Marketing|Capítulo 16 - Engenharia como Marketing]]
