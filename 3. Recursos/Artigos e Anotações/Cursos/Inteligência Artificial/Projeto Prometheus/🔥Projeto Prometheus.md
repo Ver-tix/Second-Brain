@@ -106,7 +106,8 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)|Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)]]
 
 # Módulo 6 - Construindo Agentes Inteligentes na Prática
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 1 - Bem Vindo ao Módulo 6]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 1 - Bem Vindo ao Módulo 6|Aula 1 - Bem Vindo ao Módulo 6]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 2 - Organizando um Projeto Profissional de IA|Aula 2 - Organizando um Projeto Profissional de IA]]
 
 
 3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus
