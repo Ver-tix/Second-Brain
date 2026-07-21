@@ -103,6 +103,6 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 9 - Memória Compartilhada e Comunicação entre Agentes|Aula 9 - Memória Compartilhada e Comunicação entre Agentes]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 10 — Guardrails e Segurança de Agentes|Aula 10 — Guardrails e Segurança de Agentes]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 11 - Arquitetura Completa do Prometheus OS|Aula 11 - Arquitetura Completa do Prometheus OS]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 12 - Transição para Implementação|Aula 12 - Transição para Implementação]]
+- [[Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)|Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)]]
 
 3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus

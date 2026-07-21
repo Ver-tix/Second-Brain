@@ -663,7 +663,9 @@ Responda, com suas próprias palavras:
 
 > **Qual é a diferença entre pensar em "construir um agente" e pensar em "projetar um sistema inteligente"?**
 
-Não busco uma definição técnica. Quero ver como seu modelo mental evoluiu desde o início do Projeto Prometheus.
+Não busco uma definição técnica. Quero ver como seu modelo mental evoluiu desde o início do Projeto Prometheus. 
+
+[[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/🛠 Desafio M5 011]]
 
 ---
 
