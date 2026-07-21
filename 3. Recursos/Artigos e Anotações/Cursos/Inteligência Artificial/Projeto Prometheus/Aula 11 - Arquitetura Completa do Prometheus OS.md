@@ -15,37 +15,21 @@ tags:
 Até agora aprendemos separadamente:
 
 - LLMs
-    
 - Ferramentas
-    
 - APIs
-    
 - SDKs
-    
 - HTTP
-    
 - JSON
-    
 - RAG
-    
 - Embeddings
-    
 - Bancos Vetoriais
-    
 - Orquestradores
-    
 - Agentes
-    
 - Loops
-    
 - Planejamento
-    
 - Memória
-    
 - Eventos
-    
 - Guardrails
-    
 
 Hoje veremos onde **cada um deles mora** dentro de um sistema real.
 
@@ -65,19 +49,12 @@ Quem conversa com o sistema?
 Essa interface pode ser:
 
 - ChatGPT
-    
 - Aplicativo próprio
-    
 - WhatsApp
-    
 - Telegram
-    
 - Discord
-    
 - Site
-    
 - App mobile
-    
 
 Ela **não contém inteligência**.
 
@@ -543,15 +520,10 @@ Você deve ter percebido.
 Ainda não falamos de:
 
 - classes;
-    
 - funções;
-    
 - arquivos Python;
-    
 - pacotes;
-    
 - imports.
-    
 
 Por quê?
 
@@ -606,11 +578,8 @@ O modelo é uma peça do sistema.
 A partir desta aula, vale a pena começar a conhecer (sem estudar a fundo ainda) alguns conceitos que aparecerão naturalmente na implementação:
 
 - **Model Context Protocol (MCP)** — uma forma padronizada de conectar modelos a ferramentas e fontes de dados.
-    
 - **OpenAI Agents SDK** — para construção de agentes.
-    
 - **LangGraph** — para fluxos e estados complexos.
-    
 
 Você não precisa dominá-los agora. O importante é reconhecer que eles ocupam lugares específicos na arquitetura que desenhamos hoje.
 
