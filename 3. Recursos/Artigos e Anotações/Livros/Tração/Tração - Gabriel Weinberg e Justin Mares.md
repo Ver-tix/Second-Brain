@@ -32,4 +32,4 @@ author:
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 22 - Eventos Offline|Capítulo 22 - Eventos Offline]]
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 23 - Palestras|Capítulo 23 - Palestras]]
 - [[3. Recursos/Artigos e Anotações/Livros/Tração/Capítulo 24 - Criação de Comunidades|Capítulo 24 - Criação de Comunidades]]
-- [[3. Recursos/Artigos e Anotações/Livros/Tração/Apêndice - Testes no Círculo do Meio|Apêndice - Testes no Círculo do Meio]]
+- [[Capítulo 25 - Apêndice - Testes no Círculo do Meio|25 - Apêndice - Testes no Círculo do Meio]]
