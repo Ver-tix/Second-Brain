@@ -716,7 +716,7 @@ Essa é uma arquitetura preparada para crescer.
 
 ---
 
-## 2. Responsabilidades bem definidas
+### 2. Responsabilidades bem definidas
 
 Cada agente possui uma única missão.
 
@@ -732,7 +732,7 @@ Isso reduz o risco de quebrar o restante do sistema.
 
 ---
 
-## 3. Serviços Compartilhados
+### 3. Serviços Compartilhados
 
 Outro ponto fortíssimo.
 
@@ -756,7 +756,7 @@ Essa centralização reduz retrabalho.
 
 ---
 
-## 4. Prometheus OS
+### 4. Prometheus OS
 
 O Orquestrador também ajuda.
 
@@ -768,9 +768,9 @@ Isso reduz dependências.
 
 ---
 
-# Agora vem a parte mais interessante
+## Agora vem a parte mais interessante
 
-## O que pode virar gargalo?
+## O q#ue pode virar gargalo?
 
 Aqui quero fazer uma crítica construtiva ao Projeto Prometheus.
 
@@ -778,9 +778,9 @@ A arquitetura atual possui alguns riscos.
 
 ---
 
-### Gargalo 1
+#### Gargalo 1
 
-## Prometheus OS
+### Prometheus OS
 
 Hoje ele coordena tudo.
 
@@ -814,9 +814,9 @@ Isso gera:
 
 ---
 
-### Gargalo 2
+#### Gargalo 2
 
-## Second Brain
+### Second Brain
 
 Outro risco.
 
@@ -842,9 +842,9 @@ Pode virar um gargalo de leitura.
 
 ---
 
-### Gargalo 3
+#### Gargalo 3
 
-## Eventos
+### Eventos
 
 Quanto maior o sistema...
 
@@ -868,9 +868,9 @@ Ao mesmo tempo.
 
 ---
 
-### Gargalo 4
+#### Gargalo 4
 
-## Guardrails
+### Guardrails
 
 Imagine.
 
@@ -890,15 +890,15 @@ Pode ficar pesado.
 
 ---
 
-# Agora a pergunta mais legal
+## Agora a pergunta mais legal
 
-## Como evoluir?
+### Como evoluir?
 
 Aqui começa o pensamento de arquiteto.
 
 ---
 
-## Primeira evolução
+### Primeira evolução
 
 Eu criaria **suborquestradores**.
 
@@ -953,7 +953,7 @@ Isso reduz muito a carga.
 
 ---
 
-## Segunda evolução
+### Segunda evolução
 
 Dividir o Second Brain.
 
@@ -987,7 +987,7 @@ Cada domínio responde pelo seu conhecimento.
 
 ---
 
-## Terceira evolução
+### Terceira evolução
 
 Hierarquia de agentes.
 
@@ -1025,7 +1025,7 @@ Os gerentes coordenam as equipes.
 
 ---
 
-## Quarta evolução
+### Quarta evolução
 
 Especialização extrema.
 
@@ -1053,7 +1053,7 @@ Maior a especialização.
 
 ---
 
-# E aqui quero trazer uma ideia que nasceu das nossas conversas
+## E aqui quero trazer uma ideia que nasceu das nossas conversas
 
 Você lembra do **Projeto Atena**?
 
