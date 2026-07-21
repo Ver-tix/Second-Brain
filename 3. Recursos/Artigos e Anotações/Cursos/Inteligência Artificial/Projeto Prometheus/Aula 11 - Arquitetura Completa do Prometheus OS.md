@@ -665,7 +665,7 @@ Responda, com suas próprias palavras:
 
 Não busco uma definição técnica. Quero ver como seu modelo mental evoluiu desde o início do Projeto Prometheus. 
 
-[[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/🛠 Desafio M5 011]]
+[[🛠 Desafio M5 011]]
 
 ---
 

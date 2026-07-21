@@ -330,7 +330,7 @@ Responda:
 3. Qual é a responsabilidade da etapa de **Retrieval** e qual é a responsabilidade da etapa de **Generation**?
 4. Por que dizemos que RAG melhora a qualidade das respostas **sem alterar um único peso do modelo**?
 
-[[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/🛠 Desafio M4 006]]
+[[🛠 Desafio M4 006]]
 
 ---
 

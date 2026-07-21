@@ -252,19 +252,18 @@ Imagine que você escreva:
 O código, conceitualmente, faria algo como:
 
 ```text
-main.py
+main.py (ponto de entrada da aplicação)
 
 ↓
 
-PrometheusOS
+PrometheusOS (orquestrador)
+↓
+
+Mentor (ecossistema de agentes estudo)
 
 ↓
 
-Mentor
-
-↓
-
-TutorAgent
+TutorAgent (agente de estudo)
 
 ↓
 
@@ -286,6 +285,8 @@ Usuário
 É o mesmo fluxo da arquitetura.
 
 Apenas implementado.
+
+![[O Que é o main.py]]
 
 ---
 
@@ -641,6 +642,8 @@ Responda apenas uma pergunta:
 Não existe resposta certa.
 
 Quero saber qual conceito realmente mudou sua forma de enxergar sistemas inteligentes.
+
+[[🛠 Desafio M5 012]]
 
 ---
 

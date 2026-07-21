@@ -394,7 +394,7 @@ Explique:
 2. quais decisões deverão permanecer sob responsabilidade da aplicação;
 3. quais situações exigirão intervenção humana;
 4. por que essa divisão de responsabilidades torna o sistema mais seguro e escalável.
-[[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/🛠️ Desafio M5 001]]
+[[🛠️ Desafio M5 001]]
 
 ---
 
