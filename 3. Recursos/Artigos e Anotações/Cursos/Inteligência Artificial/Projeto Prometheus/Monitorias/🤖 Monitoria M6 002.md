@@ -529,4 +529,147 @@ Quando aparecer algo como:
 (.venv) PS C:\Users\caioe\Projetos\prometheus-mentor>
 ```
 
-me avise. Aí seguimos juntos para a construção da estrutura de pastas. Assim conseguimos resolver qualquer problema imediatamente, sem acumular erros como aconteceu no início do HelloLLM.
+---
+
+# Outra coisa interessante
+
+Observe uma decisão arquitetural do professor.
+
+Ele criou:
+
+```
+app/
+
+↓
+
+agents
+tools
+services
+memory
+models
+prompts
+```
+
+Isso não foi aleatório.
+
+Existe um padrão.
+
+Todas essas pastas representam **domínios de responsabilidade**.
+
+Isso é exatamente o que estudamos nas últimas aulas.
+
+Veja:
+
+|Pasta|Responsabilidade|
+|---|---|
+|agents|Inteligência|
+|memory|Contexto|
+|prompts|Comunicação com LLM|
+|services|Infraestrutura|
+|tools|Capacidades externas|
+|models|Estruturas de dados|
+|config|Configuração|
+
+Percebe?
+
+Cada pasta responde a uma pergunta diferente.
+
+É arquitetura baseada em responsabilidades.
+
+---
+# Uma curiosidade
+
+Talvez você tenha reparado que **não existe uma pasta chamada `llm`**.
+
+Isso foi proposital.
+
+Porque o projeto não quer depender de uma IA específica.
+
+Hoje pode usar OpenAI.
+
+Amanhã Claude.
+
+Depois Gemini.
+
+Depois um modelo local.
+
+A arquitetura permanece a mesma.
+
+Isso demonstra um bom desacoplamento.
+
+---
+
+# Agora vamos para a Etapa 4
+
+Abra o arquivo:
+
+```
+.gitignore
+```
+
+e escreva exatamente isto:
+
+```
+.venv/
+__pycache__/
+.env
+*.pyc
+```
+
+---
+
+## O que significa cada linha?
+
+```
+.venv/
+```
+
+Nunca envie o ambiente virtual para o GitHub.
+
+Cada desenvolvedor cria o seu.
+
+---
+
+```
+__pycache__/
+```
+
+São arquivos temporários gerados automaticamente pelo Python.
+
+Podem ser recriados a qualquer momento.
+
+---
+
+```
+.env
+```
+
+Contém segredos.
+
+API Keys.
+
+Senhas.
+
+Nunca devem ir para um repositório.
+
+---
+
+```
+*.pyc
+```
+
+São versões compiladas dos arquivos Python.
+
+Também são temporárias.
+
+---
+
+# Depois disso
+
+Vamos escrever o `README.md`.
+
+E quero aproveitar essa etapa para te ensinar algo que considero muito importante.
+
+A maioria dos iniciantes pensa que um README serve apenas para "explicar o projeto". Na verdade, um bom README é **o cartão de visitas de um repositório**. É a primeira coisa que outro desenvolvedor (ou até você mesmo, daqui a seis meses) vai ler para entender rapidamente o propósito, o estado e a forma de usar o projeto.
+
+Então, no próximo passo, não vamos apenas preencher um requisito do laboratório. Vamos começar a escrever um README que possa evoluir junto com o Prometheus-Mentor, como um documento vivo do projeto.
