@@ -276,3 +276,61 @@ Voltando à enoteca, os fundadores trabalharam muito para aperfeiçoar o nome te
 ![[Pasted image 20260722094046.png]]
 
 **Sunset & Vine**: Esta é uma referência inteligente ao famoso cruzamento de Hollywood, ponto de encontro das pessoas. Será adequada para Hollywood?
+![[Pasted image 20260722094353.png]]
+**BIBLI:** “BIBLI” é uma gíria européia para biblioteca, uma metáfora perfeita para o aprendizado. Além disso, é breve e facilmente lembrado. BINGO!
+![[Pasted image 20260722094412.png]]
+## ETAPA 11: COMO VOCÊ EXPLICA SUA MARCA?
+
+- Classe: Nenhuma
+
+Todas as comunicações de marca devem provir de uma linha de posicionamento interno, ou "trueline." O trueline é aquele fato verdadeiro que pode ser dito sobre a marca, com base na declaração de "único". Deve ser algo que os concorrentes não possam alegar (ou não o farão) e algo valioso e convincente para os clientes. Lembre, o que importa é o que ELES dizem e não o que você diz. Em suma, o trueline é a proposição de valor, a razão pela qual a sua marca é importante para os  
+clientes.
+
+Um exemplo de trueline é o que as pessoas possam falar a respeito da Southwest Airlines: pode voar para praticamente qualquer lugar por menos do que custa dirigir. Ou do Mini: o pequeno automóvel para pessoas que desejam uma divertida experiência ao volante. Ou da eBay: o lugar para comercializar praticamente qualquer coisa no planeta. Sob a perspectiva do cliente, são as verdades básicas e diferenciadoras dessas marcas. Elas não podem ser reduzidas, refutadas ou facilmente dispensadas.
+
+Com o trueline em mãos, você está a um passo do slogan. Por exemplo, quando a Southwest diz "agora você está livre para se deslocar no país", o trueline está simplesmente sendo interpretado de uma forma mais polida. O que ela quer explorar é nossa convicção de que a Southwest oferece um tipo de liberdade que não tínhamos antes. Quando o Mini diz "vamos viajar", ela está interpretando um conjunto de sentimentos complexos para uma mensagem tribal: se você aprecia automóveis pequenos com alto desempenho, como aqueles encontrados na Europa, e odeia a tendência americana de caminhonetes desajeitadas que consomem muita gasolina, venha e junte-se a nós. E quando a eBay se autodenomina "o mercado online do mundo", está dizendo que, na condição de maior ponto de encontro para trocas no planeta, ela oferece o maior número de compradores e vendedores.
+
+O trueline da Bibli tem relação direta com a idéia que está por trás do nome: é o lugar onde as pessoas se encontram para aprender mais sobre vinho. E, com um pouco mais de refinamento e uma pequena ênfase no cliente, esse trueline pode ser facilmente transformado em um slogan: "Bibli. Eduque seu paladar". Três palavras sem vírgulas ou "es".
+
+<aside>
+<h4>TRUELINES E SLOGAN</h4>
+
+1 A A.G. Edwards está inteiramente dedicada às suas economias.  
+TOTALMENTE FOCADOS NOS NOSSOS CLIENTES.
+<br><br>
+2 O Citibank sabe que o dinheiro é apenas um meio para a Felicidade.  
+LIVE RICHLY.
+<br><br>
+3 A Audi fabrica automóveis para pessoas que escolhem o caminho diferente.  
+NUNCA VÁ ATRÁS.
+<br><br>
+4 Chapstick é o segredo para lábios saudáveis em climas frios.  
+MEUS LÁBIOS ESTÃO SELADOS.
+<br><br>
+5 Os equipamentos Bowflex oferecem resultados de academia na sua casa.  
+EXERCITE-SE VOCÊ MESMO.
+<br><br>
+6 A Disneyland é o parque de diversões mais querido do mundo.  
+O LUGAR MAIS ALEGRE DO MUNDO.
+<br><br>
+7 A Charles Schwab não é apenas uma empresa, mas uma pessoa de verdade.  
+FALE COM O CHUCK.
+<br><br>
+8 A Earthlink oferece serviços que facilitam o uso do e-mail.  
+A EARTHLINK GIRA EM TORNO DE VOCÊ.
+<br><br>
+9 A Nike ajuda você a encontrar o seu atleta interior.  
+JUST DO IT.
+<br><br>
+10 Heller Ehrmann é o escritório de advocacia que derruba o estereótipo.  
+DESAFIANDO AS CONVENÇÕES.
+<br><br>
+11 A Hooters é o restaurante politicamente incorreto para homens brutos.  
+DELICIOSAMENTE BREGA E NÃO REFINADO.
+<br><br>
+12 Las Vegas é o lugar para ser desobediente.  
+O QUE ACONTECE AQUI, PERMANECE AQUI.
+<br><br>
+13 A Lending Tree recolhe as apostas online de credores.  
+QUANDO OS BANCOS CONCORREM, VOCÊ GANHA.
+</aside>
