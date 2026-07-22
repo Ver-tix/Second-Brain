@@ -621,6 +621,8 @@ Não coloque código ainda.
 
 Queremos apenas a estrutura.
 
+[[🤖 Monitoria M6 002]]
+
 ---
 
 ## Etapa 4 — Criar o `.gitignore`
