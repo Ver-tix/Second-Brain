@@ -182,3 +182,97 @@ Repare no detalhe extra sugerido por esse formato. Você não apenas tem a categ
 > QUANDO: em uma época de despertar cultural
 
 Uma declaração de "único" oferece uma estrutura para o zag. Uma vez definido o ponto de diferenciação, você tem um filtro para todas as decisões futuras da empresa. Ao verificar a declaração com a missão da empresa, você pode determinar se qualquer nova decisão pode beneficiar ou prejudicar, focalizar ou desfocar, purificar ou modificar a sua marca.
+
+## ETAPA 7: O QUE DEVE SER INCLUÍDO OU EXCLUÍDO?
+
+- Classe: Diferenciação
+
+Um dos princípios mais importantes na construção de uma marca é o seu alinhamento. Infelizmente, é um princípio mais desrespeitado do que praticado. Por quê? Os humanos são mais adeptos a incluir do que a excluir elementos. ADORAMOS começar novas iniciativas e construir, construir, construir. ODIAMOS a palavra "não". Em contrapartida, o princípio do alinhamento necessita de foco intenso e autodisciplina.
+
+O alinhamento da marca é a prática de unir a estratégia da empresa à experiência do cliente - ajustando todos os comportamentos da empresa na busca de um zag claramente articulado. Não deve haver sobras, ofertas independentes ou contradições entre o que é dito e o que é feito. O resultado do alinhamento é a coerência; o contrário, por sua vez, resulta em recursos desperdiçados.
+
+**Em nossos workshops, demonstramos o alinhamento com o "jogo do sacrifício". Nesse exercício, as equipes iniciam com uma marca conhecida, decidem o que a torna diferente e desejável e, então, "podam" essa marca até o seu significado fundamental, removendo os elementos que não estão equiparados. A partir daí, é possível sugerir novos elementos que possam intensificar - não diminuir - o foco da marca.** Assim, as equipes podem decidir que a Ralph Lauren Polo representa "roupas clássicas para o americano de prestígio elevado". Para aumentar o alinhamento da marca, elas podem propor que a empresa mantenha as roupas e os acessórios, mas que exclua elementos, como presentes para cães, tintas para paredes, móveis, programas de televisão, revistas e restaurantes. Então, elas podem indicar a inclusão de alguns elementos, como bagagens ou roupas eqüestres.
+
+> **O princípio básico é simples: se a inclusão de um elemento à marca coloca sua empresa em concorrência com alguém mais forte, pense duas vezes. Você pode acabar desperdiçando energia e confundindo os clientes no processo.**
+
+Considere o caso da GM que, recentemente, licenciou o logotipo da Cadillac à Kent International para criar bicicletas Cadillac. De acordo com o pessoal da Cadillac: "Essa é a maneira perfeita de dissolver os pré-conceitos do que [os clientes] acham que sabem a respeito da Cadillac". Exatamente. Agora eles pensarão que a Cadillac é um automóvel de luxo e uma empresa de bicicletas. Por que não manter-se focado e criar um automóvel de luxo americano mais aperfeiçoado? Ainda há espaço nesse mercado. O antigo CEO da IBM, Lou Gerstner, gostava muito de afirmar: "Se você não sabe aonde vai, qualquer caminho pode levá-lo“. A Cadillac enxergou a bifurcação no caminho e resolveu segui-la.
+
+Como deve ser alinhada nossa enoteca? Uma vez que ainda estamos no estágio conceitual, não há erros para serem corrigidos ou elementos para serem sacrificados. Mesmo assim, existe uma oportunidade para "pré-sacrificar" algumas suposições. Uma delas é que um cálice de vinho deve custar aproximadamente US$ 7. Quem disse? Se a marca é baseada no aprendizado sobre o vinho, os "alunos" podem acabar gastando mais do que o fizeram na faculdade. Que tal um limite de "vinhos para aprendizado" por US$ 2 o cálice? Outra suposição é que o vinho deve sempre vir engarrafado. E se colocássemos nossos "vinhos para aprendizado" em caixas que desacelerassem a oxidação? Ou se deixássemos os clientes trazerem suas próprias garrafas, como é feito em algumas partes da Europa? Poderíamos, então, distribuir "vinho fresco" de contêineres de aço inoxidável por preços muito mais baratos. Outra suposição é que a enoteca deve ser semelhante a uma vinícola, com muita pedra, madeira áspera e vidro temperado. Quem disse? E se fosse semelhante a uma biblioteca universitária?
+
+O caminho mais rápido para um zag é observar os concorrentes e fazer algo diferente.
+
+Não - REALMENTE diferente.
+
+## ETAPA 8: QUEM AMA VOCÊ?
+
+- Classe: Foco
+
+Toda marca é construída por uma comunidade. Essa comunidade, por sua vez, não inclui apenas funcionários da empresa, mas, sim, sócios, investidores, clientes, não-clientes, inclusive a concorrência. Trata-se de um ecossistema completo em que existem trocas por todos os lados. Todos têm um papel a cumprir e devem ser recompensados por seus esforços.
+
+Permita-me ilustrar esse ponto com uma história.
+
+De manhã, tenho o hábito de levar meu cão a um café próximo para um latté*. O latté é para mim; Boodles ganha um biscoito. O café é uma pequena loja familiar, localizada em um pequeno centro comercial com assoalho de concreto, coluna de fotos amadoras na parede, alguns sofás desarrumados de um lado, uma grande cafeteira no outro e estacionamento na frente. O estabelecimento pertence a um simpático casal do Oriente Médio que trabalha 365 dias ao ano, exceto por um meio-turno no Natal.
+
+Na primeira visita ao café, defrontei-me com uma longa fila. Para minha surpresa, ela foi rápida. E mais, todos pareciam se conhecer pelo nome. Após algumas visitas, comecei a entender. Eles tinham um "programa de fidelidade": um cartão de papel que oferecia 12 bebidas pelo preço de 10. Eles escreviam o nome e a bebida favorita no cartão, e então registravam a cada pedido.
+
+O resultado desse sistema é que todos sabem seu nome e, logo, você sabe o nome de todo mundo. E mais, as pessoas do caixa aprendem a reconhecer o seu automóvel quando você estaciona. Assim, ao chegar sua vez, a bebida já está pronta.  
+Com o tempo, clientes agrupam-se e reagrupam-se para conversar - nos sofás, nas mesas, na varanda.
+
+A equipe de avanços da Starbucks, ao perceber aquela atividade no café, logo abriu uma linda loja no mesmo quarteirão. Você se recorda onde estava no dia 11 de setembro de 2001? Eu lembro. Algumas semanas depois da abertura do novo Starbucks, estacionava meu carro no café e pensava: pobres pessoas, entre o retrocesso cultural e o novo Starbucks, eles já eram. Por isso, resolvi dar meu apoio moral aos antigos comerciantes e voltar no dia seguinte, fizesse sol ou chuva. Para minha surpresa, quando entrei no estacionamento, a fila de clientes atravessava a porta e dobrava o edifício.
+
+O que faz gerar tanta fidelidade? Como pode esse pequeno negócio construir o tipo de comunidade dos sonhos da Starbucks? Simples. A resposta está nas trocas. Os donos da loja trabalham com afinco para garantir uma vida decente.  
+Os clientes vêm todos os dias para fazer novas amizades. O confeiteiro freelancer faz pães e doces para ter um cliente satisfeito que pague rápido. O proprietário oferece um aluguel mais baixo para atrair mais clientes aos outros locatários. Eu ganho o meu latté, Boodles o seu biscoito. Enquanto isso, os negócios da Starbucks naquele mesmo quarteirão estão apenas modestos.
+
+A enoteca poderia ser lucrativa com uma idéia semelhante? Quais os benefícios para os clientes se eles unirem-se à tribo? E quanto aos funcionários? Os produtores de vinho? As lojas vizinhas em cada local? A polícia local (que será chamada de vez em quando)? O sistema de ensino local?  
+As instituições beneficentes da comunidade? Os investidores, sócios e fornecedores que auxiliam na construção da marca? A indústria vinícola como um todo? Para manter o sistema saudável e em desenvolvimento, todos devem contribuir e todos devem se beneficiar.
+
+## ETAPA 9: QUEM É O INIMIGO?
+
+- Classe: nenhuma
+
+**Não é possível ser amigo de todos. Em vez de tentar agradar a todos e correr o risco de não agradar, comece uma briga» com o maior e mais bem-sucedido dos concorrentes. Por quê? Eis a parte RADICAL da diferenciação.** A história da marca está cheia de evidências de que Davi pode enfrentar Golias e vencer: a Avis enfrentando a Hertz, a Apple enfrentando a IBM e o pequeno Mini enfrentando as caminhonetes. **O objetivo não é derrubar os gigantes, mas utilizar os princípios do contraste para realçar o zag.**
+
+**Muitas vezes o inimigo não é uma empresa concorrente, mas a antiga maneira de fazer as coisas.** Saliente! Mostre aos médicos que, ao lidarem com a própria contabilidade, podem estar perdendo metade dos lucros. Enfatize aos viajantes que um quarto de hotel por US$ 200 pode ser o dobro do valor por uma única noite de descanso. Saliente aos gerentes de cadeias de suprimentos que utilizar fax e blocos de anotações, em vez de software, pode estar custando milhões à empresa.
+
+E o inimigo da enoteca? Que tal a classe dos esnobes que usam a mística do vinho para aumentar os preços e intimidar as pessoas? Que venha a revolução!
+
+## ETAPA 10: COMO VOCÊ É CHAMADO?
+
+- Classe: Diferenciação
+
+É curioso verificar que o ativo mais valioso de uma marca - seu nome - costuma receber a menor atenção. Talvez isso aconteça porque novos produtos, serviços e empresas são normalmente batizados antes que as equipes de marketing estejam em ação. Talvez porque os fundadores acreditem que seja um privilégio seu nomear a marca. Ou talvez porque não estejam a par dos altos custos que acompanham uma marca de nome fraco, ou dos efeitos positivos de um nome forte.
+
+Vamos imaginar a história de duas empresas, ambas entrando no mercado altamente competitivo de eletrônicos pessoais: a Personal Media Devices e a Yubop.
+
+Os fundadores da Personal Media Devices estão extremamente satisfeitos com o nome de sua empresa, pois, conforme um dos executivos: "Ela diz tudo. As pessoas sabem exatamente o que vendemos apenas pelo nome"
+
+Avance cinco anos. A Personal Media Devices enfrenta uma concorrência crescente de empresas cujos nomes são Internation Serves, Personal Media Systems e International Media Machines. Além disso, as pessoas logo cansam de falar "Personal Media Devices" e passam a chamar a empresa de "PMD". Os novos clientes não têm idéia do que significa PMD e confundem facilmente esse nome com as empresas PMC, DMD e PDM, bem como com as concorrentes cujos nomes ficam reduzidos a IMD, PMS e IMM. Já está confuso? Pois os clientes da PMD também estão.
+
+Para diferenciar-se da concorrência, a PMD investe grande quantidade de dinheiro em propaganda e em relações públicas para lembrar ao público que a empresa é uma das pioneiras e que ainda é a melhor. Mesmo assim, as pessoas têm dificuldade de lembrar se queriam um produto PMD ou PMC. A PMD reage à crescente concorrência ao reduzir os preços e, logo, deve reduzir o orçamento de sua propaganda. Enquanto isso, um concorrente chamado Yubop está atormentando a empresa.
+
+Ao proporem o nome pela primeira vez, os fundadores da Yubop foram repreendidos. Conforme disse um investidor:  
+"o nome não soa como uma empresa séria". Apesar disso, baseados em brevidade, diferenciação e disponibilidade de URL, eles decidiram seguir com o plano.
+
+Cinco anos depois, a Yubop torna-se uma palavra familiar. O slogan "Who bop?" transforma-se em uma das frases mais populares em propaganda, sendo utilizada em conversas cotidianas. A comunidade criativa da Yubop encontra maneiras infinitas de jogar com o nome na sua comunicação com o cliente (" bop, we bop, they bop, Yubop, tornando tão forte o boca a boca que o orçamento de marketing é consideravelmente mais baixo do que o padrão nacional, e as margens de lucro são mais altas.
+
+Um nome consegue fazer tudo isso? Pergunte a Starbucks, a jetBlue, a TomTom (sistema de navegação portátil), a Brocade (rede de armazenamento) e a Smuckers (geléia). nome fraco é um atraso na construção da marca, enquanto o nome forte acelera o processo.
+
+**Se o nome de sua marca já está decidido, vá para a próxima etapa. Caso contrário, eis algumas dicas de The brand gap. Um nome deve ser: (1) distinto daquele dos concorrentes; (2) breve - quatro sílabas ou menos; (3) adequado, nem tão descritivo, nem tão genérico; (4) de fácil grafia; (5) de fácil pronúncia; (6) pertinente para "brandplay"; (7) legalmente defensável.**
+
+Voltando à enoteca, os fundadores trabalharam muito para aperfeiçoar o nome temporário, Tastings. Qual a escolha final? Vire a página e descubra.
+
+### Naming da Enoteca
+
+**Curriculum:** “Curriculum” sugere educação, enquanto a mancha de vinho tinto cria a letra “C” como símbolo da marca. Será o nome muito esnobe?
+![[Pasted image 20260722093954.png]]
+
+**VERITAS**: “In vino veritas” significa que o vinho “solta” a língua. Utilizar apenas o “veritas” (verdade, em latim) evita o uso exagerado de “vino”. Será sofisticado demais?
+![[Pasted image 20260722094008.png]]
+
+**tastings:** os três cálices sobrepostos sugerem uma degustação de vinho, porém o nome e a ilustração são muito previsíveis. Existe uma forma de zaguear?
+![[Pasted image 20260722094027.png]]
+
+**Uncorked:** associado a essa ilustração, “Uncorked” parece um lugar divertido para conversas e degustação de vinho, mas onde está a conexão com a aprendizagem?
+![[Pasted image 20260722094046.png]]
+
+**Sunset & Vine**: Esta é uma referência inteligente ao famoso cruzamento de Hollywood, ponto de encontro das pessoas. Será adequada para Hollywood?
