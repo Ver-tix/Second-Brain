@@ -348,3 +348,107 @@ Quantas marcas você consegue nomear? O iPod?
 De fato, uma análise nas comunicações do iPod revelam muito pouco desperdício. As imagens veiculadas em propaganda de TV são as mesmas para outdoors, peças secundárias, feiras comerciais, ambientes de loja e embalagens para varejo. A marca utiliza apenas uma divulgação para todos os pontos de contato, nos locais onde os clientes experienciam a marca. Nos pontos de contato onde os profissionais de marketing da Apple decidem concorrer, eles acabam vencendo. Onde não é possível ganhar, eles não concorrem.  
 Como nem toda a empresa pode ser uma Apple, o recomendável é utilizar a mesma abordagem Apple de marketing. Tudo inicia com um zag e continua com o alinhamento de todas as experiências do consumidor a essa mudança de rumo. Como o zag é projetado para se destacar da poluição conceitual, um plano de marketing com essa base parece muito maior do que o é na realidade. Como se costuma dizer, ele maximiza o ROl.  O orçamento da Bibli, por exemplo, pode ser focado em comunicações in-store para que os clientes sejam os canais de divulgação da marca. Os pontos de contato podem incluir embalagens, cálices de vinho, livros da marca e venda de DVDs, além de dicas de vinho facilmente compartilhadas pelos clientes.
 
+## ETAPA 13: COMO AS PESSOAS INTERAGEM COM VOCÊ?
+
+- Classe: Comunicações
+
+**Antes de alinhar seus pontos de contato, é preciso definir o que você vai vender e como pretende vendê-lo. E isso certamente traz implicações de custo-beneficio. Como a marca é a percepção intuitiva de uma pessoa, é melhor abordar o problema com intuição e não com lógica. Você está em busca de maneiras de construir o seu zag - depois pode analisar o potencial de lucro dos diversos componentes.**
+
+Ao desenvolver a sua mudança de rumo, você vai desfazer-se de itens que seriam lucrativos para os concorrentes. Ou você perceberá que eles brigam entre si ao competir da mesma maneira ou nas mesmas áreas, e que você pode adquirir vantagem ao abrir mão dessas batalhas.
+
+Em A estratégia do oceano azul, os autores W. Chan Kim e Renee Mauborgne oferecem uma forma sistemática para reposicionar a concorrência, que é modificar as regras de combate. O objetivo é dirigir-se a um espaço de mercado despoluído (o oceano azul), em vez de um espaço caracterizado pela concorrência sanguinária (o oceano vermelho).
+
+Como a Bibli foi concebida, desde o princípio, para ocupar um novo espaço de mercado, os fundadores podem mapeá-la em relação aos concorrentes mais próximos, como as enotecas tradicionais: restaurantes com cartas de vinho e lojas de vinho com salas para degustação.  
+Qual o diferencial da Bibli em relação a seus concorrentes? "Vinhos para aprendizado", acessíveis por cálice? Conteúdo educativo, apresentado em grandes telas de vídeo? Jogos de degustação, em que o cliente tem seus olhos vendados e compete para identificar as variações? Excursões de grupo para países produtores de vinhos? Um website rico em conteúdo, com uma programação de degustação sempre atualizada? Harmonização entre pratos e vinhos? Vinhos de marca própria para serem consumidos em casa?
+
+**A regra a seguir, no mapeamento da proposição de valor, é esquecer as melhores práticas. E essas costumam ser as práticas comuns. E práticas comuns jamais resultam em um zag, não importa quantas forem aplicadas.**
+
+## ETAPA 14: O QUE ELES EXPERIENCIAM?
+
+- Classe: Comunicações
+
+Embora a estratégia seja uma disciplina importante, muitas empresas tendem a esquecer que, sem uma boa execução, existe apenas um plano - uma intenção. A cada ano, milhares de planos estratégicos falham, porque não se tornam experiências cativantes para os clientes. Em suma, a estrada para o inferno está pavimentada de boas estratégias.
+
+**Os clientes experimentam a sua marca em pontos de contato específicos, o que evidencia a importância do trabalho de escolher e influenciar esses pontos. É preciso mapear o trajeto dos clientes desde a conscientização até a lealdade da marca. Como eles descobrem a marca? Como você pode ajudá-los a filiarem-se à marca? Quem - ou o que - faz concorrência em cada um dos pontos de contato? Onde devem ser aplicados os recursos de marketing? E, mais objetivamente, onde eles NÃO devem ser colocados?**
+
+Os profissionais de marketing da enoteca, por exemplo, podem criar uma lista dos pontos de contato com o seguinte exemplo: boca a boca, passar de carro, caminhada, apresentação por um amigo, propaganda de jornal, comercial de rádio, propaganda online, procura na Web, website da Bibli, cobertura editorial, mala direta, design do interior, comportamento da equipe, cálices de vinhos, cardápios, produtos para embalagem, materiais educativos, jogos educativos online, eventos de degustação, programa de viagem sobre vinho.
+
+Eles podem, então, priorizar esses pontos, conforme o potencial de alinhamento. Assim, o espaço interior pode tornar-se um dos primeiros investimentos, pois a marca passa a ser projetada para estimular conversas. A parte eletrônica também pode receber atenção especial, incluindo uma grande tela de vídeo atrás do bar, um conteúdo customizado para atender a parte educativa, entretenimento, jogos de degustação e uma caixa ultra-rápida com computadores de bolso. Os pontos de contato menos importantes receberiam menos investimentos, e outros, principalmente aqueles utilizados em larga escala pela concorrência, seriam abandonados.
+
+Cada marca, seja empresa, produto ou serviço de atendimento a indivíduos ou negócios, é criada com experiências. A chave é compor essas experiências para que tragam satisfação às pessoas que irão determinar o significado e o valor da sua marca - os seus clientes.
+
+## ETAPA 15: COMO VOCÊ CONQUISTA A FIDELIDADE DOS CLIENTES?
+
+- Classe: Comunicações
+
+Deixe-me apresentar alguns dados estatísticos. Mais de 50% dos clientes pagam um ágio de 20-25% pela sua marca favorita, antes de trocar pela de um concorrente. Em algumas categorias, um aumento de 5% de clientes fiéis pode produzir uma lucratividade de 95%. Em certas categorias de luxo, 10% dos clientes geram 50% das vendas. Isso é o suficiente para acelerar o coração de qualquer profissional de marketing.
+
+No livro Building the _brand-driven business_,  
+Scott M Davis e Michael Dunn oferecem seis motivos para estimular a fidelidade do cliente. Segundo os autores, quando os clientes são fiéis, (1) eles não pensam em outras marcas; (2) eles pedem a marca pelo nome; (3) eles recomendam a marca; (4) eles esperam mais tempo e andam mais para adquirir sua marca: (5) eles aceitam extensões da marca mais prontamente; e (6) eles continuam pagando um preço mais caro.
+
+Em outra estatística, no poluído mercado conceitual de hoje, 80% dos clientes encontram-se vulneráveis às ofertas competitivas, e menos de 20% estão dispostos a recomendar sua marca a outras pessoas. Com chances tão remotas e com tanta coisa em jogo, não é à toa que existam tantos programas de fidelidade. Mas eles realmente funcionam? A maioria não, e eis os seis motivos que levam a isso: (1) os programas de fidelidade costumam ser baseados em descontos que  
+"reinam" os clientes a contar com preços baixos; (2) esses programas atraem clientes fiéis que seguramente pagariam um preço maior: (3) desestimulam clientes novos, fazendo com que se sintam punidos ou excluídos; (4) estimulam os concorrentes a revidar com programas semelhantes; reduzem as margens de lucro, o que (6) reduz a capacidade da empresa de atender os clientes nos altos níveis anteriores.
+
+Na verdade, a fidelidade não pode ser programada. Assim que o cliente começa a sentir-se "perseguido." ele escolhe "lutar" ou "fugir". Em outras palavras, ele tem a opção de descobrir como funciona o sistema, ou escolher outra marca.
+
+Talvez você já tenha tido essa experiência: alguns meses atrás, fui rapidamente à Safeway no meu trajeto para o escritório. Como normalmente faço compras em outro mercado, fiquei surpreso com alguns preços atraentes. Quando cheguei ao caixa, a funcionária perguntou: "O senhor tem um cartão Safeway?" Ela explicou que, para conseguir os preços mais baratos, eu deveria, primeiramente, preencher um formulário. Abandonei os meus produtos no balcão e nunca mais retornei a uma Safeway.
+![[Pasted image 20260722110136.png]]
+Talvez você reagisse de maneira diferente. Talvez você guardasse o cartão juntamente com os outros na sua carteira e, então, comparasse uma empresa com a outra. De qualquer forma, onde está a fidelidade? Ela não existe, pois a verdadeira fidelidade não pode ser comprada; somente conquistada. Começa pela fidelidade da empresa com o cliente, e não o oposto. O relacionamento apenas se torna mútuo quando os clientes sentem que sua fidelidade foi bem recebida. Para ilustrar o princípio da fidelidade mútua, vamos imaginar que um componente do processo educativo da Bibli é uma base de dados que mantém registros dos vinhos degustados pelos clientes, juntamente com suas avaliações pessoais. Os clientes podem, então, acessar o histórico no website da Bibli, por meio de aparelhos portáteis ou outros servidores, para verificar o que já foi degustado e pedir recomendações de outros vinhos.
+
+À medida que se tornam mais experientes, um sistema de pontos poderia automaticamente aprová-los para níveis mais elevados. Talvez seja possível oferecer uma degustação gratuita de um vinho premium aos níveis "iniciais". Para os níveis "experientes", haveria um desconto nos vinhos premium da "biblioteca", , os quais podem ser compartilhados com amigos, depois de introduzidos na Bibli. Portanto, cada visita seria um investimento nos relacionamentos, com a empresa tomando a iniciativa e os clientes respondendo com a introdução dos amigos. Com esse modelo, não haveria sensações de "cilada" ou de punição por não fazer parte do "programa".
+
+Para se desenvolver, a fidelidade da marca deve ser conquistada e recíproca. Como o publicitário David Ogilvy notoriamente observou, "qualquer tonto pode fazer negócio, mas é preciso gênio, fé e perseverança para criar uma marca".
+
+## ETAPA 16: COMO VOCÊ PROLONGA O SEU SUCESSO?
+
+- Classe: Foco
+
+A pergunta mais difícil na estratégia da marca é como manter o crescimento. Em algum momento na vida de uma marca bem-sucedida, os profissionais de marketing sentiram a pressão para prolongar o sucesso, quando "alavancam" a marca para outras ofertas. A esperança é que o nome da marca se torne uma plataforma para uma nova linha de produtos ou serviços, com cada produto ou serviço fortalecendo a fidelidade do cliente já acumulada.
+
+As extensões de marca são muito lógicas. Se a marca original oferece associações positivas ao cliente, é possível que ainda existam valores a serem descobertos e explorados. Com isso, novas extensões podem reforçar o significado da marca original, tornando-a ainda mais valiosa. Além disso, é possível que não haja espaço suficiente, em uma determinada categoria, para justificar os recursos necessários ao lançamento e à manutenção de uma marca separada.
+
+As extensões costumam ser reações às seguintes reflexões: temos os clientes, o que mais podemos vender para eles (Virgin)? Ou, temos as capacidades, o que mais podemos fazer (GE)? Ou, temos a marca, onde mais podemos explorá-la (Disney)? Logo que a empresa passa de uma oferta única para uma linha de ofertas, ela entra para o negócio de portfólio da marca.
+
+Existem dois modelos básicos de organização para os portfólios de marca. O primeiro é uma "casa de marcas", ou seja, uma empresa que comercializa uma extensão de marcas de nomes separados. Essas marcas individuais são o centro das atenções, enquanto a empresa mantém-se nos bastidores (Procter & Gamble). O segundo modelo é uma "casa com) (marca"listo é, a empresa, em si, é a marca, e os produtos ou serviços são os subsistemas da marca principal (Hewlett-Packard).
+
+A vantagem da casa de marcas é que cada marca está livre para batalhar com seus próprios termos, sem ser tolhida pelo significado da marca-mãe. A desvantagem é que cada marca deve ser financiada, construída e gerenciada individualmente.
+
+A vantagem da casa com marca é que todos os produtos e serviços podem compartilhar o mesmo orçamento, clientes e posição de mercado. A desvantagem é que as ofertas não se beneficiam da mesma forma da marca da empresa, e os concorrentes podem superar facilmente as ofertas com fracos significados estratégicos.
+
+Os dois modelos podem ser eficazes, dependendo da indústria, da situação competitiva e da visão da empresa. menos eficaz é aquele que mistura os dois tipos, deixando o portfólio no "meio do caminho" - nem casa de marcas, nem casa com marca - até atingir o anonimato, visto que as marcas focalizadas atingem os clientes.
+
+Ambos os modelos precisam de um gerenciamento cuidadoso, pois cada marca e submarca têm um papel bem definido a desempenhar. "Enxergar as marcas como silos individuais é a receita para a subotimização e a ineficiência" diz David Aaker, da Prophet, o livro Estratégia de Portfólio de Marcas traz uma completa abordagem do assunto.
+
+De volta à Bibli, os fundadores estão pensando no futuro. Se eles desenvolverem um negócio lucrativo, como podem prolongar o sucesso? Criando uma comunidade mundial dedicada à apreciação do vinho, em que os clientes acabam trazendo mais clientes? Vendendo vinhos de marca própria no varejo? Levando o modelo de negócio para outros países onde haja curiosidade sobre o vinho?
+
+## ETAPA 17: COMO VOCÊ PROTEGE SEU PORTFÓLIO?
+
+- Classe: Foco
+
+A época da independência da marca está chegando ao fim, na medida em que as empresas emprestam valor à união de suas marcas. Apesar da valiosa sinergia existente nos portfólios de marca, há quatro perigos, inexistentes nas marcas individuais: contágio, confusão, contradição e complexidade.
+
+O CONTÁGIO, o primeiro perigo, é o lado negro da sinergia. Assim como a fidelidade de um cliente pode espalhar-se rapidamente através das conexões da marca, o mesmo acontece com a má notícia. Se houver um problema com uma marca, o restante do portfólio pode ser infectado, dependendo da força dos vínculos entre as marcas. Por exemplo, há alguns anos, o programa 60 MINUTES fez uma reportagem sobre a tendência do Audi 5000 de "súbita aceleração", uma falsa acusação que logo se espalhou na mídia, entre os clientes e logo chegou ao judiciário. Isso arruinou não apenas a reputação do 5000, como de TODOS os modelos da Audi. Foram necessários anos para que a Audi recuperasse a sua marca.
+
+Em contrapartida, se o mesmo destino atingisse o Mini Cooper no ano seguinte, a empresa-mãe BMW sofreria menos. Ao construir uma marca separada para o Mini, a empresa criou um firewall entre as duas marcas.
+
+Portanto, a decisão entre criar um portfólio de marca ou uma marca independente envolve a opção entre sinergia e segurança.
+
+Já CONFUSÃO não é tão significativa quanto o contágio, mas é muito mais comum. A confusão acontece quando as empresas estendem suas marcas além dos limites estabelecidos pelos clientes. Posso adorar a pasta dental Crest, mas agora que existem 17 variedades da pasta, já não sei mais o que significa a Crest. Em vez de lidar com a minha confusão, posso optar pela marca Tom's Natural. Ao menos sei o que essa marca representa. Os clientes desejam escolher ENTRE as marcas, e não DENTRO das marcas.
+
+A confusão sobre uma marca pode ser evitada por meio do entendimento entre seus atributos e suas possíveis correlações. Os atributos da marca são as habilidades de inserir um significado marcante na mente das pessoas. As correlações da marca são as habilidades de expandir o significado sem ultrapassá-la.
+
+Por exemplo, Dyson é uma marca de aspiradores de pó com alto design, caros e coloridos. A marca tem um grande número de atributos em sua subcategoria. Se a Dyson criasse uma linha de relógios de pulso com alto design, caros e coloridos, a marca poderia, no final, perder sua relevância no segmento de aspiradores de pó. Seria igualmente perigoso se a Dyson decidisse permanecer no ramo de aspiradores, mas produzisse uma versão mais barata. A marca seria definida pelo produto popular, e não pelo sofisticado. O produto sofisticado se tornaria vulnerável frente a um concorrente mais focado. Os atributos da marca limitam a sua área de expansão e a extensão para uma linha mais popular afetará negativamente o valor percebido da marca pelos consumidores.
+
+Com certeza a tentação para expandir a marca é praticamente irresistível. As empresas precisam crescer e, no curto prazo, a maior parte das extensões de marca são lucrativas. No longo prazo, entretanto, as extensões podem debilitar uma marca ao confundir os clientes. Sob a perspectiva dos sistemas de pensamento: (1) a empresa necessita de aumento de receita; (2) logo, ela cria extensões de marca; (3) isso aumenta as receitas no curto prazo; (4) porém, no longo prazo, elas desfocam a marca; (5) isso leva a receitas baixas; (6) isso acarreta a necessidade do aumento de receita e assim por diante. Esse é o circuito perdido da extensão de marca. Para evitar isso, é preciso foco e raciocínio  
+no longo prazo.
+
+A CONTRADIÇÃO pode acontecer quando uma empresa procura estender a marca globalmente. Como as marcas são definidas pelos clientes - não pelas empresas -, as perspectivas em relação a um produto ou a uma empresa variam conforme a cultura. A marca Disney, por exemplo, pode significar "entretenimento saudável" para uma cultura, "entretenimento americano" para uma segunda e "imperialismo cultural" para outra. Ao estender geograficamente seu portfólio de marca, a Disney arrisca enfrentar reações culturais de significados contraditórios.
+
+Uma forma de evitar a contradição é criar uma marca separada para cada cultura, com um nome distinto e um conjunto de associações diferentes. Outra maneira é focalizar uma marca global com um denominador comum. A posição de "Invento" da Hewlett-Packard permitiu que ela viajasse facilmente pelo mundo sem enfrentar contradições ou reações culturais.
+
+O último perigo é a COMPLEXIDADE. À medida que cresce o portfólio da marca, aquilo que começou como forma de simplificar o processo de construção acaba por complicá-lo. Múltiplos segmentos, múltiplos produtos, múltiplas extensões, diferentes conjuntos competitivos e complexos canais de distribuição podem facilmente criar um portfólio de marca ineficiente, de difícil gerenciamento (e superdimensionado) e grande demais. Enquanto a mente humana trabalha melhor com a inclusão, a exclusão é a chave na construção de portfólios fortes - o corte de marcas e submarcas que não apoiam o zag.
+
+O gerenciamento de um portfólio requer o estabelecimento de papéis definidos, relacionamentos e limites para as marcas. Exige o sacrifício de fluxos de receita lucrativa que desfocam o portfólio. Requer, também, que haja uma forte noção do que os clientes permitirão em relação à marca. "Por mais provocativo que seja", disse o CEO da BMW, Helmut Panke, "a tarefa mais difícil na construção da marca é ser capaz de dizer 'não"".
+
+Finalmente, a enoteca está pronta para o lançamento. Os fundadores estão seguros em relação à clareza, ao direcionamento e ao potencial de mercado de seu zag. Mesmo que ainda tenham muitas decisões a tomar, eles possuem uma poderosa ferramenta de decisão para manter a marca alinhada e o negócio lucrativo por muitos anos.  
+Saúde!
