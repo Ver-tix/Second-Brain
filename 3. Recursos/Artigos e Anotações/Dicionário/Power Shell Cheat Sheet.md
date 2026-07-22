@@ -9,6 +9,7 @@ tags:
 | 📂 Localização        | `pwd`                        | Mostra a pasta atual.                         |
 | 📂 Localização        | `Get-Location`               | Equivalente ao `pwd`.                         |
 | 📁 Listar arquivos    | `ls`                         | Lista arquivos e pastas.                      |
+| 📁 Listar arquivos    | `tree`                       | Lista arquivos e pastas.                      |
 | 📁 Listar arquivos    | `dir`                        | Mesmo resultado do `ls`.                      |
 | 📁 Listar arquivos    | `Get-ChildItem`              | Nome completo do `ls`.                        |
 | 📂 Navegação          | `cd Pasta`                   | Entra em uma pasta.                           |

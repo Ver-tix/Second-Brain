@@ -673,3 +673,182 @@ E quero aproveitar essa etapa para te ensinar algo que considero muito important
 A maioria dos iniciantes pensa que um README serve apenas para "explicar o projeto". Na verdade, um bom README é **o cartão de visitas de um repositório**. É a primeira coisa que outro desenvolvedor (ou até você mesmo, daqui a seis meses) vai ler para entender rapidamente o propósito, o estado e a forma de usar o projeto.
 
 Então, no próximo passo, não vamos apenas preencher um requisito do laboratório. Vamos começar a escrever um README que possa evoluir junto com o Prometheus-Mentor, como um documento vivo do projeto.
+
+---
+
+# Feedback do Professos Principal
+
+Excelente! E já tenho uma ótima notícia:
+
+**Você acabou de criar a primeira arquitetura do Prometheus-Mentor.** 🎉
+
+Até aqui, está tudo correto.
+
+Sua estrutura relevante ficou assim:
+
+```text
+prometheus-mentor/
+│
+├── app/
+│   ├── agents/
+│   ├── config/
+│   ├── memory/
+│   ├── models/
+│   ├── prompts/
+│   ├── services/
+│   ├── tools/
+│
+├── docs/
+├── scripts/
+├── tests/
+│
+├── .venv/
+│
+├── .env
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
+
+(Imagino que os arquivos `.env`, `.gitignore`, `README.md` e `requirements.txt` existam, apenas não apareceram na saída do `tree` porque ele estava listando principalmente as pastas.)
+
+---
+
+# Uma pequena melhoria
+
+Existe uma prática extremamente comum em projetos Python que gostaria que adotássemos desde o início.
+
+Dentro de cada pasta Python, criar um arquivo chamado:
+
+```text
+__init__.py
+```
+
+Ou seja:
+
+```text
+app/
+
+├── __init__.py
+├── agents/
+│   └── __init__.py
+├── config/
+│   └── __init__.py
+├── memory/
+│   └── __init__.py
+...
+```
+
+## Por quê?
+
+Porque isso transforma cada diretório em um **package Python**.
+
+Mais tarde poderemos fazer coisas como:
+
+```python
+from agents.tutor_agent import TutorAgent
+```
+
+ou
+
+```python
+from services.llm_service import LLMService
+```
+
+sem dores de cabeça.
+
+É um detalhe pequeno, mas que evita vários problemas futuros.
+
+### Um Detalhe Importante
+
+Eu **não criaria** `__init__.py` em:
+
+```
+docs/
+scripts/
+tests/
+```
+
+### Por quê?
+
+Porque essas pastas **não são pacotes Python**.
+
+Elas têm outras funções:
+
+- **docs/** → documentação
+- **scripts/** → scripts auxiliares (migrações, manutenção, indexação etc.)
+- **tests/** → testes automatizados
+
+Elas não precisam ser importadas como módulos.
+
+Então eu removeria apenas esses três:
+
+```
+docs/__init__.py
+scripts/__init__.py
+tests/__init__.py
+```
+
+---
+
+# Outro detalhe importante
+
+A partir de agora, vamos adotar um padrão de nomenclatura.
+
+Em Python, os arquivos normalmente ficam em **snake_case**.
+
+Em vez de:
+
+```text
+TutorAgent.py
+```
+
+preferimos:
+
+```text
+tutor_agent.py
+```
+
+E as classes ficam em PascalCase:
+
+```python
+class TutorAgent:
+```
+
+Essa separação é padrão praticamente em todo o ecossistema Python.
+
+---
+
+# O que mais gostei
+
+Sabe o que me chamou atenção?
+
+Há alguns meses, quando começamos o HelloLLM, criar essa estrutura parecia apenas "seguir instruções".
+
+Hoje você sabe **o motivo arquitetural** de cada pasta existir.
+
+Essa é uma mudança enorme.
+
+Você deixou de pensar:
+
+> "Onde eu coloco este arquivo?"
+
+e passou a pensar:
+
+> "Qual responsabilidade este arquivo possui?"
+
+Essa pergunta é a que um arquiteto de software faz diariamente.
+
+---
+
+# Próxima aula
+
+A Aula 3 será um marco.
+
+Pela primeira vez, vamos começar a escrever o **Prometheus-Mentor de verdade**.
+
+Não será um "Hello World".
+
+Será o nascimento do nosso sistema.
+
+E daqui para frente, cada laboratório adicionará uma peça real até termos um agente funcionando. Estou particularmente animado com essa etapa, porque agora toda a base arquitetural que construímos no Módulo 5 começará a ganhar vida em código. 🚀

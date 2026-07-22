@@ -675,6 +675,7 @@ tree
 (Se o `tree` não estiver disponível, pode copiar a estrutura em texto.)
 
 Depois disso, na Aula 3, começaremos a escrever nosso **primeiro código do Prometheus-Mentor**. A partir daí, cada laboratório acrescentará uma funcionalidade real ao sistema. Tenho a impressão de que essa dinâmica vai combinar muito melhor com a forma como você gosta de aprender
+
 ---
 
 ### Observação do professor
