@@ -228,7 +228,7 @@ As instituições beneficentes da comunidade? Os investidores, sócios e fornece
 
 ## ETAPA 9: QUEM É O INIMIGO?
 
-- Classe: nenhuma
+- Classe: Comunicações
 
 **Não é possível ser amigo de todos. Em vez de tentar agradar a todos e correr o risco de não agradar, comece uma briga» com o maior e mais bem-sucedido dos concorrentes. Por quê? Eis a parte RADICAL da diferenciação.** A história da marca está cheia de evidências de que Davi pode enfrentar Golias e vencer: a Avis enfrentando a Hertz, a Apple enfrentando a IBM e o pequeno Mini enfrentando as caminhonetes. **O objetivo não é derrubar os gigantes, mas utilizar os princípios do contraste para realçar o zag.**
 
@@ -281,7 +281,7 @@ Voltando à enoteca, os fundadores trabalharam muito para aperfeiçoar o nome te
 ![[Pasted image 20260722094412.png]]
 ## ETAPA 11: COMO VOCÊ EXPLICA SUA MARCA?
 
-- Classe: Nenhuma
+- Classe: Comunicações
 
 Todas as comunicações de marca devem provir de uma linha de posicionamento interno, ou "trueline." O trueline é aquele fato verdadeiro que pode ser dito sobre a marca, com base na declaração de "único". Deve ser algo que os concorrentes não possam alegar (ou não o farão) e algo valioso e convincente para os clientes. Lembre, o que importa é o que ELES dizem e não o que você diz. Em suma, o trueline é a proposição de valor, a razão pela qual a sua marca é importante para os  
 clientes.
@@ -334,3 +334,17 @@ O QUE ACONTECE AQUI, PERMANECE AQUI.
 13 A Lending Tree recolhe as apostas online de credores.  
 QUANDO OS BANCOS CONCORREM, VOCÊ GANHA.
 </aside>
+
+## ETAPA 12: COMO VOCÊ DIVULGA A NOTÍCIA?
+
+- Classe: Comunicações
+
+Agora você tem um nome, um trueline e um slogan. O próximo passo é descobrir o significado desses ativos e distribuí-los ao longo de uma série de pontos de contato - os locais onde os clientes entram em contato com a sua marca - para que se tornem verdadeiramente convictos e divulguem a notícia para os amigos. Isso coloca você diante dos obstáculos discutidos anteriormente - uma extrema poluição conceitual, um aumento na demanda sobre o tempo das pessoas, o modelo fragmentado de propaganda e os hábitos de compra tribais.  
+Como você distribui seus limitados dólares de comunicação para atingir o maior retorno possível?
+
+Sim Wong Hod, o CEO da Creative Technology, disse que "o nosso maior desafio é o marketing. Mas eu sou mesquinho: não quero desperdiçar dinheiro, a menos que tenha certeza de que vá funcionar". Aparentemente, o Sr. Hoo acredita que o marketing é um desperdício, mesmo quando funciona. O contraponto dessa atitude é Steve Jobs) o CEO da Apple, que acredita no marketing como sendo a parte fundamental do produto. Ambas as empresas vendem tocadores de MP3: enquanto a Apple vendeu mais de 4 milhões por trimestre, a Creative Technology vendeu apenas uma minúscula fração desse número desde o início. Segundo uma contagem recente, o número de modelos de MP3 no mundo é de 14.859.  
+Quantas marcas você consegue nomear? O iPod?
+
+De fato, uma análise nas comunicações do iPod revelam muito pouco desperdício. As imagens veiculadas em propaganda de TV são as mesmas para outdoors, peças secundárias, feiras comerciais, ambientes de loja e embalagens para varejo. A marca utiliza apenas uma divulgação para todos os pontos de contato, nos locais onde os clientes experienciam a marca. Nos pontos de contato onde os profissionais de marketing da Apple decidem concorrer, eles acabam vencendo. Onde não é possível ganhar, eles não concorrem.  
+Como nem toda a empresa pode ser uma Apple, o recomendável é utilizar a mesma abordagem Apple de marketing. Tudo inicia com um zag e continua com o alinhamento de todas as experiências do consumidor a essa mudança de rumo. Como o zag é projetado para se destacar da poluição conceitual, um plano de marketing com essa base parece muito maior do que o é na realidade. Como se costuma dizer, ele maximiza o ROl.  O orçamento da Bibli, por exemplo, pode ser focado em comunicações in-store para que os clientes sejam os canais de divulgação da marca. Os pontos de contato podem incluir embalagens, cálices de vinho, livros da marca e venda de DVDs, além de dicas de vinho facilmente compartilhadas pelos clientes.
+
