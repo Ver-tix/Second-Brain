@@ -95,8 +95,10 @@
 		{"id":"e46ea0011085a4e6","type":"text","text":"ESCOLHA ENTRE UMA *CASA DE MARCAS* E UMA *CASA COM MARCA*.","x":5933,"y":80,"width":225,"height":100,"color":"2"},
 		{"id":"642849e8c0dd84ae","type":"text","text":"EVITE EXTENSÕES QUE COLOQUEM VOCÊ EM CONCORRÊNCIA COM OS LÍDERES","x":5933,"y":640,"width":225,"height":100,"color":"2"},
 		{"id":"d54f28294233c13c","type":"text","text":"EVITE EXTENSÕES QUE RETIREM O FOCO DO SINIFICADO DA MARCA","x":5933,"y":460,"width":225,"height":100,"color":"2"},
-		{"id":"10299ce788c45ec4","type":"text","text":"COMPREENDA OS EFEITOS DE LO","x":6373,"y":260,"width":225,"height":100,"color":"2"},
-		{"id":"f9c002879793f174","type":"text","text":"EVITE A DOENÇA DO C - CONTÁGIO, CONFUSÃO, CONTRADIÇÃO E COMPLEXIDADE","x":6373,"y":80,"width":225,"height":100,"color":"2"}
+		{"id":"10299ce788c45ec4","type":"text","text":"COMPREENDA OS EFEITOS DE LONGO PRAZO DAS EXTENSÕES DE MARCA","x":6373,"y":260,"width":225,"height":100,"color":"2"},
+		{"id":"f9c002879793f174","type":"text","text":"EVITE A DOENÇA DO C - CONTÁGIO, CONFUSÃO, CONTRADIÇÃO E COMPLEXIDADE","x":6373,"y":80,"width":225,"height":100,"color":"2"},
+		{"id":"8301cfb3a3cf0653","type":"text","text":"COMO O TODO PODE SER MAIS VALIOSO DO QUE AS PARTES?","x":6360,"y":-404,"width":250,"height":60,"color":"3"},
+		{"id":"9a9bce0e845b8e90","type":"text","text":"COMO VOCÊ SE MANTÉM FOCADO SOB PRESSÃO NO LUCRO, NO CURTO PRAZO?","x":6360,"y":-228,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"f1478300e5a8721e","fromNode":"cf55015ad5afe127","fromSide":"right","toNode":"d58a7443c3fb78c6","toSide":"left"},
@@ -194,6 +196,8 @@
 		{"id":"a14c8381f769acc5","fromNode":"642849e8c0dd84ae","fromSide":"top","toNode":"d54f28294233c13c","toSide":"bottom"},
 		{"id":"5eef3698e4042180","fromNode":"e46ea0011085a4e6","fromSide":"top","toNode":"15ba2f9deb2e5387","toSide":"bottom"},
 		{"id":"92856d639590bbdd","fromNode":"10299ce788c45ec4","fromSide":"top","toNode":"f9c002879793f174","toSide":"bottom"},
-		{"id":"0f08e97277095e62","fromNode":"f9c002879793f174","fromSide":"top","toNode":"75d82f059e3ff4ab","toSide":"bottom"}
+		{"id":"0f08e97277095e62","fromNode":"f9c002879793f174","fromSide":"top","toNode":"75d82f059e3ff4ab","toSide":"bottom"},
+		{"id":"d9e563dd90342b19","fromNode":"9a9bce0e845b8e90","fromSide":"top","toNode":"8301cfb3a3cf0653","toSide":"bottom"},
+		{"id":"d39f515d18f178d9","fromNode":"75d82f059e3ff4ab","fromSide":"top","toNode":"9a9bce0e845b8e90","toSide":"bottom"}
 	]
 }
