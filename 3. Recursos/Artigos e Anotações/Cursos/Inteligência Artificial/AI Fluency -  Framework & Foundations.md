@@ -183,8 +183,6 @@ Como os modelos Claude da Anthropics são um tipo proeminente de IA Generativa. 
 
 ### Leis de Escala
 
-![Captura de tela 2026-06-17 134118.png](attachment:cd4bbf43-752b-4d6e-ab18-df840a56d83e:Captura_de_tela_2026-06-17_134118.png)
-
 A combinação desses três fatores levou a uma descoberta importante conhecida como as **Leis de Escala**. Esses achados empíricos mostraram que:
 
 - Quanto mais esses modelos crescessem e
@@ -197,13 +195,9 @@ Mais surpreendentemente, pesquisadores descobriram que capacidades inteiramente 
 
 ### Behind The Scenes dos LLMs: Pré-Treinamento
 
-![Durante o treinamento inicial, chamado de Pré-Treino, LLMs como Claude analisam padrões através de bilhões de exemplos de texto. Imagine ler todo website e todo pedaço de texto que você puder encontrar. Não apenas absorver informação, mas entender as relações estatísticas entre palavras, frases e conceitos. Nesse estágio, o modelo essencialmente constrói algo como um mapa complexo de linguagem e conhecimento. Esse processo de Pré-Treino envolve mostrar o modelo texto e pedi-lo para predizer o que virá a seguir. Através de muitas iterações, o modelo gradualmente refina suas predições, aprendendo os padrões que fazem a linguagem coerente e significativa](attachment:253b4c38-7cc3-4f12-9cfe-818e9c5bf0c2:Captura_de_tela_2026-06-17_134550.png)
-
 Durante o treinamento inicial, chamado de Pré-Treino, LLMs como Claude analisam padrões através de bilhões de exemplos de texto. Imagine ler todo website e todo pedaço de texto que você puder encontrar. Não apenas absorver informação, mas entender as relações estatísticas entre palavras, frases e conceitos. Nesse estágio, o modelo essencialmente constrói algo como um mapa complexo de linguagem e conhecimento. Esse processo de Pré-Treino envolve mostrar o modelo texto e pedi-lo para predizer o que virá a seguir. Através de muitas iterações, o modelo gradualmente refina suas predições, aprendendo os padrões que fazem a linguagem coerente e significativa
 
 ### Behind The Scenes dos LLMs: Fine-Tuning
-
-![Após o pré-treino, o modelo passar por um treinamento adicional chamado de fine-tuning (”afinação” ou “ajuste fino”), onde eles aprendem a seguir instruções, prover respostas úteis, e, muito importante, evitar gerar conteúdo maléfico. Isso normalmente envolve feedback humano para melhorar o desempenho do modelo, assim como reforçar o aprendizado, que utiliza recompensas e penalidades para modelar o comportamento do modelo afim de torná-lo mais útil, honesto e inofensivo. ****Uma vez que os modelos são treinados, eles são implantados (deployed) para você poder interagir com eles.](attachment:0e364256-2ad1-4235-a25d-b0d21f3484bd:Captura_de_tela_2026-06-17_135056.png)
 
 Após o pré-treino, o modelo passar por um treinamento adicional chamado de fine-tuning (”afinação” ou “ajuste fino”), onde eles aprendem a seguir instruções, prover respostas úteis, e, muito importante, evitar gerar conteúdo maléfico. Isso normalmente envolve feedback humano para melhorar o desempenho do modelo, assim como reforçar o aprendizado, que utiliza recompensas e penalidades para modelar o comportamento do modelo afim de torná-lo mais **útil**, **honesto** e **inofensivo**. ****Uma vez que os modelos são treinados, eles são implantados (deployed) para você poder interagir com eles.
 

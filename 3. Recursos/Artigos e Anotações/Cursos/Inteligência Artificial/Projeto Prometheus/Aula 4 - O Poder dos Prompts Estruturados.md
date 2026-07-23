@@ -4,7 +4,11 @@ tags:
   - programação
   - inovação
 ---
-
+É de extrema importância que você relembre dos frameworks aprendidos em cursos como:
+- [[Claude 101]]
+- [[AI Fluency -  Framework & Foundations]]
+- [[Engenharia de Prompt - ChatGPT, Gemini, Meta AI, Grok e Mais]]
+- [[Engenharia de Prompt - ChatGPT, Gemini, Meta AI, Grok e Mais, pt 2]]
 
 > **Objetivo da aula**
 > 

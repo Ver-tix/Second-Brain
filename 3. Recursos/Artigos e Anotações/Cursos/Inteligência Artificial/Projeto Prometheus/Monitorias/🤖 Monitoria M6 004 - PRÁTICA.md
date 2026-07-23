@@ -124,6 +124,25 @@ Perceba que o `PromptBuilder` **não conversa com a OpenAI**.
 Ele apenas entrega uma string pronta.
 
 ---
+# Alterando `mentor_agent.py`
+
+## Passo 1 - Importar o `PromptBuilder`
+No início do arquivo `mentor_agent.py`, adicione:
+
+```Python
+from app.prompts.mentor_prompt import PromptBuilder
+```
+
+Agora, seus imports devem ficar parecidos com:
+
+```Python
+from app.services.llm_service import LLMService
+from app.prompts.mentor_prompt import PromptBuilder
+```
+
+## Passo 2 - Alterar o método `ask()`
+
+---
 
 eu: `Então, é aqui que entram os frameworks de prompts, que estudei, por exemplo, na Anthropic Academy ou na OpenAI Academy?`
 
@@ -210,3 +229,42 @@ Conhecendo você, eu apostaria que, daqui a algumas dezenas de aulas, seu `mento
 Ele terá talvez **300 ou 500 linhas**, muito bem organizado, com seções, comentários e templates.
 
 E eu acho isso fantástico, porque ele deixará de ser apenas um prompt e se tornará a **Constituição do Prometheus-Mentor** — exatamente como você descreveu alguns dias atrás quando falávamos do RAG e da hierarquia entre autores. É nesse arquivo que a identidade e as regras fundamentais do agente começam a ganhar forma. 🚀
+
+---
+
+eu: `Na Anthropic, eles ensinam um loop chamado de "Loop Descrição-Discernimento", que vem do Framework dos 4 Ds (Delegação, Descrição, Discernimento e Diligência). Como ele se encaixa aqui?`
+
+Na definição da [[AI Fluency -  Framework & Foundations#A Estrutura 4D|Anthropic]], o ciclo é:
+
+1. **[[AI Fluency -  Framework & Foundations#Delegação|Delegação]]** → o **usuário** decide quanto de autonomia conceder à IA (augmentação, agência ou automação).
+2. **[[AI Fluency -  Framework & Foundations#Descrição|Descrição]]** → o **usuário** descreve claramente o contexto, a tarefa, as restrições, o formato etc. **É aqui que entra o PromptBuilder.**
+3. **[[AI Fluency -  Framework & Foundations#Discernimento|Discernimento]]** → **depois** da resposta, o **usuário** avalia criticamente: "Isso faz sentido? Está completo? Precisa de refinamento? Há inconsistências?" É um julgamento humano, não da IA.
+4. **[[AI Fluency -  Framework & Foundations#Diligência|Diligência]]** → o **usuário** faz a checagem ética, factual e de risco antes de agir com base na resposta.
+
+Então, respondendo à sua pergunta original:
+
+> **Onde esse framework entra no Projeto Prometheus?**
+
+Apenas o **D de Descrição** é implementado em código no `PromptBuilder`.
+
+Os outros Ds acontecem **fora do software**, na interação entre você e o agente:
+
+```
+Usuário
+│
+├── Delegação
+│      ↓
+├── Descrição ─────────► PromptBuilder
+│                           ↓
+│                     Prometheus-Mentor
+│                           ↓
+├── Discernimento ◄──── Resposta
+│
+└── Diligência
+```
+
+Isso me leva a um insight interessante para o futuro.
+
+Quando o Prometheus evoluir para um sistema de múltiplos agentes, alguns desses papéis **podem ser parcialmente automatizados**. Por exemplo, um "Agente Crítico" poderia revisar a resposta antes de entregá-la. Mas isso **não é mais o framework dos 4 Ds da Anthropic**; seria uma **decisão arquitetural do Prometheus** para auxiliar o usuário. O discernimento final continuaria sendo humano, exatamente como a Anthropic propõe.
+
+Achei essa distinção muito importante. Ela evita confundir um **framework de uso responsável de IA** (voltado ao usuário) com uma **arquitetura de software** (voltada ao sistema). São camadas diferentes, embora possam dialogar entre si.
