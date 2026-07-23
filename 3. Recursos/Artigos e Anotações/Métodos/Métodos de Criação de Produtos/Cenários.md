@@ -72,3 +72,32 @@ As duas motivações que selecionamos foram (1) a emergência da medicina person
 - **O PACIENTE SAUDÁVEL:** a mudança em direção à medicina preventiva continua, mas a medicina pessoal permanece só como uma moda, apesar da factibilidade tecnológica.
 - **REINVENTANDO O SETOR FARMACÊUTICO:** as medicinas pessoais e preventivas se tornam as novas áreas de crescimento da indústria.
 ![[Pasted image 20260723125253.png|697]][[Cenário D - Reinventando o Setor Farmacêutico]]
+
+# Cenários Futuros e Novos Modelos de Negócio
+--- start-multi-column: ID_cfvc
+```column-settings
+Number of Columns: 3
+Largest Column: standard
+```
+
+## 1.DESENVOLVA UM CONJUNTO DE CENÁRIOS FUTUROS COM BASE EM DOIS OU MAIS CRITÉRIOS PRINCIPAIS
+
+--- column-break ---
+
+## 2. DESCREVA CADA CENÁRIO COM UMA HISTÓRIA QUE APONTE OS ELEMENTOS PRINCIPAIS DO CENÁRIO
+
+--- column-break ---
+
+## 3. ==WORKSHOP== - DESENVOLVA UM OU MAIS MODELOS DE NEGÓCIOS APROPRIADOS PARA CADA CENÁRIO.
+
+--- end-multi-column
+O objetivo de combinar cenários com esforços de inovação de Modelos de Negócios é ajudar sua organização a se preparar para o futuro. O processo produz discussões significativas a respeito de um tópico difícil, pois força os participantes a se enxergarem em "futuros" concretos, apoiados em fatos concretos (embora presumidos). Quando os participantes descreverem seus Modelos de Negócios, eles devem ser capazes de argumentar claramente suas escolhas dentro do contexto específico.
+
+Os cenários devem ser desenvolvidos antes do workshop ter início. A sofisticação do "roteiro" irá variar dependendo de seu orçamento. Tenha em mente que, uma vez desenvolvidos os cenários, eles podem ser utilizados também para outros propósitos. Até mesmo cenários simples ajudam a ativar a criatividade e projetar os participantes ao futuro.
+
+Idealmente, você desenvolverá entre dois e quatro cenários diferentes, com base em dois ou mais critérios para executar um bom workshop de Modelo de Negócios. Cada cenário deve receber um título e ser descrito com uma narrativa curta e específica, descrevendo seus elementos principais.
+
+Comece o workshop pedindo aos participantes para analisarem os cenários, então desenvolva um Modelo de Negócios apropriado para cada um. Caso o seu objetivo seja maximizar a compreensão do grupo de todos os futuros possíveis, você pode preferir que todos participem como uma única equipe e deixá-los desenvolver coletivamente diferentes modelos para cada cenário. Se você estiver mais interessado em gerar um conjunto de modelos bastante diverso, talvez prefira organizar os participantes em várias equipes que trabalhem paralelamente em soluções separadas para os vários cenários.
+
+
+
