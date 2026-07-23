@@ -2,7 +2,6 @@
 tags:
   - business
 ---
-
 ## O Que É?
 
 O BMC é uma **ferramenta de gerenciamento estratégico** que permite desenvolver e esboçar **modelos de negócios novos** ou **existentes** em uma **única página**. Eis a sua estrutura:![[Pasted image 20260630132532.png]]
