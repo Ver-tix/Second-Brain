@@ -4,6 +4,8 @@ tags:
   - programação
   - inovação
 ---
+
+
 > **Objetivo da aula**
 > 
 > Transformar o Prometheus-Mentor de um simples "repassador de perguntas" em um agente que possui uma identidade, uma função e um comportamento consistente.
@@ -360,6 +362,9 @@ Esse é exatamente o efeito da separação de responsabilidades que estudamos du
 # Laboratório 4 — Dando personalidade ao Prometheus-Mentor
 
 Hoje vamos evoluir o projeto sem quebrar sua arquitetura.
+
+## [[🤖 Monitoria M6 004 - TEORIA]]
+## [[🛠 Desafio M6 004]]
 
 ## Etapa 1 — Criar um novo arquivo
 
