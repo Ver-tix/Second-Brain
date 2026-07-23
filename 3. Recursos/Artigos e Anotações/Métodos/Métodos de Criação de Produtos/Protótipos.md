@@ -11,7 +11,9 @@ A prototipagem é uma ferramenta útil para o desenvolvimento de Modelos de Neg�
 
 Embora utilizem o mesmo termo, os designers de produtos, arquitetos e engenheiros têm compreensões distintas do que significa um "protótipo", Nós enxergamos os protótipos como representações de potenciais Modelos de Negócios: ferramentas que servem ao propósito da discussão, de questionamentos e provas de conceitos. Um protótipo de Modelo de Negócios pode tomar a forma de um desenho simples, um conceito completamente descrito com o Canvas ou uma planilha que simula os aspectos financeiros de um novo negócio.
 
-É importante compreender que um protótipo de Modelo de Negócios não é, necessariamente, um rascunho bruto de como ficará o modelo finalizado. Um protótipo é uma ferramenta pensante, que nos ajuda a explorar diferentes direções nas quais podemos levar nosso Modelo de Negócio. O que significa adicionar outro segmentos de clientes? Quais são as consequências de eliminar um recurso caro? E se dermos algo de graça e substituirmos essa fonte de receita por algo mais inovador? Produzir e manipular um protótipo nos força a lidar com questões de estrutura, relação e lógica de formas indisponíveis com meros pensamentos ou meras discussões. Para realmente compreender os prós e contras de diferentes possibilidades e estender nosso questionamento, precisamos construir múltiplos protótipos do nosso Modelo de Negócio em diferentes níveis de refinamento. A interação com os protótipos produz ideias muito mais rapidamente que a discussão. Modelos de negócio prototípicos podem estimular o pensamento e até mesmo parecerem um pouco loucos, levando-nos a pensar mais além. Eles se tornam faróis, apontando direções não imaginadas, não servindo só de representação de Modelos de Negócios a serem implementados. O "questionamento" deve significar uma busca incansável pela melhor solução. Apenas depois de um profundo questionamento podemos efetivamente pegar um protótipo para refinar e executar - depois de nosso design ter amadurecido.
+É importante compreender que um protótipo de Modelo de Negócios não é, necessariamente, um rascunho bruto de como ficará o modelo finalizado. Um protótipo é uma ferramenta pensante, que nos ajuda a explorar diferentes direções nas quais podemos levar nosso Modelo de Negócio. O que significa adicionar outro segmentos de clientes? Quais são as consequências de eliminar um recurso caro? E se dermos algo de graça e substituirmos essa fonte de receita por algo mais inovador? Produzir e manipular um protótipo nos força a lidar com questões de estrutura, relação e lógica de formas indisponíveis com meros pensamentos ou meras discussões. 
+
+Para realmente compreender os prós e contras de diferentes possibilidades e estender nosso questionamento, precisamos construir múltiplos protótipos do nosso Modelo de Negócio em diferentes níveis de refinamento. A interação com os protótipos produz ideias muito mais rapidamente que a discussão. Modelos de negócio prototípicos podem estimular o pensamento e até mesmo parecerem um pouco loucos, levando-nos a pensar mais além. Eles se tornam faróis, apontando direções não imaginadas, não servindo só de representação de Modelos de Negócios a serem implementados. O "questionamento" deve significar uma busca incansável pela melhor solução. Apenas depois de um profundo questionamento podemos efetivamente pegar um protótipo para refinar e executar - depois de nosso design ter amadurecido.
 
 Pessoas de negócios devem demonstrar, em geral, uma de duas reações ao processo de questionamento. Alguns podem dizer, "essa é uma boa ideia, se apenas tivéssemos tempo de explorar diferentes opções". Outros dirão que um estudo de mercado seria uma forma igualmente boa de gerar novos modelos. Ambas reações se baseiam em preconceitos.
 
@@ -78,3 +80,20 @@ VOCÊ DECIDIU POR UM POTENCIAL NOVO MODELO DE NEGÓCIOS, E AGORA QUER TESTAR EM 
 - Prepare um caso de negócios bem justificado para o novo modelo
 - Inclua clientes possíveis ou reais no teste prático
 - Teste a Proposta de Valor, os Canais, os mecanismos de preço e/ou outros elementos no mercado.
+
+## *AD-LIBS*
+DETALHE COMO DIFERENTES ALTERNATIVAS CRIAM VALOR, PREENCHENDO AS LACUNAS EM *AD-LIBS* CURTOS.
+
+*Ad-libs* são uma ótima maneira de formular rapidamente direções alternativas para sua proposta de valor. Eles o forçam a indicar como exatamente você vai criar valor. Faça um protótipo de três a quatro direções diferentes preenchendo as lacunas na *ad-lib* abaixo:
+![[Pasted image 20260723133330.png]]
+
+## CANVAS DE PROPOSTA DE VALOR
+CONCRETIZE AS POSSÍVEIS DIREÇÕES COM O CANVAS DE PROPOSTA DE VALOR. COMPREENDA QUE TAREFAS, DORES E GAHOS CADA ALTERNATIVA ESTÁ CONTEMPLANDO.
+
+Use o Canvas de Proposta de Valor para traçar rápidos protótipos de alternativas, justamente como você faria com os esboços de guardanapo
+
+## REPRESENTAÇÃO DE UMA PROPOSTA DE VALOR
+AJUDE CLIENTES E PARCEIROS A COMPREENDEREM PROPOSTAS DE VALOR EM POTENCIAL, DANDO-LHES VIDA, SEM, NO ENTANDO, CONTRUI-LAS.
+
+## PRODUTO MÍNIMO VIÁVEL (PMV)
+CONSTRUA UMA ESTRUTURA MÍNIMA QUE DÊ VIDA A SUA PROPOSTA DE VALOR E PERMITA TESTÁ-LA COM CLIENTES E PARCEIROS.
