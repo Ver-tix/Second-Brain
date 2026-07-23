@@ -54,3 +54,21 @@ Sua última descoberta foi um simples aplicativo de gestão que agora está inst
 - Com que outros dispositivos e/ou softwares este serviço precisaria ser integrado?
 
 ## QUESTÕES EM RELAÇÃO AO MODELO DE NEGÓCIOS:
+![[Pasted image 20260723124613.png]]
+
+# Cenários Futuros
+Cenários são outra ferramenta que nos ajuda a refletir sobre Modelos de Negócios para o futuro. Cenários impulsionam nossa criatividade, nos fornecendo contextos futuros concretos para os quais podemos inventar Modelos de Negócios apropriados. Isso é geralmente mais fácil e produtivo que fazer brainstormings livres sobre possíveis modelos futuros. Exige, entretanto, o desenvolvimento de diversos cenários, o que pode custar dinheiro, dependendo da sua profundidade e do seu realismo.
+
+Um setor sob forte pressão para planejar novos Modelos de Negócios inovadores é o da indústria farmacêutica. Há diversos motivos para isso. A produtividade das pesquisas das principais empresas declinou nos últimos anos, e essas companhias enfrentam enormes desafios para descobrir e fazer o marketing de novos medicamentos de sucesso - tradicionalmente o núcleo de seus negócios. Ao mesmo tempo, muitas patentes rentáveis estão expirando. Isso significa que as fontes de receita destas serão perdidas para os fabricantes de medicamentos genéricos. Essa combinação é apenas uma das dores de cabeça que perturbam as empresas farmacêuticas incumbentes.
+
+Neste contexto turbulento, o brainstorm de um Modelo de Negócios em conjunto com o desenvolvimento de uma série de cenários futuros pode ser um poderoso exercício. O cenário ajuda a ativar o pensamento inovador, o que nem sempre é fácil. Aqui está uma visão geral de como tal exercício pode ser conduzido.
+
+Primeiro, devemos desenvolver uma série de cenários que formem a imagem do futuro da indústria farmacêutica. É melhor deixar isso para os especialistas em planejamento de cenários, que estão equipados com as ferramentas e metodologias corretas. Para ilustrar, desenvolvemos quatro esqueletos, com base em dois critérios que podem moldar a evolução da indústria farmacêutica na próxima década. Há, certamente, diversas outras motivações e muitos cenários diferentes que poderiam ser confeccionados com base em pesquisas mais profundas na indústria.
+
+As duas motivações que selecionamos foram (1) a emergência da medicina personalizada e (2) a mudança do tratamento em direção à prevenção. A primeira está baseada nos avanços na farmacogenômica, a ciência que identifica causas fundamentais para doenças com base na estrutura do DNA. Algum dia, isso pode trazer tratamentos totalmente personalizados, com medicamentos baseados na estrutura genética de alguém. A mudança do tratamento para a prevenção é motivada em parte pela farmacogenômica, em parte pelos avanços nos diagnósticos e em parte pela renovada consciência dos custos e a crescente consciência de que a prevenção custa menos que a hospitalização e o tratamento. Tais motivações sugerem tendências que podem ou não se materializar, fornecendo assim quatro cenários ilustrados pelas seguintes figuras. São eles:
+
+- **MANTER OS NEGÓCIOS COMO SEMPRE:** a medicina pessoal fracassa em se materializar, apesar de sua possibilidade tecnológica (ex.: por razões de privacidade, etc.), e o tratamento continua sendo o principal gerador de renda.
+- **MINHA MEDICINA:** a medicina pessoal se materializa, mas o tratamento continua sendo o principal gerador de receita.
+- **O PACIENTE SAUDÁVEL:** a mudança em direção à medicina preventiva continua, mas a medicina pessoal permanece só como uma moda, apesar da factibilidade tecnológica.
+- **REINVENTANDO O SETOR FARMACÊUTICO:** as medicinas pessoais e preventivas se tornam as novas áreas de crescimento da indústria.
+![[Pasted image 20260723125253.png|697]][[Cenário D - Reinventando o Setor Farmacêutico]]
