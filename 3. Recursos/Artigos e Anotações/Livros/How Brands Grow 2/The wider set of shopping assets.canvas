@@ -5,7 +5,8 @@
 		{"id":"fcb239206679916d","type":"text","text":"\n<h1 align=\"center\">Imagens</h1>\n<div align=\"center\">Pessoas/personagem</div>\n<div align=\"center\">Formas</div>\n<div align=\"center\">Logotipos</div>\n<div align=\"center\">Ingredientes</div>","x":-520,"y":-520,"width":280,"height":200},
 		{"id":"4ffe8a4f24c608d0","type":"text","text":"\n<h1 align=\"center\">Palavras</h1>\n<div align=\"center\">Tipo de Palavra</div>\n<div align=\"center\">Fontes</div>","x":-160,"y":-520,"width":280,"height":200},
 		{"id":"7b27b595ed12b4a0","type":"text","text":"\n<h1 align=\"center\">Fechamento</h1>\n<div align=\"center\">Tipo de selo</div>\n<div align=\"center\">Localização do selo</div>\n<div align=\"center\">Adornos</div>","x":-520,"y":0,"width":280,"height":200},
-		{"id":"440957a545c29e54","type":"text","text":"\n<h1 align=\"center\">Cores</h1>\n<div align=\"center\">Uma única cor</div>\n<div align=\"center\">Combinações de cores</div>\n<div align=\"center\">Padrões de Cor</div>","x":-160,"y":0,"width":280,"height":200}
+		{"id":"440957a545c29e54","type":"text","text":"\n<h1 align=\"center\">Cores</h1>\n<div align=\"center\">Uma única cor</div>\n<div align=\"center\">Combinações de cores</div>\n<div align=\"center\">Padrões de Cor</div>","x":-160,"y":0,"width":280,"height":200},
+		{"id":"c7a27b7a6c015d26","type":"text","text":"#marketing #estratégia \n","x":-300,"y":-190,"width":220,"height":60}
 	],
 	"edges":[]
 }
