@@ -349,7 +349,9 @@ Arquitetura não é apenas desenhar caixas.
 
 # Laboratório 3 — Nascimento do Prometheus-Mentor
 
-Hoje construiremos nossa primeira versão funcional.
+Hoje construiremos nossa primeira versão funcional. 
+
+## [[🤖 Monitoria M6 003]]
 
 ## Etapa 1 — Criar os arquivos
 
