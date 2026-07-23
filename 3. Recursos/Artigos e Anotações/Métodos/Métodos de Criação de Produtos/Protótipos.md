@@ -90,7 +90,11 @@ DETALHE COMO DIFERENTES ALTERNATIVAS CRIAM VALOR, PREENCHENDO AS LACUNAS EM *AD-
 ## CANVAS DE PROPOSTA DE VALOR
 CONCRETIZE AS POSSÍVEIS DIREÇÕES COM O CANVAS DE PROPOSTA DE VALOR. COMPREENDA QUE TAREFAS, DORES E GAHOS CADA ALTERNATIVA ESTÁ CONTEMPLANDO.
 
-Use o Canvas de Proposta de Valor para traçar rápidos protótipos de alternativas, justamente como você faria com os esboços de guardanapo
+Use o Canvas de Proposta de Valor para traçar rápidos protótipos de alternativas, justamente como você faria com os esboços de guardanapo e os *ad-libs*. **Não use o Canvas apenas para aprimorar ideias finais, mas como uma ferramenta exploratória até encontrar a direção certa**.
+
+>Não tenha medo de fazer protótipos em direções radicais, mesmo sabendo da probabilidade de não seguir por elas. Explore e aprenda.
+
+>Use um cronômetro para limitar o tempo usado no desenvolvimento de determinado protótipo. Encurte os protótipos iniciais
 
 ## REPRESENTAÇÃO DE UMA PROPOSTA DE VALOR
 AJUDE CLIENTES E PARCEIROS A COMPREENDEREM PROPOSTAS DE VALOR EM POTENCIAL, DANDO-LHES VIDA, SEM, NO ENTANDO, CONTRUI-LAS.
