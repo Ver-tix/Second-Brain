@@ -664,7 +664,7 @@ Excelente.
 
 # Agora vem uma parte MUITO importante da aula
 
-## Etapa 6 — `mentor_agent`
+## Etapa 6a — `mentor_agent`
 
 Na minha opinião, este é o verdadeiro coração da aula.
 
@@ -965,3 +965,261 @@ Antes de irmos para o `main.py`, quero que responda uma pergunta com suas própr
 > **Por que o `MentorAgent` não cria um `LLMService()` sozinho? Por que é o `main.py` quem cria o serviço e o entrega ao agente?**
 
 Não quero uma definição decorada de "injeção de dependência". Quero que você me explique usando a analogia da escola (ou outra que faça sentido para você). Se você conseguir responder isso, eu tenho certeza de que o conceito realmente ficou claro.
+
+### Respondendo à Pergunta:
+>Sobre sua pergunta: "Por que o `MentorAgent` não cria um `LLMService()` sozinho? Por que é o main.py quem cria o serviço e o entrega ao agente?". Seria por separação de responsabilidades?
+
+**Isso mesmo! Mas falta um pedacinho importante.**
+
+Uma resposta que eu daria seria:
+
+> **Sim. É por separação de responsabilidades e desacoplamento.** O `MentorAgent` tem a responsabilidade de coordenar a conversa com o usuário, não de decidir **como** um `LLMService` é criado. Quem monta e conecta os componentes do sistema é o `main.py`.
+
+Ou, usando a analogia da escola:
+
+> O professor (**MentorAgent**) deve apenas ensinar. Quem contrata a biblioteca (**LLMService**) e a disponibiliza é a direção da escola (**main.py**).
+
+Essa pequena diferença é o coração da **injeção de dependência**. O agente **usa** um serviço, mas **não é responsável por criá-lo**. Isso torna o sistema mais flexível e fácil de modificar no futuro.
+
+---
+
+## Etapa 6b — `main.py`
+Perfeito! Agora chegamos ao último arquivo do laboratório.
+
+Curiosamente, ele será o **mais simples de todos**, justamente porque fizemos uma boa arquitetura. Quando cada classe tem uma responsabilidade clara, o `main.py` fica "limpo".
+
+---
+
+# Primeiro, lembre-se da arquitetura
+
+O professor desenhou este fluxo:
+
+```text
+Usuário
+    │
+    ▼
+main.py
+    │
+    ▼
+MentorAgent
+    │
+    ▼
+LLMService
+    │
+    ▼
+OpenAI
+```
+
+O `main.py` apenas coloca essa cadeia em funcionamento.
+
+---
+
+# Código
+
+No arquivo **`app/main.py`**:
+
+```python
+from app.agents.mentor_agent import MentorAgent
+from app.services.llm_service import LLMService
+
+
+def main():
+
+    # Cria o serviço responsável por conversar com a OpenAI
+    llm_service = LLMService()
+
+    # Cria o agente, recebendo o serviço
+    mentor = MentorAgent(llm_service)
+
+    # Recebe a pergunta do usuário
+    question = input("Pergunte alguma coisa: ")
+
+    # O agente responde
+    answer = mentor.ask(question)
+
+    # Exibe a resposta
+    print("\nPrometheus-Mentor:\n")
+    print(answer)
+
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+# Agora vamos entender linha por linha
+
+## Os imports
+
+```python
+from app.agents.mentor_agent import MentorAgent
+from app.services.llm_service import LLMService
+```
+
+O `main.py` precisa conhecer as duas peças que vai montar.
+
+Pense nele como alguém montando um computador: ele pega as peças, conecta tudo e liga a máquina.
+
+---
+
+## A função `main()`
+
+```python
+def main():
+```
+
+Ela representa o ponto de entrada da aplicação.
+
+Todo o fluxo do programa acontecerá dentro dela.
+
+---
+
+## Criando o serviço
+
+```python
+llm_service = LLMService()
+```
+
+Aqui nasce o objeto responsável por conversar com a OpenAI.
+
+Ainda não estamos perguntando nada.
+
+Estamos apenas preparando o sistema.
+
+---
+
+## Criando o agente
+
+```python
+mentor = MentorAgent(llm_service)
+```
+
+Esta é a linha mais importante do laboratório.
+
+Repare que fazemos:
+
+```python
+MentorAgent(llm_service)
+```
+
+e **não**:
+
+```python
+MentorAgent()
+```
+
+Estamos entregando um `LLMService` já pronto ao agente.
+
+É aqui que acontece a **injeção de dependência**.
+
+---
+
+## Recebendo a pergunta
+
+```python
+question = input("Pergunte alguma coisa: ")
+```
+
+Essa linha pausa o programa até que o usuário digite uma pergunta.
+
+O texto digitado fica armazenado na variável `question`.
+
+---
+
+## O agente trabalha
+
+```python
+answer = mentor.ask(question)
+```
+
+Veja como o fluxo acontece:
+
+```text
+main.py
+
+↓
+
+MentorAgent.ask()
+
+↓
+
+LLMService.generate()
+
+↓
+
+OpenAI
+
+↓
+
+Resposta
+```
+
+O `main.py` não conversa com a OpenAI.
+
+Ele conversa com o agente.
+
+O agente conversa com o serviço.
+
+O serviço conversa com a OpenAI.
+
+Cada um faz apenas seu trabalho.
+
+---
+
+## Exibindo a resposta
+
+```python
+print("\nPrometheus-Mentor:\n")
+print(answer)
+```
+
+Apenas mostramos o resultado para o usuário.
+
+---
+
+## A última parte
+
+```python
+if __name__ == "__main__":
+    main()
+```
+
+Essa é uma construção muito comum em Python.
+
+Ela significa:
+
+> "Se este arquivo foi executado diretamente, inicie o programa chamando `main()`."
+
+Se, no futuro, outro arquivo importar `main.py`, essa função **não será executada automaticamente**.
+
+---
+
+# Uma observação arquitetural
+
+Quero que você compare este `main.py` com o do HelloLLM.
+
+No HelloLLM, o `main.py` criava diretamente um `OpenAIProvider` e chamava seu método.
+
+Agora ele faz algo diferente:
+
+- cria um **serviço** (`LLMService`);
+    
+- cria um **agente** (`MentorAgent`);
+    
+- conecta os dois;
+    
+- inicia o fluxo.
+    
+
+Isso parece uma pequena mudança, mas é um salto importante. Você deixou de construir um programa que apenas conversa com um modelo e passou a construir um sistema com **componentes especializados**, cada um com uma responsabilidade definida. É exatamente esse padrão que permitirá ao Prometheus crescer para dezenas de agentes no futuro.
+
+---
+
+Depois de implementar o `main.py`, execute:
+
+```powershell
+python app/main.py
+```
+
+Se tudo estiver correto (e sua chave da API for válida), o Prometheus-Mentor fará sua primeira conversa. E esse será, oficialmente, **o nascimento do primeiro agente do Projeto Prometheus**. 🚀
