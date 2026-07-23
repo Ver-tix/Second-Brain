@@ -16,3 +16,41 @@ A literatura estratégica discute a prática em detalhes com o nome de "planejam
 ![[Pasted image 20260723121946.png]]
 
 # Explore Ideias
+Os cenários dos clientes nos guiam durante o design do Modelo de Negócios. Eles nos ajudam a lidar com questões tais como a escolha dos canais mais apropriados, que relações será melhor estabelecer e por quais soluções os clientes estarão mais dispostos a pagar. Uma vez gerados os cenários para diferentes segmentos, podemos nos perguntar se um único Modelo de Negócios é suficiente para servir a todos - ou se precisaremos adaptá-lo para cada nicho.
+
+Apresentamos três cenários diferentes, descrevendo serviços de localização que fazem uso de sistemas de posicionamento global (o GPS). Eles guiam o design de um Modelo de Negócios, mas foram deixados propositalmente abertos para permitir questionamentos específicos em torno das Propostas de Valor, dos Canais de Distribuição, dos Relacionamentos com Clientes, das Fontes de Receita. Os cenários são escritos a partir do ponto de vista de uma operadora de serviços de telefonia trabalhando para desenvolver Modelos de Negócios inovadores.
+
+## O SERVIÇO DE ENTREGA EM CASA
+
+Tom sempre sonhou em ter seu próprio negócio. Ele sabia que seria difícil, mas ganhar a vida com a sua paixão definitivamente compensaria trabalhar mais e ganhar menos.
+
+Tom é um aficionado por filmes cujo conhecimento cinematográfico é enciclopédico e é disso que os clientes de seu serviço de entrega de DVDs em casa tanto gostam.
+
+Eles podem perguntar sobre atores, técnicas de produção e tudo mais que for relacionado ao cinema antes de pedir filmes que serão entregues em suas portas.
+
+Dada a formidável competição online, não é mesmo um negócio fácil. Mas Tom pode aumentar sua produtividade e seu serviço ao cliente com um novo planejador de entregas por GPS, adquirido com sua operadora de telefonia. Por uma pequena taxa, ele equipou seu telefone com um software que se integra facilmente com seu programa de relacionamento com o cliente. O software ajudou Tom a economizar tempo, ajudando-o a planejar melhor as rotas de entrega e evitar o trânsito. Ele até mesmo integrou os celulares de dois auxiliares para ajudá-lo nos finais de semana, quando há um pico de atividade. Tom sabe que seu pequeno negócio nunca o deixará rico, mas ele não trocaria sua situação por nenhum trabalho corporativo.
+
+- O valor é suficiente para motivar os clientes a pagar taxas mensais?
+- Através de quais canais tais segmentos podem ser alcançados mais facilmente?
+- Com que outros dispositivos e/ou softwares este serviço precisaria ser integrado?
+
+## O TURISTA
+
+Dale e Rose estão viajando para Paris para um final de semana prolongado. Eles estão empolgados porque não visitam a Europa desde a lua de mel, há 25 anos. O casal organizou essa pequena fuga do trabalho e da vida familiar apenas duas semanas antes da partida, deixando seus três filhos com parentes em Portland. Sem tempo e energia para planejar a viagem em detalhes, eles decidiram "dar um jeito". Portanto ficaram intrigados ao ler um artigo na revista de bordo sobre um novo serviço turístico via GPS, que utiliza telefones celulares. Dale e Rose, ambos fãs de tecnologia, alugaram o celular recomendado ao chegarem no aeroporto Charles de Gaulle. Agora passeiam alegremente por Paris em um tour proposto pelo dispositivo - tudo sem consultar um único guia turístico tradicional. Eles gostaram principalmente do guia em áudio incorporado, que sugere várias opções de histórias e informações quando eles se aproximam de certos locais. No voo de volta, Dale e Rose conversaram sobre se mudar para Paris depois da aposentadoria. Rindo, se perguntaram se o dispositivo serviria também para ajudá-los a se adaptar à cultura francesa.
+
+- O serviço deve estar baseado em um dispositivo proprietário ou um aplicativo que possa ser baixado pelo aparelho celular do cliente?
+- As linhas aéreas podem servir de canais parceiros para distribuir o serviço/dispositivo?
+- Que parceiros de conteúdo potenciais estariam interessados em fazer parte do serviço?
+- Por qual Proposta de Valor os clientes estariam mais dispostos a pagar?
+
+## O FAZENDEIRO DE VINHOS
+
+Alexander herdou vinhedos do seu pai, que por sua vez herdou-os do avô de Alexander, que emigrou da Suíça para a Califórnia para produzir vinhos. Carregar esta história de família é um trabalho complicado, mas Alexander gosta de trazer pequenas inovações à longa tradição de produção de vinho da sua família.
+
+Sua última descoberta foi um simples aplicativo de gestão que agora está instalado em seu telefone celular. Embora não fosse direcionado a produtores de vinho, foi desenvolvido de tal maneira que Alexander foi facilmente capaz de personalizá-lo para seus próprios fins. O aplicativo se integra com sua lista de tarefas, o que significa que agora ele tem uma lista de afazeres por GPS, que o lembra de onde e quando verificar o solo ou a qualidade das uvas. Ele já pensa em compartilhar o aplicativo com os seus gerentes. Afinal, a ferramenta só faz sentido se todos na equipe atualizarem o banco de dados de solo e qualidade das uvas.
+
+- O valor é suficiente para motivar um fazendeiro a pagar uma taxa de serviço mensal?
+- Através de quais canais tal segmento de clientes pode ser facilmente alcançado?
+- Com que outros dispositivos e/ou softwares este serviço precisaria ser integrado?
+
+## QUESTÕES EM RELAÇÃO AO MODELO DE NEGÓCIOS:
