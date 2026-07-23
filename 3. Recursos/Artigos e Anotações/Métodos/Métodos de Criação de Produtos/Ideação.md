@@ -1,3 +1,11 @@
+---
+tags:
+  - business
+  - marketing
+  - tático
+  - produto
+---
+
 ## Gerando Novas Ideias de Modelos de Negócio
 ![[Pasted image 20260723101131.png]]
 
@@ -50,3 +58,72 @@ Perguntas "e se" são meros pontos de partida. Elas nos desafiam a descobrir o M
 [[3. Recursos/Artigos e Anotações/Métodos/Métodos de Criação de Produtos/Cases/Cases de e Se]]
 
 ## O Processo de Ideação
+#### 1. COMPOSIÇÃO DE EQUIPE
+
+**PERGUNTA-CHAVE: NOSSA EQUIPE É DIVERSIFICADA O SUFICIENTE PARA GERAR IDEIAS NOVAS?**
+
+Reunir a equipe certa é essencial para gerar ideias eficientes de novos Modelos de Negócios. Os membros devem ser variados em termos de experiência, idade, tempo de empresa, representação de unidade de negócio, conhecimento do cliente e capacidade profissional.
+
+#### 2. IMERSÃO
+
+**PERGUNTA-CHAVE: QUAIS ELEMENTOS DEVEMOS ESTUDAR ANTES DE GERAR IDEIAS?**
+
+Idealmente, a equipe deve passar por uma fase de imersão, que inclui uma pesquisa geral, o estudo de clientes e prospectos, o escrutínio de novas tecnologias e a análise de Modelos de Negócios existentes. A imersão pode durar diversas semanas ou ser curta, com apenas alguns exercícios e workshops (ex. o Mapa da Empatia).
+
+#### 3. EXPANSÃO
+
+**PERGUNTA-CHAVE: QUE INOVAÇÕES PODEMOS IMAGINAR PARA CADA COMPONENTE DO MODELO DE NEGÓCIOS?**
+
+Durante essa fase, a equipe expande a gama de soluções possíveis, procurando gerar quantas ideias for possível. Cada um dos nove componentes pode servir de ponto de partida. O objetivo desta fase é quantidade, não qualidade. Reforçar as regras do brainstorming manterá as pessoas concentradas em gerar ideias em vez de censurá-las numa etapa no inicio do processo.
+
+#### 4. CRITÉRIO DE SELEÇÃO
+
+**PERGUNTA-CHAVE: QUE CRITÉRIOS SÃO MAIS IMPORTANTES PARA PRIORIZAR NOSSAS IDEIAS?**
+
+Depois de expandir a gama de soluções possíveis, a equipe deve definir critérios para reduzir o número de ideias a uma quantidade gerenciável. Os critérios serão específicos ao contexto, mas incluir sempre o tempo de implementação estimado, o potencial de receita, uma possível resistência do cliente e o impacto na vantagem competitiva.
+
+#### 5. “PROTOTIPANDO”
+
+**PERGUNTA-CHAVE: COMO SERIA O MODELO DE NEGÓCIOS COMPLETO DE CADA IDEIA?**
+
+Com os critérios definidos, a equipe deve ser capaz de reduzir o número de ideias para uma pequena lista, priorizada, contendo de três a cinco potenciais inovações de Modelo de Negócios. Utilize o Canvas de Modelo de Negócios para rascunhar e discutir cada ideia como um protótipo.
+
+### REÚNA UMA EQUIPE DIVERSIFICADA
+
+A tarefa de gerar novas ideias não deve ser deixada exclusivamente para aqueles que são considerados "tipos criativos". A ideação é um exercício em grupo. De fato, por sua própria natureza, a inovação exige a participação de pessoas de toda a organização. Inovar o Modelo de Negócios é criar valor explorando novos componentes do Modelo de Negócios, estabelecendo ideias inovadoras entre blocos. Pode envolver todos os nove componentes do canvas. Assim, se fazem necessárias as opiniões e ideias de pessoas que representem múltiplas áreas.
+
+Por isso, reunir o grupo certo é um prerequisito crucial para gerar novas ideias de Modelo de Negócios. Pensar na inovação não deve estar confinado à unidade de P&D ou ao escritório de planejamento estratégico. As equipes de inovação devem ser diversificadas. A diversidade ajuda a gerar, discutir e selecionar novas ideias. Considere trazer pessoas de fora, até mesmo crianças.  
+A diversidade funciona. Mas certifique-se de ensinar como ouvir ativamente, considerando a participação de um intermediador neutro nas reuniões mais importantes.
+
+>[! Uma equipe diversificada de inovação em Modelo de Negócios tem membros...]
+>- De várias unidades de negócio
+>- De diferentes idades
+>- Com diferentes especialidades
+>- Com diferentes tempos de trabalho no mercado
+>- Com diferentes experiências
+>- De diferentes históricos culturais  
+
+### REGRAS DO BRAINSTORMING
+
+> [!Brainstorms de sucesso seguem uma série de regras. Reforçar essas regras ajudará você a maximizar o número de ideias bem-sucedidas que virão como resultado.]
+### Concentre-se
+
+Comece com uma declaração bem lapidada do problema em mãos. Idealmente, isso deve estar articulado com uma necessidade do cliente. Não deixe a discussão vagar demais; sempre a traga de volta ao problema em si.
+
+### Reforce as regras
+
+Esclareça inicialmente as regras e atenha-se a elas. As regras mais importantes são "não julgar", "uma discussão por vez", "quantidade é o que importa", "pense visualmente" e "encoraje ideias malucas". Facilitadores devem reforçar as regras.
+
+### Pense visualmente
+
+Escreva as ideias ou rascunhe em uma superfície para que todos possam vê-las. Uma boa maneira de coletar ideias é escrevê-las em notas adesivas e colá-las em uma parede. Isso permite que você mova as ideias e as reagrupe.
+
+### Prepare
+
+Prepare-se para o brainstorm com uma experiência de imersão no problema em questão. Pode ser uma excursão relacionada, uma discussão com os clientes, ou qualquer outro meio de imergir a equipe em questões diretamente relacionadas ao problema principal.
+
+### AQUECIMENTO: O EXERCÍCIO DA VACA ROXA
+
+Para mexer com os fluidos criativos de sua equipe, pode ser útil começar uma sessão de ideação com um aquecimento como o exercício da Vaca. É assim:. instrua os participantes a rascunharem três Modelos de Negócios diferentes, usando uma vaca. Primeiro, peça que definam algumas características básicas de uma vaca (produz leite, come o dia todo, muge, etc.). Diga para utilizarem essas características para criar Modelos de Negócios inovadores, com base em uma vaca. Dê três minutos para isso.
+
+Tenha em mente que o exercício pode dar errado, pois é bastante ridículo mesmo. Mas foi testado com executivos, contadores, gerenciadores de risco e empreendedores, geralmente com grande sucesso. O objetivo é tirar as pessoas de sua rotina de negócios e mostrar o quão prontamente podem gerar ideias ao se desconectarem do ortodoxo e deixarem a criatividade fluir.
