@@ -354,7 +354,6 @@ Hoje construiremos nossa primeira versão funcional.
 ## [[🤖 Monitoria M6 003]]
 ## [[🛠 Desafio M6 003]] 
 
-
 ## Etapa 1 — Criar os arquivos
 
 Dentro de `app`, crie:
