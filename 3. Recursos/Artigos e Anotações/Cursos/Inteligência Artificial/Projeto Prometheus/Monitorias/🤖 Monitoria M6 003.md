@@ -1219,7 +1219,7 @@ Isso parece uma pequena mudança, mas é um salto importante. Você deixou de co
 Depois de implementar o `main.py`, execute:
 
 ```powershell
-python app/main.py
+python -m app.main
 ```
 
 Se tudo estiver correto (e sua chave da API for válida), o Prometheus-Mentor fará sua primeira conversa. E esse será, oficialmente, **o nascimento do primeiro agente do Projeto Prometheus**. 🚀
