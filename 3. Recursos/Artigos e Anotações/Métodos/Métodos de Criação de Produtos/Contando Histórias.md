@@ -75,7 +75,7 @@ Algumas vezes, o único propósito de uma história é desafiar o status quo da 
 Algumas vezes, uma organização tem ideias fortes sobre a evolução do contexto competitivo. Nesse contexto, o propósito de uma história é demonstrar como um novo modelo está idealmente adequado para ajudar a empresa a competir nesse novo contexto. As histórias temporariamente afastam o medo ao desconhecido e ajudam as pessoas a imaginar como o Modelo de Negócios atual deve evoluir para continuar eficaz. 0 protagonista pode ser um cliente, um funcionário ou um gerente do alto escalão.
 
 --- end-multi-column
-````Text
+```Text
 Modelo de Negócios Atual  
 │  
 ├──────────────► Qual Modelo de Negócios Futuro?  
@@ -85,3 +85,15 @@ Modelo de Negócios Atual
                      (Justificar a mudança)
 
 ```
+
+[[Desenvolvendo Histórias]]
+
+# Técnicas
+A narração de uma história cativante pode ser feita de diversas maneiras. Cada técnica tem vantagens e desvantagens e está melhor adequada para certas situações e certos públicos. Escolha uma técnica adequada depois de entender qual será sua audiência e o contexto no qual você vai se apresentar.
+
+
+|                   | Palavra & Imagem                                                                        | Vídeo           | Interpretação | Texto & Imagem | Quadrinhos       |
+| ----------------- | --------------------------------------------------------------------------------------- | --------------- | ------------- | -------------- | ---------------- |
+| **DESCRIÇÃO**     | Contar a história de um protagonista e seu ambiente utilizando uma ou diversas imagens. | Contar          |               |                |                  |
+| **QUANDO?**       | Apresentação em grupo ou onferência                                                     |                 |               |                |                  |
+| **TEMPO E CUSTO** | Baixo                                                                                   | Médio para alto | Baixo         | Baixo          | Baixo para Médio |
