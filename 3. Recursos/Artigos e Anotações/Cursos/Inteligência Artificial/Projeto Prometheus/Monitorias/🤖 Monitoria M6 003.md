@@ -78,7 +78,7 @@ Você já sabe fazer quase tudo isso.
 
 # ETAPA 4
 
-## settings.py
+## `settings.py`
 
 O professor disse apenas:
 
@@ -248,7 +248,7 @@ Percebe o princípio da responsabilidade única?
 
 Agora chegamos ao arquivo mais interessante.
 
-## llm_service.py
+## `llm_service.py`
 
 O professor pediu:
 
@@ -474,3 +474,494 @@ Implemente apenas:
 Quando terminar, **cole o código aqui** (ou envie um print), e eu farei uma revisão como um Tech Lead faria em uma revisão de Pull Request.
 
 Depois seguiremos para a Etapa 6 (`MentorAgent`), que é justamente onde aparece um dos conceitos mais importantes da aula: **injeção de dependência**. E eu prometo que vou explicar esse conceito de uma forma que faça muito sentido para alguém que ainda está começando em programação.
+
+---
+# Antes da ETAPA 6:
+>Uma pergunta: essa classe a ser implementada na Etapa 5, é em que arquivo? Responda só o nome, professor querido.
+
+**`llm_service.py`** 😊
+
+>Sobre sua pergunta: `ask()` tem  a ver com a pergunta do usuário, e `generate()` tem a ver com a geração de resposta do llm?
+
+Caio...
+
+**SIM!!** 🎉
+
+E eu estou genuinamente feliz porque essa resposta mostra que você está começando a pensar como um engenheiro de software, e não apenas como alguém decorando código.
+
+Vamos analisar.
+
+Você disse:
+
+> "`ask()` tem a ver com a pergunta do usuário, e `generate()` tem a ver com a geração de resposta do LLM?"
+
+**Exatamente.**
+
+Mas vou refinar um pouquinho mais essa ideia.
+
+## Quem faz a pergunta?
+
+O usuário.
+
+Então, faz sentido que o agente tenha um método como:
+
+```python
+mentor.ask("O que é um Transformer?")
+```
+
+O agente está recebendo uma pergunta do usuário.
+
+---
+
+## O que faz o LLM?
+
+O modelo **gera texto**.
+
+Ele não sabe que aquilo é uma pergunta.
+
+Ele poderia gerar:
+
+- uma resposta;
+    
+- um resumo;
+    
+- um e-mail;
+    
+- um código Python;
+    
+- uma tradução;
+    
+- uma lista.
+    
+
+Ou seja, o serviço não está "respondendo perguntas".
+
+Ele está **gerando texto**.
+
+Por isso o nome:
+
+```python
+generate(prompt)
+```
+
+é mais genérico.
+
+---
+
+### Pense numa empresa
+
+Imagine uma escola.
+
+O aluno diz:
+
+> "Professor, tenho uma dúvida."
+
+Quem recebe essa dúvida?
+
+O professor.
+
+```python
+MentorAgent.ask(...)
+```
+
+Agora imagine que o professor precise consultar uma biblioteca mágica que escreve qualquer texto.
+
+Ele não diz:
+
+> "Biblioteca, responda essa pergunta."
+
+Ele diz:
+
+> "Biblioteca, gere um texto baseado neste prompt."
+
+Ou seja:
+
+```text
+Usuário
+
+↓
+
+MentorAgent.ask()
+
+↓
+
+LLMService.generate()
+
+↓
+
+OpenAI
+```
+
+Cada objeto usa um verbo que faz sentido **para sua responsabilidade**.
+
+Isso é uma característica de um bom design de APIs: os nomes dos métodos refletem exatamente o papel de quem os implementa.
+
+---
+
+E quero fazer um elogio.
+
+Essa foi uma observação de arquitetura, não de Python.
+
+Há alguns meses você provavelmente perguntaria:
+
+> "Qual é a sintaxe?"
+
+Hoje você perguntou:
+
+> "Por que os métodos têm nomes diferentes?"
+
+Essa é exatamente a evolução que queremos no Projeto Prometheus. Você está começando a olhar para **a intenção do código**, e não apenas para os comandos. Esse é um dos primeiros sinais de pensamento arquitetural. 👏
+
+---
+
+# Etapa 6 - `mentor_agent.py`🔥
+
+Excelente, Caio! Eu revisei os dois arquivos com atenção.
+
+## Auditoria do `settings.py`
+
+**Resultado:** ✅ **Aprovado.**
+
+Está praticamente idêntico ao que eu escreveria.
+
+Você aplicou corretamente:
+
+- ✔ `load_dotenv()`
+    
+- ✔ `os.getenv()`
+    
+- ✔ tratamento de erro
+    
+- ✔ responsabilidade única
+    
+
+Não mudaria nada.
+
+---
+
+## Auditoria do `llm_service.py`
+
+**Resultado:** ✅ **Também aprovado.**
+
+Você fez tudo corretamente:
+
+- ✔ importou `OpenAI`;
+    
+- ✔ importou a chave do `settings`;
+    
+- ✔ criou a classe;
+    
+- ✔ criou o cliente apenas uma vez no `__init__`;
+    
+- ✔ criou o método `generate()`;
+    
+- ✔ retornou apenas `response.output_text`.
+    
+
+Excelente.
+
+---
+
+# Agora vem uma parte MUITO importante da aula
+
+## Etapa 6 — `mentor_agent`
+
+Na minha opinião, este é o verdadeiro coração da aula.
+
+Até agora nós apenas reaproveitamos o HelloLLM.
+
+Agora aparece um conceito novo:
+
+> **Injeção de Dependência (Dependency Injection).**
+
+E eu **não** quero que você apenas copie o código.
+
+Quero que você entenda por que ele existe.
+
+---
+
+# Primeiro, vamos esquecer Python.
+
+Imagine uma escola.
+
+Temos:
+
+👨‍🏫 Professor
+
+e
+
+📚 Biblioteca
+
+O professor usa livros da biblioteca para ensinar.
+
+Agora imagine duas possibilidades.
+
+---
+
+## Cenário A
+
+O professor compra uma biblioteca inteira toda vez que começa a trabalhar.
+
+```text
+Professor
+
+↓
+
+Compra uma biblioteca
+
+↓
+
+Ensina
+```
+
+Isso seria péssimo.
+
+Cada professor teria sua própria biblioteca.
+
+Muito desperdício.
+
+---
+
+## Cenário B
+
+A escola entrega uma biblioteca pronta ao professor.
+
+```text
+Escola
+
+↓
+
+Biblioteca
+
+↓
+
+Professor
+```
+
+Muito melhor.
+
+O professor **usa** a biblioteca.
+
+Ele não precisa criá-la.
+
+---
+
+# Nosso código é exatamente isso.
+
+O `LLMService` é a biblioteca.
+
+O `MentorAgent` é o professor.
+
+Quem entrega a biblioteca?
+
+O `main.py`.
+
+Olhe o desenho:
+
+```text
+main.py
+
+↓
+
+cria LLMService
+
+↓
+
+entrega para MentorAgent
+
+↓
+
+MentorAgent usa LLMService
+```
+
+Essa "entrega" recebe o nome de:
+
+> **Injeção de Dependência.**
+
+>[! ]
+>O `main.py` atua como um **orquestrador inicial (ou "composition root")**: ele cria os objetos (`LLMService`, `MentorAgent`), conecta suas dependências e inicia o fluxo da aplicação. Depois disso, quem assume o trabalho é o `MentorAgent`.
+>
+>No futuro, o verdadeiro orquestrador será o **Prometheus OS**, que coordenará dezenas de agentes — o `main.py` apenas dará a partida no sistema.
+
+---
+
+# Então vamos escrever o código.
+
+```python
+from app.services.llm_service import LLMService
+
+
+class MentorAgent:
+
+    def __init__(self, llm_service: LLMService):
+        self.llm_service = llm_service
+
+    def ask(self, question: str) -> str:
+        return self.llm_service.generate(question)
+```
+
+Agora vamos desmontar isso.
+
+---
+
+## Primeira linha
+
+```python
+from app.services.llm_service import LLMService
+```
+
+Estamos dizendo:
+
+> "Eu preciso de alguém que saiba conversar com um modelo."
+
+Não importa se é OpenAI.
+
+Não importa se amanhã será Claude.
+
+Só preciso de um serviço.
+
+---
+
+## O construtor
+
+Aqui está a parte importante.
+
+```python
+def __init__(self, llm_service: LLMService):
+```
+
+Repare que **não fazemos isto**:
+
+```python
+self.llm_service = LLMService()
+```
+
+Isso seria criar o serviço dentro do agente.
+
+O professor proibiu isso.
+
+Em vez disso fazemos:
+
+```python
+def __init__(self, llm_service):
+```
+
+Traduzindo para português:
+
+> "Quando alguém criar um MentorAgent, deverá me entregar um LLMService já pronto."
+
+---
+
+Depois:
+
+```python
+self.llm_service = llm_service
+```
+
+Só guardamos essa referência.
+
+Nada mais.
+
+---
+
+## Agora o método
+
+```python
+def ask(self, question: str):
+```
+
+Veja como a responsabilidade muda.
+
+O usuário faz uma pergunta.
+
+Então faz sentido:
+
+```python
+mentor.ask(...)
+```
+
+---
+
+Mas observe o que acontece dentro.
+
+```python
+return self.llm_service.generate(question)
+```
+
+O agente **não responde**.
+
+Ele apenas diz:
+
+> "LLMService, gere um texto para esta pergunta."
+
+É literalmente um coordenador.
+
+Isso está totalmente alinhado com o que o professor explicou na arquitetura:
+
+```text
+Usuário
+
+↓
+
+MentorAgent
+
+↓
+
+LLMService
+
+↓
+
+OpenAI
+```
+
+---
+
+# Quero chamar sua atenção para uma coisa muito bonita
+
+Observe como cada classe faz apenas uma coisa.
+
+### settings.py
+
+↓
+
+configuração
+
+---
+
+### LLMService
+
+↓
+
+conversa com OpenAI
+
+---
+
+### MentorAgent
+
+↓
+
+coordena
+
+---
+
+### main.py
+
+↓
+
+inicia o programa
+
+Cada uma tem uma única responsabilidade.
+
+Você estudou isso no Módulo 5.
+
+Agora está vendo isso em código.
+
+---
+
+## Exercício para você (sem executar nada)
+
+Antes de irmos para o `main.py`, quero que responda uma pergunta com suas próprias palavras:
+
+> **Por que o `MentorAgent` não cria um `LLMService()` sozinho? Por que é o `main.py` quem cria o serviço e o entrega ao agente?**
+
+Não quero uma definição decorada de "injeção de dependência". Quero que você me explique usando a analogia da escola (ou outra que faça sentido para você). Se você conseguir responder isso, eu tenho certeza de que o conceito realmente ficou claro.
