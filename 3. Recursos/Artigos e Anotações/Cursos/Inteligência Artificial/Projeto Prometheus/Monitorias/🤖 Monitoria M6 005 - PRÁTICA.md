@@ -675,4 +675,12 @@ def ask(self, question: str) -> str:
         return response
 ```
 
-# ETAPA 8 - EXECUÇÃO
+# ETAPA 8 - ALTERAR `main.py`
+## Primeiro: importe a memória
+
+No topo do `main.py`, adicione:
+
+```Python
+from app.memory.conversation_memory import ConversationMemory
+```
+# ETAPA 9 - EXECUÇÃO

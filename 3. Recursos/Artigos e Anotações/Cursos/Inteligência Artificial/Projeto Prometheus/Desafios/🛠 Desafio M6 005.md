@@ -84,11 +84,13 @@ E eu gostaria de destacar uma coisa que venho percebendo nas últimas aulas: sua
 - [x] Arquivo criado
 
 ## Etapa 2 - Criar a Classe
+
 ```Python
 class ConversationMemory:
 ```
 
 ## Etapa 3 - Definir a Interface
+
 ```Python
 class ConversationMemory:
     def __init__(self):
@@ -108,6 +110,7 @@ class ConversationMemory:
 ```
 
 ## Etapa 4 - Atualizar o `PromptBuilder`
+
 ```Python
 class PromptBuilder:
     @staticmethod
@@ -128,4 +131,82 @@ Nova pergunta do usuário:
 
 {question}
 """
+	  return prompt
 ```
+
+- [x] Identidade do Prometheus-Mentor Atualizada
+- [x] Histórico formatado
+- [x] A nova pergunta do usuário
+
+## Etapa 5 - Atualizar o `MentorAgent`
+
+```Python
+from app.services.llm_service import LLMService
+from app.prompts.mentor_prompt import PromptBuilder
+from app.memory.conversation_memory import ConversationMemory
+
+class MentorAgent:
+    def __init__(self, llm_service: LLMService):
+        self.llm_service = llm_service
+        self.memory = ConversationMemory()
+
+    def ask(self, question: str) -> str:
+
+        self.memory.add_user_message(question)
+
+        history = self.memory.get_history()
+
+        prompt = PromptBuilder.build(history, question)
+
+        response = self.llm_service.generate(prompt)
+
+        self.memory.add_assistant_message(response)
+
+        return response
+```
+
+- [x] salvar a pergunta do usuário na memória - `self.memory = ConversationMemory()` ;
+- [x] recuperar o histórico - `history = self.memory.get_history()`;
+- [x] montar o prompt completo - `prompt = PromptBuilder.build(history, question)`;
+- [x] enviar ao `LLMService` - `response = self.llm_service.generate(prompt)`
+- [x] salvar a resposta do assistente na memória  - `self.memory.add_assistant_message(response)`
+- [x] devolver a resposta - `return response`
+
+## Etapa 6 - Atualizar o `main.py`
+
+```Python
+from app.agents.mentor_agent import MentorAgent
+from app.services.llm_service import LLMService
+
+def main():
+    # Cria o serviço responsável por conversar com a OpenAI
+    llm_service = LLMService()
+
+    # Cria o agente, recebendo o serviço
+    mentor = MentorAgent(llm_service)
+
+    # Recebe a pergunta do usuário
+    question = input("Pergunte alguma coisa: ")
+
+    # O agente responde
+    answer = mentor.ask(question)
+
+    # Exibe a resposta
+    print("\nPrometheus-Mentor:\n")
+    print(answer)
+
+  
+
+if __name__ == "__main__":
+    main()
+```
+
+- [ ] Em vez de criar apenas o `LLMService`, agora também crie uma instância de `ConversationMemory`.
+- [ ] Passe ambos para o `MentorAgent`.
+- [ ] Depois, permita que o usuário faça **várias perguntas**, em um loop, até digitar algo como:
+
+```
+sair
+```
+
+Assim você poderá verificar que o histórico está sendo preservado durante toda a execução do programa.
