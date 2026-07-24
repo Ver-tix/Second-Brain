@@ -63,3 +63,5 @@ Isso importa porque busca vetorial em vault grande sem filtro prévio é computa
 |Overlap mínimo com chunking semântico|Reduz input duplicado|
 |Filtro por metadata antes do vetorial|Reduz custo de indexação/busca (não é token de API, mas é custo computacional local)|
 |Separador + metadata explícita entre chunks|Custo pequeno de input, evita erro caro de output|
+
+# Explicação mais Esmiuçada
