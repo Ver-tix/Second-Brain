@@ -605,3 +605,72 @@ Esse é um passo muito importante na evolução da arquitetura.
 Vamos reescrever o `ask()`
 
 Hoje ele provavelmente está parecido com:
+```Python
+def ask(self, question: str) -> str:
+    prompt = PromptBuilder.build(question)
+    return self.llm_service.generate(prompt)
+```
+
+Agora, **não copie ainda**. Leia comigo linha por linha:
+
+## Etapa 7.1 - Guardar a pergunta:
+
+```Python
+self.memory.add_user_message(question)
+```
+
+Agora a memória possui:
+`Usuário: O que é um Transformer?`
+
+## Etapa 7.2 - Recuperar o Histórico
+```Python
+history = self.memory.get_history()
+```
+Agora `history` é uma string pronta para entrar no prompt.
+
+## Etapa 7.3 - Construir o Prompt
+```Python
+prompt = PromptBuilder.build(history, question)
+```
+
+Observe como o `PromptBuilder` continua sem saber que existe uma `ConversationMemory`.
+
+Ele apenas recebe uma string.
+
+## Etapa 7.4 - Perguntar ao Modelo
+```Python
+response = self.llm_service.generate(prompt)
+```
+
+## Etapa 7.5 - Guardar Resposta
+```Python
+self.memory.add_assistant_message(response)
+```
+Agora a memória passa a conter:
+
+```
+Usuário: O que é um Transformer?
+Assistente: Um Transformer é...
+```
+
+## Etapa 7.6 - Devolver ao Usuário
+```Python
+return response
+```
+
+## Método Completo
+```Python
+def ask(self, question: str) -> str:
+
+        self.memory.add_user_message(question)
+
+        history = self.memory.get_history()
+
+        prompt = PromptBuilder.build(history, question)
+
+        response = self.llm_service.generate(prompt)
+
+        self.memory.add_assistant_message(response)
+
+        return response
+```
