@@ -252,10 +252,10 @@ Tente pensar em algo que você aprendeu e vivenciou, algo em que você acredita,
 
 Eu não acho que você consegue. No próximo capítulo, veremos como Hollywood conta e vende as suas histórias e como podemos pegar emprestado algumas de suas ideias para campanhas de marketing.
 
-# LANÇAMENTOS DE PRODUTOS
-
-SÃO UM ESPORTE EM EQUIPE
+# LANÇAMENTOS DE PRODUTOS SÃO UM ESPORTE EM EQUIPE
 
 Lançamentos de produtos são como um esporte em equipe. Há uma falsa percepção de que você pode se sentar na garagem de casa, sonhar com um produto, fazer um protótipo, criá-lo em seu computador, entrar na Internet, encontrar seus parceiros de joint venture e lançar o produto - e fazer tudo isso sozinho.
 
-Em primeiro lugar, se você tem parceiros de jointventure ou afiliados, você não está fazendo isso sozinho. Em segundo lugar, os lançamentos de produtos mais bem-sucedidos envolvem várias mentes trabalhando ativamente juntas, esculpindo e elaborando o lançamento à medida que ele avança. Se você tiver isso em mente e envolver outras pessoas no que está fazendo, verá que o seu lançamento será muito mais bem-sucedido.
+Em primeiro lugar, se você tem parceiros de joint venture ou afiliados, você não está fazendo isso sozinho. 
+
+Em segundo lugar, os lançamentos de produtos mais bem-sucedidos envolvem várias mentes trabalhando ativamente juntas, esculpindo e elaborando o lançamento à medida que ele avança. Se você tiver isso em mente e envolver outras pessoas no que está fazendo, verá que o seu lançamento será muito mais bem-sucedido.
