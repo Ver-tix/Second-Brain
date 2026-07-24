@@ -146,9 +146,13 @@ from app.prompts.mentor_prompt import PromptBuilder
 from app.memory.conversation_memory import ConversationMemory
 
 class MentorAgent:
-    def __init__(self, llm_service: LLMService):
+    def __init__(
+            self,
+            llm_service: LLMService,
+            memory: ConversationMemory):
+
         self.llm_service = llm_service
-        self.memory = ConversationMemory()
+        self.memory = memory
 
     def ask(self, question: str) -> str:
 
@@ -201,9 +205,9 @@ if __name__ == "__main__":
     main()
 ```
 
-- [ ] Em vez de criar apenas o `LLMService`, agora também crie uma instância de `ConversationMemory`.
-- [ ] Passe ambos para o `MentorAgent`.
-- [ ] Depois, permita que o usuário faça **várias perguntas**, em um loop, até digitar algo como:
+- [x] Em vez de criar apenas o `LLMService`, agora também crie uma instância de `ConversationMemory`.
+- [x] Passe ambos para o `MentorAgent`.
+- [x] Depois, permita que o usuário faça **várias perguntas**, em um loop, até digitar algo como:
 
 ```
 sair
