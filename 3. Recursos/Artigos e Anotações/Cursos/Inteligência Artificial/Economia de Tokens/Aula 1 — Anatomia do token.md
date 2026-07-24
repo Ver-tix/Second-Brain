@@ -19,9 +19,9 @@ O custo é por token processado pelo transformer, mas input e output têm **perf
 - Cada token gerado recalcula atenção sobre todo o contexto acumulado (mitigado pelo **KV cache**, que guarda as projeções K/V dos tokens anteriores pra não recomputar)
 - Mesmo com KV cache, o _decode_ é memory-bound (bandwidth-limited), não compute-bound — por isso é mais lento e mais caro por token
 ---
-## **Prompt caching ≠ KV cache, mas usa o mesmo princípio**
+## **Prompt caching ≠ [[KV cache]], mas usa o mesmo princípio**
 
-- O prompt caching da Anthropic persiste as ativações (KV) de um prefixo fixo do prompt entre requisições
+- O prompt caching da Anthropic persiste as ativações ([[KV Cache|KV]]) de um prefixo fixo do prompt entre requisições
 - Se seu system prompt + few-shot examples do Prometheus-Editor não mudam, a API reaproveita o estado computado — você paga só pela leitura do cache (fração do preço), não pelo recompute do prefill inteiro
 - Implicação de design: **estruture o prompt com o conteúdo fixo primeiro, o variável por último** — cache hit precisa de prefixo idêntico byte-a-byte
 
@@ -68,9 +68,9 @@ Pensa numa confeitaria recebendo um pedido escrito. Pra **ler o pedido inteiro**
 
 Já **montar o bolo** (o **output/decode**) é diferente: você não pode pôr a segunda camada antes da primeira estar pronta, nem a terceira antes da segunda. É sequencial — uma camada de cada vez, e cada camada nova exige que o confeiteiro **olhe o bolo inteiro construído até ali** antes de decidir o próximo passo. Isso é autorregressivo: token N+1 depende do token N.
 
-## 2. Por que output é mais lento mesmo com KV cache 
+## 2. Por que output é mais lento mesmo com [[KV cache]]
 
-Sem ajuda, o confeiteiro reexaminaria o bolo inteiro do zero a cada nova camada — um desperdício enorme. O **KV cache** é o caderninho de anotações: "camada 1 = chocolate, camada 2 = morango...". Assim ele não recalcula tudo, só consulta a nota e adiciona a próxima linha.
+Sem ajuda, o confeiteiro reexaminaria o bolo inteiro do zero a cada nova camada — um desperdício enorme. O **[[KV cache]]** é o caderninho de anotações: "camada 1 = chocolate, camada 2 = morango...". Assim ele não recalcula tudo, só consulta a nota e adiciona a próxima linha.
 
 Só que mesmo com o caderninho, colocar cada camada física ainda leva tempo — não porque pensar seja lento, mas porque **buscar e mover a massa/anotação** consome tempo. É a diferença entre:
 
