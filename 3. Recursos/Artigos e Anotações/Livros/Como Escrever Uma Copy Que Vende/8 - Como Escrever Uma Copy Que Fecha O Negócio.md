@@ -6,3 +6,6 @@ tags:
 author:
   - Ray Edwards
 ---
+>"Vendedores tímidos têm filhos magros."
+>- Zig Ziglair
+
