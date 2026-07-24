@@ -7,7 +7,7 @@ author:
   - Ray Edwards
 ---
 > "É simples. Você simplesmente pega alguma coisa e faz uma coisa com isso, e então faz outra coisa com isso. Continue fazendo isso e em breve você terá alguma outra coisa.”
-> 
+>
 > - Jasper Johns
 
 Bullet points são cruciais para o sucesso da sua copy de vendas onli-ne. Eles são uma das armas de persuasão mais subutilizadas, contudo uma das mais poderosas do seu arsenal de copywriting. Parece que quase ninguém entende o seu valor total.
