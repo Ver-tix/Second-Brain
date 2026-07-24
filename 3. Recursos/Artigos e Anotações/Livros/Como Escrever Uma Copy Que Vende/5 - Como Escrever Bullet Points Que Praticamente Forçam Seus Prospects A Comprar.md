@@ -34,14 +34,12 @@ Comece a guardar a sua correspondência. Não estou falando dos cupons que você
 
 >[!O QUE É UM “SWIPE FILE” (ARQUIVO SWIPE)?]
 >Segundo a Wikipedia, "arquivo swipe é uma coleção de cartas de vendas e publicidade testadas e comprovadas. Manter um arquivo swipe (modelos) é uma prática comum usada por copywriters e diretores de criação, servindo como uma referência pronta para ideias para projetos." Fonte: [https://en.wikipedia.org/wiki/Swipe_file](https://en.wikipedia.org/wiki/Swipe_file)
-
-O principal ponto a ter em mente é que o arquivo swipe é uma  
-"referência pronta de ideias", não um arquivo para usar para plágio! Estude e imite os estilos, técnicas e estruturas subjacentes - mas nunca apenas copie as palavras de outro escritor. Isso é roubar e, além de ser errado, também é ilegal. Use o swipe com responsabilidade!
-
-Um pensamento final sobre arquivo swipe que deveria ser óbvio, mas merece ser mencionado: mantenha a sua própria copy bem-sucedida de trabalhos anteriores em seu arquivo swipe!
-
-
-Este é um bom material de resposta direta, então cada faceta do material merece o seu próprio arquivo swipe. Os bullet points não são diferentes. É bom começar a construir um arquivo swipe com ótimos títulos, as melhores cartas de vendas e excelentes e-mails. Da mesma forma, insisto que você inicie um arquivo swipe que se concentre especificamente em copy que apresente ótimos bullet points, porque esse será um dos materiais de marketing mais importantes que você escreverá.
+>
+>O principal ponto a ter em mente é que o arquivo swipe é uma "referência pronta de ideias", não um arquivo para usar para plágio! Estude e imite os estilos, técnicas e estruturas subjacentes - mas nunca apenas copie as palavras de outro escritor. Isso é roubar e, além de ser errado, também é ilegal. Use o swipe com responsabilidade!
+>
+>Um pensamento final sobre arquivo swipe que deveria ser óbvio, mas merece ser mencionado: mantenha a sua própria copy bem-sucedida de trabalhos anteriores em seu arquivo swipe!
+>
+>Este é um bom material de resposta direta, então cada faceta do material merece o seu próprio arquivo swipe. Os bullet points não são diferentes. É bom começar a construir um arquivo swipe com ótimos títulos, as melhores cartas de vendas e excelentes e-mails. Da mesma forma, insisto que você inicie um arquivo swipe que se concentre especificamente em copy que apresente ótimos bullet points, porque esse será um dos materiais de marketing mais importantes que você escreverá.
 
 ## 2. ESCREVA PELO MENOS 105 BULLET POINTS VOCÊ MESMO
 
