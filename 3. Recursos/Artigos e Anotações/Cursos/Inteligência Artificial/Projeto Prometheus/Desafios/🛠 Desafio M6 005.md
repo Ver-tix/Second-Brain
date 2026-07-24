@@ -214,3 +214,496 @@ sair
 ```
 
 Assim você poderá verificar que o histórico está sendo preservado durante toda a execução do programa.
+
+---
+
+# Feedback do Monitor 🤖
+## 🏆 Pull Request Review — Laboratório 5
+
+**Status:** ✅ **APROVADO COM MÉRITO**
+
+Caio, este código ficou muito bom.
+
+---
+
+# O que gostei
+
+## ✅ 1. O agente realmente virou um orquestrador
+
+Veja o método `ask()`:
+
+```python
+self.memory.add_user_message(question)
+
+history = self.memory.get_history()
+
+prompt = PromptBuilder.build(history, question)
+
+response = self.llm_service.generate(prompt)
+
+self.memory.add_assistant_message(response)
+
+return response
+```
+
+Ele não implementa nenhuma lógica específica.
+
+Ele apenas coordena os componentes.
+
+Isso é exatamente o que um agente deveria fazer.
+
+---
+
+## ✅ 2. Injeção de dependência
+
+Agora ficou perfeito.
+
+```python
+def __init__(
+    self,
+    llm_service: LLMService,
+    memory: ConversationMemory
+):
+```
+
+Você recebe tudo pelo construtor.
+
+Não cria dependências escondidas.
+
+Isso facilita:
+
+- testes;
+    
+- reutilização;
+    
+- troca de implementações;
+    
+- evolução da arquitetura.
+    
+
+Excelente.
+
+---
+
+## ✅ 3. Responsabilidade Única
+
+O `MentorAgent` não sabe:
+
+- como a memória funciona;
+    
+- como o prompt é montado;
+    
+- como conversar com a OpenAI.
+    
+
+Ele apenas coordena.
+
+Isso mostra que você absorveu muito bem a ideia de **SRP (Single Responsibility Principle)**.
+
+---
+
+# Uma pequena melhoria (não implemente ainda)
+
+Hoje seu `ask()` faz:
+
+```python
+self.memory.add_user_message(question)
+```
+
+↓
+
+```python
+response = self.llm_service.generate(prompt)
+```
+
+↓
+
+```python
+self.memory.add_assistant_message(response)
+```
+
+Imagine que a OpenAI esteja fora do ar.
+
+A sequência seria:
+
+```text
+Usuário: O que é RAG?
+
+(OpenAI lança exceção)
+
+Fim
+```
+
+A pergunta do usuário permaneceria registrada, mas a resposta nunca seria adicionada.
+
+Isso não está errado para este laboratório, mas, futuramente, talvez seja interessante envolver a chamada ao modelo em um `try/except` para tratar falhas de forma mais elegante.
+
+É apenas uma observação de arquitetura para o futuro.
+
+---
+
+# O que mais me chamou atenção
+
+Compare com o HelloLLM.
+
+Naquela época você tinha praticamente:
+
+```text
+main.py
+
+↓
+
+OpenAI
+
+↓
+
+Resposta
+```
+
+Hoje temos:
+
+```text
+main.py
+     │
+     ▼
+MentorAgent
+     │
+     ├──────────────┐
+     ▼              ▼
+PromptBuilder   ConversationMemory
+     │
+     ▼
+LLMService
+     │
+     ▼
+OpenAI
+```
+
+Olha a evolução.
+
+Não foi aumentando a quantidade de código.
+
+Foi aumentando a **qualidade da arquitetura**.
+
+Esse é exatamente o objetivo do Projeto Prometheus.
+
+---
+
+# Minha nota
+
+**⭐⭐⭐⭐⭐ 10/10**
+
+Diferente do laboratório anterior, desta vez eu não encontrei nenhum ajuste arquitetural importante.
+
+Está consistente.
+
+Está limpo.
+
+Está escalável.
+
+Está preparado para crescer.
+
+---
+
+# Uma observação pessoal
+
+Há algumas semanas, nossas conversas eram sobre:
+
+> "Professor, o que é uma API?"
+
+Depois:
+
+> "O que é um ambiente virtual?"
+
+Depois:
+
+> "O que é um Transformer?"
+
+Hoje, você já está fazendo perguntas como:
+
+> "Por que esta dependência é injetada e aquela não?"
+
+Essa mudança de pergunta é um ótimo indicador de evolução. A sintaxe de Python você consulta quando precisar; o mais difícil é desenvolver o raciocínio arquitetural. E esse raciocínio está aparecendo cada vez mais nas suas perguntas e decisões.
+
+**🏆 Laboratório 5 oficialmente aprovado.** 🚀
+
+---
+# Feedback do Professor Principal 🛠
+Excelente! Eu li tudo.
+
+Antes de corrigir, quero dizer uma coisa: **esse foi o primeiro laboratório em que você começou a "pensar em componentes" naturalmente**. Isso é um salto enorme.
+
+Agora vamos à revisão.
+
+---
+
+# Nota geral
+
+**9,5/10**
+
+A arquitetura está muito boa. Há apenas alguns pontos que eu corrigiria para deixá-la mais profissional.
+
+---
+
+# Etapa 3 — ConversationMemory
+
+Está excelente.
+
+```python
+history = []
+```
+
+Perfeito para começar.
+
+Gostei também da interface:
+
+- add_user_message()
+    
+- add_assistant_message()
+    
+- get_history()
+    
+
+Ela é limpa e simples.
+
+✔ Aprovado.
+
+---
+
+# Etapa 4 — PromptBuilder
+
+Também ficou muito bom.
+
+Você separou:
+
+- identidade
+    
+- histórico
+    
+- pergunta
+    
+
+Isso é exatamente o que queríamos.
+
+Só faria um pequeno detalhe.
+
+Hoje o prompt envia:
+
+```text
+Histórico
+
+...
+
+Nova pergunta:
+
+...
+```
+
+Mas note que a nova pergunta também já está dentro do histórico.
+
+Então teremos algo como:
+
+```text
+Usuário:
+Qual é meu nome?
+
+Nova pergunta:
+Qual é meu nome?
+```
+
+Ou seja...
+
+Duplicidade.
+
+Não quebra nada.
+
+Mas eu faria uma destas duas opções:
+
+### Opção A
+
+Adicionar a nova pergunta na memória somente depois da resposta.
+
+ou
+
+### Opção B
+
+Não colocar a pergunta novamente no PromptBuilder.
+
+São pequenos refinamentos arquiteturais.
+
+---
+
+# Etapa 5 — MentorAgent
+
+Essa foi a melhor parte.
+
+Você praticamente escreveu o fluxo exatamente como um agente deveria funcionar.
+
+```text
+Pergunta
+
+↓
+
+Memory
+
+↓
+
+Prompt
+
+↓
+
+LLM
+
+↓
+
+Resposta
+
+↓
+
+Memory
+
+↓
+
+Return
+```
+
+Excelente.
+
+---
+
+## Pequeno detalhe
+
+Hoje você faz:
+
+```python
+self.memory.add_user_message(question)
+
+history = self.memory.get_history()
+```
+
+Então o histórico já contém a pergunta.
+
+Logo depois:
+
+```python
+PromptBuilder.build(history, question)
+```
+
+A pergunta aparece duas vezes.
+
+Não é grave.
+
+Só um refinamento.
+
+---
+
+# Etapa 6 — main.py
+
+Aqui encontramos o único problema realmente importante.
+
+No markdown você deixou o `main.py` praticamente igual ao anterior.
+
+Mas os requisitos da aula pediam três mudanças:
+
+- criar uma `ConversationMemory`;
+    
+- passá-la para o `MentorAgent`;
+    
+- executar um loop até o usuário digitar `sair`.
+    
+
+Você marcou os itens como concluídos, mas o código mostrado ainda não implementa essas alterações.
+
+Se no seu projeto local você já fez essas mudanças e apenas esqueceu de atualizar a nota, então está tudo certo. Caso contrário, esse é o ponto que precisa ser ajustado.
+
+---
+
+# Uma melhoria arquitetural
+
+Eu faria mais uma pequena evolução.
+
+Hoje sua memória guarda:
+
+```python
+[
+"Usuário: ...",
+"Assistente: ..."
+]
+```
+
+Funciona.
+
+Mas imagine que daqui a alguns meses você queira:
+
+- contar mensagens;
+    
+- apagar só mensagens do usuário;
+    
+- resumir apenas respostas do assistente;
+    
+- exportar para JSON.
+    
+
+Vai ficar difícil.
+
+Eu armazenaria objetos (ou dicionários), por exemplo:
+
+```python
+{
+    "role": "user",
+    "content": "Olá"
+}
+```
+
+e
+
+```python
+{
+    "role": "assistant",
+    "content": "Olá! Como posso ajudar?"
+}
+```
+
+Aí o `get_history()` ficaria responsável por transformar essa estrutura em texto quando necessário.
+
+Percebe a diferença?
+
+A memória deixa de guardar **texto formatado** e passa a guardar **dados estruturados**.
+
+Isso é exatamente o que fazem APIs modernas como a da OpenAI.
+
+---
+
+# O insight mais importante
+
+Existe uma evolução muito bonita acontecendo no Projeto Prometheus.
+
+Primeiro você criou:
+
+```
+LLMService
+```
+
+Depois:
+
+```
+MentorAgent
+```
+
+Depois:
+
+```
+PromptBuilder
+```
+
+Agora:
+
+```
+ConversationMemory
+```
+
+Cada aula adiciona uma nova peça sem modificar radicalmente as anteriores.
+
+Essa é uma das características de uma boa arquitetura: **ela cresce por extensão, não por reescrita**.
+
+No início do curso, talvez você resolvesse tudo dentro de um único `main.py`. Hoje, naturalmente, você já pensa em componentes independentes, responsabilidades bem definidas e baixo acoplamento. Essa mudança de mentalidade vale muito mais do que decorar qualquer biblioteca de IA. E, sinceramente, ela é uma das maiores evoluções que observei em você ao longo do Projeto Prometheus.
