@@ -517,3 +517,91 @@ ConversationMemory
 
 Percebe? Ele passa a coordenar todo o fluxo.
 
+## Etapa 6.1 - Adicionar a Memória ao Agente
+No início do arquivo `mentor_agent.py` (`app/agents/mentor_agent.py`), importe a classe:
+```Python
+from app.memory.conversation_memory import ConversationMemory
+```
+
+## Etapa 6.2 - Alterar o Construtor
+Hoje ele provavelmente está parecido com:
+
+```Python
+def __init__(self, llm_service: LLMService):
+    self.llm_service = llm_service
+```
+
+Vamos acrescentar uma linha:
+```Python
+def __init__(self, llm_service: LLMService):
+    self.llm_service = llm_service
+    self.memory = ConversationMemory()
+```
+
+>[! Um Ponto a Se Notar]
+>![[Dúvida Importante M6 006]]
+
+### Minha pergunta
+
+Por que colocamos:
+
+```
+self.memory = ConversationMemory()
+```
+
+no `__init__()` e **não** dentro do método `ask()`?
+
+> Pense um instante antes de continuar.
+
+---
+### A resposta
+
+Porque queremos que **a mesma memória sobreviva entre várias perguntas**.
+
+Se fizéssemos:
+
+```
+def ask(...):
+    memory = ConversationMemory()
+```
+
+uma nova memória seria criada a cada pergunta:
+
+```
+Pergunta 1 → memória vazia
+
+Pergunta 2 → memória vazia
+
+Pergunta 3 → memória vazia
+```
+
+Ou seja... o agente nunca lembraria de nada.
+
+Ao criar a memória no construtor, ela passa a fazer parte do estado do agente:
+
+```
+MentorAgent
+│
+├── llm_service
+└── memory
+```
+
+Enquanto o `MentorAgent` existir, a conversa continua armazenada.
+
+---
+
+## O insight
+
+Você acabou de criar o primeiro **estado persistente** do Prometheus.
+
+Até agora, todas as classes eram praticamente "sem memória".
+
+Agora o agente possui um objeto que mantém informações entre chamadas.
+
+Esse é um passo muito importante na evolução da arquitetura.
+
+# ETAPA 7
+
+Vamos reescrever o `ask()`
+
+Hoje ele provavelmente está parecido com:
