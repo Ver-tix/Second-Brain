@@ -377,7 +377,8 @@ Contexto reduz carga inferencial, que reduz os gastos de tokens de saída do LLM
 
 Hoje vamos adicionar a primeira camada de memória da aplicação.
 
-## [[🤖 Monitoria M6 005]] 
+## [[🤖 Monitoria M6 005 - TEORIA]] 
+## [[🤖 Monitoria M6 005 - PRÁTICA]]
 ## [[🛠 Desafio M6 005]]
 
 ---
