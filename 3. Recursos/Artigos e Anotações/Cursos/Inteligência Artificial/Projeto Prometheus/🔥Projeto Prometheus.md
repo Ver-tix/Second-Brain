@@ -80,7 +80,7 @@ author:
 - [[Aula 9 - Projeto Final]]
 
 # Módulo 4 - IA Aplicada
-A partir e agora, os feedbacks dos exercícios terão explicações sobre as linhas de códigos e arquiteturas
+**==A partir e agora, os feedbacks dos exercícios terão explicações sobre as linhas de códigos e arquiteturas. ==**
 - [[Aula 1 - O LLM Deixa De Ser Um Chatbot]]
 - [[Aula 2 - Nosso primeiro cliente de LLM]]
 - [[Aula 3 - Escrevendo nosso primeiro cliente de LLM]]

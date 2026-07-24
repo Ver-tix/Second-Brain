@@ -674,3 +674,5 @@ def ask(self, question: str) -> str:
 
         return response
 ```
+
+# ETAPA 8 - EXECUÇÃO

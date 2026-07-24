@@ -2,7 +2,6 @@
 tags:
   - programação
 ---
-
 Em poucas palavras:
 
 > **O `main.py` é o ponto de entrada da aplicação.** Ele inicia o sistema e coordena o primeiro fluxo de execução.
