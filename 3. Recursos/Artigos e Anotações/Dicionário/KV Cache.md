@@ -13,4 +13,4 @@ Essa tecnologia auxilia na economia de tokens e custos de duas formas principais
 Em resumo, o Cache KV **reduz o custo computacional e financeiro** de processá-los, permitindo que sistemas atendam a mais usuários com menos recursos e oferecendo descontos significativos para requisições que reutilizam o mesmo contexto.
 
 ---
-### Ta, mas o que é um [[Cache]]
+### Ta, mas o que é um [[Cache]]?
