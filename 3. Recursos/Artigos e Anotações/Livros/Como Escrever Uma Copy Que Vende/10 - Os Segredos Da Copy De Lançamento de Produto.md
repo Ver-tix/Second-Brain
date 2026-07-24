@@ -204,8 +204,7 @@ A copy da contagem regressiva é muito eficaz. Sim, você já viu isso no mundo 
 
 Você sabia que teríamos que chegar a ela mais cedo ou mais tarde! Uma carta de vendas cuidadosamente elaborada é o segredo para o sucesso do seu lançamento. Houve alguns lançamentos de produtos online extraordinariamente bem-sucedidos ao longo do último ano. A controvérsia surgiu sobre a carta de vendas.
 
-De um lado da controvérsia, algumas pessoas diziam: "Uau, o copywriter X deve ser ótimo. Ele escreveu uma carta para o lançamento daquele produto e arrecadou um milhão de dólares em um único dia!.  
-(Em um caso, um milhão de dólares em menos de uma hora.)
+De um lado da controvérsia, algumas pessoas diziam: "Uau, o copywriter X deve ser ótimo. Ele escreveu uma carta para o lançamento daquele produto e arrecadou um milhão de dólares em um único dia! (Em um caso, um milhão de dólares em menos de uma hora.)
 
 Do outro lado da controvérsia, outras pessoas diziam: "A carta de vendas era irrelevante. Você poderia simplesmente colocar um botão de 'Comprar agora' nessa página e as pessoas teriam comprado. Você não precisava de uma carta de vendas; o sucesso não teve nada a ver com isso".
 
@@ -223,7 +222,7 @@ Por fim, a mensagem que você cria em uma carta de vendas bem-elaborada informa 
 
 Até 30% de suas vendas podem ocorrer na semana após o grande dia do lançamento. Pense nisso. Se você não enviar e-mails pós-lança-mento, não postar em blogs ou não realizar atividades de marketing, se não tiver e-mails pós-lançamento para seus parceiros de joint venture ou afiliados enviarem, então você está deixando muito dinheiro para trás. Você precisa garantir que esses e-mails sejam cuidadosamente elaborados, planejados e estejam prontos para serem enviados.
 
-## 11. A PEÇA QUE FALTAVA.
+## 12. A PEÇA QUE FALTAVA.
 
 Vejo esse componente sendo deixado de lado o tempo todo: acompanhar seus compradores e prospects para que seu lançamento se torne um negócio lucrativo.  
 Muitas vezes, durante o processo de lançamento, o profissional de marketing cria uma lista de compradores em potencial e depois para de fazer o marketing após o grande dia do lançamento ou uma semana após o lançamento.
