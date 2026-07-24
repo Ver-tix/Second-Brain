@@ -368,6 +368,8 @@ Esse é exatamente o efeito da separação de responsabilidades que estudamos du
 Hoje vamos evoluir o projeto sem quebrar sua arquitetura.
 
 ## [[🤖 Monitoria M6 004 - TEORIA]]
+## [[🤖 Monitoria M6 004 - PRÁTICA]]
+
 ## [[🛠 Desafio M6 004]]
 
 ## Etapa 1 — Criar um novo arquivo

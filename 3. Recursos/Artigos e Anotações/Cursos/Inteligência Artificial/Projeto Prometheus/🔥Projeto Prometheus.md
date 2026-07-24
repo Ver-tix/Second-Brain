@@ -110,6 +110,7 @@ A partir e agora, os feedbacks dos exercícios terão explicações sobre as lin
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 2 - Organizando um Projeto Profissional de IA|Aula 2 - Organizando um Projeto Profissional de IA]]
 - [[Aula 3 - Construindo o Primeiro Agente|Aula 3 - Construindo o Primeiro Agente]]
 - [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 4 - O Poder dos Prompts Estruturados|Aula 4 - O Poder dos Prompts Estruturados]]
+- [[Aula 5 - Memória de Conversa]]
 
 
 3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus
