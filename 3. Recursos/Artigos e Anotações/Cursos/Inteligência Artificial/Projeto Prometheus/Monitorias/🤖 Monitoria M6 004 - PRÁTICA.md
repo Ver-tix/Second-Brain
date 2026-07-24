@@ -141,6 +141,78 @@ from app.prompts.mentor_prompt import PromptBuilder
 ```
 
 ## Passo 2 - Alterar o método `ask()`
+Hoje ele provavelmente está assim:
+
+```Python
+def ask(self, question: str) -> str:
+    return self.llm_service.generate(question)
+```
+
+Vamos transformá-lo em:
+
+```Python
+def ask(self, question: str) -> str:
+    prompt = PromptBuilder.build(question)
+    return self.llm_service.generate(prompt)
+```
+
+## O que acabou de acontecer?
+
+Antes:
+
+```
+Usuário
+    ↓
+MentorAgent
+    ↓
+LLMService
+```
+
+Agora:
+
+```
+Usuário
+    ↓
+MentorAgent
+    ↓
+PromptBuilder
+    ↓
+LLMService
+```
+
+Perceba algo muito elegante:
+
+- O **PromptBuilder** sabe construir prompts.
+- O **LLMService** sabe conversar com a OpenAI.
+- O **MentorAgent** sabe apenas coordenar essas duas coisas.
+
+Cada classe continua com **uma única responsabilidade**, exatamente como aprendemos na aula passada.
+
+---
+
+## 🎓 Um detalhe que o professor provavelmente cobraria
+
+Repare que o `MentorAgent` **não monta o prompt sozinho**.
+
+Ele faz:
+
+```
+prompt = PromptBuilder.build(question)
+```
+
+e não:
+
+```
+prompt = f"""
+Você é...
+"""
+```
+
+Por quê?
+
+Porque, se amanhã você quiser mudar a personalidade do Prometheus, **você altera apenas um arquivo**: `mentor_prompt.py`.
+
+O `MentorAgent` nem precisa saber que a constituição do agente mudou. Isso é um excelente exemplo de **baixo acoplamento** (_low coupling_), um dos pilares da boa arquitetura.
 
 ---
 
