@@ -70,24 +70,26 @@ Esse mesmo poder atrairá leitores para seus anúncios e páginas de vendas, col
 
 Títulos eficazes tendem a seguir um padrão. Aqui estão cinco modelos de título que você pode usar para que mais pessoas leiam os posts de seu blog, cliquem em seus links nas redes sociais e comprem os seus produtos.
 
-1. **O título "como fazer".**
-O segredo para fazer esse título específico funcionar é que você precisa vinculá-lo a um benefício com o qual o seu leitor se importa (relacionado ao seu conteúdo, é claro). Exemplos:
-Como escrever um post no blog todos os dias.
-Como conquistar mais clientes como freelancer.
+1. **O título "como fazer".** O segredo para fazer esse título específico funcionar é que você precisa vinculá-lo a um benefício com o qual o seu leitor se importa (relacionado ao seu conteúdo, é claro). 
+   Exemplos:
+   *Como escrever um post no blog todos os dias.*
+   *Como conquistar mais clientes como freelancer.*
 2. **O título "transacional".**
-Este título é completamente sobre a promessa. Quando você realmente tem um nível "uau!" de conteúdo, este título chamará a atenção. Exemplos:
-Dê-me 30 minutos e eu darei a você mais tráfego no blog.
-Experimente estas 5 táticas por uma semana e seja duas vezes mais produtivo. 
-3. **O título "razão por que".** Robert Cialdini menciona o poder da palavra "porque" em seu livro *Influência: A psicologia da persuasão*, Sua pesquisa mostrou que simplesmente adicionar a palavra "porque" a uma solicitação aumenta a probabilidade de você conseguir o que está pedindo.
-Os copywriters conhecem esse segredo há muito tempo. Décadas antes, John E. Kennedy escreveu um modesto livrinho chamado *Reason Why Advertising* que se tornou um clássico na área. Use o poder da "razão por que" em seus títulos. Exemplos:
-Por que seus posts no blog são ignorados e como corrigir isso. 7 razões por que você deve usar as redes sociais em seu marketing. 
-4. **O título "pergunta de sondagem".** Com esse tipo de título, você faz uma pergunta que cria um desejo intenso de saber a resposta. Cuidado com esses títulos. Se você fizer uma pergunta como: "Você quer saber o segredo do meu blog?", você pode receber uma resposta desanimadora, como: "Não".
-O tipo de pergunta que você deseja fazer é aquela que realmente desperta uma forte curiosidade ou aborda um problema que você sabe que seu leitor tem, Exemplos:
-Por que os médicos não ficam doentes?
-Você gostaria que mais pessoas comprassem seu livro?
-5. *O título "se, então".*
-Com este título, você contrasta algo que é fácil para o seu leitor fazer com o principal benefício do seu post. Exemplos: Se você sabe enviar e receber e-mails, você pode construir uma plataforma.
-Se você consegue seguir uma receita, você pode escrever títulos melhores.
+   Este título é completamente sobre a promessa. Quando você realmente tem um nível "uau!" de conteúdo, este título chamará a atenção. 
+   Exemplos:
+   *Dê-me 30 minutos e eu darei a você mais tráfego no blog.*
+   *Experimente estas 5 táticas por uma semana e seja duas vezes mais produtivo.* 
+3. **O título "razão por que".** Robert Cialdini menciona o poder da palavra "porque" em seu livro *Influência: A psicologia da persuasão*, Sua pesquisa mostrou que simplesmente adicionar a palavra "porque" a uma solicitação aumenta a probabilidade de você conseguir o que está pedindo. Os copywriters conhecem esse segredo há muito tempo. Décadas antes, John E. Kennedy escreveu um modesto livrinho chamado *Reason Why Advertising* que se tornou um clássico na área. Use o poder da "razão por que" em seus títulos. Exemplos: 
+   *Por que seus posts no blog são ignorados e como corrigir isso.* 
+   *7 razões por que você deve usar as redes sociais em seu marketing.* 
+4. **O título "pergunta de sondagem".** Com esse tipo de título, você faz uma pergunta que cria um desejo intenso de saber a resposta. Cuidado com esses títulos. Se você fizer uma pergunta como: "Você quer saber o segredo do meu blog?", você pode receber uma resposta desanimadora, como: "Não". O tipo de pergunta que você deseja fazer é aquela que realmente desperta uma forte curiosidade ou aborda um problema que você sabe que seu leitor tem. 
+   Exemplos: 
+   *Por que os médicos não ficam doentes?* 
+   *Você gostaria que mais pessoas comprassem seu livro?*
+5. **O título "se, então".** Com este título, você contrasta algo que é fácil para o seu leitor fazer com o principal benefício do seu post. 
+   Exemplos: 
+   *Se você sabe enviar e receber e-mails, você pode construir uma plataforma.* 
+   *Se você consegue seguir uma receita, você pode escrever títulos melhores.*
 
 Um último conselho: eu descobri que o segredo final para escrever títulos *ótimos*... é escrever muitos títulos *péssimos*. A questão é não parar com apenas uma ou duas tentativas: escreva muitos títulos possíveis para o seu material de vendas, linhas de assunto para seus e-mails e títulos para seus posts no blog antes de finalmente se decidir por um.
 

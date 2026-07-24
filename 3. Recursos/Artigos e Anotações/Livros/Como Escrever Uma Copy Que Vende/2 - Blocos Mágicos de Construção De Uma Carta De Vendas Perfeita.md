@@ -6,9 +6,7 @@ tags:
 author:
   - Ray Edwards
 ---
-> 
-> 
-> 
+
 > "Aquele que tem uma coisa para vender e vai sussurrar em um poço não é tão apto a receber os dólares quanto aquele que sobe em uma árvore e grita."
 > 
 > - AUTOR DESCONHECIDO
@@ -43,14 +41,10 @@ A página de vendas mais chata, com palavras pretas sobre fundo branco, sempre s
 
 O primeiro lugar para empregar essas palavras é a sua carta de vendas. Este é o principal ponto de venda do seu site. É nesse ponto que a maioria das decisões de compra são tomadas.
 
-<aside>
 
-**O QUE É UMA CARTA DE VENDAS?**
-
-Este termo é um resquício do século passado. Originalmente, referia-se a uma carta, enviada por correio, visando obter uma resposta direta do consumidor (o destinatário da carta).
-Está se tornando mais comum ouvir os termos "página de apresentação", "argumento" ou "página inicial", mas "carta de vendas" ainda é usado com frequência. Na Internet, estes termos são praticamente intercambiáveis.
-
-</aside>
+>[! O QUE É UMA CARTA DE VENDAS?]
+>Este termo é um resquício do século passado. Originalmente, referia-se a uma carta, enviada por correio, visando obter uma resposta direta do consumidor (o destinatário da carta).
+>Está se tornando mais comum ouvir os termos "página de apresentação", "argumento" ou "página inicial", mas "carta de vendas" ainda é usado com frequência. Na Internet, estes termos são praticamente intercambiáveis.
 
 A carta de vendas típica tem quinze elementos básicos ou blocos de construção. É uma fórmula. Os 15 blocos se encaixam no Framework P.A.S.T.O.R., e se você seguir essa fórmula, você alcançará resultados previsíveis. Você venderá coisas.
 
@@ -316,6 +310,5 @@ Veja por que o P. S. é importante: Lembre-se de que os leitores leem por cima, 
 Portanto, muitas vezes os leitores rolam a página até o final e, se você colocar um P. S. bom e formatado corretamente na parte inferior, você poderá reafirmar toda a sua proposta em uma frase. Este é o lugar onde você resume o principal benefício que o seu produto oferece. Se a copy estiver na Internet, forneça um link para o formulário de com-pra. Um exemplo de um bom P. S.:
 
 > "P.S. A hora é agora. Essas grandes corporações vão continuar explorando você até que você não tenha mais nada para dar. Você tem coragem de contra-atacar? Sua chance de realizar todos os seus sonhos chegou. Você vai seguir adiante? Você vai agir? CLIQUE AQUI PARA AGIR AGORA."
-> 
 
 Estes são, muito simplesmente, os quinze elementos básicos de uma carta de vendas. Certifique-se de ter todos esses "blocos" no seu arsenal, e suas chances de ter uma carta de vendas vencedora (uma que realize mais vendas) se tornam muito maiores.

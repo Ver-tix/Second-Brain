@@ -12,5 +12,11 @@
       "modifiers": [],
       "key": "F3"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
   ]
 }
