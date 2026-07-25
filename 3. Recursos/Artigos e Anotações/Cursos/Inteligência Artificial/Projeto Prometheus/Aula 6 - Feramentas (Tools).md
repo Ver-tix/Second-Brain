@@ -1,0 +1,550 @@
+---
+tags:
+  - inteligenciaartificial
+  - programação
+  - inovação
+---
+> **Objetivo da aula**
+> 
+> Fazer o Prometheus-Mentor sair do mundo das palavras e começar a interagir com o mundo externo.
+
+---
+
+# O problema
+
+Até agora, nosso agente faz apenas isto:
+
+```text
+Pergunta
+     ↓
+LLM
+     ↓
+Resposta
+```
+
+Isso é suficiente para explicar conceitos.
+
+Mas imagine estes pedidos:
+
+> "Qual é a hora atual?"
+
+ou
+
+> "Quanto é 357 × 912?"
+
+ou
+
+> "Liste os arquivos da pasta docs."
+
+O LLM pode até tentar responder...
+
+Mas ele não **sabe**.
+
+---
+
+# O que falta?
+
+Falta permitir que o agente utilize ferramentas.
+
+A arquitetura muda novamente.
+
+Antes:
+
+```text
+MentorAgent
+
+↓
+
+LLMService
+```
+
+Agora:
+
+```text
+MentorAgent
+
+↓
+
+LLM
+
+↓
+
+Tool Manager
+
+↓
+
+Ferramentas
+```
+
+O agente ganhou "mãos".
+
+---
+
+# O conceito mais importante da aula
+
+O LLM não executa ações.
+
+Ele toma decisões.
+
+Quem executa é a aplicação.
+
+Essa frase merece ser lembrada.
+
+Imagine:
+
+```text
+Usuário
+
+↓
+
+"Quanto é 17 × 89?"
+```
+
+O modelo responde internamente algo parecido com:
+
+> "Para responder isso preciso usar a Calculadora."
+
+Mas quem realmente chama a calculadora é o Python.
+
+---
+
+# Um exemplo simples
+
+Ferramenta:
+
+```python
+multiply(a, b)
+```
+
+Fluxo:
+
+```text
+Usuário
+
+↓
+
+LLM
+
+↓
+
+"Use multiply(17,89)"
+
+↓
+
+Python executa
+
+↓
+
+1513
+
+↓
+
+LLM
+
+↓
+
+"17 × 89 = 1513"
+```
+
+Perceba.
+
+O modelo nunca fez a multiplicação.
+
+---
+
+# Isso muda tudo
+
+Agora o agente pode:
+
+- calcular;
+    
+- ler arquivos;
+    
+- escrever arquivos;
+    
+- consultar APIs;
+    
+- acessar bancos vetoriais;
+    
+- chamar o Perplexity;
+    
+- conversar com outros agentes.
+    
+
+É exatamente assim que nascerá o Prometheus OS.
+
+---
+
+# O Tool Manager
+
+Não queremos que o agente conheça todas as ferramentas diretamente.
+
+Então criamos outra camada.
+
+```text
+MentorAgent
+
+↓
+
+ToolManager
+
+↓
+
+Calculator
+
+↓
+
+FileReader
+
+↓
+
+WeatherAPI
+
+↓
+
+SearchTool
+```
+
+Por quê?
+
+Pelo mesmo motivo das aulas anteriores.
+
+Separação de responsabilidade.
+
+---
+
+# Uma analogia
+
+Imagine um gerente.
+
+Ele não pega a vassoura.
+
+Ele não dirige o caminhão.
+
+Ele não faz o café.
+
+Ele apenas decide:
+
+> "Quem deve fazer isso?"
+
+O ToolManager é esse gerente.
+
+---
+
+# Nosso primeiro Tool
+
+Vamos começar com algo extremamente simples.
+
+Uma calculadora.
+
+---
+
+# Estrutura
+
+Dentro de:
+
+```text
+app/tools/
+```
+
+criaremos:
+
+```text
+calculator_tool.py
+```
+
+---
+
+# Interface
+
+Ela terá algo parecido com:
+
+```python
+class CalculatorTool:
+```
+
+E métodos como:
+
+```python
+add()
+
+subtract()
+
+multiply()
+
+divide()
+```
+
+Nada além disso.
+
+---
+
+# O MentorAgent muda
+
+Antes:
+
+```text
+Pergunta
+
+↓
+
+LLM
+```
+
+Agora:
+
+```text
+Pergunta
+
+↓
+
+Precisa de ferramenta?
+
+↓
+
+Sim
+
+↓
+
+Tool Manager
+
+↓
+
+Ferramenta
+
+↓
+
+Resultado
+
+↓
+
+LLM
+```
+
+---
+
+# Ainda não usaremos Tool Calling
+
+Importante.
+
+Hoje NÃO vamos usar o Tool Calling nativo da OpenAI.
+
+Vamos fazer manualmente.
+
+Por quê?
+
+Porque quero que você entenda a arquitetura antes da automação.
+
+---
+
+# Como decidir?
+
+No laboratório, vamos simplificar.
+
+Se a pergunta começar com:
+
+```text
+calc:
+```
+
+Então:
+
+```text
+calc: 17 * 89
+```
+
+O MentorAgent reconhecerá esse padrão e chamará a calculadora.
+
+Caso contrário...
+
+Segue para o LLM normalmente.
+
+---
+
+# Isso parece "gambiarra"?
+
+Sim.
+
+E é proposital.
+
+Porque queremos separar duas ideias:
+
+- **decidir usar uma ferramenta**;
+    
+- **como a decisão é tomada**.
+    
+
+Hoje a decisão será uma regra simples.
+
+Na próxima aula, quem decidirá será o próprio modelo.
+
+---
+
+# Arquitetura
+
+Ao final da aula teremos:
+
+```text
+                main.py
+                    │
+                    ▼
+             MentorAgent
+              │       │
+              │       ▼
+              │   ToolManager
+              │       │
+              │       ▼
+              │ CalculatorTool
+              │
+              ▼
+        ConversationMemory
+              │
+              ▼
+         PromptBuilder
+              │
+              ▼
+          LLMService
+```
+
+Observe que a arquitetura continua crescendo sem quebrar o que já existe.
+
+---
+
+# Laboratório 6 — Primeira ferramenta
+
+## Etapa 1
+
+Criar:
+
+```text
+app/tools/calculator_tool.py
+```
+
+---
+
+## Etapa 2
+
+Criar:
+
+```python
+class CalculatorTool
+```
+
+Com os métodos:
+
+- add()
+    
+- subtract()
+    
+- multiply()
+    
+- divide()
+    
+
+---
+
+## Etapa 3
+
+Criar:
+
+```text
+app/tools/tool_manager.py
+```
+
+Ele será responsável por centralizar todas as ferramentas.
+
+Por enquanto, apenas:
+
+```python
+CalculatorTool
+```
+
+---
+
+## Etapa 4
+
+Modificar o MentorAgent.
+
+Fluxo:
+
+```text
+Pergunta
+
+↓
+
+Começa com "calc:"?
+
+↓
+
+SIM
+
+↓
+
+ToolManager
+
+↓
+
+Calculadora
+
+↓
+
+Resposta
+
+↓
+
+Usuário
+```
+
+Caso contrário...
+
+Fluxo normal.
+
+---
+
+## Etapa 5
+
+Testar.
+
+Exemplos:
+
+```text
+calc: 25 + 13
+
+calc: 18 * 42
+
+calc: 144 / 12
+```
+
+---
+
+# Desafio da aula
+
+Sem pesquisar.
+
+Responda:
+
+> **Por que criamos um `ToolManager`, se o `MentorAgent` poderia chamar diretamente a `CalculatorTool`?**
+
+---
+
+## Um pequeno spoiler...
+
+Na próxima aula, faremos uma mudança histórica no Prometheus.
+
+Hoje você escreve:
+
+```text
+calc: 2 + 2
+```
+
+Na próxima...
+
+Você escreverá apenas:
+
+> "Quanto é 2 + 2?"
+
+E será o próprio LLM quem decidirá que precisa usar uma ferramenta.
+
+Você acabou de chegar ao limiar do que normalmente chamamos de **AI Agent moderno**.
+
+A partir da próxima aula, o Prometheus-Mentor deixará de apenas responder perguntas e começará a **tomar decisões sobre como resolvê-las**. Isso nos conecta diretamente com tudo o que estudamos no Módulo 5 sobre planejamento, ferramentas e orquestração.
