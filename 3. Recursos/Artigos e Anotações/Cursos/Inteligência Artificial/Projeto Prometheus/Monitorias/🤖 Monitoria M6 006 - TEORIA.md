@@ -366,3 +366,98 @@ Ela comunica algo muito forte para quem lê o código:
 Se todos os métodos fossem estáticos, essa linha provavelmente desapareceria e seria substituída por chamadas diretas à classe. O código continuaria funcionando, mas perderia um pouco da expressividade do modelo de objetos.
 
 Essa é uma das grandes lições de arquitetura: **nem toda decisão é tomada pelo que o código precisa hoje; muitas são tomadas pelo que o modelo do domínio quer comunicar e pelo que ele poderá precisar amanhã.** E é justamente esse tipo de raciocínio que diferencia escrever código de projetar software.
+
+# Etapa 3 - Criar o Tool Manager
+Agora criaremos o **`ToolManager`**.
+
+Antes de escrever uma linha de código, quero te contextualizar.
+
+Até hoje o `MentorAgent` conversa diretamente com:
+
+```
+LLMService
+```
+
+Daqui a pouco ele também precisará usar:
+
+- CalculatorTool
+- WeatherTool
+- SearchTool
+- PythonTool
+- DatabaseTool
+
+Se ele conhecer todas essas ferramentas, ficará assim:
+
+```
+MentorAgent
+    │
+    ├── CalculatorTool
+    ├── SearchTool
+    ├── WeatherTool
+    ├── PythonTool
+    └── ...
+```
+
+Cada nova ferramenta obrigaria a modificar o agente.
+
+O professor quer evitar exatamente isso. Por isso ele introduz o **ToolManager**, que funciona como uma "central de ferramentas".
+
+A arquitetura passa a ser:
+
+```
+MentorAgent
+      │
+      ▼
+ToolManager
+      │
+ ┌────┼────┬────┐
+ ▼    ▼    ▼    ▼
+Calc Search Weather ...
+```
+
+Assim, o `MentorAgent` conhece apenas **um** componente: o `ToolManager`.
+
+Depois que entendermos esse papel, escrevemos o `tool_manager.py` inteiro e, como sempre, o destrinchamos linha por linha.
+
+Ele funciona como um recepcionista.
+
+O agente chega e diz:
+
+> "Preciso usar uma ferramenta."
+
+O ToolManager responde:
+
+> "Deixa comigo. Eu descubro qual."
+
+Arquitetura:
+
+```
+MentorAgent
+      │
+      ▼
+ToolManager
+      │
+      ├──────────────┐
+      ▼              ▼
+CalculatorTool   SearchTool
+```
+
+O agente deixa de conhecer as ferramentas.
+
+Ele conhece apenas UM objeto.
+
+# Minha pergunta para você
+
+Eu não quero que você memorize "ToolManager".
+
+Quero que enxergue o padrão.
+
+Complete esta frase com suas palavras:
+
+> **"O ToolManager está para as ferramentas assim como o LLMService está para os modelos de linguagem."**
+
+Essa resposta vale muito mais do que decorar qualquer código. Ela mostra que você está começando a reconhecer padrões de arquitetura, e não apenas implementações específicas.
+
+
+```O tool manager gere as ferramentas mais úteis, assim como o LLMService, gere quais modelos mais úteis para determinado contexto do usuário. Agora por favor, amigo, vamos para o código, você está enrolando 🤨
+```
