@@ -412,6 +412,9 @@ Observe que a arquitetura continua crescendo sem quebrar o que já existe.
 
 # Laboratório 6 — Primeira ferramenta
 
+## [[🤖 Monitoria M6 006]] 
+## [[🛠 Desafio M6 006]]
+
 ## Etapa 1
 
 Criar:
