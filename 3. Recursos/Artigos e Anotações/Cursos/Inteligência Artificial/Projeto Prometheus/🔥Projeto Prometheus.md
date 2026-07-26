@@ -111,5 +111,8 @@ author:
 - [[Aula 5 - Memória de Conversa]]
 - [[Aula 6 - Feramentas (Tools)]]
 - [[Aula 7 - O LLM como Tomador de Decisão]]
+- [[]]
+- [[]]
+- [[]]
 
 3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas
