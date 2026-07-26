@@ -123,3 +123,79 @@ Continuando os exemplos, compare esses dois agora:
 > "3 Técnicas Simples Para Vender Mais"
 
 > "3 Técnicas Simples Para Você Vender Mais"
+
+A única diferença é a palavra "você"
+
+Em suas chamadas, quando você usa essa palavra, mais uma vez tende a ter mais respostas.
+
+Meu recorde foi usar 5 vezes a palavra você em uma mesma frase (Jon Benson conseguiu 7).
+
+Agora vamos continuar...
+
+> "'3 Técnicas Simples Para Você Vender Mais"
+
+> "3 Técnicas Simples Para Você Vender Mais - mesmo que você já tenha feito de tudo"
+
+Demos um passo além, e adicionamos uma retirada de objeção.
+
+Muitos poderiam pensar "ah, mas já fiz tanta coisa, isso é só mais um texto com enrolação".
+
+Mas o fato de você contornar essa objeção logo na sua chamada principal, tende a atrair mais interessados.
+
+Agora, vamos pegar outro exemplo:
+
+> "Sessão de Massagem Nos Pés"
+
+> "Sessão de 45 Minutos de Massagem Nos Pés, sem cremes, e tempo aproximado em cada pé de 20 minutos."
+
+Novamente, você consegue perceber como a segunda chamada é muito mais atrativa?
+
+Quanto mais específico você for na sua chamada, mais tende a ter uma resposta positiva.  
+das, etc.
+
+Você pode usar isso em artigos, anúncios, cartas e vídeos de vendendo um passo além, hoje é comum criar cartas e vídeos de vendas para a venda de produtos.
+
+Há duas formas poderosas para você usar esse gatilho.
+
+A primeira é logo no gancho principal da sua comunicação. Por exemplo (e isso vale tanto para cartas escritas quanto vídeos)... Você pode criar um gancho como esse, logo no início da sua  
+comunicação:
+
+> "Você vai descobrir os 4 passos que segui para conseguir ‹alcançar objetivo: vender mais, emagrecer, relaxar, etc.> e como você também pode fazer o mesmo."
+
+Ou de outra forma:
+
+> "Você vai descobrir como <objetivo: emagreci 5 kg, ganhei R$ 10 mil> em <tempo: 2 semanas, 1 mês> e como você também pode fazer o mesmo."
+
+Lembre-se, quanto mais específico, melhor. Você desenvolve sua história (veja o gatilho de storytelling), e explica quais são os passos, ou como você atingiu o objetivo proposto.
+
+E na hora de apresentar seu produto, detalhe o que há dentro dele, por exemplo:
+
+> "Você recebe 8 horas e 20 minutos de conteúdo dividido em 3 módulos. O primeiro módulo é sobre < tema>, e você vai encontrar ‹conteúdo 1, conteúdo 2 e conteúdo 3>. O segundo módulo, etc., etc., etc."
+
+Seja o mais específico que puder e foque nos benefícios principais para seu cliente.
+
+Aqui uma técnica interessante que você pode usar é a seguinte:
+
+Pense em quatro tópicos principais para listar em cada módulo ou parte do seu serviço, e o último item (o quinto), você diz "E muito mais".
+
+Por exemplo...
+
+"No módulo 1 você recebe...
+
+- Conteúdo 1
+- Conteúdo 2
+- Conteúdo 3
+- Conteúdo 4
+- E muito mais”
+
+Sugiro isso principalmente se for um vídeo de vendas. Se for uma carta de vendas, sugiro colocar todos os conteúdos detalhados nesse formato de bullets.
+
+Quando você monta sua comunicação, lembre-se que é sempre sobre seu cliente e o que ele ganha, e não sobre você.
+
+Evite falar "Como Eu Emagreci", e fale "Como 82 Pessoas Já Emagreceram"...
+
+Reforce os benefícios.
+
+Em vez de falar apenas "Guia de Alimentação com 47 receitas", diga "Você nunca mais precisará se preocupar com qual refeição fazer com essas 47 receitas do Guia de Alimentação."
+
+Desenvolva isso ao longo de toda sua comunicação e seu resultado será extraordinário.
