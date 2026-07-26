@@ -1,0 +1,441 @@
+---
+tags:
+  - inteligenciaartificial
+  - RAG
+source: https://github.com/coleam00/ottomator-agents/tree/main/all-rag-strategies#2-agentic-rag
+---
+# RAG Explicado em 1 Minuto
+## 1. Preparação de Dados - Fase do Processo de Indexação
+Pegamos nossos documentos (Raw Data), o colocamos no processo de Chunking (divisão do conteúdo por assuntos), e depois passam pelo processo de Embedding para pormos num Banco de Dados Vetorial (BDV) ou num Knowledge Graph
+
+## 2. Retrieval Augmented Generation - Processo de Query
+### Retrieval
+Aqui pegamos uma pergunta de um usuário ("quais os itens de ação da reunião do dia 31/10?"), passamos ela pelo embedding, e a procuramos na nossa Base de Dados Vetorial por Chunks similares.
+
+### Augmentation
+Então, passamos para o LLM, assim ele consegue aproveitar esse matching de pergunta do usuário com chunks, como um contexto adicional para a fase de Augmentation
+
+### Generation
+E com esse contexto adicional, ele gera uma resposta muito mais contextualizada
+
+## Mas, Há Tantas Formas Diferentes de 
+- Realizar o Processo de Preparação de Dados
+- Estratégias de Chunking
+- Diferentes formas de pesquisarmos nas Bases de Dados Vetoriais,incluindo formatar os dados como um knowledge graph...
+
+Veremos as formas aqui
+
+# Ferramentas Complementares
+[Material complementar no GitHub](https://github.com/coleam00/ottomator-agents/tree/main/all-rag-strategies)
+# #1 -  Estratégia de Reclassificação
+Nessa estratégia, temos um Retrieval em dois passos:
+1. Puxamos um grande número de chunks do nosso banco de dados vetorial
+2. Então, usamos um modelo de reclassificação especializado, geralmente um codificador, para encontrar aqueles que são realmente relevantes para nosso Query, E então, retornar apenas alguns dados
+
+Então, o LLM só recebe alguns dos chunks, mas somente o mais relevante. E isso é importante, especialmente em casos em que o BDV retorna muitos chunks, podendo sobrecarregar o modelo de IA. Ou seja, esse modelo se foca em filtrar o que for mais relevante, afim de reduzir ainda mais a carga inferencial.
+
+Pode ser mais caro, devido a termos um segundo modelo, especializado em filtragem de dados.
+
+Exemplo de Código:
+```Python
+# Linhas 194-256 em rag_agent_advanced.py
+async def search_with_reranking(cts: RunContext[None], query: str, limit: int=5) -> str:
+	"""Two-stage with cross-encoder re-ranking"""
+	initialize_reranker() #carrega um codificador cruzado/ms-marco-MiniLM-L-6-v2
+	
+	# Estágio 1: Retrieval rápido (extrai 20 cnadidatos)
+	candidate_limit = min(limit * 4, 20)
+	results = await vector_search(query, candidate_limit)
+	
+	# Estágio 2: reclassificação com codigicador cruzado
+	pairs = [[query, row['content']] for row in results]
+	scores = reranker.predict(pairs)
+	
+	# Filtrar por novos scores e retornar o top N
+	reranked= sorted(zip(results, scores), key=lambda x:x[1], reverse=True)[:limit]
+	return format_results(reranked)
+```
+
+✅ Significativamente mais preciso, mais conhecimento considerado sem sobrecarregar o LLM
+❌ Levemente mais devagar que uma pesquisa pura, maior uso computacional
+
+---
+# 2. RAG Agêntico
+Agente autonomicamente escolhe entre múltiplas ferramentas de retrieval, por exemplo:
+- `search_knoledge_base()` - pesquisa semântica em chunks (pode incluir pesquisa híbrida: vetor denso + keywords esparças/BM25)
+- `retrieve_full_document()` - puxadocumentos inteiros quando os chunks não são o suficiente
+
+
+
+Exemplo de Código:
+```Python
+# Ferramenta 1: Pesquisa Semântica (Linhas 263-305)
+@agent.tool
+async def search_knowledge_base(query: str, limit: int = 5) -> str:
+    """Standard semantic search over document chunks."""
+    query_embedding = await embedder.embed_query(query)
+    results = await db.match_chunks(query_embedding, limit)
+    return format_results(results)
+
+# Ferramenta 2: Retireval de documento inteiro (Linhas 308-354)
+@agent.tool
+async def retrieve_full_document(document_title: str) -> str:
+    """Retrieve complete document when chunks lack context."""
+    result = await db.query(
+        "SELECT title, content FROM documents WHERE title ILIKE %s",
+        f"%{document_title}%"
+    )
+    return f"**{result['title']}**\n\n{result['content']}"
+```
+✅ Flexível, adapta-se às necessidades do query automaticamente
+❌ Mais complexo, comportamento menos previsível
+
+---
+# 3. Knowledge Graphs
+Combina pesquisa vetorial com base de dados de grafos (como Neo4j/FalkorDB) para capturar relações entre entidades.
+
+Exemplo de código:
+
+```Python
+# From 03_knowledge_graphs.py (with Graphiti)
+from graphiti_core import Graphiti
+from graphiti_core.nodes import EpisodeType
+
+# Initialize Graphiti (connects to Neo4j)
+graphiti = Graphiti("neo4j://localhost:7687", "neo4j", "password")
+
+async def ingest_document(text: str, source: str):
+    """Ingest document into Graphiti knowledge graph."""
+    # Graphiti automatically extracts entities and relationships
+    await graphiti.add_episode(
+        name=source,
+        episode_body=text,
+        source=EpisodeType.text,
+        source_description=f"Document: {source}"
+    )
+
+@agent.tool
+async def search_knowledge_graph(query: str) -> str:
+    """Hybrid search: semantic + keyword + graph traversal."""
+    # Graphiti combines:
+    # - Semantic similarity (embeddings)
+    # - BM25 keyword search
+    # - Graph structure traversal
+    # - Temporal context (when was this true?)
+
+    results = await graphiti.search(query=query, num_results=5)
+
+    return format_graph_results(results)
+```
+
+✅ Captura faltas em relações vetoriais. ótimo para dados interconectados
+❌ Requer configuração do Neo4j, extração de entidades, manutenção de grafos. É mais lento e mais caro.
+
+---
+# 4. Retrieval Contextual
+Método da Anthropic: adiciona contexto em nível de documento a cada fragmento antes da geração de *embeddings*. O LLM gera de uma a duas frases explicando o que o fragmento aborda em relação ao documento completo.
+
+```Python
+# Lines 41-89 in contextual_enrichment.py
+async def enrich_chunk(chunk: str, document: str, title: str) -> str:
+    """Add contextual prefix to a chunk."""
+    prompt = f"""<document>
+Title: {title}
+{document[:4000]}
+</document>
+<chunk>
+{chunk}
+</chunk>
+Provide brief context explaining what this chunk discusses.
+Format: "This chunk from [title] discusses [explanation]." """
+
+    response = await client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0,
+        max_tokens=150
+    )
+
+    context = response.choices[0].message.content.strip()
+    return f"{context}\n\n{chunk}"
+```
+
+✅ 35-49% redução de falhas em retrievals, chunks autônomos
+❌ Caro (1 chamada de LLM por chunk), ingestão mais lenta
+
+---
+# 5. Expansão de Query
+Expande uma consulta breve e simples para uma versão mais detalhada e abrangente, adicionando contexto e termos relacionados, além de esclarecer a intenção. Utiliza um LLM com um *prompt* de sistema que descreve como enriquecer a consulta preservando a intenção original.
+
+Exemplo:
+- Entrada: "O que é RAG?"
+- Saída: "O que é Retrieval-Augmented Generation (RAG), como essa técnica combina a recuperação de informações com a geração de linguagem, quais são seus principais componentes e sua arquitetura, e quais vantagens ela oferece para sistemas de resposta a perguntas?"
+
+```Python
+# Query expansion using system prompt to guide enrichment
+async def expand_query(ctx: RunContext[None], query: str) -> str:
+    """Expand a brief query into a more detailed, comprehensive version."""
+    system_prompt = """You are a query expansion assistant. Take brief user queries and expand them into more detailed, comprehensive versions that:
+1. Add relevant context and clarifications
+2. Include related terminology and concepts
+3. Specify what aspects should be covered
+4. Maintain the original intent
+5. Keep it as a single, coherent question
+
+Expand the query to be 2-3x more detailed while staying focused."""
+
+    response = await client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": f"Expand this query: {query}"}
+        ],
+        temperature=0.3
+    )
+
+    expanded_query = response.choices[0].message.content.strip()
+    return expanded_query  # Returns ONE enhanced query
+```
+
+✅ Precisão de recuperação aprimorada pela adição de contexto relevante e especificidade
+❌ Chamada adicional de LLM aumenta a latência e pode tornar consultas simples excessivamente específicas
+
+---
+
+# 6. RAG Multi-Query
+Gera múltiplas variações ou perspectivas de consulta usando um LLM (por exemplo, 3 a 4 variações), executa todas as buscas simultaneamente e remove duplicatas dos resultados. Ao contrário da Expansão de Consulta, que enriquece uma única consulta, essa abordagem cria múltiplas formulações distintas para captar diferentes ângulos.
+
+```Python
+# Lines 114-187 in rag_agent_advanced.py
+async def search_with_multi_query(query: str, limit: int = 5) -> str:
+    """Search using multiple query variations in parallel."""
+    # Generate variations
+    queries = await expand_query_variations(query)  # Returns 4 queries
+
+    # Execute all searches in parallel
+    search_tasks = []
+    for q in queries:
+        query_embedding = await embedder.embed_query(q)
+        task = db.fetch("SELECT * FROM match_chunks($1::vector, $2)", query_embedding, limit)
+        search_tasks.append(task)
+
+    results_lists = await asyncio.gather(*search_tasks)
+
+    # Deduplicate by chunk ID, keep highest similarity
+    seen = {}
+    for results in results_lists:
+        for row in results:
+            if row['chunk_id'] not in seen or row['similarity'] > seen[row['chunk_id']]['similarity']:
+                seen[row['chunk_id']] = row
+
+    return format_results(sorted(seen.values(), key=lambda x: x['similarity'], reverse=True)[:limit])
+```
+
+✅ Cobertura abrangente, melhor *recall* (revocação) em consultas ambíguas
+❌ 4 vezes mais consultas ao banco de dados (embora executadas em paralelo), custo mais elevado
+
+---
+# 7. Chunking Context-Aware
+Divisão inteligente de documentos que utiliza similaridade semântica e análise da estrutura do documento para encontrar limites naturais de segmentação, em vez de uma divisão simplista por tamanho fixo. Essa abordagem:
+- Analisa a estrutura do documento (títulos, seções, parágrafos, tabelas)
+- Utiliza análise semântica para identificar limites de tópicos
+- Respeita a coerência linguística dentro dos segmentos
+- Preserva o contexto hierárquico (por exemplo, informações de títulos)
+
+**Exemplo de implementação:** O HybridChunker do Docling demonstra essa estratégia por meio de:
+- Segmentação sensível a tokens (utiliza o tokenizador real, não estimativas)
+- Preservação da estrutura do documento
+- Coerência semântica
+- Inclusão do contexto de títulos
+
+```Python
+# Lines 70-102 in chunker.py
+from docling.chunking import HybridChunker
+from transformers import AutoTokenizer
+
+class DoclingHybridChunker:
+    def __init__(self, config: ChunkingConfig):
+        # Initialize tokenizer for token-aware chunking
+        self.tokenizer = AutoTokenizer.from_pretrained("sentence-transformers/all-MiniLM-L6-v2")
+
+        # Create HybridChunker
+        self.chunker = HybridChunker(
+            tokenizer=self.tokenizer,
+            max_tokens=config.max_tokens,
+            merge_peers=True  # Merge small adjacent chunks
+        )
+
+    async def chunk_document(self, docling_doc: DoclingDocument) -> List[DocumentChunk]:
+        # Use HybridChunker to chunk the DoclingDocument
+        chunks = list(self.chunker.chunk(dl_doc=docling_doc))
+
+        # Contextualize each chunk (includes heading hierarchy)
+        for chunk in chunks:
+            contextualized_text = self.chunker.contextualize(chunk=chunk)
+            # Store contextualized text as chunk content
+```
+
+✅ Gratuito, rápido, preserva a estrutura do documento
+❌ Ligeiramente mais complexo do que a fragmentação simples (*naive chunking*)
+
+---
+# 8. Late Chunking
+Primeiro, processe o documento completo por meio de um transformer e, em seguida, fragmente os embeddings de tokens (não o texto). Isso preserva o contexto completo do documento no embedding de cada fragmento.
+
+```Python
+# From 08_late_chunking.py
+def late_chunk(text: str, chunk_size=512) -> list:
+    """Process full document through transformer BEFORE chunking."""
+    # Step 1: Embed entire document (up to 8192 tokens)
+    full_doc_token_embeddings = transformer_embed(text)  # Token-level embeddings
+
+    # Step 2: Define chunk boundaries
+    tokens = text.split()
+    chunk_boundaries = range(0, len(tokens), chunk_size)
+
+    # Step 3: Pool token embeddings for each chunk
+    chunks_with_embeddings = []
+    for start in chunk_boundaries:
+        end = start + chunk_size
+        chunk_text = ' '.join(tokens[start:end])
+
+        # Mean pool the token embeddings (preserves full doc context!)
+        chunk_embedding = mean_pool(full_doc_token_embeddings[start:end])
+        chunks_with_embeddings.append((chunk_text, chunk_embedding))
+
+    return chunks_with_embeddings
+```
+
+✅ Preserva o contexto completo do documento e aproveita modelos de contexto longo
+❌ Mais complexo do que a fragmentação padrão
+
+---
+# 9. Hierarchical RAG
+
+Relações de *chunk* pai-filho: Pesquisa em *chunks* pequenos para garantir precisão e retorna *chunks* pais maiores para fornecer contexto.
+
+Aprimoramento de metadados: Permite armazenar metadados como `section_type` ("resumo", "tabela", "detalhe") e `heading_path` para decidir de forma inteligente quando retornar apenas o *chunk* filho ou o pai, ou quando incluir o contexto do cabeçalho.
+
+```Python
+# From 09_hierarchical_rag.py
+def ingest_hierarchical(document: str, doc_title: str):
+    """Create parent-child chunk structure with simple metadata."""
+    parent_chunks = [document[i:i+2000] for i in range(0, len(document), 2000)]
+
+    for parent_id, parent in enumerate(parent_chunks):
+        # Store parent with metadata (section type, heading)
+        metadata = {"heading": f"{doc_title} - Section {parent_id}", "type": "detail"}
+        db.execute("INSERT INTO parent_chunks (id, content, metadata) VALUES (%s, %s, %s)",
+                   (parent_id, parent, metadata))
+
+        # Children: Small chunks with parent_id
+        child_chunks = [parent[j:j+500] for j in range(0, len(parent), 500)]
+        for child in child_chunks:
+            embedding = get_embedding(child)
+            db.execute(
+                "INSERT INTO child_chunks (content, embedding, parent_id) VALUES (%s, %s, %s)",
+                (child, embedding, parent_id)
+            )
+
+@agent.tool
+def hierarchical_search(query: str) -> str:
+    """Search children, return parents with heading context."""
+    query_emb = get_embedding(query)
+
+    # Find matching children and their parent metadata
+    results = db.query(
+        """SELECT p.content, p.metadata
+           FROM child_chunks c
+           JOIN parent_chunks p ON c.parent_id = p.id
+           ORDER BY c.embedding <=> %s LIMIT 3""",
+        query_emb
+    )
+
+    # Return parents with heading context
+    return "\n\n".join([f"[{r['metadata']['heading']}]\n{r['content']}" for r in results])
+```
+✅ Equilibra precisão (pesquisa em partes menores) com contexto (retorno de partes maiores)
+❌ Requer um esquema de banco de dados que suporte a relação pai-filho
+
+---
+# 10. Self-Reflective RAG
+Ciclo de busca com autocorreção:
+1. Realizar busca inicial
+2. LLM avalia a relevância (escala de 1 a 5)
+3. Se a pontuação for < 3, refinar a consulta e buscar novamente
+
+```Python
+# Lines 361-482 in rag_agent_advanced.py
+async def search_with_self_reflection(query: str, limit: int = 5) -> str:
+    """Self-reflective search: evaluate and refine if needed."""
+    # Initial search
+    results = await vector_search(query, limit)
+
+    # Grade relevance
+    grade_prompt = f"""Query: {query}
+Retrieved: {results[:200]}...
+
+Grade relevance 1-5. Respond with number only."""
+
+    grade_response = await client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": grade_prompt}],
+        temperature=0
+    )
+    grade_score = int(grade_response.choices[0].message.content.split()[0])
+
+    # If low relevance, refine and re-search
+    if grade_score < 3:
+        refine_prompt = f"""Query "{query}" returned low-relevance results.
+Suggest improved query. Respond with query only."""
+
+        refined_query = await client.chat.completions.create(...)
+        results = await vector_search(refined_query, limit)
+        note = f"[Refined from '{query}' to '{refined_query}']"
+
+    return format_results(results, note)
+```
+
+✅ Autocorreção; melhora com o tempo
+❌ Maior latência (2 a 3 chamadas de LLM); mais custoso
+
+---
+# 11. Fine-tuned Embeddings
+Treine modelos de *embedding* em pares de consulta e documento específicos de um domínio para melhorar a precisão da recuperação em domínios especializados (médico, jurídico, financeiro, etc.).
+
+```Python
+# From 11_fine_tuned_embeddings.py
+from sentence_transformers import SentenceTransformer
+
+def prepare_training_data():
+    """Create domain-specific query-document pairs."""
+    return [
+        ("What is EBITDA?", "financial_doc_about_ebitda.txt"),
+        ("Explain capital expenditure", "capex_explanation.txt"),
+        # ... thousands more domain-specific pairs
+    ]
+
+def fine_tune_model():
+    """Fine-tune on domain data (one-time process)."""
+    base_model = SentenceTransformer('all-MiniLM-L6-v2')
+    training_data = prepare_training_data()
+
+    # Train with MultipleNegativesRankingLoss
+    fine_tuned_model = base_model.fit(
+        training_data,
+        epochs=3,
+        loss=MultipleNegativesRankingLoss()
+    )
+
+    fine_tuned_model.save('./fine_tuned_model')
+
+# Load fine-tuned model for embeddings
+embedding_model = SentenceTransformer('./fine_tuned_model')
+
+def get_embedding(text: str):
+    """Use fine-tuned model for embeddings."""
+    return embedding_model.encode(text)
+```
+
+✅ Ganhos de precisão de 5 a 10%; modelos menores podem superar modelos genéricos maiores
+❌ Requer dados de treinamento, infraestrutura e manutenção contínua

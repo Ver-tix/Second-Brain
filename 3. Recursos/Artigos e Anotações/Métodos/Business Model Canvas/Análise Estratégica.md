@@ -1,8 +1,10 @@
-## Tags
-#inteligeciademercado #analiseestrategica #empreendedorismo #marketing 
-
 ---
-
+tags:
+  - business
+  - estratégia
+author:
+  - Alexander Osterwalder
+---
 # Ambiente de Modelo de Negócio
 
 ## Componentes

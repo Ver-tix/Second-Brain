@@ -1,7 +1,9 @@
-## Tags
-
-#artigo #inteligenciaartificial #unificador
-
+---
+tags:
+  - artigo
+  - inteligenciaartificial
+  - unificador
+---
 **Descrição:**
 - Como Escala, Roteamento, Recuperação e Alinhamento se unem para criar a IA de última geração.
 

@@ -1,0 +1,14 @@
+---
+tags:
+  - RealEstate
+  - "#Funding"
+---
+# Summary
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 1 - Desbravando o Mundo do Financiamento Imobiliário]]
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 2 - Crédito X Dinheiro]]
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 3 - Por Que Investir em Imóveis]]
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 4 - Aluguel X Casa Própria]]
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 5 - O Que Você Não Sabe Sobre o Mercado Imobiliário]]
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 7 - Alavancagem Imobiliária]]
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 8 - Consórcio X Financiamento]]
+- [[3. Recursos/Artigos e Anotações/Livros/Crédito Vale Mais do Que Dinheiro/Capítulo 9 - Como Construir Patrimônio]]
