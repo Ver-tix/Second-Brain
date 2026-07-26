@@ -145,7 +145,7 @@ Como já virou tradição 😄:
 
 Depois da sua resposta, começamos a codificar imediatamente.
 
-# Código
+# ETAPA 1 - `ToolDecision`
 ```Python
 class ToolDecision:
 
@@ -364,3 +364,114 @@ tool = ToolDecision.decide(question)
 E seguirá conforme a resposta.
 
 Isso é um desacoplamento elegante.
+
+# ETAPA 2 - ALTERANDO O `MentorAgent`
+Perfeito! Agora vem a alteração que, para mim, é a mais elegante deste laboratório.
+
+Até agora, seu `MentorAgent` fazia algo parecido com isto:
+
+```python
+if question.startswith("calc:"):
+    expression = question.replace("calc:", "").strip()
+    return self.tool_manager.calculate(expression)
+```
+
+Esse código vai desaparecer.
+
+---
+
+## Etapa 3 — Alterando o `MentorAgent`
+
+Primeiro, adicione o import:
+
+```python
+from app.services.tool_decision import ToolDecision
+```
+
+---
+
+Agora substitua aquele bloco inicial do método `ask()` por este:
+
+```python
+tool = ToolDecision.decide(question)
+
+if tool == "calculator":
+    return self.tool_manager.calculate(question)
+```
+
+Neste momento você deve ter pensado:
+
+> "Professor... tem um erro aí."
+
+E você está certo. 😄
+
+No laboratório anterior, o `ToolManager.calculate()` esperava:
+
+```text
+25 + 13
+```
+
+Agora estamos passando:
+
+```text
+Quanto é 25 + 13?
+```
+
+Ou
+
+```text
+Some 5 e 8
+```
+
+Ou
+
+```text
+Multiplique 9 por 4
+```
+
+Ou seja...
+
+**Ainda falta ensinar o sistema a extrair a expressão matemática da frase.**
+
+E essa é justamente a próxima etapa da aula. O professor dividiu o problema em duas partes:
+
+1. **Decidir se deve usar uma ferramenta** (`ToolDecision`).
+    
+2. **Interpretar a linguagem do usuário** para que a ferramenta consiga trabalhar.
+    
+
+---
+
+### Por que essa separação é interessante?
+
+Porque são problemas diferentes.
+
+Imagine estas duas perguntas:
+
+```text
+Quanto é 12 + 8?
+```
+
+e
+
+```text
+Qual a capital da França?
+```
+
+O `ToolDecision` só responde:
+
+> "A primeira parece um cálculo."
+
+Ele **não** tenta entender o cálculo.
+
+Quem fará isso será outro componente (ou uma evolução do próprio `ToolManager`, dependendo da abordagem do professor).
+
+---
+
+### Minha pergunta para você
+
+Antes de avançarmos, quero confirmar uma coisa.
+
+**No material da Aula 7, após criar o `ToolDecision`, o professor manda implementar um parser da expressão matemática (algo que converta "Quanto é 2 + 2?" em "2 + 2"), ou ele ainda mantém o uso de `calc:` em algum momento?**
+
+Quero seguir exatamente a sequência da aula, sem antecipar conteúdo.
