@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#inteligenciaartificial  ",
+      "query": "tag:#IA  ",
       "color": {
         "a": 1,
         "rgb": 33274
@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "tag: #instruction",
-      "color": {
-        "a": 1,
-        "rgb": 14745855
-      }
-    },
-    {
       "query": "tag:#branding",
       "color": {
         "a": 1,
@@ -64,13 +57,6 @@
       }
     },
     {
-      "query": "path:To-Do-List",
-      "color": {
-        "a": 1,
-        "rgb": 16768256
-      }
-    },
-    {
       "query": "tag:#notes  ",
       "color": {
         "a": 1,
@@ -82,6 +68,13 @@
       "color": {
         "a": 1,
         "rgb": 33265
+      }
+    },
+    {
+      "query": "tag:#programação ",
+      "color": {
+        "a": 1,
+        "rgb": 6467833
       }
     }
   ],
@@ -95,6 +88,6 @@
   "repelStrength": 12.5520833333333,
   "linkStrength": 1,
   "linkDistance": 163,
-  "scale": 0.03641057112479118,
+  "scale": 0.03641057112479129,
   "close": true
 }

@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - programação
 ---
 # Primeiro: imagine uma pizzaria 🍕
 

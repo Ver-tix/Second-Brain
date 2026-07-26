@@ -1,0 +1,506 @@
+---
+tags:
+  - inteligenciaartificial
+  - programação
+  - inovação
+---
+> **Objetivo da aula**
+> 
+> Ensinar o Prometheus-Mentor a lembrar do que aconteceu durante a conversa.
+
+---
+
+# O problema
+
+Imagine o seguinte diálogo:
+
+```text
+Usuário:
+Meu nome é Caio.
+
+Mentor:
+Prazer!
+
+...
+
+Usuário:
+Qual é meu nome?
+```
+
+Hoje, o agente responderia algo como:
+
+> "Você ainda não informou seu nome."
+
+Errado.
+
+Por quê?
+
+Porque cada pergunta é enviada isoladamente para o modelo.
+
+---
+
+# O LLM não possui memória
+
+Essa é uma das maiores confusões de quem começa a trabalhar com IA.
+
+As pessoas imaginam:
+
+```text
+LLM
+
+↓
+
+Memoriza tudo
+```
+
+Na verdade, o funcionamento é este:
+
+```text
+Pergunta
+
+↓
+
+LLM
+
+↓
+
+Resposta
+
+↓
+
+Fim.
+```
+
+Na próxima pergunta...
+
+Tudo começa do zero.
+
+---
+
+# Então por que o ChatGPT lembra?
+
+Excelente pergunta.
+
+Porque existe uma camada antes do modelo.
+
+Ela faz isto:
+
+```text
+Mensagem 1
+
+↓
+
+Guarda
+
+↓
+
+Mensagem 2
+
+↓
+
+Guarda
+
+↓
+
+Mensagem 3
+
+↓
+
+Guarda
+```
+
+Quando chega uma nova pergunta...
+
+Ela envia tudo junto.
+
+---
+
+# A arquitetura muda novamente
+
+Até agora tínhamos:
+
+```text
+MentorAgent
+
+↓
+
+PromptBuilder
+
+↓
+
+LLMService
+```
+
+Agora teremos:
+
+```text
+MentorAgent
+
+↓
+
+ConversationMemory
+
+↓
+
+PromptBuilder
+
+↓
+
+LLMService
+```
+
+Acabamos de adicionar outra peça.
+
+---
+
+# O papel da memória
+
+A memória NÃO responde.
+
+Ela NÃO chama o modelo.
+
+Ela NÃO cria prompts.
+
+Ela apenas guarda histórico.
+
+Isso é importante.
+
+---
+
+# O ciclo
+
+Agora o agente fará:
+
+```text
+Usuário pergunta
+
+↓
+
+Memory salva
+
+↓
+
+PromptBuilder recebe histórico
+
+↓
+
+Prompt completo
+
+↓
+
+LLM
+
+↓
+
+Resposta
+
+↓
+
+Memory salva resposta
+
+↓
+
+Fim
+```
+
+Percebe?
+
+A memória participa duas vezes.
+
+---
+
+# Como guardar?
+
+No começo...
+
+Da forma mais simples possível.
+
+Uma lista.
+
+```python
+[
+    mensagem1,
+    resposta1,
+    mensagem2,
+    resposta2
+]
+```
+
+Nada de banco de dados.
+
+Nada de Redis.
+
+Nada de Chroma.
+
+Ainda não.
+
+---
+
+# Por que uma lista?
+
+Porque estamos aprendendo conceitos.
+
+Mais tarde trocaremos essa implementação.
+
+O agente nem perceberá.
+
+Por quê?
+
+Porque usamos abstrações.
+
+---
+
+# Uma observação arquitetural
+
+Veja algo interessante.
+
+Hoje temos:
+
+```text
+MentorAgent
+
+↓
+
+ConversationMemory
+```
+
+Daqui a algumas aulas:
+
+```text
+MentorAgent
+
+↓
+
+SharedMemory
+```
+
+Depois:
+
+```text
+MentorAgent
+
+↓
+
+VectorMemory
+```
+
+Depois:
+
+```text
+MentorAgent
+
+↓
+
+Second Brain
+```
+
+Repare.
+
+Estamos construindo uma arquitetura preparada para crescer.
+
+---
+
+# O PromptBuilder muda
+
+Antes ele recebia:
+
+```python
+build(question)
+```
+
+Agora provavelmente receberá algo parecido com:
+
+```python
+build(
+    history,
+    question
+)
+```
+
+Assim ele monta um prompt contendo:
+
+```text
+Histórico
+
++
+
+Nova pergunta
+```
+
+---
+
+# Exemplo
+
+Ao invés de enviar:
+
+```text
+Explique RAG.
+```
+
+Enviaremos algo como:
+
+```text
+Histórico:
+
+Usuário:
+Meu nome é Caio.
+
+Assistente:
+Prazer!
+
+Usuário:
+Explique RAG.
+
+Pergunta atual:
+Explique RAG.
+```
+
+O modelo agora possui contexto.
+
+---
+
+# O insight da aula
+
+O LLM nunca "lembrou" de nada.
+
+Quem lembrou foi o sistema.
+
+Essa distinção muda completamente a forma como enxergamos agentes inteligentes.
+
+---
+# Importante
+Contexto reduz carga inferencial, que reduz os gastos de tokens de saída do LLM. Mas, muito contexto, aumenta a busca de memórias salvas por parte da LLM, ou seja, também aumenta o gasto computacional. Solução? Bom, nossos curso de [[Economia de Tokens]].
+
+---
+
+# Laboratório 5 — Dando memória ao Prometheus-Mentor
+
+Hoje vamos adicionar a primeira camada de memória da aplicação.
+
+## [[🤖 Monitoria M6 005 - TEORIA]] 
+## [[🤖 Monitoria M6 005 - PRÁTICA]]
+## [[🛠 Desafio M6 005]]
+
+---
+
+## Etapa 1 — Criar um novo arquivo
+
+Dentro de:
+
+```text
+app/memory/
+```
+
+crie:
+
+```text
+conversation_memory.py
+```
+
+---
+
+## Etapa 2 — Criar a classe
+
+Implemente:
+
+```python
+class ConversationMemory:
+```
+
+Ela será responsável por armazenar o histórico da conversa.
+
+Por enquanto, utilize uma lista simples.
+
+---
+
+## Etapa 3 — Definir a interface
+
+Sua classe deve permitir, no mínimo:
+
+- adicionar uma mensagem do usuário;
+    
+- adicionar uma resposta do assistente;
+    
+- recuperar todo o histórico formatado.
+    
+
+Não se preocupe com persistência em disco. Tudo ficará em memória enquanto o programa estiver rodando.
+
+---
+
+## Etapa 4 — Atualizar o `PromptBuilder`
+
+Altere o método de construção do prompt para receber também o histórico da conversa.
+
+O prompt deverá conter:
+
+1. a identidade do Prometheus-Mentor;
+    
+2. o histórico formatado;
+    
+3. a nova pergunta do usuário.
+    
+
+---
+
+## Etapa 5 — Atualizar o `MentorAgent`
+
+Agora ele deverá:
+
+1. salvar a pergunta do usuário na memória;
+    
+2. recuperar o histórico;
+    
+3. montar o prompt completo;
+    
+4. enviar ao `LLMService`;
+    
+5. salvar a resposta do assistente na memória;
+    
+6. devolver a resposta.
+    
+
+Observe que o agente continua apenas **coordenando** os componentes.
+
+---
+
+## Etapa 6 — Atualizar o `main.py`
+
+Em vez de criar apenas o `LLMService`, agora também crie uma instância de `ConversationMemory`.
+
+Passe ambos para o `MentorAgent`.
+
+Depois, permita que o usuário faça **várias perguntas**, em um loop, até digitar algo como:
+
+```text
+sair
+```
+
+Assim você poderá verificar que o histórico está sendo preservado durante toda a execução do programa.
+
+---
+
+# Desafio de reflexão
+
+Responda, sem pesquisar:
+
+> **Por que decidimos criar uma classe `ConversationMemory` em vez de simplesmente manter uma lista dentro do `MentorAgent`?**
+
+Essa resposta vale mais do que qualquer linha de código do laboratório.
+
+---
+
+## O que vem depois?
+
+Na próxima aula, faremos uma distinção fundamental que já apareceu várias vezes no curso, mas agora em código:
+
+- **Memória de Conversa** (curto prazo) ← a que você implementará hoje.
+    
+- **Memória Compartilhada** (entre agentes).
+    
+- **Second Brain / RAG** (longo prazo e conhecimento).
+    
+
+Você finalmente verá essas três camadas convivendo na mesma arquitetura, cada uma com uma responsabilidade diferente.
+
+E aí o Prometheus começará a se parecer muito com os sistemas de IA profissionais que estudamos no Módulo 5. 🚀

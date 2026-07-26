@@ -1,0 +1,19 @@
+---
+tags:
+  - inteligenciaartificial
+---
+
+1. Abra [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey?hl=pt-br) em uma nova guia do navegador.
+2. Faça login usando sua Conta do Google.
+3. Clique em **"Criar chave de API"** (canto superior direito).
+4. Uma caixa de diálogo será aberta com um menu suspenso do projeto:
+
+- **Se você já tiver um projeto do Google criado antes:** selecione-o e clique em **"Criar chave de API no projeto atual"**
+- **Se não estiver na lista:** clique em **"Criar projeto"**.
+![[Pasted image 20260716140820.png]]
+
+5. **Copie a chave de API** que será exibida. Ela começa com `AIza...` e tem cerca de 40 caracteres.
+
+✏️ **Cole em um local seguro** , você vai precisar dela na etapa 4 abaixo.
+
+**Trate a chave de API como uma senha**. Não a cole em chats públicos, capturas de tela ou faça commit dela em um repositório público do GitHub.
