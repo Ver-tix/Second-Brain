@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - brandig
+  - branding
   - case
 ---
 **FATO:** O cachorro Manchinha morreu após ser agredido com uma barra de metal por um segurança terceirizado da rede Carrefour.

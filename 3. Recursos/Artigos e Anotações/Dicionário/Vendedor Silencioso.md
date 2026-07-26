@@ -3,7 +3,6 @@ tags:
   - marketing
   - dicionario
 ---
-
 O conceito de **vendedor silencioso** refere-se a elementos ou estratégias que influenciam a decisão de compra sem interação verbal direta, operando de três formas principais:
 
 - **Embalagem (Packaging):** Conhecido também como o "último vendedor silencioso" (termo cunhado por James Pilditch), o design da embalagem atua no ponto de venda para atrair a atenção, comunicar valores da marca e diferenciar o produto da concorrência, sendo decisivo em até 85% das escolhas do consumidor.

@@ -2,7 +2,6 @@
 tags:
   - marketing
   - branding
-  - "#estratégia"
 ---
 # Sumário
 ## Seção 1: Criando Seu Movimento
