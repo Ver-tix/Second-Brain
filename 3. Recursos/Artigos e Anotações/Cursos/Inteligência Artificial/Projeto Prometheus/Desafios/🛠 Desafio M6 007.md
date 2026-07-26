@@ -1,0 +1,6 @@
+---
+tags:
+  - IA
+  - programação
+  - inovação
+---

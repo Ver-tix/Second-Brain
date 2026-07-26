@@ -299,6 +299,9 @@ Mas, como já aprendemos desde o início do Projeto Prometheus, primeiro entende
 
 ---
 
+## [[🤖 Monitoria M6 007]]
+## [[🛠 Desafio M6 007]] 
+
 # Laboratório
 
 ## Etapa 1

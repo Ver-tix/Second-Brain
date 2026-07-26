@@ -110,6 +110,6 @@ author:
 - [[Aula 4 - O Poder dos Prompts Estruturados|Aula 4 - O Poder dos Prompts Estruturados]]
 - [[Aula 5 - Memória de Conversa]]
 - [[Aula 6 - Feramentas (Tools)]]
-- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aula 7 - O LLM como Tomador de Decisão|Aula 7 - O LLM como Tomador de Decisão]]
+- [[Aula 7 - O LLM como Tomador de Decisão]]
 
-3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus
+3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas
