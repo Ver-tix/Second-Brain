@@ -1,8 +1,5 @@
 ---
-tags:
-  - "#dicionario"
-  - "#tecnologia"
-  - "#inteligenciaartificial"
+tags: []
 ---
 # Primeiro: imagine uma pizzaria 🍕
 

@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - "#descoberta"
 author:
   - Byron Sharp
 ---

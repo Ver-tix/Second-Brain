@@ -1,9 +1,8 @@
-## Tags
-
-#inteligenciaartificial #artigo
-
 ---
-
+tags:
+  - inteligenciaartificial
+  - artigo
+---
 # Módulo 1: O Problema do Fine-Tuning
 Historicamente, a **IA dependia do ==Fine Tuining== (ajuste fino)**. Precisávamos de milhares de exemplos específicos para "reprogramar" um modelo para uma única nova tarefa. O problema? **É necessário um ==dataset gigante para cada novo problema==**.
 

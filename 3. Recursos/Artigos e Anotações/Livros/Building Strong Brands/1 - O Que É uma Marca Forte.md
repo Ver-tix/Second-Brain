@@ -30,7 +30,7 @@ Eles criaram não apenas um senso de que a câmera era fácil de usar (porque at
 ## - Um indicador da lealdade do consumidor com a Kodak é a resiliência da marca frente a infortúnios
 por exemplo, a câmera instantânea da Kodak (introduzida em 1976 para bater de frente com a Polaroid) foi forçada a ser retirada do mercado, devido à aquisição de patente pela Polaroid em 1986. a Kodak ser forçada a se retirar de parte do mercado que ela domina é tão ruim quanto parece. Muitas marcas teriam sido permanentemente maculadas com isso. O fato de a Kodak ter sobrevivido a isso demonstra a força da marca em manejar tal situação dolorosa
 
-# O Que É Uma #brandequity (Valor de Marca)?
+# O Que É Uma brandequity (Valor de Marca)?
 Brand Equity é um conjunto de ativos (e passivos) ligados ao nome da marca e aos símbolos que adicionam (ou removem) valor provido por um produto ou serviço e/ou clientes da firma. Quatro categorias de principais ativos são:  
 1. Consciência de Marca (Brand Awareness)  
 2. Lealdade à Marca (Brand Loyalty)  

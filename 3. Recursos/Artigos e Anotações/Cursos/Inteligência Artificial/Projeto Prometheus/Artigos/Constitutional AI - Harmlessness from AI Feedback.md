@@ -1,9 +1,8 @@
-## Tags
-
-#artigo #inteligenciaartificial 
-
 ---
-
+tags:
+  - inteligenciaartificial
+  - artigo
+---
 # O Dilema do Aluno Evasivo: O Limite do Treinamento Humano
 Quando punimos a IA repetidamente por respostas ruins usando feedback humano (Reinforcement Learning Human Feedback, ou RLFH), ela aprende a fugir de conversas difíceis. Ela se recusa a ajudar. Precisamos de um modelo que explique porque algo é errado, em vez de simplesmente ficar em silêncio.
 

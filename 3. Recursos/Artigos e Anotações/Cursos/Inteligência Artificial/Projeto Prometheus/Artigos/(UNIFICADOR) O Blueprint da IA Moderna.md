@@ -1,7 +1,7 @@
-## Tags
-
-#artigo #inteligenciaartificial 
-
+---
+tags:
+  - inteligenciaartificial
+  - artigo
 ---
 # A Anatomia de um Sistema Composto
 A IA moderna não é um algoritmo único. É uma orquestração de descobertas fundamentais divididas em primitivas e quatro fases de operação

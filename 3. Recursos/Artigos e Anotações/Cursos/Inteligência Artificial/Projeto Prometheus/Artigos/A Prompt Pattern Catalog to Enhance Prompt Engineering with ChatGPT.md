@@ -1,6 +1,7 @@
-## Tags
-#inteligenciaartificial #artigo #patterns #inovação 
-
+---
+tags:
+  - inteligenciaartificial
+  - artigo
 ---
 # Falar com um LLM Não É Como Consultar um Banco de Dados Relacional
 Modelos probabilísticos são motores de caos criativo; eles exigem restrições claras para gerar engenharia de precisão.

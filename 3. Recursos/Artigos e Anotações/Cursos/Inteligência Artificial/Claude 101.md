@@ -2,7 +2,6 @@
 tags:
   - inteligenciaartificial
 ---
-
 ## Conheça o Claude
 
 ## Sua Primeira Conversa com o Claude
@@ -542,7 +541,7 @@ Depois de conectar suas ferramentas, Claude as considera ao responder às suas s
 **Comunicação (Slack, Gmail)**
 
 - "Encontre o tópico de e-mail onde discutimos o contrato do fornecedor"
-- "Elabore uma resposta para a última mensagem no canal #marketing"
+- "Elabore uma resposta para a última mensagem no canal marketing"
 - "O que a equipe decidiu sobre o cronograma na discussão de ontem?"
 
 **Documentação (Notion, Google Drive, Confluence)**

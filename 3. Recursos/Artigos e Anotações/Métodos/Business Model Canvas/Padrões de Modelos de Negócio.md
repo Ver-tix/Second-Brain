@@ -1,6 +1,7 @@
-## Tags
-#inovação #business #empreendedorismo 
-
+---
+tags:
+  - business
+  - inovação
 ---
 ## 1. Modelo de Negócios Desagregados
 
