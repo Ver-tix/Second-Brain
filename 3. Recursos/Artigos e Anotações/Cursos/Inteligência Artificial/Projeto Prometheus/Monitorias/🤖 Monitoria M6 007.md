@@ -365,7 +365,7 @@ E seguirá conforme a resposta.
 
 Isso é um desacoplamento elegante.
 
-# ETAPA 2 - ALTERANDO O `MentorAgent`
+# ALTERANDO O `MentorAgent`
 Perfeito! Agora vem a alteração que, para mim, é a mais elegante deste laboratório.
 
 Até agora, seu `MentorAgent` fazia algo parecido com isto:
@@ -380,7 +380,7 @@ Esse código vai desaparecer.
 
 ---
 
-## Etapa 3 — Alterando o `MentorAgent`
+Alterando o `MentorAgent`
 
 Primeiro, adicione o import:
 
@@ -475,3 +475,6 @@ Antes de avançarmos, quero confirmar uma coisa.
 **No material da Aula 7, após criar o `ToolDecision`, o professor manda implementar um parser da expressão matemática (algo que converta "Quanto é 2 + 2?" em "2 + 2"), ou ele ainda mantém o uso de `calc:` em algum momento?**
 
 Quero seguir exatamente a sequência da aula, sem antecipar conteúdo.
+
+---
+# ETAPA 2 - Alterando o `MentorAgent`
