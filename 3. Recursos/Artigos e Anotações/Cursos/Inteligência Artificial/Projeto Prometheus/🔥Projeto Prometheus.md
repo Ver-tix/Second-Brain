@@ -6,8 +6,6 @@ tags:
 author:
   - Caio Emanuel
 ---
-
----
 # Artigos (Resumos) 
 ### Módulo 1
 - [[Attention is All You Need]]
