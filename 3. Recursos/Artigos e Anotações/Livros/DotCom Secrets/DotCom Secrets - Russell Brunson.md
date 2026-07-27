@@ -4,9 +4,13 @@ tags:
   - estratégia
 author:
   - Russell Brunson
+tipo:
+  - MOC
+dominio:
+  - marketing
+Subdominio:
 ---
 # Sumário
-- [[3. Recursos/Artigos e Anotações/Livros/DotCom Secrets/Prefácio]]
 ---
 ## Seção 1 - O Segredo dos Funis de Venda
 - [[3. Recursos/Artigos e Anotações/Livros/DotCom Secrets/Introdução à Seção 1]]

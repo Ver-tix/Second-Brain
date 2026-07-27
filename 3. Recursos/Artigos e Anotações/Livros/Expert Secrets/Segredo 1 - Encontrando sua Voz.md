@@ -80,7 +80,7 @@ Entro em detalhes sobre como e por que começar o seu próprio show em *Traffic 
 
 Em *DotCom Secrets* (Segredos do DotCom), falamos sobre o poder dos funis de cúpula. Não apenas você pode usar esse funil para construir uma grande lista de assinantes e seguidores, mas também é uma maneira incrível de entrevistar os principais especialistas do seu campo.
 
-[imagem]
+![[Pasted image 20260727100917.png]]
 
 As duas primeiras fases são totalmente sobre crescimento pessoal. É assim que normalmente começa. Ficamos empolgados com um tópico e começamos a nos aprofundar nele. Aprendemos, lemos livros, estudamos exemplos, ouvimos podcasts e consumimos muita informação. Em seguida, colocamos nosso chapéu de repórter e entrevistamos as pessoas de quem temos aprendido para obter respostas personalizadas para nossas perguntas.
 
@@ -108,7 +108,7 @@ Durante suas duas primeiras fases de crescimento como especialista, você passar
 
 Seu trabalho agora, como especialista, é se tornar um criador de frameworks. Você faz isso pegando as informações que aprendeu de toneladas de fontes diferentes e dos frameworks de outras pessoas, olhando para elas e organizando-as em sua própria hipótese pessoal para o framework perfeito. Durante esta etapa, você está fazendo o que Bruce Lee quis dizer quando disse: "Pesquise sua própria experiência, absorva o que é útil, rejeite o que é inútil e adicione o que é essencialmente seu." Esse processo é semelhante ao que meu amigo Howard Berg, o leitor mais rápido do mundo, fez quando perguntei sua opinião sobre Deus. Ele escolhe um tópico, lê uma dúzia ou mais de livros sobre o tópico para ver o ponto de vista de todos e cria sua própria opinião com base em ver todos os lados do argumento. Esse é o seu trabalho agora: construir seu próprio framework depois de ver todas as outras maneiras e oportunidades que as pessoas estão usando para tentar alcançar esse resultado.
 
-Christopher Vogler, autor de *The Writer's Journey* (A Jornada do Escritor), disse em uma palestra: "À medida que você ouve... as ideias de qualquer pessoa... você encontrará 'Ah, aqui está uma ideia útil', e 'Isso mesmo, eu concordo com isso', e 'Isso, ah, eu nunca pensei nisso antes'. Mas em algum momento... você cria suas próprias [ideias] e cria sua própria gíria, sua própria linguagem compartilhada com as pessoas com quem você trabalha... Absorva, faça anotações e retire um pedaço aqui e ali que soe certo para sua observação do mundo. Tudo isso é sobre como você percebe as coisas como um artista, então você tem que fazer disso algo seu."
+Christopher Vogler, autor de *The Writer's Journey* (A Jornada do Escritor), disse em uma palestra: "À medida que você ouve... as ideias de qualquer pessoa... você encontrará 'Ah, aqui está uma ideia útil', e 'Isso mesmo, eu concordo com isso', e 'Isso, ah, eu nunca pensei nisso antes'. Mas em algum momento... você cria suas próprias ideias e cria sua própria gíria, sua própria linguagem compartilhada com as pessoas com quem você trabalha... Absorva, faça anotações e retire um pedaço aqui e ali que soe certo para sua observação do mundo. Tudo isso é sobre como você percebe as coisas como um artista, então você tem que fazer disso algo seu."
 
 Sua hipótese de framework é o primeiro rascunho que você vai criar com base em tudo o que está aprendendo e nas ideias e epifanias que teve durante sua jornada de crescimento. A primeira coisa a fazer é fingir que você está orientando seu primeiro cliente através desse processo. Esse cliente é você, quando você encontrou pela primeira vez sua centelha de interesse no tópico. Você está alguns capítulos à frente de onde estava quando começou. Sente-se e escreva tudo o que gostaria de ter ensinado a si mesmo antes de começar essa jornada. Faça uma lista com marcadores de tantos tópicos quanto conseguir pensar; quanto mais, melhor.
 
@@ -143,8 +143,7 @@ Continue fazendo listas com marcadores como esta até ter tudo o que precisaria 
     - Segredo #11: Funis de Livros
     - Etc.
 
-[imagem 2]
-
+![[Pasted image 20260727100946.png]]
 ### Passo #2 — Teste sua hipótese de framework em si mesmo (cobaia humana)
 
 O problema com a maioria dos "especialistas" é que eles ouvem uma boa ideia e vão lá e a regurgitam como se fosse deles. Isso não é o que você está fazendo quando cria seus próprios frameworks proprietários e únicos. Eu disse às pessoas, depois de escrever *DotCom Secrets*, que aprendi muitos desses conceitos com outros antes de mim, mas então peguei cada uma das ideias e as testei nos meus próprios negócios, refinei os processos, descobri o que funcionava e o que não funcionava, aprendi minhas próprias percepções, formei minhas próprias hipóteses e testei essas hipóteses. A partir desse processo, eu ganhei esse livro.
@@ -159,7 +158,7 @@ Depois de criar seu framework, você precisa de um nome para o seu sistema propr
 
 Depois de nomear o framework, quero ter uma descrição do que ele é e do que ele fará se você seguir o processo. Por exemplo:
 
-[imagem 3]
+![[Pasted image 20260727100957.png]]
 
 Neste ponto, você deve ter o esboço básico do seu framework: o nome do seu framework, sua descrição e seu esboço do que você estará ensinando dentro de cada etapa. Agora você tem sua hipótese de framework. No próximo capítulo, mostrarei como ensinar esse framework, mas por enquanto você não está pronto; esta é apenas uma hipótese, e você tem que ver se ela realmente funciona.
 
@@ -191,7 +190,7 @@ Finalmente, Drew relutantemente concordou em me deixar vir e servir o negócio d
 
 ## Fase #5: Tornando-se um Especialista
 
-[imagem 4]
+![[Pasted image 20260727101006.png]]
 
 Uma vez que você tenha passado pelas quatro primeiras fases, estará pronto para começar a usar seus frameworks e liderar pessoas como um especialista.
 
@@ -269,4 +268,94 @@ Eu era obcecado por marketing e lia, assistia e ouvia tudo o que conseguia coloc
 Estive testando meu material por mais de uma década e, por isso, embora estivesse nervoso para que outros lessem aquele livro, também estava confiante sabendo que ele estava pronto.
 
 Publicar seu show diariamente, enquanto documenta sua jornada, também lhe dará a chance de começar a testar seu material. Você descobrirá quais mensagens se conectam com as pessoas, quais episódios são compartilhados e quais não são. Quais mensagens fazem as pessoas aparecerem e comentarem, e quais mensagens não se conectam. É exatamente esse processo de aparecer consistentemente e publicar que o ajudará a refinar sua mensagem, encontrar sua voz e atrair seus clientes dos sonhos até você.
+
+Aqui está a continuação da tradução do livro *Expert Secrets*, mantendo a formatação Markdown, o tom envolvente e persuasivo do autor, e as regras que estabelecemos.
+
+---
+
+## Passo #4 — Aprenda a ser prolífico:
+
+Seu público deve estar fascinado com você e com o que você ensina. Se você for chato, eles não vão se conectar com você. Eu vi muitos especialistas irem e virem nos últimos 10 anos, e passei muito tempo tentando descobrir por que alguns duram e outros não. A única coisa que notei de forma geral com a maioria dos especialistas que tiveram sucesso e se mantiveram relevantes é que eles são altamente prolíficos.
+
+Quando digo prolífico, algumas pessoas pensam que estou falando sobre produzir muito conteúdo. Embora isso seja verdade, existe outra definição para prolífico: alguém que tem uma inventividade abundante. Eles inventam novas ideias e frameworks únicos o tempo todo. Esse é o tipo de prolífico de que estou falando aqui. Para causar o maior impacto no maior número de pessoas e, ao mesmo tempo, ganhar o máximo de dinheiro, é vital que você encaixe sua mensagem no ponto ideal do que chamo de Índice de Prolificidade.
+
+![[Pasted image 20260727101707.png]]
+
+No meio do Índice de Prolificidade está o *mainstream* (o convencional). Esta área inclui as ideias que estão sendo ensinadas atualmente às massas por meio de meios tradicionais.
+
+As pessoas podem ir à escola e aprender sobre todas essas coisas. É senso comum. Não é empolgante. Não há dinheiro no *mainstream*.
+
+Agora, em ambas as extremidades desse espectro, estão o que eu chamo de "zonas da loucura". Há muitos especialistas que vivem na zona da loucura. E embora você sempre possa recrutar algumas pessoas para a zona da loucura, é difícil fazer com que as massas tomem medidas tão à esquerda ou à direita.
+
+Em algum lugar entre o conselho convencional e a zona da loucura é onde você quer se posicionar. Eu chamo esse lugar de Zona Prolífica. Quando você está lá, está transmitindo ideias que são tão únicas que as pessoas vão notar.
+
+Um dos meus professores favoritos no nicho de perda de peso é Dave Asprey, do Bulletproof.com. Sua história de origem se encaixa perfeitamente na Zona Prolífica. Um dia, ele estava escalando o Monte Kailash, no Tibete, e parou em uma pensão para se abrigar do clima de 10 graus negativos. Ele recebeu uma xícara cremosa de chá de manteiga de iaque que o fez se sentir incrível. Ele tentou descobrir por que se sentia tão bem. Logo descobriu que era devido às gorduras elevadas nesse chá, então começou a adicionar manteiga e outras gorduras ao seu café e chás. Essa experiência acabou ajudando-o a criar um fenômeno nacional chamado *Bulletproof Coffee* (Café à Prova de Balas). As pessoas colocam manteiga e óleo de coco no café para perder peso e se sentir incríveis.
+
+Para aqueles de vocês que estão ouvindo isso pela primeira vez, pode parecer um pouco louco — mas não tão louco a ponto de você descartá-lo completamente. E definitivamente não é algo que o governo recomendaria. O *Bulletproof Coffee* cai diretamente na Zona Prolífica, e sua mensagem tornou Dave um multimilionário.
+
+Você notou como essa mensagem causa alguma polaridade? O *mainstream* provavelmente vai odiá-la, mas há algo interessante ali.
+
+Quando sua mensagem causa polaridade, ela atrai atenção, e as pessoas pagarão por isso. A neutralidade é chata, e raramente se ganha dinheiro ou se cria mudança quando você permanece neutro. Ser polar é o que atrairá fãs ardorosos e pessoas que o seguirão e pagarão pelo seu conselho.
+
+À medida que você se torna mais polar em sua mensagem, também notará que as pessoas do outro lado da sua mensagem não ficarão felizes com isso. Ao criar verdadeiros fãs, você sempre irritará aqueles do outro lado. Eu queria avisá-lo sobre isso cedo, porque muitas vezes as pessoas (incluindo eu) realmente lutam quando outras ficam chateadas ou discordam de suas ideias.
+
+Para cada 100 verdadeiros fãs que o seguem, você provavelmente terá uma pessoa que não gosta de você. E, por algum motivo, elas sempre parecem ser as mais barulhentas. Se você pesquisar meu nome (ou o nome de qualquer pessoa que tentou criar mudanças nos outros), encontrará toneladas de fãs, bem como pessoas que não gostam de nós. É apenas a natureza de ser um verdadeiro líder. Você tem que ficar bem com isso, porque sem a polaridade da sua mensagem, você não pode chegar aos seus verdadeiros fãs e ajudar a criar a mudança de que eles precisam.
+
+Uma dica que aprendi com Dan Kennedy e que me ajuda a lidar com a pequena porcentagem de *haters* (críticos) que discordam da minha mensagem é esta: "Se você não ofendeu alguém até o meio-dia de cada dia, então você não está fazendo marketing com força suficiente."
+
+E Jay Abraham disse: "Se você realmente acredita que o que você tem é útil e valioso para seus clientes, então você tem a obrigação moral de tentar servi-los de todas as maneiras possíveis." E é por isso que sou tão agressivo no meu marketing. Eu honestamente sinto que tenho uma obrigação moral de compartilhar minha mensagem, porque ela mudou minha vida e eu sei que pode fazer o mesmo por outras pessoas.
+
+Quero que você comece a pensar no seu nicho. O que você ensina e onde isso está no Índice de Prolificidade? Muitas vezes, as pessoas estão ou jogando pelo seguro com o *mainstream*, ou estão lá no fundo da terra da loucura, onde não há dinheiro. Você precisa encontrar seu ponto ideal entre o meio e a loucura.
+
+## Passo #5 — Domine a persuasão:
+
+Ao longo deste livro, você aprenderá como persuadir as pessoas. Na verdade, tudo o que você aprenderá nas Seções Dois e Três deste livro é sobre persuasão. Mas, antes de nos aprofundarmos muito nisso, quero que você entenda a base fundamental da persuasão.
+
+Um dos meus livros favoritos sobre este tópico é *The One Sentence Persuasion Course* (O Curso de Persuasão em Uma Frase), de Blair Warren. Blair é um especialista em persuasão que passou mais de uma década estudando e usando a persuasão. Durante essa jornada, ele decompôs exatamente como persuadir as pessoas em uma única frase simples: "As pessoas farão qualquer coisa por aqueles que encorajam seus sonhos, justificam seus fracassos, acalmam seus medos, confirmam suas suspeitas e as ajudam a atirar pedras em seus inimigos."
+
+Aqui está um resumo rápido do porquê cada uma dessas ações é tão importante. Incluí as explicações de Blair porque ele explica esses conceitos de forma magistral.
+
+### Encoraje seus sonhos:
+
+Como líder, é vital que você primeiro entenda os sonhos do seu público e, em seguida, os encoraje dentro da nova oportunidade que está criando para eles. Os pais muitas vezes desencorajam os sonhos de seus filhos "para o bem deles" e tentam direcioná-los para metas mais "razoáveis". E as crianças frequentemente aceitam isso como normal até que outras pessoas apareçam, acreditem nelas e encorajem seus sonhos.
+
+Quando isso acontece, quem você acha que tem mais poder? Os pais ou os estranhos?
+
+### Justifique seus fracassos:
+
+A maioria das pessoas que se tornam seguidoras e depois fãs já tentou fazer uma mudança antes. Você não será a primeira pessoa de quem elas tentaram aprender. Por algum motivo, elas não tiveram suas necessidades atendidas em encontros anteriores. É importante que você tire a culpa dos fracassos passados dos ombros delas e a coloque de volta nas velhas oportunidades que elas tentaram no passado. Dessa forma, elas estarão mais abertas a tentar sua nova oportunidade.
+
+Enquanto milhões aplaudem o Dr. Phil quando ele diz às pessoas para aceitarem a responsabilidade por seus erros, milhões mais estão procurando alguém para tirar a responsabilidade de seus ombros. Para dizer a elas que não são responsáveis por sua situação na vida. E, embora aceitar a responsabilidade seja essencial para ganhar controle sobre a própria vida, garantir aos outros que eles não são responsáveis é essencial para ganhar influência sobre a vida deles. Basta olhar para a política para ver esse jogo poderoso sendo jogado em seu melhor nível.
+
+### Acalme seus medos:
+
+Acalmar (*allay*) é diminuir ou pôr fim. Se você puder pôr fim aos medos das pessoas e dar-lhes esperança, elas o seguirão até os confins da Terra e voltarão.
+
+Quando estamos com medo, é quase impossível se concentrar em qualquer outra coisa. E, embora todo mundo saiba disso, o que fazemos quando outra pessoa está com medo e precisamos chamar a atenção dela? Isso mesmo. Dizemos a ela para não ter medo e esperamos que isso funcione. Funciona? Quase nunca. E, no entanto, não parecemos notar. Continuamos como se tivéssemos resolvido o problema, e a pessoa à nossa frente desaparece ainda mais. Mas há aqueles que percebem isso e prestam atenção especial aos nossos medos. Eles não nos dizem para não ter medo. Eles trabalham conosco até que nosso medo diminua. Eles apresentam evidências. Eles oferecem apoio. Eles nos contam histórias. Mas eles não nos dizem como nos sentir e esperam que nos sintamos assim. Quando você está com medo, com que tipo de pessoa você prefere estar?
+
+### Confirme suas suspeitas:
+
+Seu público já está desconfiado de você e de outras pessoas no seu mercado. Eles querem acreditar que a mudança é possível, mas estão céticos em dar o salto adiante. Quando você pode confirmar, em formato de história, que teve suspeitas semelhantes e descrever como as superou, isso unirá as pessoas a você.
+
+Uma das nossas coisas favoritas para dizer é "Eu sabia". Simplesmente não há nada como ter nossas suspeitas confirmadas. Quando outra pessoa confirma algo que suspeitamos, não apenas sentimos uma onda de superioridade, como nos sentimos atraídos por quem ajudou a fazer essa onda acontecer. Hitler "confirmou" as suspeitas de muitos alemães sobre a causa de seus problemas e os atraiu ainda mais para o seu poder ao fazer isso. Seitas frequentemente confirmam as suspeitas de membros em potencial dizendo-lhes que suas famílias estão tentando sabotá-los. É uma coisa simples confirmar as suspeitas daqueles que estão desesperados para acreditarem nelas.
+
+### Atire pedras em seus inimigos:
+
+Uma grande chave para aumentar seus seguidores é criar um "Nós contra Eles" dentro da sua comunidade. Tome uma posição pelo que você acredita, por que você é diferente e contra quem vocês estão lutando coletivamente. Por que o seu movimento é melhor do que as alternativas?
+
+Nada une as pessoas como ter um inimigo comum.
+
+## Passo #6 — Importe-se... *muito*:
+
+A próxima parte de ser um especialista é mostrar às pessoas que você realmente se importa com elas. Theodore Roosevelt disse: "Ninguém se importa com o quanto você sabe até que saibam o quanto você se importa." Se o seu público achar que você está nisso apenas para ganhar dinheiro, seu veículo de mudança não durará muito.
+
+Seus seguidores não crescerão. Na verdade, encolherão muito rapidamente. Se você escolher seus clientes ideais corretamente, terá pessoas que você estaria disposto a servir, ensinar e treinar de graça, porque é o quanto você se importa com elas.
+
+Uma luta que a maioria de nós enfrenta ao tentar servir ao nosso público é a culpa às vezes associada a fazê-los nos pagar. Existem duas razões pelas quais é essencial para o sucesso deles que eles paguem a você.
+
+Primeiro, quem paga, presta atenção. Na última década, convidei meus amigos e familiares para assistirem a eventos pelos quais outros pagaram US$ 50.000 para participar. Nem uma única vez, nesses 10 anos, uma única pessoa que assistiu de graça lançou uma empresa de sucesso. No entanto, na mesma sala, havia pessoas que investiram em si mesmas. Elas ouviram exatamente as mesmas informações e, porque investiram dinheiro para estar lá, transformaram essas mesmas informações em empresas que faturam milhões de dólares por ano. Sim, quem paga, presta atenção — e quanto mais pagam, mais atenção prestam. Você está prestando um péssimo serviço ao seu público se subvalorizar o que está vendendo.
+
+Segundo, quanto mais sucesso você tiver, menos tempo você terá. Lembro-me de quando comecei, do orgulho que sentia por responder a todos os meus e-mails de suporte ao cliente e conversar (muitas vezes por horas) com todos que me faziam uma pergunta. Eu achava que estava servindo ao meu público, mas, por causa de quão acessível eu era para todos, não conseguia servir muitas pessoas de verdade. Você precisará colocar barreiras para proteger seu tempo, para que possa servir a mais pessoas. Ao cobrar pelo que faz, você está mostrando àqueles que realmente investem o quanto você se importa de verdade com o sucesso deles.
+
+
 
