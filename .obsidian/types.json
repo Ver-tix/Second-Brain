@@ -5,6 +5,7 @@
     "tags": "tags",
     "tipo": "multitext",
     "dominio": "multitext",
-    "Subdominio": "multitext"
+    "Subdominio": "multitext",
+    "Sub_subdominio": "multitext"
   }
 }
