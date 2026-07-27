@@ -115,8 +115,8 @@ tags:
 - [[Aula 5 - Memória de Conversa]]
 - [[Aula 6 - Feramentas (Tools)]]
 - [[Aula 7 - O LLM como Tomador de Decisão]]
-- [[Aula 8 - Tool Calling, quando o LLM escolhe a ferramenta]]
-- [[]]
+- [[Aula 8.1 - Tool Calling, quando o LLM escolhe a ferramenta]]
+- [[Aula 8.2 - Descobrindo o Tool Calling]]
 - [[]]
 
 3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas

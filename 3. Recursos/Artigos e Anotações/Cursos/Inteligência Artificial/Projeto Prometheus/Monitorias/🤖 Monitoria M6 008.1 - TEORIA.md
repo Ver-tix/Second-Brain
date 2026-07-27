@@ -281,4 +281,163 @@ Vamos modificá-lo juntos, linha por linha, para que você entenda exatamente **
 
 ---
 
-# 
+# Feedback
+Excelente. Está praticamente correto. Vou fazer um code review como em uma equipe.
+
+---
+
+# ✅ O que ficou correto
+
+Você removeu o hardcode:
+
+```python
+model=MODEL_NAME
+```
+
+Excelente.
+
+---
+
+Você adicionou:
+
+```python
+tools=[
+```
+
+Perfeito.
+
+---
+
+Você definiu:
+
+```python
+"type": "function"
+```
+
+Correto.
+
+---
+
+Você criou um nome público para a ferramenta:
+
+```python
+"name": "calculator"
+```
+
+Correto também.
+
+---
+
+# 🟡 Um pequeno detalhe
+
+Sua descrição terminou no meio da frase:
+
+```python
+"description": "Realiza operações matemáticas básicas entre dois"
+```
+
+Eu alteraria para algo mais completo, por exemplo:
+
+```python
+"description": "Executa operações matemáticas básicas."
+```
+
+ou
+
+```python
+"description": "Realiza operações matemáticas básicas entre dois números."
+```
+
+Lembre-se: **essa descrição é lida pelo LLM**, então quanto mais clara, melhor.
+
+---
+
+# 🧠 Agora vem a parte arquitetural mais importante
+
+Olhe o que acabamos de construir.
+
+Até a Aula 7:
+
+```text
+PromptBuilder
+
+↓
+
+Quem você é.
+```
+
+Agora, na Aula 8:
+
+```text
+Tools
+
+↓
+
+O que você sabe fazer.
+```
+
+Percebe a diferença?
+
+O PromptBuilder define a **identidade** do agente.
+
+O parâmetro `tools` define as **capacidades** do agente.
+
+Isso me lembra muito uma arquitetura orientada a capacidades (_Capability-based Architecture_), onde um agente é definido por dois eixos:
+
+```text
+              AGENTE
+
+        ┌──────────────┐
+        │ Identidade   │
+        │ (Prompt)     │
+        └──────────────┘
+
+                +
+
+        ┌──────────────┐
+        │ Capacidades  │
+        │ (Tools)      │
+        └──────────────┘
+```
+
+Mais para frente, o Prometheus provavelmente terá um terceiro eixo:
+
+```text
+              AGENTE
+
+    ┌─────────────────────┐
+    │ Identidade          │
+    │ Prompt              │
+    └─────────────────────┘
+
+             +
+
+    ┌─────────────────────┐
+    │ Capacidades         │
+    │ Tools               │
+    └─────────────────────┘
+
+             +
+
+    ┌─────────────────────┐
+    │ Conhecimento        │
+    │ RAG                 │
+    └─────────────────────┘
+```
+
+E, se levarmos sua ideia dos **Agent Profiles** adiante, um quarto eixo naturalmente aparece:
+
+```text
+              Agent Profile
+
+├── Identidade (Prompt)
+├── Capacidades (Tools)
+├── Conhecimento (RAG)
+├── Modelo (LLM)
+├── Memória
+└── Políticas
+```
+
+Percebe como tudo está começando a convergir? Os laboratórios deixam de parecer funcionalidades isoladas e começam a formar uma arquitetura coerente.
+
+---

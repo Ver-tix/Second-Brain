@@ -747,13 +747,13 @@ from app.config.settings import OPENAI_API_KEY
 
 Troque por:
 
-```****
+```python
 from app.config.settings import OPENAI_API_KEY, MODEL_NAME
 ```
 
 Depois altere:
 
-```****
+```python
 response = self.client.responses.create(
     model="gpt-4.1-mini",
     input=prompt
@@ -992,3 +992,17 @@ Porque há dois conceitos distintos:
 Misturar ambos na primeira aula aumenta a carga cognitiva sem necessidade. Como combinamos para o Projeto Prometheus, queremos que cada laboratório introduza apenas um conceito novo de cada vez, construindo a arquitetura em camadas.
 
 ---
+
+# Próximo passo
+
+Agora vem uma das partes mais interessantes da Aula 8.
+
+Até aqui nós apenas dissemos ao GPT:
+
+> "Existe uma ferramenta chamada `calculator`."
+
+Mas ainda não ensinamos:
+
+> "Como chamá-la."
+
+Esse será exatamente o próximo conceito introduzido pelo professor: transformar a descrição da ferramenta em um **contrato** que o modelo possa seguir. É aí que entram `parameters`, `properties` e `required`, que ele deixou propositalmente para a próxima etapa.
