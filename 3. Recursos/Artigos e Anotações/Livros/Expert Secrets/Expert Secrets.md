@@ -12,7 +12,7 @@ author:
 # Sumário
 ## Seção 1: Criando Seu Movimento
 ### Se Tornando o Especialista
-- [[3. Recursos/Artigos e Anotações/Livros/Expert Secrets/Introdução à Seção 1|Introdução à Seção 1]]
+- [[3. Recursos/Artigos e Anotações/Livros/Expert Secrets/Capítulos/Seção 1 - Criando Seu Movimento/Introdução à Seção 1|Introdução à Seção 1]]
 - [[Segredo 1 - Encontrando sua Voz]]
 - [[Segredo 2 - Ensinando seus Frameworks]]
 - [[Segredo 3 - Os Três Mercados Centrais ou Desejos]]
@@ -23,7 +23,7 @@ author:
 - [[Segredo 6 - Causa baseada no Futuro (Sua Causa)]]
 ---
 ## Seção 2: Criando Crenças
-- [[3. Recursos/Artigos e Anotações/Livros/Expert Secrets/Introdução à Seção 2|Introdução à Seção 2]]
+- [[Introdução à Seção 2|Introdução à Seção 2]]
 - [[Segredo 7 - A Ponte da Epifania]]
 - [[Segredo 8 - As Duas Jornadas do Herói]]
 - [[Segredo 9 - O Script da Ponte da Epifania]]
