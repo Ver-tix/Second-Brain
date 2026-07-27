@@ -30,7 +30,7 @@ author:
 - [[Segredo 10 - As Quatro Histórias Centrais]]
 
 ## Seção 3: "10X Secrets": venda de um para muitos
-- [[3. Recursos/Artigos e Anotações/Livros/Expert Secrets/Introdução à Seção 3]]
+- [[Introdução à Seção 3]]
 - [[Segredo 11 - O Framework do Webinar Perfeito]]
 - [[Segredo 12 - O Grande Dominó]]
 - [[Segredo 13 - Os Três Segredos]]
@@ -38,7 +38,7 @@ author:
 - [[Segredo 15 - Fechamento de Testes]]
 
 ## Seção 4: Tornando-se o Guia do Seu Cliente dos Sonhos
-- [[3. Recursos/Artigos e Anotações/Livros/Expert Secrets/Introdução à Seção 4]]
+- [[Introdução à Seção 4]]
 - [[Segredo 16 - Testando Sua Live de Apresentação]]
 - [[Segredo 17 - O Atalho do Webinário Perfeito]]
 - [[Segredo 18 - O Webinário Perfeito de 5 Minutos]]
