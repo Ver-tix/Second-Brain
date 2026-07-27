@@ -3,6 +3,12 @@ tags:
   - IA
   - programação
   - inovação
+tipo:
+  - MOC
+dominio:
+  - IA
+Subdominio:
+  - token-economy
 ---
 # ==Visão Técnica==
 O custo é por token processado pelo transformer, mas input e output têm **perfis computacionais diferentes**:
