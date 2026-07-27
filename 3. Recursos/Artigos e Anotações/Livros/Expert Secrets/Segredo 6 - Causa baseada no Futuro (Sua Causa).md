@@ -2,13 +2,13 @@
 tipo:
   - fonte
 tags:
-  - marketing
+  - branding
 dominio:
-  - marketing
+  - branding
 Subdominio:
-  - marketing-tático-mix
+  - branding-posicionamento
 Sub_subdominio:
-  - produto
+  - branding-posicionamento-comunidade
 author:
   - Russell Brunson
 ---
