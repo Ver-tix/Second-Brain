@@ -94,7 +94,7 @@ E isso nos leva ao mercado que herdamos agora.
 
 Os mercados centrais e os submercados são oceanos vermelhos, e agora é a nossa vez de ir um nível mais fundo para o que eu chamo de "nichos". Cada nicho está contido dentro de um submercado, e é uma maneira específica de satisfazer o desejo do submercado, que, por sua vez, satisfaz o desejo central.
 
-[imagem 3]
+![[Pasted image 20260727121607.png]]
 
 Dentro de cada mercado central, há um número ilimitado de nichos. Aqui estão alguns exemplos de nichos dentro de submercados populares.
 
@@ -121,3 +121,106 @@ Dentro de cada mercado central, há um número ilimitado de nichos. Aqui estão 
 
 <h4 align="center">Quais são todos os nichos dentro do submercado que você escolheu?</h4>
 
+# CRIANDO SUA PRÓPRIA CATEGORIA (E TORNANDO-SE O REI DA CATEGORIA)
+
+O erro que a maioria das pessoas comete é olhar para todos os nichos disponíveis e tentar decidir qual oceano azul entrar. O problema é que pular em um nicho existente é nadar no oceano azul de outra pessoa. E se você for a terceira, quarta ou quinta pessoa nesse nicho, as águas já estarão ficando sangrentas.
+
+Em um dos meus livros favoritos de todos os tempos, *Play Bigger* (Jogue para Ganhar), os autores definem o líder de um nicho ou categoria como um "rei da categoria". Esta é a empresa que é a grande jogadora dentro desse mercado. Os dados mostram que os reis da categoria geralmente abocanham 70 a 80 por cento dos lucros e do valor de mercado da categoria. Não é necessariamente o primeiro, mas o rei da categoria é aquele que foi o melhor profissional de marketing e ficou com a maior fatia do negócio. Historicamente, é quase impossível destronar um rei da categoria. Os outros tubarões que entram em sua categoria muitas vezes acabam lutando pelos 20 a 30 por cento das sobras que restam. Se você está tentando descobrir em qual nicho quer entrar, o melhor cenário é que você será um dos tubarões lutando pelas sobras de uma categoria existente, tornando a água sangrenta.
+
+Quando lançamos o ClickFunnels, havia muitas maneiras de podermos posicionar nossa empresa. Éramos um construtor de páginas de destino (*landing pages*) muito bom, mas já havia um rei da categoria no nicho de software para páginas de destino. Tínhamos um software de automação de marketing muito bom, mas também havia reis da categoria existentes nesse nicho. O mesmo valia para marketing por e-mail, testes A/B (*split testing*) e muito mais. Cada um desses nichos já tinha um rei da categoria. Então, criamos nossa própria nova categoria chamada "funis de vendas", o que nos deu a capacidade de nos tornarmos rapidamente o rei da categoria e abocanharmos a maior parte do mercado.
+
+[imagem]
+
+<h4 align="center">Qual nova categoria você pode criar e se tornar o seu rei?</h4>
+
+O seu objetivo é identificar os nichos no seu submercado e ver o que você pode criar que seja verdadeiramente novo.
+
+# SELEÇÃO E POSICIONAMENTO DE MERCADO
+
+Steve J. Larsen ministrou a maioria desses eventos comigo. Conforme as pessoas ficavam travadas ao entender os mercados, ele começou a desenvolver seus próprios frameworks para explicar melhor a seleção e o posicionamento de mercado, os quais ele compartilhará neste livro. Como ele diz, se você tiver um posicionamento de mercado correto, mesmo que tenha funis e habilidades de vendas de nível C ou D, é quase impossível falhar.
+
+# SEGREDOS DE SELEÇÃO DE MERCADO POR STEVE J. LARSEN
+
+## O mercado é um local, não uma pessoa:
+
+Para ilustrar esse ponto, vamos fingir que você é um pescador e mora nos arredores de uma grande vila. Você acorda, sai da sua cabana, coloca suas sandálias e pega uma cesta de peixes que vai vender no dia. Ao olhar para a vila, você vê uma encosta cheia de muitas outras cabanas. Sua família conta com você para vender esses peixes e, com a distância até a vila, há apenas tempo suficiente para você se instalar e vender seus peixes em um único lugar hoje.
+
+Então, para onde você leva sua cesta de peixes? Já fiz essa pergunta em muitos palcos agora, e a maioria das pessoas responde: "Você vai para onde há mais pessoas!"
+
+Isso mesmo! Você caminhará até um local onde muitas pessoas já têm o hábito de ir, também conhecido como mercado ou praça de mercado. Um mercado é um lugar onde compradores e vendedores se encontram e trocam bens e serviços.
+
+É um erro pensar que a internet é diferente desse exemplo. Enquanto cursava minha graduação em marketing, eu era comumente questionado: "Quem é o seu mercado-alvo?". No entanto, como meu exemplo da vila mostra agora, um mercado não é uma pessoa; é um local.
+
+Por exemplo, minha esposa e eu moramos em Boise, Idaho, a cerca de cinco quilômetros ao sul da sede do ClickFunnels. Várias vezes, acordamos em uma manhã de sábado, colocamos nossos três filhos no carro e dirigimos até o Mercado de Agricultores (*Farmers Market*) no centro de Boise.
+
+Percebeu o que eu disse? Nós fomos ao mercado de agricultores porque eu não sou o mercado. Eu sou um cliente dos sonhos para esses vendedores. O seu trabalho é primeiro saber quem é o seu cliente dos sonhos e depois descobrir para onde ele já vai para trocar dinheiro por produtos ou serviços (online ou offline). Ter clareza sobre quem é o seu cliente dos sonhos e onde ele já vai comprar é um marco importante e um atalho para criar um marketing eficaz para o seu negócio.
+
+Portanto, a pergunta não é "Quem é o seu mercado?". Em vez disso, a pergunta é: "Onde está o seu mercado e quem é o seu cliente dos sonhos que já vai para lá?"
+
+## Pescando no oceano vermelho:
+
+Todo oceano vermelho é um mercado cheio de pessoas que se reúnem em busca de soluções para um determinado problema. Se você está oferecendo uma nova maneira de as pessoas obterem esse resultado, não faz sentido ir pescar nesses oceanos vermelhos e atrair esses clientes para a sua nova categoria, o seu oceano azul? A primeira coisa que você precisa entender é que nem todo mundo no seu oceano vermelho vai vir até você, e tudo bem. Existem três grupos principais de pessoas em cada mercado, e vamos mirar em apenas um deles.
+
+## O primeiro grupo é o "Fanático".
+
+O Fanático acredita tanto no produto atual que usa que o logotipo poderia muito bem estar tatuado em sua testa. Tentar vender para os Fanáticos é como sentar para assistir ao Super Bowl com duas pessoas tentando convencer uma à outra de que o time delas é melhor, enquanto torcem por lados opostos. Ninguém ganha e as duas pessoas ficam com raiva.
+
+Depois de orientar milhares de empresas com seus funis e ofertas, posso dizer que um dos primeiros erros que costumo encontrar é que o texto de vendas é escrito para um Fanático. Eu sou um Fanático do ClickFunnels. Você não pode me convencer a mudar do ClickFunnels. Estou tão convencido da missão do ClickFunnels que você poderia muito bem colocar o logotipo no meu caixão.
+
+Eu adoro absolutamente quando alguém tenta me dizer para usar outra coisa por dois motivos. Primeiro, eu realmente não conheço nenhuma outra opção viável. E, segundo, eu adoro brigar com a pessoa que está tentando me fazer mudar.
+
+Agora veja, esse é o ponto. Quando você está escolhendo um mercado para servir, não tente vender para os Fanáticos desse mercado. É fútil e caro. Eles amam tanto o produto que usam que podem não conhecer muitas outras opções, mas gostariam de brigar com você de qualquer maneira.
+
+Você sabe que está tentando vender para um Fanático quando entra em uma guerra de recursos com a pessoa. Mudar um Fanático para um novo produto exige uma grande mudança de identidade.
+
+## O próximo grupo é o "Satisfeito".
+
+O Satisfeito usa o produto que comprou, mas não é apaixonado por ele como um Fanático. Eles tiveram sucesso suficiente com o produto para justificar mantê-lo, mas a dor de mudar para um novo produto pode parecer maior do que qualquer desconforto que possam estar enfrentando com o produto atual.
+
+Normalmente, a maioria das pessoas se encaixa nessa categoria. Elas estão satisfeitas, mas não são fanáticas. Você sabe que está tentando vender para um Satisfeito quando ele está comparando seus preços, pesquisando o valor de tudo na sua oferta ou adivinhando quanto tempo levaria para fazer a mudança para o seu produto. Mudar um Satisfeito para um novo produto exige um benefício significativo de preço ou valor.
+
+## O último grupo, e aquele em que mais nos concentramos, é o "Frustrado".
+
+O Frustrado também usa o produto que comprou, mas o odeia. O que antes era uma compra empolgante agora se tornou tão frustrante que eles estão ansiosos pelo próximo produto. Eles estão buscando ativamente um produto melhor que possa atender aos seus desejos. Eles têm o ciclo de vendas mais curto e muitas vezes estão procurando razões para lhe dar dinheiro antes mesmo de você terminar seu roteiro de vendas.
+
+Muitas vezes, eles podem não saber quais outros produtos existem e podem sentir que esgotaram todas as opções que conhecem. Este é o meu cliente dos sonhos porque, depois que eles compram, eles se movem como se estivessem famintos pelo meu produto, e isso torna o cumprimento da entrega mais agradável.
+
+Você sabe que está tentando vender para um Frustrado quando ele lista as coisas que odeia no produto atual sem que você pergunte. Mudar uma pessoa Frustrada para um novo produto exige encontrá-la, ganhar sua confiança e dar a ela uma pequena dose de educação.
+
+## Competitivo ou Complementar
+
+As ofertas que você cria irão competir ou complementar as coisas que já estão sendo oferecidas no mercado.
+
+### Competitivo:
+
+David Ogilvy foi um famoso publicitário que viveu durante o século XX e foi chamado de "o pai da publicidade". Na década de 1950, a Dove procurou David Ogilvy e o contratou para vender seu novo sabonete. Relutante no início, David concordou em ajudar a Dove quando soube que a empresa iria vender seu novo sabonete com um posicionamento de que ele não gostava.
+
+Depois de fazer sua própria pesquisa e escrever os anúncios, David ajudou a Dove a lançar seu novo produto com o slogan: "Não é sabonete; é Dove!". Espere um minuto, mas a Dove é sabonete. Então, por que isso funciona? Com uma mensagem de uma única frase, a Dove saiu do mercado competitivo de "sabonetes" e vendeu seu produto de volta exatamente para aqueles que estavam no mercado de sabonetes. "Não é sabonete; é Dove!". A Dove estava atirando pedras no mercado geral de sabonetes e dizendo a todos lá dentro para deixarem aquele local e irem para a Dove.
+
+A próxima coisa que David fez foi dizer a todos que a Dove é, antes de tudo, um hidratante, mas que, por acaso, também limpa como um sabonete como benefício adicional. Assim, você ainda obtém o benefício do sabonete, mas está comprando um hidratante. Muito esperto.
+
+O posicionamento de mercado é como as pessoas o encaixam no que já conhecem. As pessoas já conheciam o sabonete, então David simplesmente ancorou sua mensagem no que as pessoas já conheciam e depois atirou pedras nele. Isso é chamado de posicionamento de mercado competitivo.
+
+### Complementar:
+
+No início do século XX, ninguém bebia suco de laranja porque suco de laranja não era uma coisa. Albert Lasker, apelidado de "o pai da publicidade moderna", o inventou. A California Fruit Growers Exchange entrou em contato com Albert com um grande problema. Por algum motivo naquele ano, as laranjeiras estavam superproduzindo e havia tantas laranjas que a empresa estava cortando suas próprias árvores.
+
+A tarefa de Albert era aumentar drasticamente o consumo de laranjas.
+
+A primeira coisa que Albert fez foi mudar o nome da empresa para Sunkist. Depois de descobrir que as pessoas podiam beber o suco das laranjas e que um único copo levava de duas a três laranjas para ser enchido, Albert partiu para fazer com que beber suco de laranja fosse percebido como parte de um café da manhã americano saudável.
+
+Então, sua empresa inventou o "espremedor de suco de laranja" (que provavelmente está na sua cozinha agora) e fez uma oferta. Por 10 centavos, você podia comprar o espremedor de laranja e ainda receber um pacote de laranjas de graça! Funcionou. O estoque voou das prateleiras e a Sunkist foi salva. A campanha "Beba uma Laranja" ainda é usada hoje.
+
+Você vê como Albert usou o posicionamento de mercado complementar para vender seu novo espremedor de laranja? Ele criou um produto que complementava os produtos existentes no mercado, em vez de atirar pedras nos produtos existentes no mercado, como David Ogilvy fez com o sabonete.
+
+Mencionei isso porque muitos acreditam que a única maneira de criar um novo mercado é atirar pedras no mercado existente, o que não é verdade de forma alguma.
+
+Você consegue ver como esses princípios básicos de posicionamento de mercado podem ajudar? Entender que o mercado é um local e que você está pescando em oceanos vermelhos por pessoas que estão frustradas com sua oportunidade atual, apresentando a elas uma nova oportunidade, é a grande ideia.
+
+Este foi um dos grandes segredos do sucesso do ClickFunnels no sexto lançamento. Russell posicionou o ClickFunnels para ser competitivo com o mercado de sites. O roteiro de vendas agora chamava os usuários frustrados de sites para dizer a eles que havia uma maneira melhor, capturando-os no meio de sua frustração. Um slogan do novo roteiro alertava os usuários frustrados de sites sobre "a morte dos sites" e ensinava o quão ineficazes os sites são em comparação com um funil de vendas.
+
+Bons slogans de posicionamento de mercado não apenas declaram como você se encaixa no que os clientes já conhecem, eles criam uma mensagem de vendas muito natural: "Não é sabonete; é Dove." "Não é um site; é um funil" foi dito de forma competitiva ao mercado de sites, e o mercado de sites construiu o mercado de funis.
+
+Indiscutivelmente, o ClickFunnels mudou o mundo ao devolver o poder da tecnologia aos empreendedores, mas sem a exigência de serem "nerds de tecnologia". Graças ao ClickFunnels, os empreendedores voltam a ser profissionais de marketing.
+
+Os produtos que não dão certo geralmente ainda são ótimos produtos. Esse não é o problema. O problema é que os proprietários de empresas muitas vezes não fazem ideia de para quem estão vendendo, de onde as pessoas já estão comprando e que tipo de posicionamento de mercado usar. Escolher um cliente dos sonhos, selecionar um mercado e desenvolver seu posicionamento de mercado lhe dará uma base muito maior do que eu jamais entendi durante minhas primeiras 34 tentativas de produto. Não foi até eu aprender a ser um profissional de marketing com as lições que descrevi que minha carteira começou a ganhar peso. Como Joe Polish disse: "Não há relação entre ser bom e ser pago. No entanto, há uma enorme relação entre ser bom em marketing e ser pago."
