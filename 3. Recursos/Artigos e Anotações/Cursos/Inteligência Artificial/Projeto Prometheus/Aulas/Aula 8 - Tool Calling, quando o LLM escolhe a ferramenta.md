@@ -1,4 +1,10 @@
 ---
+tipo:
+  - conceito
+dominio:
+  - IA
+Subdominio:
+  - agentic-archtecture
 tags:
   - IA
   - programação
@@ -373,7 +379,7 @@ Isso é exatamente o Prometheus-Editor.
 
 ---
 
-# Laboratório da Aula 7
+# Laboratório da Aula 8
 
 Vamos evoluir nosso projeto.
 

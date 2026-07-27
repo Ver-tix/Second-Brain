@@ -1,10 +1,14 @@
 ---
+dominio:
+  - IA
+tipo:
+  - MOC
+author:
+  - Caio Emanuel
 tags:
   - IA
   - programação
   - inovação
-author:
-  - Caio Emanuel
 ---
 # Artigos (Resumos) 
 ### Módulo 1

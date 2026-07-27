@@ -1,5 +1,8 @@
 ---
-tipo: fonte
+tipo:
+  - conceito
+dominio: IA
+Subdominio: agent-frameworks
 tags:
   - IA
   - programação
