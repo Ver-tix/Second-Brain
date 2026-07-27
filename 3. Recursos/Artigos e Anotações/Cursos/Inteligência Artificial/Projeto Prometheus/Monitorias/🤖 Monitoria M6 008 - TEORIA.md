@@ -83,6 +83,198 @@ Depois da sua resposta, faremos o laboratório exatamente como nas outras aulas:
 7. ✅ CHANGELOG do Laboratório 8.
 
 ---
-minha repsosta: `Tool decision decide qual ferramenta é necessária para o trabalho; tool calling chama a ferramenta efetivamente`
+==minha resposta:== 
+`Tool decision decide qual ferramenta é necessária para o trabalho; tool calling chama a ferramenta efetivamente`
 
-Profesor: 
+==Professor: ==
+Sua resposta faz sentido, mas ela responde **o que acontece** e não **onde a decisão está**. E essa é justamente a pergunta do professor.
+
+Vou conduzir você até a resposta.
+
+---
+
+## Aula 7
+
+Quem decide?
+
+```
+Usuário
+    │
+    ▼
+ToolDecision
+    │
+    ▼
+"calculator"
+```
+
+Quem tomou a decisão?
+
+**O código Python.**
+
+Mais especificamente:
+
+```
+if "quanto é" in question:
+    return "calculator"
+```
+
+A inteligência da decisão está escrita por você.
+
+---
+
+## Aula 8
+
+Agora imagine a mesma pergunta:
+
+> "Qual é a raiz quadrada de 144?"
+
+Quem decide?
+
+Não será mais:
+
+```
+if ...
+```
+
+Será o próprio modelo.
+
+Algo conceitualmente assim:
+
+```
+LLM
+
+↓
+
+"Para responder isso, preciso chamar CalculatorTool."
+```
+
+Depois ele devolve uma chamada estruturada:
+
+```
+{
+  "tool": "calculator",
+  "arguments": {
+    ...
+  }
+}
+```
+
+---
+
+# Então, qual é a diferença arquitetural?
+
+A resposta que eu esperava de você seria algo próximo disto:
+
+> **No ToolDecision, a lógica de decisão está codificada pelo desenvolvedor, através de regras em Python. No Tool Calling, a decisão deixa de estar no código e passa a ser tomada dinamicamente pelo próprio LLM, que escolhe quando e qual ferramenta utilizar.**
+
+Essa é a grande mudança.
+
+Não é simplesmente:
+
+> "Antes decidia e agora chama."
+
+Porque quem chama a ferramenta continua sendo o sistema.
+
+O que muda é **quem tomou a decisão**.
+
+---
+
+## Resumindo em uma tabela
+
+|ToolDecision|Tool Calling|
+|---|---|
+|A decisão está no código Python.|A decisão está no LLM.|
+|O desenvolvedor escreve as regras.|O modelo raciocina sobre qual ferramenta usar.|
+|Baseado em `if`, `startswith`, palavras-chave.|Baseado na compreensão da linguagem natural.|
+|Pouco flexível.|Muito mais flexível e escalável.|
+
+---
+
+## Nota
+
+Eu daria **8,5/10** para sua resposta.
+
+Você identificou corretamente que o Tool Calling está relacionado ao uso efetivo das ferramentas, mas faltou enxergar o aspecto mais profundo da arquitetura: **a migração da camada de decisão do código para o modelo**.
+
+E essa ideia é extremamente importante. Na verdade, eu diria que ela é um dos conceitos centrais do Módulo 6.
+
+---
+
+# Agora sim, vamos ao laboratório 🚀
+
+A primeira etapa da Aula 8 é modificar o `LLMService` para que ele deixe de fazer apenas:
+
+```
+response = client.responses.create(...)
+```
+
+e passe a informar ao modelo:
+
+> "Estas são as ferramentas que você pode usar."
+
+Essa é a primeira vez que o Prometheus vai **anunciar suas ferramentas** ao LLM.
+
+Essa mudança é pequena em código, mas enorme em arquitetura.
+
+---
+# EATPA 1 - ENTENDER O OBJETIVO DA AULA
+
+Antes de escrever uma linha de código, quero que você fixe uma ideia.
+
+Até agora, nosso `LLMService` fazia algo assim:
+
+```text
+LLM
+
+↓
+
+Pergunta
+
+↓
+
+Resposta
+```
+
+Agora ele fará:
+
+```text
+LLM
+
+↓
+
+Pergunta
++
+Lista de ferramentas disponíveis
+
+↓
+
+O modelo decide se quer usar alguma delas
+
+↓
+
+Resposta ou Tool Call
+```
+
+Perceba que **não vamos alterar o `ToolManager` nem a `CalculatorTool`**.
+
+<h4 align="center">Vamos alterar apenas <b>a forma como conversamos com o modelo</b>.</h4>
+
+---
+
+# ETAPA 2 — ABRIR O ARQUIVO
+
+Abra:
+
+```text
+app/services/llm_service.py
+```
+
+Não altere nada ainda.
+
+---
+
+## Quero ver o código atual
+
+Cole aqui o conteúdo completo do seu `llm_service.py`.
+
+Vamos modificá-lo juntos, linha por linha, para que você entenda exatamente **por que cada alteração existe**, em vez de apenas copiá-la. Isso será importante porque esta aula introduz um conceito que você verá em praticamente todos os frameworks modernos de agentes (OpenAI Agents SDK, LangGraph, AutoGen, Semantic Kernel, etc.).
