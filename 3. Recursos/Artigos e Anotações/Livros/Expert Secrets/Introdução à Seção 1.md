@@ -6,6 +6,9 @@ tags:
   - branding
 dominio:
   - marketing
+  - branding
+Subdominio:
+  - branding-pessoal
 author:
   - Russell Brunson
 ---
