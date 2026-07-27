@@ -154,7 +154,7 @@ Todo mundo ganha **200 milhões de tokens grátis** nessa geração, e usar em l
 
 ## 4. Fazendo a conta pro seu vault
 
-$$\text{826 notas} × \~ \text{600 tokens por nota} ≈ \text{495.600 tokens no total}.$$
+$$\text{826 notas} × \sim \text{600 tokens por nota} ≈ \text{495.600 tokens no total}.$$
 
 Reescanear o vault **inteiro**, mesmo no modelo mais caro (voyage-4-large), custa menos de **6 centavos de dólar**. Isso cabe dentro dos 200 milhões grátis centenas de vezes. Na prática: **o custo de embedding é irrelevante** pra você — o dinheiro de verdade vaza em outro lugar (geração de texto, que você já vem otimizando).
 
