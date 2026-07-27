@@ -381,6 +381,10 @@ Isso é exatamente o Prometheus-Editor.
 
 # Laboratório da Aula 8
 
+## [[🤖 Monitoria M6 008 - TEORIA]] 
+## [[🤖 Monitoria M6 008 - PRÁTICA]]
+## [[🛠 Desafio M6 008]] 
+
 Vamos evoluir nosso projeto.
 
 ## Objetivo
