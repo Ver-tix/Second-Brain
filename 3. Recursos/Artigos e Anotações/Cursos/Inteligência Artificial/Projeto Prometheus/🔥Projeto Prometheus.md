@@ -116,7 +116,7 @@ tags:
 - [[Aula 6 - Feramentas (Tools)]]
 - [[Aula 7 - O LLM como Tomador de Decisão]]
 - [[Aula 8.1 - Tool Calling, quando o LLM escolhe a ferramenta]]
-- [[Aula 8.2 - Descobrindo o Tool Calling]]
-- [[]]
+- [[Aula 8.2 - Tool Calling na Prática - Quando o LLM Decide Usar uma Ferramenta]]
+- [[3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Aula 8.3 - ]]
 
 3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas
