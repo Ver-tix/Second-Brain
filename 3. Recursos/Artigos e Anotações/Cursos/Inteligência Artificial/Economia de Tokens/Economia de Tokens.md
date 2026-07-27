@@ -3,6 +3,12 @@ tags:
   - IA
   - programação
   - inovação
+tipo:
+  - MOC
+dominio:
+  - IA
+Subdominio:
+  - token-economy
 ---
 # Sumário
 ## Teoria:
