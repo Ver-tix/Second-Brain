@@ -8,12 +8,11 @@ tipo:
   - MOC
 dominio:
   - marketing
-Subdominio:
 ---
 # Sumário
 ---
 ## Seção 1 - O Segredo dos Funis de Venda
-- [[3. Recursos/Artigos e Anotações/Livros/DotCom Secrets/Introdução à Seção 1]]
+- [[3. Recursos/Artigos e Anotações/Livros/DotCom Secrets/Introdução à Seção 1|Introdução à Seção 1]]
 - [[Segredo 1 - A Fórmula Secreta]]
 - [[Segredo 2 - Gancho História e Oferta]]
 - [[Segredo 3 - A Escada de Valores]]
