@@ -91,7 +91,7 @@ Quando alguém investe no meu programa Inner Circle de US$ 50.000, esse dinheiro
 
 As pessoas vão pesar a probabilidade de sucesso e status elevado contra o risco de fracasso e o custo desse fracasso. Seu trabalho como especialista é carregar o lado da balança do status elevado e diminuir o risco de fracasso. Você pode fazer isso criando uma oferta incrível e minimizando o risco com coisas como garantias de devolução do dinheiro, reversões de risco e opções "feito para você". A chave para fazer uma venda está 100% ligada a esse conceito de status.
 
-!0FF22159-066E-42C8-9AE0-F4D38F7A2879.heic
+![[Pasted image 20260727124529.png]]
 
 Quando as pessoas olham para a sua nova oportunidade, essa é a única pergunta real que estão tentando responder. Gosto de pensar sobre qual é o status percebido delas e, em seguida, tentar garantir que eu adicione o máximo possível de coisas que aumentariam seu status e remova o máximo possível de coisas da minha oferta que diminuiriam seu status. Então, você provavelmente pode ver por que essa é a maior razão pela qual não vendemos ofertas de melhoria. Para que alguém diga sim a isso, ela tem que admitir más decisões passadas e criar uma enorme diminuição de status. Então, você é forçado a lutar uma batalha difícil que poucas pessoas vencem.
 
