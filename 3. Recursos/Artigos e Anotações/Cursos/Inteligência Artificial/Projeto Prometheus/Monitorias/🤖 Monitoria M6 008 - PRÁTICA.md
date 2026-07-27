@@ -923,4 +923,72 @@ Mas quero seguir exatamente o ritmo da aula.
 
 **O professor, na Aula 8, já pede para definir os parâmetros (`parameters`, `properties`, `required`) da função `calculator`, ou nesta primeira implementação ele apenas apresenta `type`, `name` e `description`?**
 
-Quero acompanhar fielmente o material, sem adiantar conteúdo. memcite
+Quero acompanhar fielmente o material, sem adiantar conteúdo. 
+
+### ==Resposta do Professor Principal:==
+Eis a resposta do professor sobre a aula 8:
+"""
+Excelente pergunta do monitor. E a resposta é:
+
+> **Não. Nesta primeira implementação da Aula 8, ainda não.**
+
+Ele deve acompanhar exatamente esta progressão:
+
+#### Aula 8 (primeiro contato com Tool Calling)
+
+Apresentamos apenas o conceito de que uma ferramenta possui uma identidade:
+
+```python
+{
+    "type": "function",
+    "name": "calculator",
+    "description": "Executa operações matemáticas básicas."
+}
+```
+
+O objetivo pedagógico desta aula é responder apenas à pergunta:
+
+> **"Como o LLM sabe que uma ferramenta existe?"**
+
+Ainda **não** queremos aprofundar em como o LLM sabe **quais argumentos** enviar.
+
+---
+
+#### Aula seguinte (ou segunda parte de Tool Calling)
+
+Só então introduzimos:
+
+* `parameters`
+* `properties`
+* `required`
+* JSON Schema
+* validação de argumentos
+
+A pergunta passa a ser:
+
+> **"Como o LLM chama corretamente a ferramenta?"**
+
+Essa é uma etapa conceitualmente diferente da descoberta da ferramenta.
+
+---
+
+#### Por que separar?
+
+Porque há dois conceitos distintos:
+
+1. **Descoberta da ferramenta**
+
+   * nome
+   * descrição
+   * tipo
+
+2. **Contrato da ferramenta**
+
+   * parâmetros
+   * tipos
+   * obrigatórios
+   * validação
+
+Misturar ambos na primeira aula aumenta a carga cognitiva sem necessidade. Como combinamos para o Projeto Prometheus, queremos que cada laboratório introduza apenas um conceito novo de cada vez, construindo a arquitetura em camadas.
+
+---
