@@ -101,3 +101,112 @@ O roteiro da Ponte de Epifania é uma adaptação das Duas Jornadas do Herói qu
 **Fase #5: Realização e Transformação**
 13. QUAL resultado final você realizou ou alcançou? (Desejos Externos)
 14. COMO você se transformou durante sua jornada? (Desejos Internos)
+# O ROTEIRO DA PONTE DE EPIFANIA
+
+## A História de Origem
+
+### **História de Origem?**
+
+Qual é a história de origem que nos dá um interesse pessoal em sua jornada? A maioria das boas histórias começa com a história de origem. Para uma Ponte de Epifania, isso significa lembrar onde você estava antes de ter seu grande "aha". Volte àquele tempo e lugar e lembre-se das circunstâncias que o fizeram começar a jornada do seu herói. Geralmente, essa história de origem começa mais ou menos no mesmo ponto em que seu ouvinte está em sua vida agora.
+
+Eles desejam o mesmo resultado que você já alcançou. Mas quando eles o veem como o especialista e veem o que você conquistou, pode ser difícil para eles se identificarem com você e confiarem em você. É por isso que você deve descer do seu posicionamento como especialista e voltar ao início, quando você estava lutando com as mesmas coisas que eles. Quando eles veem que você já esteve onde eles estão agora, terão fé de que você pode levá-los aonde querem ir.
+
+### **Desejo?**
+
+É aqui que você fala sobre o que é que você mais deseja. Como você aprendeu anteriormente, seu desejo geralmente é vencer, recuperar, escapar ou parar.
+
+### **(Externo)**
+
+A luta externa é o que impulsiona a jornada de realização — a primeira jornada do herói. As pessoas geralmente estão dispostas a compartilhar suas lutas externas: "Estou tentando perder peso" ou "Quero abrir minha própria empresa e ganhar algum dinheiro."
+
+### **(Interno)**
+
+A luta interna é a jornada de transformação do medo à coragem — a segunda jornada do herói. Às vezes, é difícil compartilhar ou até mesmo saber quais são as lutas internas reais. Mas se você estiver disposto e for capaz de se tornar vulnerável e compartilhar suas lutas internas, isso construirá rapport mais rápido do que qualquer outra coisa que você possa fazer. Por quê? Porque o seu público também compartilha dessas mesmas lutas internas. A maioria das pessoas nunca fala sobre elas, mas quando o público ouve você se tornar vulnerável e expor com o que você está realmente lutando, eles formarão uma conexão quase instantânea com você.
+
+Quando você chega ao final da história, normalmente você resolveu as lutas externas e realizou o que o herói se propôs a fazer. Mas para que sua história seja verdadeiramente impactante, o herói precisa ter feito mais do que apenas alcançar seu objetivo. Ele precisa ter se tornado alguém diferente no processo.
+
+### **Veículo antigo?**
+
+A história de origem constrói rapport com o personagem e, em seguida, leva o ouvinte ao momento de frustração que faz seu herói começar sua jornada. As chances são de que esta não foi a primeira vez que você tentou alcançar esse desejo ou resultado. Fale a eles sobre os outros veículos que você tentou e que não funcionaram para você. Esse muro é a frustração que você sentiu por causa da oportunidade atual que você tem usado para tentar realizar seus desejos. Essa oportunidade antiga não está funcionando e é a razão pela qual você (assim como seus ouvintes) está disposto a embarcar em uma jornada para tentar algo novo.
+
+## A Jornada/O Conflito
+
+Os primeiros 25 por cento de qualquer história são gastos com o herói no "mundo comum". Durante esse tempo, passamos a conhecê-lo e a nos importar com ele, descobrimos quais são os seus desejos e aprendemos quais coisas ele tentou no passado para obter o resultado que deseja.
+
+Esta próxima fase da história é onde eles mudam seu desejo de algo que *deveriam* fazer para algo que *devem* fazer. Geralmente, algo acontece que faz o herói fazer algo drasticamente diferente e sair de onde está confortável para começar uma jornada rumo ao desconhecido.
+
+### O chamado?
+
+Na sua história, é aqui que algo acontece que o faz embarcar na jornada. Pode ter sido um sentimento ou uma impressão que você teve, algo que você aprendeu ou um evento ao qual você foi. Algo aconteceu que o fez decidir tentar novamente alcançar seu desejo, apesar dos fracassos que teve no passado.
+
+### Vilão?
+
+Ao começar essa jornada, quem ou o que são as coisas que estão lutando contra você? Para a sua história, os vilões geralmente são crenças falsas que o estão segurando ou sistemas de crenças que estão prejudicando o mercado em que você está. Esta é a pessoa ou as ideias contra as quais você estará atirando pedras.
+
+### E se?
+
+Se você não sabe o que está em jogo, é difícil se empolgar com o resultado. Se você não tiver sucesso desta vez, o que isso significa? Qual é o pior cenário se você não alcançar o que está procurando?
+
+## Nova Oportunidade
+
+Nesta terceira fase da história, o herói descobre a nova oportunidade. Seu objetivo nesta fase é ajudar seus ouvintes a sentirem como você se sentiu quando experimentou a epifania pela primeira vez.
+
+### Guia?
+
+O guia pode ser uma pessoa ou pode ser uma inspiração de Deus. Às vezes, para mim, a epifania vem diretamente de algo que alguém me disse e, outras vezes, é uma ideia que surge enquanto avanço em minha jornada. Quem é o guia que lhe deu essa epifania?
+
+### Epifania?
+
+Qual foi o grande momento "aha" que lhe deu a peça que faltava? O objetivo é fazer com que seus ouvintes tenham o mesmo "aha" que você teve enquanto conta a história.
+
+### Nova oportunidade?
+
+A partir dessa epifania, qual foi a coisa tangível que lhe foi dada ou que você decidiu criar? É aqui que ocorre a troca de oportunidade, na qual você muda dos veículos antigos que usou no passado para tentar obter o resultado desejado para este novo veículo.
+
+## O Framework
+
+Agora que você descobriu a nova oportunidade, é aqui que você constrói e testa seus frameworks para ver se a nova oportunidade é aquela que vai levá-lo ao resultado desejado.
+
+### Estratégia?
+
+Qual é o plano que você montou para tentar aplicar essa nova oportunidade? Quais são os frameworks que você construiu com base no que aprendeu com seu guia?
+
+### Seus resultados?
+
+Quais foram os resultados que você obteve ao aplicar esses frameworks? Você é a cobaia humana; compartilhe esta parte da história para que possamos entender como esses frameworks também poderiam funcionar para nós.
+
+### Resultados de outros?
+
+Depois de obter resultados para si mesmo, esses frameworks funcionaram para outras pessoas? Se sim, por favor, conte-nos os estudos de caso e os resultados que outras pessoas também tiveram com essa nova oportunidade.
+
+## Realização e Transformação
+
+Esta é a última fase da história. É a recompensa para o ouvinte que agora embarcou nessa jornada com você.
+
+Realização?
+
+Quando você começou essa jornada, você se propôs a alcançar um resultado desejado. Compartilhe o que aconteceu depois, para que as pessoas possam ver os resultados que você obteve com a nova oportunidade.
+
+Transformação? 
+
+Aqui você fala sobre quem você se tornou através desse processo. Esta é a resolução de suas lutas internas — a morte da identidade do herói e o renascimento de seus novos sistemas de crenças.
+
+Como você verá no próximo segredo, o objetivo das boas histórias é quebrar velhos padrões de crenças e reconstruí-los com novos. Quando você cria suas histórias dessa maneira, está ajudando as pessoas a se libertarem de seus antigos sistemas de crenças e a criarem um novo futuro.
+
+# O ROTEIRO DA PONTE DE EPIFANIA DE 30 SEGUNDOS
+
+Há muitas vezes em que você não terá a comodidade de gastar 10 ou 20 minutos contando uma história completa da Ponte de Epifania. Outras vezes, como no framework do Webinar Perfeito, você contará uma grande história da Ponte de Epifania, seguida de muitas histórias menores para quebrar rapidamente quaisquer outras crenças falsas que não foram abordadas pela história principal. Quando faço essas versões mais rápidas da minha história, não respondo a todas as 14 perguntas, mas me certifico de cobrir cada uma das cinco fases. Por exemplo, aqui está como eu poderia contar minha história da pistola de batata se tivesse apenas 30 segundos:
+
+**História de Origem:** Eu queria ganhar dinheiro para sustentar minha esposa.
+
+**Jornada:** Comecei a vender DVDs de pistola de batata, mas depois fui bloqueado pelo Google.
+
+**Nova Oportunidade:** Mike Filsaime me falou sobre um upsell, e eu descobri os funis.
+
+**Framework:** Construí frameworks de funis para fazer minhas empresas crescerem.
+
+**Realização:** Ganhei uma tonelada de dinheiro, e minha esposa se aposentou para poder ter filhos e ser uma mãe que fica em casa.
+
+Na maioria das vezes, suas histórias cobrirão apenas essas cinco fases. Quando o tempo permitir, você pode se aprofundar mais, respondendo a cada uma das perguntas sob cada fase.
+
+Agora que você entende a estrutura da história e criou sua primeira história da Ponte de Epifania, na próxima seção vamos nos aprofundar nas crenças falsas que as pessoas têm sobre a sua nova oportunidade e, em seguida, olhar para as histórias que precisamos criar para quebrar esses padrões de crenças falsas.
