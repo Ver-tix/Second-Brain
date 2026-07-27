@@ -210,3 +210,4 @@ Há muitas vezes em que você não terá a comodidade de gastar 10 ou 20 minutos
 Na maioria das vezes, suas histórias cobrirão apenas essas cinco fases. Quando o tempo permitir, você pode se aprofundar mais, respondendo a cada uma das perguntas sob cada fase.
 
 Agora que você entende a estrutura da história e criou sua primeira história da Ponte de Epifania, na próxima seção vamos nos aprofundar nas crenças falsas que as pessoas têm sobre a sua nova oportunidade e, em seguida, olhar para as histórias que precisamos criar para quebrar esses padrões de crenças falsas.
+
