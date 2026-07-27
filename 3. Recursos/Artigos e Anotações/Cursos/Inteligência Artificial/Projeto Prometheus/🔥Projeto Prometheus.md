@@ -111,7 +111,7 @@ author:
 - [[Aula 5 - Memória de Conversa]]
 - [[Aula 6 - Feramentas (Tools)]]
 - [[Aula 7 - O LLM como Tomador de Decisão]]
-- [[]]
+- [[Aula 8 - Tool Calling, quando o LLM escolhe a ferramenta]]
 - [[]]
 - [[]]
 
