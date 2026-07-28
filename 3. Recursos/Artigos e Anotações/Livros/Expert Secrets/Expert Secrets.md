@@ -35,7 +35,7 @@ author:
 - [[Segredo 12 - O Grande Dominó]]
 - [[Segredo 13 - Os Três Segredos]]
 - [[Segredo 14 - Empilhamento e Fechamento]]
-- [[Segredo 15 - Fechamento de Testes]]
+- [[Segredo 15 - Fechamento Experimentais]]
 
 ## Seção 4: Tornando-se o Guia do Seu Cliente dos Sonhos
 - [[Introdução à Seção 4]]
