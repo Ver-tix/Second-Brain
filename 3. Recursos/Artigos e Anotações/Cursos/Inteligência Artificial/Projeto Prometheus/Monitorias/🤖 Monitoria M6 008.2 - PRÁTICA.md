@@ -105,7 +105,7 @@ Como estamos estudando arquitetura e não "tentativa e erro", a próxima coisa q
 Essa é exatamente a postura de um engenheiro: primeiro observar a estrutura dos dados, depois escrever a lógica que os interpreta. Isso evita criar código baseado em suposições.
 
 ---
-# ETAPA 2 - INSPECIONAR O OBJETO `Response`
+# ETAPA 2.1 - INSPECIONAR O OBJETO `Response`
 
 Até agora nós sempre fizemos:
 
@@ -239,7 +239,7 @@ A implementação exata dessa detecção depende da estrutura do objeto retornad
 
 ---
 
-# ETAPA 3 — ALTERAR O CONTRATO DO `LLMService`
+# ETAPA 2.2 — ALTERAR O CONTRATO DO `LLMService`
 Até hoje ele fazia:
 
 ```Python
@@ -426,11 +426,85 @@ class LLMService:
 ## Passo 2 - Atualizar o `MentorAgent`
 Troque a parte final do método `ask()` por:
 ```Python
-response = self.llm_service.generate(prompt) 
+response = self.llm_service.generate(prompt)
+ 
 if response["type"] == "text": 
 	self.memory.add_assistant_message(response["content"]) 
 	return response["content"] 
 
 elif response["type"] == "tool_call": 
 	return self.tool_manager.calculate(response["content"])
+```
+
+### O que acabamos de fazer?
+
+Antes:
+
+```
+LLMService
+    ↓
+String
+```
+
+Agora:
+
+```
+LLMService
+    ↓
+Objeto padronizado
+
+↓
+
+"type" == "text"
+
+ou
+
+"type" == "tool_call"
+```
+
+**Ainda não detectamos Tool Calls reais.**
+
+Mas a arquitetura já está pronta para que, na Aula 8.3, a única mudança seja trocar:
+
+```Python
+return {
+    "type": "text",
+    "content": response.output_text
+}
+```
+
+pela lógica real de:
+
+```Python
+if veio_tool_call:
+    ...
+else:
+    ...
+```
+
+Ou seja, quando chegar a Aula 8.3, praticamente **não precisaremos mexer no `MentorAgent`**. A evolução ficará concentrada no `LLMService`, exatamente como o professor está construindo o curso.
+
+---
+# ETAPA 3 
+O próprio professor deu uma dica muito importante:
+
+> "Nesta aula, você pode assumir um cenário simplificado para a execução."
+
+Isso significa que **não precisamos implementar o Tool Calling real da OpenAI ainda**. Vamos apenas preparar o fluxo.
+
+No `MentorAgent`, o código fica assim:
+```Python
+response = self.llm_service.generate(prompt)
+
+if response["type"] == "text":
+    self.memory.add_assistant_message(response["content"])
+    return response["content"]
+
+elif response["type"] == "tool_call":
+    tool_name = response["tool"]
+    tool_input = response["input"]
+
+    if tool_name == "calculator":
+        result = self.tool_manager.calculate(tool_input)
+        return str(result)
 ```
