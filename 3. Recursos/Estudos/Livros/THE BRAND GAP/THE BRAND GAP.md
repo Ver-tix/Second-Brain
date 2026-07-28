@@ -6,7 +6,7 @@ author:
   - Marty Neumeier
 ---
 # Sumário
-- [[3. Recursos/Estudos/Livros/THE BRAND GAP/Introdução]]
+- [[3. Recursos/Estudos/Livros/THE BRAND GAP/Capítulos/Introdução]]
 - [[Disciplina 1 - Diferencie]]
 - [[Disciplina 2 - Colabore]]
 - [[Disciplina 3 - Inove]]
