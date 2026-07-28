@@ -12,7 +12,7 @@ dominio:
 # Sumário
 ---
 ## Seção 1 - O Segredo dos Funis de Venda
-- [[3. Recursos/Estudos/Livros/DotCom Secrets/Introdução à Seção 1|Introdução à Seção 1]]
+- [[3. Recursos/Estudos/Livros/DotCom Secrets/Seção 1/Introdução à Seção 1|Introdução à Seção 1]]
 - [[Segredo 1 - A Fórmula Secreta]]
 - [[Segredo 2 - Gancho História e Oferta]]
 - [[Segredo 3 - A Escada de Valores]]
@@ -30,14 +30,14 @@ Simples, possui apenas dois estágios - Página de Geração (Squeeze), e Págin
 - [[Segredo 9 - Funil de Enquete (Survey Funnel)]]
 - [[Segredo 10 - Funil de Summit]]
 ### Sub-Seção 2 - Funis de Unboxing
-- [[3. Recursos/Estudos/Livros/DotCom Secrets/Introdução]]
+- [[Introdução à Seção 2, Sub-seção 2]]
 - [[Segredo 11 - Funil de Livros]]
 - [[Segredo 12 - Funil de Carrinho de Compra]]
 - [[Segredo 13 - Funil de Desafio]]
 ### Sub-Seção 3 - Funis de Apresentação
 Quanto mais subimos na Escada de Valores, mais precisamos aumentar o valor percebido do que nós ofertamos, e isso se faz ao criar apresentações de venda. A meta é educar a pessoa do problema que eles têm, quebrar falsas crenças que os detém de continuar caminhando com você, e fazê-los tomar uma ação agora
 - [[Segredo 14 - Funil de Video Sales Letter (VSL)]]
-- [[Segredo15 - Funil de Webinário]]
+- [[Segredo 15 - Funil de Webinário]]
 - [[Segredo 16 - Funil de Lançamento]]
 ### Sub-Seção 4 - Funis de Telefone Back-End
 Aqui o ticket dos produtos nem tem limite!!
