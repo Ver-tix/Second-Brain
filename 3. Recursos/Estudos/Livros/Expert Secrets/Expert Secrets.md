@@ -23,7 +23,7 @@ author:
 - [[Segredo 6 - Causa baseada no Futuro (Sua Causa)]]
 ---
 ## Seção 2: Criando Crenças
-- [[Introdução à Seção 2|Introdução à Seção 2]]
+- [[3. Recursos/Estudos/Livros/Expert Secrets/Capítulos/Seção 2 - Criando Crenças/Introdução à Seção 2|Introdução à Seção 2]]
 - [[Segredo 7 - A Ponte da Epifania]]
 - [[Segredo 8 - As Duas Jornadas do Herói]]
 - [[Segredo 9 - O Script da Ponte da Epifania]]
