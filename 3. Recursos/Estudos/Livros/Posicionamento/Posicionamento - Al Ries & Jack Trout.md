@@ -1,11 +1,15 @@
 ---
-tags:
-  - marketing
+tipo:
+  - fonte
+dominio:
   - branding
-  - promoção
+Subdominio:
+  - branding-posicionamento
 author:
   - Al Ries
   - Jack Trout
+tags:
+  - branding
 ---
 
 ---
