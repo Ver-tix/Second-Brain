@@ -106,8 +106,8 @@ Essas estatísticas são assustadoras. Mas, com uma taxa global de fracasso de n
 
 # A Boa Notícia: Os Fracassos de Monetização de Inovação Vêm em Apenas Quatro Variedades
 
-1. **Choque de recursos (Feature shock):** amontoar muitos recursos em um único produto — às vezes até recursos indesejados — cria um produto que não ressoa totalmente com os clientes e muitas vezes tem um preço excessivo.
-2. **Subvalorização (Minivation):** uma inovação que, apesar de ser o produto certo para o mercado certo, tem um preço muito baixo para atingir seu potencial total de receita.
+1. **Choque de componentes (Feature shock):** amontoar muitos recursos em um único produto — às vezes até recursos indesejados — cria um produto que não ressoa totalmente com os clientes e muitas vezes tem um preço excessivo.
+2. **Minivação (Minivation):** uma inovação que, apesar de ser o produto certo para o mercado certo, tem um preço muito baixo para atingir seu potencial total de receita.
 3. **Joia oculta:** um produto com potencial de sucesso que nunca é devidamente lançado no mercado, geralmente porque fica fora do negócio principal.
 4. **Morto-vivo (Undead):** uma inovação que os clientes não querem, mas que, no entanto, foi lançada no mercado, seja porque foi a resposta errada para a pergunta certa, ou uma resposta para uma pergunta que ninguém estava fazendo.
 
