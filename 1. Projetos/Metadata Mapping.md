@@ -6,6 +6,16 @@ dominio:
 Subdominio:
   - RAG
 ---
+---
+
+tipo:
+
+- sintese dominio:
+- IA subdominio:
+- RAG
+
+---
+
 # Guia Mestre — Metadados do Second Brain
 
 > Documento de referência para uso por agentes de IA (Claude) como contexto de consulta. Consolida a estrutura hierárquica, os tipos de nota, os campos de metadata, as decisões de design e o roteiro de implementação do vault. Este documento substitui/consolida as versões anteriores — nenhuma decisão antiga foi removida, apenas atualizada ou complementada (ver seção 6 para o histórico de mudanças).
@@ -36,35 +46,34 @@ Second Brain
 
 ```
 business (CEO)
-  inovação
-  
+  proposta-de-valor
+  segmentos-de-cliente
+  canais
+  relacionamento-com-cliente
   fontes-receita
-  
   estrutura-custos
-  
   recursos-chave
-  
   atividades-chave
-  
-  parcerias-chave	
-  
+  parcerias-chave
+  inovação
+
   marketing-estrategico (CMO)
     marketing-tatico-mix
       marketing-tatico-preço
       marketing-tatico-praça
       marketing-tatico-promoção
       marketing-tatico-produto
-      
+
   brand-strategy (CBO)
     branding-tatico
       tatico-identidade_verbal-naming
       tatico-identidade_verbal-tom_de_voz
       tatico-identidade_verbal-messaging
-      tatico-identidade_verbal-ativos_ditintivos_verbais
+      tatico-identidade_verbal-ativos_distintivos_verbais
       tatico-identidade_visual-logo
       tatico-identidade_visual-tipografia
       tatico-identidade_visual-cores
-      tatico-identidade_visual-ativos_ditintivos_visuais
+      tatico-identidade_visual-ativos_distintivos_visuais
       tatico-personalidade-arquetipos
       tatico-experiencia_de_marca-cultural_branding
       tatico-experiencia_de_marca-touchpoints
@@ -74,6 +83,10 @@ business (CEO)
   inteligenciaartificial (CTO)
 ```
 
+**Nota sobre os rótulos (CMO)/(CBO)/(CTO):** são só títulos de cargo na árvore, não renomeiam o slug — `dominio` continua `marketing` e `branding` em toda nota, normalmente.
+
+**Nota sobre o bloco Business:** os 9 blocos do BMC aparecem completos de propósito. Alguns (ex: Proposta de Valor ↔ Produto de Marketing; Canais ↔ Praça de Marketing) foram granulados de forma mais fina dentro de Marketing/Branding — a sobreposição entre esses blocos e as categorias táticas dos outros departamentos ainda não foi resolvida (ver pendência em 6.8). "Inovação" é uma adição nova, fora dos 9 blocos originais do BMC.
+
 **Antes de usar os slugs no frontmatter**, escreva por extenso a árvore completa dos seus departamentos (igual ao exemplo acima), pra fixar os nomes exatos e evitar variações tipo `branding-tatico-preço` numa nota e `branding-tatico-preco` (sem acento) em outra.
 
 Essa hierarquia administrativa é documentada **uma vez só**, no MOC raiz (`Business HUB.md`), via campo `departamentos`. Não existe campo `dominio_raiz` ou `fluxo` repetido em cada nota individual — um campo que sempre vale "business" em toda nota não discrimina nada no retrieval e só custa tokens à toa (ver 6.7).
@@ -82,12 +95,12 @@ Dentro de cada departamento, a relação `up/down/same` do Breadcrumbs continua 
 
 ### 3.1 Categorias táticas fixas por domínio
 
-| Domínio                     | Categorias táticas (fixas)                                                                                                                                                                                 |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Marketing**               | Preço, Praça, Produto, Promoção                                                                                                                                                                            |
-| **Business**                | Proposta de Valor, Segmentos de Cliente, Canais, Relacionamento com Cliente, Fontes de Receita, Estrutura de Custos, Recursos-Chave, Atividades-Chave, Parcerias-Chave (9 blocos do Business Model Canvas) |
-| **Branding**                | Identidade Verbal, Identidade Visual, Personalidade de Marca, Experiência de Marca                                                                                                                         |
-| **Inteligência Artificial** | Ainda não definidas                                                                                                                                                                                        |
+|Domínio|Categorias táticas (fixas)|
+|---|---|
+|**Marketing**|Preço, Praça, Produto, Promoção|
+|**Business**|Proposta de Valor, Segmentos de Cliente, Canais, Relacionamento com Cliente, Fontes de Receita, Estrutura de Custos, Recursos-Chave, Atividades-Chave, Parcerias-Chave (9 blocos do Business Model Canvas)|
+|**Branding**|Identidade Verbal, Identidade Visual, Personalidade de Marca, Experiência de Marca|
+|**Inteligência Artificial**|Ainda não definidas|
 
 ---
 
@@ -225,6 +238,10 @@ Avaliado substituir `nivel` pelos slugs compostos (`subdominio`/`sub_subdominio`
 ### 6.7 Sem campo `dominio_raiz` ou `fluxo`
 
 Um campo que sempre vale "business" em toda nota não discrimina nada no retrieval — só custa tokens à toa. A relação de raiz administrativa (Business → Marketing/Branding/IA) fica documentada uma única vez, no campo `departamentos` do MOC raiz (`Business HUB.md`).
+
+### 6.8 Pendente — sobreposição entre blocos do BMC e táticas de Marketing/Branding
+
+A lista completa dos 9 blocos do BMC foi restaurada em Business (seção 3), mas alguns blocos foram granulados de forma mais fina dentro de Marketing e Branding (ex: Proposta de Valor ↔ Produto de Marketing; Canais ↔ Praça de Marketing). Ainda não foi decidido como evitar redundância entre esses blocos e as categorias táticas dos outros departamentos — pendente de discussão futura, semelhante ao caso de colisão de nomes (6.4).
 
 ---
 
