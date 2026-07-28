@@ -6,7 +6,7 @@ dominio:
 Subdominio:
   - marketing-tático-mix
 Sub_subdominio:
-  - precificação
+  - promoção
 author:
   - Madhavan Ramanujam
   - Georg Tacke
@@ -14,5 +14,6 @@ up:
   - marketing-estrategico
   - marketing-tatico-mix
 same:
-  - promoção
+  - precificação
 ---
+
