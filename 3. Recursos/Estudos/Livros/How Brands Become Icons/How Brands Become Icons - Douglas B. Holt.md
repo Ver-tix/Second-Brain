@@ -1,0 +1,18 @@
+---
+tags:
+  - marketing
+  - branding
+author:
+  - Douglas B. Holt
+---
+# Sumário
+- [[1. O QUE É UMA MARCA ICÔNICA]]
+- [[2. COMO O BRANDING CULTURAL É DIFERENTE]]
+- [[3. VISANDO OS MITOS DE MERCADO]]
+- [[4. ELABORAÇÃO DO RESUMO CULTURAL]]
+- [[5. ALAVANCANCANDO A AUTORIDADE POLÍTICA E CULTURAL]]
+- [[6. GERINDO A LEALDADE À MARCA COMO UMA REDE SOCIAL]]
+- [[7. COAUTORANDO O MITO]]
+- [[8. PROMOVENDO O MITO]]
+- [[9. O BRANDING COMO ATIVISMO CULTURAL]]
+- [[Apêndice - Métodos]]
