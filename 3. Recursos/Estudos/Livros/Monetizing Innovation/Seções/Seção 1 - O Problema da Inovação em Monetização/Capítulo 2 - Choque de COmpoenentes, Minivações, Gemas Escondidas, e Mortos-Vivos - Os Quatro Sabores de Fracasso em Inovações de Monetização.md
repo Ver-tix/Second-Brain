@@ -218,3 +218,13 @@ Eles acontecem quando seus defensores superestimam descontroladamente o apelo ao
 - *"O trem já saiu da estação."*
 - *"Já fomos longe demais. Se matarmos isso agora...."*
 
+Aqui está a tabela traduzida:
+
+| Tipo de Falha | Descrição | Sintomas | Onde Ocorre? | Soluções |
+|---------------|-----------|----------|--------------|----------|
+| **Choque de Componentes**<br>(Feature shock) | Amontoar muitos e, às vezes, recursos errados em um produto de tamanho único | • Cultura orientada ao produto<br>• Superengenharia<br>• Proposta de valor pouco clara<br>• Muitas escaladas<br>• Vendas difíceis<br>• Cortes de preço frequentes | • Empresas de tecnologia<br>• Software/internet<br>• Assinaturas<br>• Serviços financeiros<br>• Mídia/telecom | Foque em:<br>Capítulo 4<br>Capítulo 5<br>Capítulo 6<br>Capítulo 8<br>Capítulo 12 |
+| **Minivação**<br>(Minivation) | Apesar de ser o produto certo para o mercado certo, está subprecificado e não alcança todo o potencial de mercado | • Falta de ambição<br>• Metas baixas<br>• Poucas escaladas<br>• Poucos problemas de precificação<br>• Ciclos de vendas rápidos<br>• Vendas atingem facilmente a meta | Todos os setores verticais — tecnologia, software/internet, automotivo, serviços financeiros, químicos, industrial, saúde, bens de consumo/varejo, telecom, etc. | Foque em:<br>Capítulo 4<br>Capítulo 7<br>Capítulo 8<br>Capítulo 9<br>Capítulo 10<br>Capítulo 11 |
+| **Joia Oculta**<br>(Hidden gem) | Um produto blockbuster que nunca é propriamente lançado no mercado porque não é reconhecido | • Falta de reconhecimento<br>• Mentalidade de jogar pelo seguro<br>• Fora da zona de conforto<br>• Ninguém responsável por aproveitar as joias | Ocorre sempre que há uma disrupção ou mudança: em modelos de negócios, estratégia de canal, mudança de foco de produto para serviços, etc. | Foque em:<br>Capítulo 4<br>Capítulo 7<br>Capítulo 9 |
+| **Morto-vivo**<br>(Undead) | Produtos que deveriam ter sido eliminados — Respostas a perguntas que ninguém faz ou a resposta errada para a pergunta certa | • Falta de objetividade<br>• Cultura do "sim-talvez-não"<br>• Projetos de estimação<br>• Demanda muito baixa<br>• Lutas de vendas<br>• Imprensa negativa | Todos os setores verticais — tecnologia, software/internet, automotivo, serviços financeiros, químicos, industrial, saúde, bens de consumo/varejo, telecom, etc. | Foque em:<br>Capítulo 4<br>Capítulo 9 |
+
+**Figura 2.5 — Comparando os Quatro Tipos de Falhas de Monetização**
