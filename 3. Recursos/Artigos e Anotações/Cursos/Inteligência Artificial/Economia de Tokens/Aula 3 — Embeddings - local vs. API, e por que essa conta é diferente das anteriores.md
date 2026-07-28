@@ -195,3 +195,5 @@ Isso libera você pra: **reindexar o vault quantas vezes quiser** enquanto testa
 ---
 
 **Teste rápido**: existe uma variante chamada _contextualized chunk embeddings_ — em vez de escanear cada pedacinho do vault isoladamente, o scanner olha o **documento inteiro** enquanto gera a etiqueta de cada pedaço, pra etiqueta ficar mais "ciente do contexto ao redor". Pensando no que você aprendeu na seção 1 (scanner = passada única, sem eixo de output): você acha que isso mudaria o **preço** do escaneamento, ou só a **qualidade** da etiqueta final? Por quê?
+ - acho que ambo. Há mais gastos computacionais, não?
+ - 
