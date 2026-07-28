@@ -113,7 +113,7 @@ tags:
 - [[Aula 3 - Construindo o Primeiro Agente|Aula 3 - Construindo o Primeiro Agente]]
 - [[Aula 4 - O Poder dos Prompts Estruturados|Aula 4 - O Poder dos Prompts Estruturados]]
 - [[Aula 5 - Memória de Conversa]]
-- [[Aula 6 - Feramentas (Tools)]]
+- [[Aula 6 - Ferramentas (Tools)]]
 - [[Aula 7 - O LLM como Tomador de Decisão]]
 - [[Aula 8.1 - Tool Calling, quando o LLM escolhe a ferramenta]]
 - [[Aula 8.2 - Tool Calling na Prática - Quando o LLM Decide Usar uma Ferramenta]]

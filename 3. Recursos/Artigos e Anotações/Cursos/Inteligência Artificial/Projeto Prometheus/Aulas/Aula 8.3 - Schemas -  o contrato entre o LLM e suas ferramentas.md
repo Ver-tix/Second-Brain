@@ -477,6 +477,9 @@ O Orquestrador não precisará conhecer os detalhes de cada ferramenta. Ele apen
 
 # Laboratório — Aula 8.3
 
+## [[🤖 Monitoria M6 008.3]]
+## [[🛠 Desafio M6 008.3]]
+
 Agora vamos substituir de vez a abordagem provisória por uma implementação mais próxima da usada em sistemas reais.
 
 ### Parte 1 — Defina o schema completo

@@ -369,7 +369,7 @@ Essa distinção muda completamente a forma como enxergamos agentes inteligentes
 
 ---
 # Importante
-Contexto reduz carga inferencial, que reduz os gastos de tokens de saída do LLM. Mas, muito contexto, aumenta a busca de memórias salvas por parte da LLM, ou seja, também aumenta o gasto computacional. Solução? Bom, nossos curso de [[Economia de Tokens]].
+Contexto reduz carga inferencial, que reduz os gastos de tokens de saída do LLM. Mas, muito contexto, aumenta a busca de memórias salvas por parte da LLM, ou seja, também aumenta o gasto computacional. Solução? Bom, nossos curso de [[💰 Economia de Tokens]].
 
 ---
 
