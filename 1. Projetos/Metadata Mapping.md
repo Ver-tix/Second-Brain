@@ -36,19 +36,42 @@ Second Brain
 
 ```
 business (CEO)
-  marketing
-    marketing-estrategico
-    marketing-tatico
-      marketing-operacional
-  branding
-    branding-estrategico
-      branding-tatico-preco
-      branding-tatico-produto
-      branding-tatico-promocao
-        branding-operacional-promocao-copywriting
-      branding-tatico-praca-canais
-        branding-operacional-canal-blog
-  inteligenciaartificial
+  inovação
+  
+  fontes-receita
+  
+  estrutura-custos
+  
+  recursos-chave
+  
+  atividades-chave
+  
+  parcerias-chave	
+  
+  marketing-estrategico (CMO)
+    marketing-tatico-mix
+      marketing-tatico-preço
+      marketing-tatico-praça
+      marketing-tatico-promoção
+      marketing-tatico-produto
+      
+  brand-strategy (CBO)
+    branding-tatico
+      tatico-identidade_verbal-naming
+      tatico-identidade_verbal-tom_de_voz
+      tatico-identidade_verbal-messaging
+      tatico-identidade_verbal-ativos_ditintivos_verbais
+      tatico-identidade_visual-logo
+      tatico-identidade_visual-tipografia
+      tatico-identidade_visual-cores
+      tatico-identidade_visual-ativos_ditintivos_visuais
+      tatico-personalidade-arquetipos
+      tatico-experiencia_de_marca-cultural_branding
+      tatico-experiencia_de_marca-touchpoints
+      tatico-experiencia_de_marca-atendimento
+      tatico-experiencia_de_marca-embalagem
+
+  inteligenciaartificial (CTO)
 ```
 
 **Antes de usar os slugs no frontmatter**, escreva por extenso a árvore completa dos seus departamentos (igual ao exemplo acima), pra fixar os nomes exatos e evitar variações tipo `branding-tatico-preço` numa nota e `branding-tatico-preco` (sem acento) em outra.
@@ -59,12 +82,12 @@ Dentro de cada departamento, a relação `up/down/same` do Breadcrumbs continua 
 
 ### 3.1 Categorias táticas fixas por domínio
 
-|Domínio|Categorias táticas (fixas)|
-|---|---|
-|**Marketing**|Preço, Praça, Produto, Promoção|
-|**Business**|Proposta de Valor, Segmentos de Cliente, Canais, Relacionamento com Cliente, Fontes de Receita, Estrutura de Custos, Recursos-Chave, Atividades-Chave, Parcerias-Chave (9 blocos do Business Model Canvas)|
-|**Branding**|Identidade Verbal, Identidade Visual, Personalidade de Marca, Experiência de Marca|
-|**Inteligência Artificial**|Ainda não definidas|
+| Domínio                     | Categorias táticas (fixas)                                                                                                                                                                                 |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Marketing**               | Preço, Praça, Produto, Promoção                                                                                                                                                                            |
+| **Business**                | Proposta de Valor, Segmentos de Cliente, Canais, Relacionamento com Cliente, Fontes de Receita, Estrutura de Custos, Recursos-Chave, Atividades-Chave, Parcerias-Chave (9 blocos do Business Model Canvas) |
+| **Branding**                | Identidade Verbal, Identidade Visual, Personalidade de Marca, Experiência de Marca                                                                                                                         |
+| **Inteligência Artificial** | Ainda não definidas                                                                                                                                                                                        |
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 tags:
   - marketing
+tipo:
+  - MOC
 dominio:
   - marketing
 Subdominio:
