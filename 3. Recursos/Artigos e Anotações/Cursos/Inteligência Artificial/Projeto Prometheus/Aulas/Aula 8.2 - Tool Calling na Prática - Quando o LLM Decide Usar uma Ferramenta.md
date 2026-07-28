@@ -416,3 +416,6 @@ Ao final deste laboratório, você deverá perceber que ocorreu uma mudança pro
     
 
 Esse é o primeiro passo para construir agentes capazes de usar dezenas de ferramentas sem depender de centenas de `if/elif` espalhados pelo código.
+
+---
+
