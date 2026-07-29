@@ -14,7 +14,8 @@ author:
 up:
   - marketing-estrategico
 ---
-Aqui está a tradução do texto, seguida pela tabela unificada e traduzida com base nas duas imagens:
+>[! Observação] 
+>Disposição a Pagar = "Wilingness-to-Pay "= WTP
 
 # Como uma Conversa Precoce sobre Disposição para Pagar Impulsionou a Gillette
 
