@@ -84,7 +84,7 @@ Os seis elementos de escala são resumidos abaixo. Eles são amplamente aplicáv
 | 8. Empregar princípios de precificação comportamental. | C | R | R | I | A |
 | 9. Manter a integridade do seu preço. | I | C | R | R | A |
 
->>[! Legenda RACI:]
+>[! Legenda RACI:]
 > 
 > **R:** Responsável (*Responsible*)
 > **A:** Aprovador / Prestador de contas (*Accountable*)
