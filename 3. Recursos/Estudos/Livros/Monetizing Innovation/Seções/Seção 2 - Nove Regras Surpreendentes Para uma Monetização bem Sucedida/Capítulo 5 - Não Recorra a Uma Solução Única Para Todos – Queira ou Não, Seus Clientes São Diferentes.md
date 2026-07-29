@@ -1,13 +1,16 @@
 ---
 tags:
   - marketing
+  - segmentação
 dominio:
-  - marketing
+  - business e administração
 Subdominio:
-  - marketing-tático-mix
+  - segmentos-de-cliente
 Sub_subdominio:
   - precificação
 author:
   - Madhavan Ramanujam
   - Georg Tacke
+down:
+  - marketing-estrategico
 ---
