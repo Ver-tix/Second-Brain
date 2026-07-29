@@ -219,3 +219,43 @@ Um modelo de monetização é bom apenas na medida em que você pode fazê-lo fu
 O desempenho no mercado de empresas como Google, Netflix, Michelin, General Electric e Uber mostra de forma irrefutável o poder de escolher o modelo de monetização certo ao trazer novos produtos e serviços para o mercado. Essas empresas demonstram que um modelo de monetização vencedor pode ajudar uma empresa a superar a concorrência de maneiras que nem mesmo uma oferta de produto ou serviço vencedora sozinha pode.
 
 A rápida evolução da Internet e de outras tecnologias criou abundantes oportunidades para capitalizar modelos de monetização que são novos para sua indústria. Você e seus colegas precisam explorá-los, e rapidamente, para sair na frente. Às vezes, a melhor inovação é a inovação no próprio modelo de monetização!
+
+# Algumas Estruturas de Preço que Resistiram ao Teste do Tempo
+
+Descrevemos nas seções anteriores como escolher um dos cinco modelos de monetização. Uma estrutura de preço se baseia nesses modelos de monetização para considerar diferentes níveis de uso. Isso é especialmente aplicável quando o modelo de monetização é pagamento por unidade, métrica alternativa ou assinatura.
+
+Aqui está um exemplo: Digamos que você está prestes a introduzir um novo serviço de processamento de pagamentos e decidiu cobrar 3% de cada transação de pagamento. Esse é um modelo de monetização simples — o modelo de métrica alternativa. Uma maneira mais abrangente — mas também mais complexa — de implementar isso seria basear essa porcentagem na intensidade de uso. Por exemplo, a cobrança de 3% por transação é para clientes que fazem entre 100.000 e 500.000 transações de pagamento por mês; uma taxa mais baixa (2%) é cobrada de clientes que fazem de 500.000 a 1,5 milhão de transações por mês, e assim por diante. (Veja a Figura 7.1.)
+
+Com essa estrutura, você está dizendo aos clientes que quanto mais eles usarem seus serviços, melhor será a taxa que eles receberão. Isso pode ser mais atraente para os clientes do que uma taxa fixa de 3%, independentemente de quantas transações eles fizerem.
+
+Essa é uma estrutura baseada em níveis ou, mais especificamente, uma estrutura baseada em volume.
+
+Agora, vamos observar um modelo de matriz. (Veja a Figura 7.2.) Começando do canto superior esquerdo da matriz, a taxa fica progressivamente melhor para o cliente à medida que você avança para o canto inferior direito. A principal diferença entre as estruturas de volume e matriz é que a matriz é uma estrutura bidimensional, enquanto o volume é unidimensional. Na Figura 7.2, a primeira dimensão é o volume e a segunda dimensão é a porcentagem de participação nas transações (ou seja, a participação na carteira que você recebe). A lógica é que quanto maior o volume de transações e a participação nos negócios que você obtém, melhor será a taxa para o seu cliente. Observe que as duas dimensões podem ser qualquer métrica na qual você decida criar níveis.
+![[Pasted image 20260729101309.png]]
+
+**Figura 7.2 — Precificação Baseada em Níveis em um Modelo de Matriz (Preço/Transação (%))**
+
+| | ≤ 100 | ≤ 500 | ≤ 1500 | 1500+ |
+| :--- | :--- | :--- | :--- | :--- |
+| **Abaixo de 30%** | 4% | 3.5% | 3% | 2.5% |
+| **30% - 60%** | 3.5% | 3% | 2.5% | 2% |
+| **60% - 75%** | 3% | 2.5% | 2% | 1.5% |
+| **Acima de 90%** | 2.5% | 2% | 1.5% | 1% |
+
+# Resumo
+
+Os modelos de monetização podem conferir uma vantagem competitiva significativa a um novo produto ou serviço. *Como* você cobra supera *quanto* você cobra. Como o caso da Michelin mostrou, quando feito corretamente, os melhores modelos de monetização são uma situação em que todos ganham para você e seus clientes.
+
+As empresas têm inúmeras escolhas de monetização, mas estes cinco funcionam bem para a monetização da maioria dos novos produtos: assinatura, métrica alternativa, precificação dinâmica, leilão e freemium.
+
+Você também pode combinar partes desses cinco modelos para um modelo misto. Além disso, ao instituir duas estruturas de preço (baseadas em volume e matriz), você tem a flexibilidade de se ajustar para diferentes níveis de uso.
+
+Nem todos os modelos são aplicáveis em todas as situações, mas a orientação neste capítulo o ajudará a reduzir suas escolhas.
+
+# Perguntas para o CEO
+
+1. Qual modelo de monetização envisionamos para nosso novo produto? Por que é o correto e como o escolhemos?
+2. Quais modelos não escolhemos e por quê?
+3. Quais são as tendências mais importantes em nossa indústria? Como elas afetam nossa escolha de um modelo de monetização?
+4. Como planejamos monetizar nosso produto se o uso do cliente variar significativamente? Quais estruturas de preço consideramos e por quê?
+5. Temos as capacidades e a infraestrutura certas para executar o modelo de monetização e a estrutura de preço escolhidos?
