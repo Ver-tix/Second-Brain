@@ -1,8 +1,8 @@
 ---
-dominio:
-  - IA
 tipo:
   - MOC
+dominio:
+  - IA
 author:
   - Caio Emanuel
 tags:
