@@ -17,3 +17,5 @@ Os principais tipos de elasticidade são:
     
 
 Compreender essa elasticidade é crucial para **estratégias de precificação**, pois permite às empresas prever o impacto de reajustes na receita total: aumentar preços em produtos inelásticos pode gerar mais receita, enquanto reduções de preço em produtos elásticos podem aumentar as vendas e a receita geral.  Fatores como disponibilidade de substitutos, essencialidade do produto e fidelidade à marca influenciam diretamente esse coeficiente.
+
+![[Capítulo 8 - Preço Baixo para Market Share ou Preço Alto para um Branding Premiuim - Esolhendo a Estratégia de Precificação Vencedora#Otimização de Preço e Elasticidade de Preço]]
