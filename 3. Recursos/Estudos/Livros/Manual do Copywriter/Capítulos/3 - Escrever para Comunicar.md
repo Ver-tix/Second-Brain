@@ -283,3 +283,118 @@ Finalizar uma frase com um verbo aumenta o tom coloquial da copy e é uma técni
 |---|---|
 |A poluição do ar é algo de que nós queremos nos ver livres|A poluição do ar é algo de que queremos nos livrar|
 |Estamos lutando para quê?|Pelo que estamos lutando?|
+## Use fragmentos de frase
+
+Os fragmentos de frase ajudam a manter o tamanho médio da frase com um número aceitável de palavras. Eles podem adicionar drama e ritmo à sua copy.
+
+> O delineador que faz tudo. O único. A maquiagem de que todo mundo precisa.
+> 
+> Nenhuma das mil empresas listadas na Fortune chega perto da nossa taxa de crescimento. Não é de admirar. Os smartphones são o produto mais vendido da década de 2020, sem previsão de quando essa demanda acabará. Não é preciso muito para fechar a porta para o sucesso. O lampejo de uma ideia que escapou de sua mente. Uma anotação que nunca foi escrita.
+
+## Comece as frases com conjunções
+
+Começar uma frase com e, ou, mas ou para proporciona uma transição suave e fácil entre os pensamentos.
+
+Use essas palavras simples em vez de conectivos mais complexos. "Mas" é uma forma mais curta e melhor de dizer "no entanto", "não obstante" e "por outro lado" Também não use termos antiquados como "igualmente importante", "além do mais" ou "ademais", quando um simples "e" faz todo o trabalho.
+
+> A primeira aula é grátis. Mas eu não posso te convocar. Você tem que dar o primeiro passo.
+> 
+> A escolha é simples. Impulsione a venda de lápis. Ou tenha o Messenger.
+> 
+> E siga em frente na velocidade do som.
+> 
+> O telefone ECS liga para os dois primeiros números que você selecionou até alguém atender. Ele faz a chamada de emergência, fornece seu endereço e o repete.
+
+## Use parágrafos de uma só frase
+
+Um parágrafo casual de uma única frase fornece uma mudança de ritmo que pode dar vida a uma copy. Quando todas as frases e parágrafos são praticamente do mesmo tamanho, o leitor perde a capacidade de reagir, assim como um motorista pode ser hipnotizado por um longo trecho de estrada reta. Um parágrafo de uma frase é como uma curva repentina na estrada: pode surpreender o leitor e despertá-lo novamente. Aqui está um exemplo de carta de vendas lançando serviços freelancer de copywriting:
+
+> Para muitas pessoas das agências de publicidade, a publicidade industrial é uma tarefa árdua. É um trabalho detalhado e altamente técnico. Para escrever a copy, você precisa de alguém com o conhecimento técnico de um engenheiro e as habilidades de comunicação de um copywriter. É aí que eu posso ajudar.
+
+## Use técnicas visuais para enfatizar palavras ou frases na copy
+
+Estudantes universitários usam marcadores amarelos para destacar frases em seus livros didáticos. Isso economizará tempo de estudo, pois os destaques permitem que eles releiam apenas o material importante e não o livro inteiro.
+
+Destacar e sublinhar faz com que palavras e frases se destaquem em anúncios e promoções impressos, da mesma maneira como nos livros escolares. Muitos leitores folheiam textos sem ler com atenção, assim, algo sublinhado ou destacado pode ser útil para chamar a atenção para palavras-chave, frases, parágrafos e argumentos de venda.
+
+É claro que sublinhados e outros dispositivos mecanizados devem ser usados com moderação. Se você sublinhar cada palavra da sua carta de vendas, nada irá se destacar. Por outro lado, se você sublinhar apenas três palavras em uma carta de uma página, pode ter certeza de que a maioria dos leitores vão ler essas palavras. Aqui está uma lista de técnicas mecanizadas que os copywriters usam para chamar a atenção para frases e palavras-chave:
+
+Sublinhado
+
+Caixa-alta
+
+Parágrafos recuados
+
+Negrito
+
+Itálico
+
+Fonte colorida
+
+Fontes que simulam caligrafia
+
+Setas e notas nas margens
+
+Destaque em amarelo
+
+Fonte reversa (fonte branca sobre fundo preto)
+
+Caixa de texto
+
+Chamadas
+
+P.S. (em cartas)
+
+## Use marcadores
+
+Uma das técnicas mais eficazes na redação de uma copy é apresentar o conteúdo como uma lista de itens com marcadores (por exemplo, "7 maneiras de reduzir sua conta de luz neste inverno"). Muitos copywriters, porém, inserem marcadores rapidamente — e, como resultado, se contentam com marcadores comuns e, portanto, não atraentes.
+
+É preciso um pouco mais de energia e criatividade para criar uma lista de itens que seja tão forte e atraente quanto esta copy clássica da Boardroom: "O que nunca comer em um avião."
+
+Um dos erros mais comuns no uso dessas listas é não incluir o nível certo de informação. "Fale demais e você dará a informação de graça. Assim, não haverá necessidade de encomendar o produto para encontrar a resposta", diz o copywriter Parris Lampropoulos. "Por exemplo, se a copy diz 'como acabar com a dor usando um creme vendido em lojas chamado capsaicina, nenhuma curiosidade será despertada porque você já contou o segredo."
+
+Por outro lado, diz Parris, se a sua lista tiver poucas informações ou informações específicas, mas não o suficiente, não chamará atenção. "Se você diz 'por que as vitaminas do complexo B são uma necessidade absoluta para pessoas predispostas a essa doença, você não consegue me fisgar, porque eu não sei qual é 'essa doença", diz Parris.
+
+A regra geral de Parris para escrever listas fortes é: seja específico quanto ao problema; seja vago e misterioso quanto à solução. E ainda faça isso com uma torção, um gancho ou ângulo incomum.
+
+Parris nos dá o exemplo de um copywriter que teve que escrever uma promoção para um livro sobre saúde natural. Uma das dicas que o livro trazia era que se sentar em objetos volumosos pode causar dor nas costas. Então, se você tiver uma carteira grande e volumosa, tire-a do bolso de trás e a mantenha no bolso da frente para evitar problemas nas costas. O tópico que o copywriter inventou foi: "Como um ladrão de carteiras pode melhorar sua dor nas costas." Ele é específico sobre o problema (dor nas costas), mas misterioso sobre a solução (como um ladrão de carteiras pode ajudar com a dor nas costas?).
+
+# A checklist do copywriter
+
+Antes de enviar a copy para o cliente ou para o departamento de artes, faça a si mesmo estas perguntas:
+
+1. **A copy cumpre a promessa do título?**  
+    Se o título for "Como fazer amigos e influenciar pessoas", a copy deve dizer a você como fazer amigos e influenciar pessoas. A copy que não cumpre a promessa do título engana o leitor — e o leitor sabe disso.
+2. **A copy é interessante?**  
+    A sua copy não poderá gerar entusiasmo pelo produto se o leitor bocejar quando estiver lendo. Conte uma história, compartilhe novidades, melhore a vida do leitor. Torne-a interessante. Você não pode entediar as pessoas e fazer com que elas comprem seu produto.
+3. **É fácil de ler?**  
+    Quando uma pessoa lê sua copy, não é função dela tentar descobrir o que você quer dizer. E sua função explicar o que você quer dizer, em um português simples e direto. Use frases, parágrafos e palavras curtas. Seja claro.
+4. **Ela passa credibilidade?**  
+    Certa vez um professor comentou uma frase que eu havia escrito: "Bob, isso tem toda a sinceridade de uma nota de três dólares." As pessoas desconfiam da publicidade e dos profissionais de publicidade e propaganda. Você deve trabalhar com afinco para convencer o leitor de que é verdade o que está dizendo. Uma maneira de passar credibilidade é incluir depoimentos de clientes satisfeitos. Outra é oferecer uma demonstração ou evidência científica que comprove sua afirmação. Mas a melhor maneira de fazer as pessoas acreditarem em você é dizer a verdade.
+5. **Ela é persuasiva?**  
+    Prosa clara e legível não é suficiente. Sua copy deve vender e comunicar. Para vender, ela deve chamar atenção, fisgar o interesse do leitor, criar um desejo pelo produto, provar a superioridade deste e chamar para a ação. (O [[4 - Como Escrever para Vender|capítulo 4]] aborda os fundamentos da habilidade de vendas em material impresso.)
+6. **Ela é específica?**  
+    Para persuadir as pessoas a comprar, você precisa fornecer-lhes razões específicas — fatos, recursos, benefícios, economias — pelas quais elas devem comprar o produto. Quanto mais específico você for, mais informativa e cheia de credibilidade será sua copy.
+7. **Ela é concisa?**  
+    Conte toda a história com o menor número de palavras possível. Quando terminar, pare.
+8. **Ela é relevante?**  
+    O copywriter freelancer Sig Rosenblum explicou que: "Uma das regras da boa copy é: não fale sobre você mesmo. Não diga ao leitor o que você fez, o que alcançou, do que gosta ou não gosta. Isso não é importante para ele. O que é importante para ele é do que ele gosta, do que ele precisa e o que ele quer" Sua copy deve mencionar fatos relevantes para o interesse pessoal do leitor.
+9. **Ela flui suavemente?**  
+    Uma boa copy flui suavemente de um ponto para o outro. Não há frases estranhas, argumentos confusos, nem termos estranhos para perturbar o leitor e interromper o fluxo.
+10. **Ela chama para a ação?**  
+    Você quer que o consumidor mude para sua marca, peça um folheto grátis, ligue para seu representante de vendas ou envie um cheque? Encontre o próximo passo no processo de compra e diga ao leitor que siga este passo. Use cupons de desconto, cartões-respostas, números para ligações gratuitas e outros dispositivos para aumentar as respostas.
+
+# Como escrever para materiais impressos versus internet
+
+Os capítulos de 11 a 17 trazem mais detalhes sobre as diferenças entre escrever para materiais impressos e para a internet. Por exemplo:
+
+- Fontes do tipo Serif (com serifa) e com pequenas curvas nas extremidades das letras são recomendadas para os materiais impressos. O tipo San Serif (sem serifa), sem as curvas, é mais legível nas telas. Times New Roman é do tipo com serifa e Arial, do tipo sem.
+- O e-mail marketing é mais fácil de ler quando os parágrafos têm apenas uma ou duas frases cada; a prova está nas maiores taxas de abertura e cliques. Cada linha não deve ter mais de 60 caracteres; mais do que isso faz com que os e-mails pareçam muito cansativos.
+- Em sites da internet, os tópicos são convenientemente divididos entre várias páginas, cada uma focada em apenas um tópico de 300 a 400 palavras.Dividir a escrita em pedaços pequenos tem sido uma boa estratégia para uma redação mais legível, e sites com muitas páginas são ideais para empregar esse método de escrita.
+- A maioria dos documentos off-line tem um único modo de comunicação: tinta preta impressa em papel branco. Já a internet se estende a formatos e mídias mais variados, incluindo áudio, vídeo, cores e animação.
+- Um livro pode fazer referência a outros livros em sua bibliografia. Na inter-net, você pode inserir um hiperlink para páginas específicas do seu site ou para o conteúdo de um bilhão de outros sites. Assim, os detalhes adicionais são rapidamente acessíveis ao leitor.
+- A internet é um canal de comunicação de duas vias. Exemplo: Você escreve um post no seu blog. Seus leitores comentam. Da mesma forma, você acessa um site e conversa com um atendente virtual.
+- Ao receber seu catálogo pelo correio, seu leitor pode colocá-lo em uma prateleira para ler depois, onde provavelmente o verá todos os dias. Quando seu leitor termina de navegar em seu site, ele o fecha e não tem nada tangível nas mãos.
+- Graças ao sistema de busca do Google, ficou muito mais fácil encontrar rapidamente a informação que se procura. O Google tem acesso a mais de um milhão de terabytes, todos entregues na sua tela em um segundo. As bibliotecas contêm uma fração minúscula disso, muitas vezes escondidas em pilhas de livros que demoram para serem localizados.
+- Escrever para a internet significa tanto usar palavras-chave que as pessoas pesquisam para encontrar seu conteúdo ou produto ([[11 - Como Escrever Websites|capítulo 11]]) quanto evitar palavras em e-mails que acionem filtros de spam ([[13 - E-Mail Marketing|capítulo 13]]).
+- As primeiras versões de páginas da internet não precisam ser perfeitas. Motivo: por serem digitais, são fáceis de corrigir, alterar e atualizar.
