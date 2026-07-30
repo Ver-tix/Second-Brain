@@ -251,3 +251,136 @@ A medida que você constrói sua rede de contatos do LinkedIn, de amigos do Face
 
 O LinkedIn, principalmente, tem muitos grupos especializados que se concentram em várias disciplinas, indústrias e áreas do conhecimento. Junte-se aos grupos relacionados aos assuntos sobre os quais você escreve, pois seus membros são — em teoria - especialistas nesses campos, membros de seus públicos-alvo ou ambos.  
 Você pode desenvolver pesquisas informais apenas fazendo perguntas aos grupos, ouvindo e mantendo um registro das respostas. Consulte o [[15 - Como Escrever Para Mídias Sociais|capítulo 15]] para obter mais detalhes sobre como construir sua presença nas mídias sociais, como usá-las como ferramenta de pesquisa e como escrever copy para as diferentes redes. 
+
+# Pesquisas on-line
+
+Outra maneira de realizar pesquisas primárias on-line é criar uma lista de contatos _opt-in_. Uma das melhores maneiras de fazer isso é adicionar uma caixa de registro ao seu site, oferecendo a assinatura de um boletim informativo on-line e gratuito publicado pela sua empresa.
+
+Depois de criar sua lista eletrônica, você pode pesquisar seus leitores usando uma ferramenta de pesquisa on-line, como a Survey-Monkey. Enquanto a pesquisa de mídias sociais produz respostas quali-tativas, as pesquisas on-line também fornecem dados quantitativos. Por exemplo, você pode determinar que um percentual das pessoas pesquisadas pretende comprar alguma coisa nova nos próximos doze meses ou que outro percentual da lista coma couve.
+
+Além de realizar suas próprias pesquisas, uma pesquisa no Google pode fornecer diversas pesquisas de outras pessoas sobre seu tópico. As pesquisas mostram tanto os resultados em percentagens quanto classificações do mais ao menos popular. Esses números fortalecem a copy: são específicos e atraem a atenção do leitor.
+
+# O processo de escrever
+
+Agora vem a parte divertida: a redação da publicidade.
+
+Cada redator ou redatora tem a própria maneira de criar rascunhos, e você deve usar o método que lhe seja mais produtivo.
+
+Alguns começam com um título e um esboço do visual, depois preenchem o corpo da copy. Eles não conseguem escrever uma palavra da copy até que tenham um título e um conceito visual que os agrade.
+
+Outros escrevem o corpo da copy primeiro. Em seguida, extraem o título do corpo da copy ou das anotações iniciais. Alguns copywriters gostam de começar com a seção mais longa ou mais difícil de um folheto ou relatório anual. Outros preferem "aquecer", escrevendo primeiro as seções fáceis (por exemplo, o formulário de pedido em um pacote de mala direta ou a página "Sobre" em um site).
+
+Seja qual for seu jeito de fazer copywriting, uma coisa que você deve saber é que raramente acertará de primeira. O segredo para escrever uma boa copy é reescrever dois, três, quatro, cinco, seis, sete rascunhos, ou quantos forem necessários para acertar. Copywriters iniciantes tendem a "congelar" quando deparam com a necessidade de produzir uma série de copies. Eles ficam nervosos porque têm medo de escrever frases ruins ou gerar ideias desagradáveis.
+
+Mas ninguém precisa ver seus primeiros rascunhos e você não precisa acertar na primeira vez. Portanto, não tenha medo de anotar todas as ideias, frases, slogans, títulos e fragmentos que surgirem. Você sempre poderá excluir palavras que não funcionam. Mas quando você tem uma ideia ou pensa em uma maneira de dizer algo, isso se perderá a não ser que você o registre.
+
+Muitos copywriters escrevem diversas versões da copy antes da versão final. Isso permite que eles tirem o excesso e deixem apenas o que é importante. Da mesma forma, você deve coletar muito mais informações do que usará na versão final. Isso permitirá que você seja mais seletivo nas informações que incluirá na sua copy.
+
+Basicamente, o copywriting pode ser dividido em um processo de três estágios, embora possa haver várias reescritas em cada estágio.
+
+No primeiro estágio, você "digita tudo" no computador. Apenas deixe as ideias fluírem. Não edite, não impeça a formação das ideias. Não volte atrás para consertar as palavras que você inseriu na página; continue escrevendo enquanto tiver um fluxo de ideias e frases que deseja colocar no papel.
+
+Alguns redatores têm dificuldade em deixar os pensamentos fluírem livremente. Eles ficam inibidos e intimidados porque estão "escrevendo uma copy", e isso parece uma coisa difícil e desafiadora de se fazer. Se for seu caso, tente fingir que está escrevendo uma carta ou e-mail para um amigo para convencê-lo a comprar um produto novo que o deixou empolgado. Essa técnica parece funcionar porque, diferentemente de escrever anúncios, escrever cartas e e-mails são tarefas familiares e cotidianas.
+
+Em uma segunda etapa, você edita seu trabalho, exclui palavras desnecessárias, reescreve frases e trechos estranhos. Você lê a copy em voz alta, para se certificar de que ela flui sem problemas, e reorganiza e reordena o material em uma sequência mais lógica.
+
+Além disso, você vai ler o que escreveu para ver se está de acordo com seus critérios para uma copy eficaz e persuasiva. Caso não esteja, você vai reescrevê-la para fortalecer seu poder de venda. Isso pode envolver mais dados, um título melhor, uma conclusão mais forte ou um aspecto gráfico diferente.
+
+Na terceira etapa, você irá "limpar" a copy, revisando a ortografia e a gramática e verificando a precisão dos fatos. Esse é o momento em que você verifica se a copy tem coerência. Por exemplo, você não quer escrever o nome da empresa como "GAF" no título e "G.A.E" no corpo da copy.
+
+Habilidade em copywriting e em qualquer outro tipo de escrita vem apenas com a prática. Ao redigir copies, você aprenderá a superar maus hábitos de estilo, ficará mais confortável com sua escrita e obterá maior controle sobre a língua portuguesa.
+
+# Documentando suas fontes
+
+Como copywriter, você é responsável por documentar as fontes de todas as informações que usará na copy. Por exemplo, se você estiver escrevendo um folheto para uma clínica de fertilidade e disser: "Um em cada seis casais nos EUA é infértil", você precisa documentar a fonte.
+
+O melhor método é usar simplesmente o recurso de nota de rodapé ou nota final do Word para que cada citação e informação sejam facilmente verificadas pelo cliente.
+
+Depois de redigir um anúncio, arquive as cópias de todos os documentos originais por seis a doze meses, pelo menos. Você pode até dar um conjunto desses documentos ao cliente para os arquivos dele.
+
+# Uma técnica para produzir ideias rentáveis de publicidade
+
+O trabalho do copywriter é produzir palavras e ideias que vendam o produto ou serviço anunciado. De onde vêm essas ideias? Elas vêm de uma compreensão do produto, do mercado e da missão da copy — que é gerar vendas.
+
+No entanto, mesmo os melhores copywriters ficam presos às ideias de vez em quando. Aqui está um procedimento comprovado de nove etapas que você pode seguir para ter ideias para anúncios, títulos, campanhas de marketing ou qualquer outra coisa que se conheça:
+
+## 1. Identifique o problema
+
+O primeiro passo para se resolver um problema é saber qual é o problema, mas muitos de nós avançamos sem saber o que estamos tentando rea-lizar. Moral da história: não proponha uma solução antes de passar um tempo definindo com precisão o problema.
+
+## 2. Reúna fatos pertinentes
+
+Nas histórias que envolvem crimes, os detetives passam a maior parte do tempo procurando pistas. Eles não conseguem resolver um caso apenas com o raciocínio lógico; eles precisam dos fatos. Você também precisa dos fatos antes de poder resolver um problema ou tomar uma decisão fundamentada.
+
+Profissionais de todas as áreas sabem da importância de reunir fatos específicos. Um cientista que planeja um experimento verifica resumos de artigos para ver quais experimentos semelhantes foram realizados. Um autor que escreve um livro reúne tudo o que pode sobre o assunto: recortes de jornais, fotos, registros oficiais, transcrições de entrevistas, diários, artigos de revistas e assim por diante. Um consultor pode passar semanas ou meses vasculhando uma empresa antes de encontrar uma solução para um grande problema.
+
+Mantenha um arquivo organizado com o material de base que você coletou em um projeto. Revise-o antes de começar a formular sua solução. Use o computador para fazer anotações sobre seus materiais de pesquisa. Essa etapa aumentará a familiaridade com as informações básicas e poderá fornecer uma nova perspectiva sobre o problema. Além disso, quando você digita as anotações, você condensa bastante material em algumas páginas organizadas que apresentam todos os fatos num relance.
+
+## 3. Reúna conhecimentos gerais
+
+No copywriting, fatos específicos têm a ver com o projeto em questão.  
+Eles incluem o produto, o mercado, a concorrência e a mídia. O conhecimento geral tem a ver com a experiência que você adquiriu nos negócios e na vida, incluindo informações suas sobre a vida, eventos, pessoas, ciência, tecnologia, administração e o mundo em geral.
+
+Torne-se um estudante nas muitas áreas que se relacionam com seu trabalho. Revistas de negócios e sites de associações são duas fontes valiosas de conhecimento do setor. Assine boletins eletrônicos e revistas de negócios relacionados à sua área. Digitalize tudo, recorte e salve os artigos que contenham informações que possam ser úteis para você. Organize seus arquivos de recortes para facilitar o acesso aos artigos por assunto.
+
+Leia livros da sua área e monte uma biblioteca de referência. Se um copywriter com 20 anos de experiência escrever um livro sobre publicidade para rádio e você o comprar, poderá aprender em poucos dias de leitura o que ele levou 20 anos para acumular. Faça alguns cursos noturnos. Participe de seminários, conferências e feiras comerciais. Faça amizade com pessoas da área e troque informações, histórias, ideias, casos e dicas técnicas.
+
+A maioria dos profissionais bem-sucedidos que conheço são coletores compulsivos de informações. Você também deve ser.
+
+## 4. Procure por combinações
+
+Já foi dito mais de uma vez: "Não há nada de novo no mundo. Tudo já foi feito antes." Talvez. Mas uma ideia não precisa trazer algo completamente novo. Muitas ideias são simplesmente uma nova combinação de elementos existentes. Ao procurar por combinações e novas relações entre velhas ideias, você pode encontrar uma nova abordagem.
+
+O Apple Watch, por exemplo, foi inventado por uma equipe que combinou várias tecnologias, incluindo um relógio digital, um smart-phone, um monitor de pressão arterial e frequência cardíaca, aplicativos, carregador de bateria sem fio e muitas outras. Niels Bohr combinou duas ideias separadas — o modelo do átomo como um núcleo orbitado por elétrons de Rutherford e a teoria quântica de Planck — para criar a visão moderna do átomo.
+
+Procure combinações sinérgicas ao examinar os fatos. Quais duas coisas podem trabalhar juntas para formar uma terceira coisa que é uma nova ideia? Se você tem dois dispositivos e cada um executa uma função de que você precisa, você pode vinculá-los para criar um produto novo?
+
+## 5. Deixe para amanhä
+
+Deixar o problema de lado por um tempo pode ajudá-lo a renovar seus poderes de produção de ideias exatamente quando você acha que seu poço criativo secou.
+
+Mas não recorra a esse método depois de apenas cinco minutos de pensamentos livres. Em primeiro lugar, você precisa reunir todas as informações que puder. Em seguida, você precisa revisar as informações repetidamente enquanto tenta chegar a essa grande ideia. Você chegará a um ponto em que ficará com os olhos lacrimejantes e des-norteado, apenas repetindo as mesmas ideias de novo e de novo. Esse é o momento de fazer uma pausa, deixar o problema de lado, voltar a pensar nele amanhã e permitir que seu inconsciente assuma o controle.
+
+Uma solução pode aparecer enquanto você dorme, toma banho, faz a barba ou caminha no parque. Mesmo que isso não aconteça, quando você voltar ao problema, descobrirá que pode atacá-lo com vigor renovado e uma nova perspectiva. Eu uso essa técnica para escrever — deixo de lado o que escrevi e leio de novo no dia seguinte.  
+Muitas vezes, as coisas que eu achei que eram brilhantes quando as escrevi podem ser bastante melhoradas com uma segunda olhada.
+
+## 6. Use uma checklist
+
+Checklists podem ser usadas para estimular o pensamento criativo e também como ponto de partida para novas ideias. Existem várias checklists neste livro que você pode usar, mas as melhores são aquelas que você mesmo cria, porque são feitas sob medida para os problemas que surgem em sua rotina diária.
+
+Por exemplo, Jill é uma vendedora bem versada nas características técnicas de seu produto, mas tem problemas na hora de fechar uma venda. Ela poderia superar essa fraqueza fazendo uma checklist das objeções mais comuns dos clientes e como respondê-las. (A lista de objeções pode ser retirada das ligações de vendas feitas ao longo de várias semanas. Táticas possíveis para superar as objeções podem ser obtidas com colegas vendedores, em livros sobre vendas e por meio dos próprios esforços de tentativa e erro.) Então, ao se deparar com um cliente difícil, ela não precisará reinventar a roda e estará preparada para todas as objeções-padrão por causa da familiaridade com a checklist.  
+No entanto, nenhuma checklist pode conter ideias para todo tipo de situação que possa aparecer. Lembre-se: uma checklist deve ser usada como uma ferramenta para o pensamento criativo, não como uma muleta.
+
+## 7. Peça feedback
+
+Sherlock Holmes era um detetive brilhante. Mas até ele precisava trocar ideias com o Dr. Watson às vezes. Como redator profissional, acho que sei como escrever uma copy envolvente. Mas ao mostrar meu rascunho para minha assistente, ela sempre consegue identificar, no mínimo, algumas maneiras de torná-lo melhor.
+
+Algumas pessoas preferem trabalhar sozinhas. Eu sou uma delas, e talvez você também seja. Mas se você não trabalha em equipe, obter a opinião de outra pessoa sobre seu trabalho pode ajudá-lo a focar o pensamento e produzir ideias em que você não tinha pensado.
+
+Aceite o feedback. Vale muito a pena. Se você acha que está certo e que as críticas são infundadas, simplesmente ignore-as. Mas, na maioria das vezes, o feedback fornecerá informações úteis que podem ajudar você a ter as melhores e mais lucrativas ideias.
+
+É claro que se você pedir a outras pessoas para "darem uma olhada no relatório", deve estar disposto a fazer o mesmo por elas quando solicitarem sua opinião. Você descobrirá que revisar o trabalho de outras pessoas é educativo e divertido. É mais fácil criticar o trabalho de outra pessoa do que criar o próprio. E você ficará satisfeito com as melhorias que indicar — coisas que são óbvias para você, mas que a outra pessoa nunca teria pensado.
+
+## 8. Trabalhe em equipe
+
+Algumas pessoas pensam de forma mais criativa quando trabalham em grupos. O ideal é que as pessoas da sua equipe tenham habilidades e processos de pensamento que equilibrem e complementem os seus. Por exemplo, em publicidade, os copywriters (o pessoal das palavras) se juntam aos diretores de arte (o pessoal da fotografia) e aos engenheiros de software (o pessoal da computação).
+
+Nas start-ups, a pessoa com a ideia que deu início à empresa geralmente contrata um gerente profissional de uma das 500 empresas lis-tadas pela Fortune à medida que o novo empreendimento cresce. O empreendedor sabe como fazer as coisas acontecerem, mas o gerente sabe como administrar uma empresa lucrativa e eficiente.
+
+Como engenheiro, você pode inventar um microchip melhor. Mas, se você quiser fazer uma fortuna vendendo isso, deve se juntar a alguém que tenha uma forte experiência em vendas e marketing.
+
+## 9. Dê uma chance a novas ideias
+
+Muitas pessoas de negócios, especialmente as do tipo gerencial, desenvolvem as faculdades críticas com mais precisão do que as faculdades criativas. Se engenheiros criativos e inventores tivessem ouvido essas pessoas, não teríamos computadores pessoais, carros elétricos, aviões, lâmpadas, smartphones ou energia hidrelétrica.
+
+O processo criativo funciona em duas etapas. A primeira é a fase de produção de ideias, quando estas fluem livremente. A segunda é o estágio crítico ou de "edição", em que você expõe cada ideia à luz do dia e analisa se elas são práticas.
+
+Muitos de nós cometemos o erro de misturar as etapas, especialmente durante a primeira, quando estamos ansiosos demais para criticar uma ideia assim que ela é apresentada. Como resultado disso, descartamos ideias e fazemos julgamentos precoces quando deveríamos incentivar a produção de ideias. Evite cometer esse erro, pois muitas boas ideias são descartadas dessa maneira.
+
+As tarefas e procedimentos descritos neste capítulo podem parecer difíceis, mas não se preocupe. Você consegue! Preste atenção neste conselho de Lou Redmond, ex-copywriter da Ogilvy & Mather: "A publicidade é uma das artes menores, então não se deixe intimidar por ela."
+
+# Tipos de anúncios
+
+Todos os anúncios impressos são basicamente iguais? Ou existem diferentes técnicas para escrever anúncios em diferentes mídias ou anúncios desenvolvidos para atingir objetivos diferentes?
+
+Os fundamentos da boa publicidade impressa são os mesmos em todas as mídias, e o próximo capítulo descreverá as nove características do anúncio de sucesso. Mas o tom, o conteúdo e o foco do anúncio podem variar de acordo com o propósito e o meio em que é exibido.
