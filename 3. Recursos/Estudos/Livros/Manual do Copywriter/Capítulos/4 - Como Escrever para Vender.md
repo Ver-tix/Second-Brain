@@ -88,3 +88,354 @@ A quarta e minha favorita é a "sequência motivadora": uma fórmula de cinco et
 Esse é o trabalho do título e da parte visual. O título deve se concentrar no benefício mais forte que pode ser oferecido ao leitor.
 
 Alguns copywriters tentam fisgar o leitor com frases inteligentes, trocadilhos ou informações irrelevantes e, em seguida, guardam o maior benefício para um grande final. Isso é um erro. Se você não fisgar o leitor com o benefício mais forte — a razão mais importante pela qual a pessoa deveria estar interessada no que você está vendendo —, ele não passará do título. (Para mais dicas sobre como escrever títulos, veja o [[2 - Como Escrever para Chamar Atenção - O Título e o Assunto|capítulo 2]].)
+
+## 2. Mostre uma necessidade
+
+Todos os produtos, até certo ponto, resolvem algum problema ou satisfazem uma necessidade. Um carro resolve o problema de ir e voltar do trabalho. Um ar-condicionado evita que você fique suando no calor do verão. A pasta de dente com flúor evita que os dentes fiquem com cáries, e o enxaguante bucal evita o constrangimento de ter mau hálito.
+
+No entanto, na maioria das vezes, a necessidade atendida pelo produtor pode não ser tão óbvia ou pode não estar enraizada na mente do leitor. Então, o segundo passo para escrever uma copy que vende é mostrar ao leitor por que ele precisa do produto.
+
+Por exemplo, muitos proprietários de pequenas empresas se encarregam dos próprios impostos e não pensam em contratar um contador. Mas um contador, com seu conhecimento superior sobre impostos, pode aproveitar as últimas regulamentações tributárias e economizar centenas ou até milhares de dólares em imposto de renda para o proprietário da empresa.
+
+Assim promete o comercial de TV de uma empresa de redução de impostos: se você deve US$ 10 mil ou mais para a Receita Federal, podemos ajudá-lo a quitar cada centavo do imposto que você deve.
+
+## 3. Satisfaça a necessidade e posicione seu produto como a solução para o problema
+
+Depois de convencer os leitores de que eles têm uma necessidade, você deve mostrar a eles rapidamente que seu produto pode satisfazer essa necessidade, responder suas dúvidas ou resolver seus problemas.
+
+Um anúncio para uma empresa de contadores oficialmente credenciados pode começar assim:
+
+> _**Você pagaria US$ 1.000 para economizar US$ 5.500?**_  
+> No ano passado, uma floricultura local decidiu contratar um contador para fazer suas declarações de imposto de renda. Os donos se preocuparam com a taxa aparentemente alta, mas perceberam que não tinham tempo — ou experiência — para fazer isso sozinhos.
+> 
+> É possível imaginar como eles ficaram encantados quando contrataram um contador que lhes mostrou como poderiam pagar milhares de dólares a menos em imposto de renda do que originalmente pensavam que deviam.
+> 
+> Eu sou o contador deles e gostaria de contar como a floricultura — e dezenas de outras empresas cujos impostos eu calculo — economizaram US$ 2.000... US$ 3.500... US$ 5.500 por ano ou mais, valendo-se de regulamentações legítimas, deduções e isenções fiscais.
+
+Essa copy não é perfeita. Ela precisa de uma reelaboração. Mas ela chama a atenção, destaca um grande benefício (economizar dinheiro) e mostra que o serviço anunciado pode satisfazer essa necessidade.
+
+## 4. Prove que seu produto pode fazer o que você diz que ele faz
+
+Não basta dizer que você pode satisfazer as necessidades dos leitores - você precisa provar que pode. Você quer que os leitores arrisquem o dinheiro suado deles em seu produto ou serviço. Quer que eles comprem ou contratem você em vez de seus concorrentes. Como você demonstra sua superioridade sobre a concorrência? Como fazer com que os leitores acreditem no que você diz?
+
+Aqui estão algumas técnicas comprovadas para convencer os leitores de que é vantajoso para eles fazer negócios com você:
+
+- Fale sobre os benefícios do seu produto ou serviço (use a lista de recursos/benefícios como fonte de informações). Dê aos leitores motivos para comprar, mostrando os benefícios que vão ter ao adquirir seu produto.
+- Use depoimentos. Nos depoimentos, outras pessoas que compraram o produto elogiam-no com as próprias palavras. Esse endosso de terceiros é muito mais convincente do que os fabricantes elogiando os próprios produtos.
+- Compare seu produto com o da concorrência. Mostre, para cada benefício, como você é superior. Mas tenha uma documentação que comprove sua afirmação, caso sua copy seja contestada.
+- Se você desenvolveu estudos para provar a superioridade do seu produto, cite essa evidência na copy. Ofereça uma reimpressão gratuita do estudo aos leitores interessados. Para suplementos alimentares, a prova são estudos clínicos — de preferência randomizados, duplo-cegos e controlados - publicados em revistas médicas revisadas por pares.
+- Mostre que sua empresa é confiável e que continuará no mercado por muito tempo. Fale sobre número de funcionários, tamanho da rede de distribuidores, vendas anuais, anos de existência e taxa de crescimento.
+
+## 5. Solicite uma ação
+
+O último passo em qualquer copy deve ser sempre um apelo à ação. Se o produto é vendido pelo correio, peça aos leitores que enviem um formulário de pedido pelo correio ou que comprem on-line. Se o produto é vendido no varejo, peça aos leitores que recortem o anúncio e o levem até a loja.
+
+Se o seu anúncio não vende o produto diretamente, descubra a próxima etapa do processo de compra e informe seus leitores sobre isso. Por exemplo, você pode oferecer um folheto gratuito, uma demonstração ou uma amostra do produto. No mínimo, encoraje os leitores a procurar o produto depois, se não forem comprá-lo hoje.
+
+Facilite a ação dos leitores. Inclua nome, endereço e telefone da sua empresa em cada copy que escrever.
+
+Se você estiver escrevendo uma copy de varejo, inclua o horário e o endereço das lojas.
+
+Se for uma copy para um hotel ou atração turística, inclua instruções fáceis de seguir sobre como chegar lá, juntamente com um mapa da área claramente desenhado.
+
+Se você quiser que os leitores enviem um pedido ou escrevam pedindo um folheto gratuito, inclua um cupom de desconto para que eles possam recortar e enviar pelo correio.
+
+Se você quiser que os leitores liguem, destaque seu número gratuito em um grande negrito. E, se você aceitar pedidos com cartão de crédito, deixe isso bem claro e indique quais cartões você aceita.
+
+Coloque formulários de pedido em catálogos, cartões-respostas em malas diretas, listas de revendedores em revistas de vendas industriais e formulários de resposta no topo das landing pages. Facilite a resposta dos seus leitores.
+
+Ofereça uma opção de resposta pela internet, em que hyperlinks no anúncio abrem um formulário on-line que potenciais clientes podem usar para solicitar mais informações ou realizar a compra.
+
+Se possível, incentive os leitores a responder imediatamente, usando um cupom de desconto, oferecendo uma venda por tempo limitado ou um desconto exclusivo para as primeiras mil pessoas que comprarem o produto. Não tenha medo de tentar ações que gerem vendas imediatas, bem como a "construção da imagem" no longo prazo. Faça o pedido, faça imediatamente.
+
+# Use a “falsa lógica” para que os fatos apoiem seus argumentos de vendas
+
+A falsa lógica, termo cunhado pelo grande copywriter Mark Ford, é a copy que, por meio de uma escrita hábil, manipula (mas não mente ou deturpa) os fatos existentes. O objetivo é ajudar os leitores a chegar a conclusões que esses fatos, apresentados sem os malabarismos discursivos do copywriter, talvez não permitissem.
+
+Por exemplo: um catálogo da Harry & David diz sobre suas peras: "Entre mil pessoas, nenhuma sequer as provou." A estatística, apresentada pelo redator do catálogo, faz com que o produto pareça raro e exclusivo — e é assim que o leitor comum o interpreta, exatamente como pretendia o copywriter.
+
+Mas uma análise lógica dessa afirmação pode dizer que ela indica que as peras não são muito populares — quase ninguém as compra.
+
+É possível argumentar que a falsa lógica pode beirar o engano, mas o publicitário precisa fazer essa ligação por si mesmo. Um intermediador de metais anunciou "95% dos pedidos enviados do estoque" para indicar pronta disponibilidade. Ele administrava seu negócio em um escritório e tinha um depósito muito pequeno. Como ele poderia alegar que foi enviado do estoque?
+
+"Nós realmente enviamos 95% dos pedidos do estoque", explica o publicitário. "Mas não do nosso estoque — do estoque do fornecedor de metal. Nós somos apenas um revendedor. Mas não divulgamos isso, pois ser um intermediário, muitas vezes, soa negativo."
+
+Uma promoção que vende um boletim informativo do mercado de ações para os consumidores compara o preço da assinatura de US$ 99 aos US$ 2.000 que o editor cobraria se administrasse seu dinheiro para você, com base em uma taxa de 2% e um investimento mínimo de US$ 100.000.
+
+A copy implica que o assinante está fazendo com que o Sr. Editor lhe dê US$ 2.000 em serviços de gestão de dinheiro por US$ 99, e rapidamente ignora o fato de que o boletim informativo não é exatamente o mesmo que uma conta administrada.
+
+Um exemplo semelhante é a promoção, feita pelo meu amigo Don Hauptman para a American Speaker, de um serviço de apostilas para executivos sobre como fazer bons discursos. Em sua promoção, ele destaca que esse produto pode te ajudar com seus discursos o ano todo (ele tem suplementos periódicos), em comparação com os US$ 5 mil que um redator profissional de discursos cobra para escrever apenas um discurso. E claro que, na realidade, a American Speaker não irá escrever o discurso por você.
+
+Há um debate contínuo sobre se as pessoas compram por razões emocionais ou lógicas, mas a maioria dos profissionais de marketing bem-sucedidos sabe que a primeira delas domina as intenções de compra mais do que a segunda. Costuma-se dizer: "As pessoas compram com base na emoção, depois racionalizam logicamente a decisão de compra."
+
+"Apenas 5% de nossos processos de pensamento são totalmente conscientes", escreve Dan Hill, presidente da Sensory Logic. "Há evidências neurológicas de que respondemos emocionalmente — na verdade, nós decidimos — sobre um produto ou serviço em três segundos. Portanto, as empresas precisam fazer uma conexão emocional com os consumidores." Como as decisões de compra são baseadas em fortes sentimentos e crenças arraigadas, a publicidade deve fornecer justificativas e suporte para aquilo que o consumidor já deseja fazer. Portanto, desde que o argumento lógico transmita credibilidade e seja sensato, seus leitores o aceitarão. Eles não investigam isso cientificamente ou com tanta profundidade quanto, digamos, Ralph Nader, Michael Moore ou um repórter investigativo do Consumer Reports ou do LA Times.
+
+Alguns críticos veem o marketing direto como um passo abaixo do marketing geral, em termos de respeitabilidade, ética e honestidade. Talvez eles possam inferir que minha defesa do uso de falsa lógica fortaleça o argumento deles. Mas, na verdade, a falsa lógica não é apenas da alçada dos profissionais de marketing direto: os profissionais de marketing em geral utilizam-na rotineiramente, alguns com grande sucesso.
+
+O McDonald's anuncia "bilhões vendidos" apenas para promover seus hambúrgueres — levando os clientes à falsa conclusão de que, só porque algo é popular, é necessariamente bom. Editores usam uma lógica semelhante quando alardeiam um livro como "um best-seller do New York Times".  
+Tudo isso é antiético? Você pode tirar sua própria conclusão, mas na minha opinião, não.
+
+Copywriters, assim como advogados, são defensores do cliente (ou empregador). Assim como advogados usam todos os argumentos disponíveis para ganhar suas causas, copywriters usam todos os fatos disponíveis para conquistar consumidores para o produto.
+
+Certamente, não devemos comercializar produtos que sejam ilegais, perigosos ou imorais, embora o catálogo da Victoria's Secret visto por um homem possa representar conteúdo levemente erótico para outro. Não usar todas as ferramentas à nossa disposição para persuadir o comprador é incompetência, falha no cumprimento dos deveres fiduciários ou ambas as opções — e a falsa lógica está entre as mais eficazes dessas ferramentas.
+
+# A proposta única de valor
+
+Samuel Johnson disse: "A promessa, uma grande promessa, é a alma de um anúncio."
+
+Mas como fazer uma grande promessa poderosa o suficiente em seu anúncio para convencer o consumidor a comprar seu produto em vez das marcas concorrentes?
+
+Uma maneira é desenvolver uma atraente Proposta Única de Valor, ou Proposta Unica de Venda - PUV (Unique Selling Proposition - USP, em inglês).
+
+O que é uma PUV? Rosser Reeves, autor de Reality in Advertising, cunhou esse termo para descrever a maior vantagem do seu produto sobre a concorrência. A ideia é a seguinte: se o seu produto não é diferente ou melhor do que outros do mesmo tipo, então não há razão alguma para os consumidores o escolherem no lugar de outra opção.
+
+Portanto, para ser efetivamente promovido, seu produto deve ter uma Proposta Única de Valor: um grande benefício que outros produtos de sua categoria não oferecem.
+
+Segundo Reeves, uma PUV deve conter estes três requisitos (cito, em itálico, alguns trechos do livro Reality in Advertising):
+
+1. **Todo anúncio deve propor algo para o consumidor. Todos devem dizer: "Compre este produto e você ganhará esse benefício específico."** Seu título deve conter um benefício, uma promessa ao leitor.
+2. **A proposta deve ser aquela que a concorrência não oferece ou não pode oferecer.** É aqui que entra o único na Proposta Única de Valor. Não basta oferecer apenas um benefício. Você deve diferenciar seu produto de outros produtos similares. A PUV da M&M's é que o chocolate tem uma casquinha dura para não derreter na mão.
+3. **A proposta deve ser a mais forte possível para que possa movimentar milhões de pessoas (ou seja, atrair novos clientes para o seu produto).**  
+    A diferenciação não pode ser trivial. Deve ser uma diferença importante para o leitor.
+
+Por que tantos anúncios fracassam? Uma das razões é que o profissional de marketing não formulou uma PUV forte para seu produto e não desenvolveu sua publicidade a respeito dela. Quando você começa a criar publicidade sem antes pensar no que é sua PUV, seu marketing será fraco porque não haverá nada nele para compelir o leitor a res-ponder. Vai parecer e soar como todo mundo, e o que disser não será importante para o leitor.
+
+Na publicidade geral de embalagens de produtos, profissionais de marketing se diferenciam construindo uma marca forte a um custo de milhões, ou mesmo bilhões, de dólares.
+
+A Coca-Cola tem uma vantagem por causa da marca. Se você quiser um refrigerante do tipo cola, pode escolher entre uma dúzia de fabri-cantes. Mas se você quiser uma Coca, só poderá comprar da Coca-Cola.
+
+A Intel alcançou um domínio de marca semelhante, por um custo extraordinário, com sua linha de microprocessadores Pentium.
+
+A maioria das empresas é muito pequena e tem uma necessidade muito forte de gerar um retorno sobre investimento (ROI, do inglês, return on investment) positivo e imediato com o marketing, para valer a pena se envolver nesse tipo de construção dispendiosa de marca. Por isso usamos outros meios para conseguir diferenciar a nossa PUV.
+
+Um método popular é diferenciar seu produto ou serviço da concorrência com base em um recurso que estes têm, e o dela não.
+
+O erro comum aqui é construir a PUV em torno de um recurso que, embora diferente, não seja importante para os potenciais clientes e, por-tanto, seja improvável que os levem a experimentar seu produto ou serviço.
+
+Por exemplo, na indústria de equipamentos químicos, é comun os fabricantes de bombas hidráulicas tentarem conquistar clientes anunciando um recurso de design exclusivo. Infelizmente, essas mudanças de design muitas vezes não resultam em nenhuma melhoria real de desempenho, ou seja, nenhuma vantagem real com a qual os clientes se importem.
+
+Em um anúncio industrial clássico, veiculado no século XX, a Blackmer Pump, percebendo que não poderia se diferenciar com base em um princípio de design técnico, adotou uma abordagem diferente: criar uma PUV baseada na aplicação do produto.
+
+Os anúncios da Blackmer mostravam um anúncio retirado de um guia de compras industrial, cheio de listas de fabricantes de bombas, incluindo a Blackmer. O nome da empresa estava circulado à caneta. O título do anúncio dizia: "Há certas ocasiões em que você deve ligar para a Blackmer e solicitar uma bomba. Sabe quando?"
+
+Em outras palavras, essa copy quer dizer o seguinte (e estou parafraseando aqui): "Em muitas aplicações, a Blackmer não tem desempenho melhor ou pior do que qualquer outra bomba, então não somos uma escolha particularmente vantajosa."
+
+Mas o anúncio continuou dizendo que, para certas aplicações (fluidos viscosos, fluidos contendo abrasivos, pastas e algumas outras situações), a Blackmer provou superar todas as outras bombas, tornando-se, assim, a escolha mais lógica. A Blackmer fechou o anúncio oferecendo ainda um manual técnico gratuito, comprovando a afirmação.
+
+Meu velho amigo Jim Alexander, da Alexander Marketing em Grand Rapids, Michigan, criou essa campanha e me disse que funcionou extremamente bem.
+
+A situação mais fácil para criar uma PUV forte é quando seu produto tem um recurso exclusivo — que os concorrentes não têm — que oferece um grande benefício. Essa deve ser uma vantagem com a qual o cliente realmente se preocupa, não uma vantagem que, embora seja uma diferença, seja trivial.
+
+Mas e se a tal vantagem exclusiva não existir? E se seu produto for basicamente igual ao da concorrência, sem características especiais?
+
+Reeves fornece essa resposta também. Ele disse que a singularidade pode resultar de uma marca forte (já mencionada como uma opção que 95% dos profissionais de marketing não podem usar) ou de "uma afirmação não feita de outra maneira nesse tipo específico de publicidade" — Ou seja, outros produtos também podem ter esse recurso, mas os anunciantes não informaram isso aos consumidores.
+
+Voltando ao nosso exemplo de publicidade de embalagens: "M&M's derretem na sua boca, e não na sua mão." Uma vez que a M&M estabeleceu essa proposição como sua PUV, o que a concorrência poderia fazer? Publicar um anúncio dizendo "Nós também derretemos na sua boca, e não na sua mão!"?
+
+Para sermos profissionais de marketing bem-sucedidos, devemos criar publicidade que gere receita líquida superior ao seu custo. Reeves acreditava que toda publicidade tinha que fazer isso. Ele definiu a publicidade como "a arte de colocar uma PUV na cabeça da maioria das pessoas pelo menor custo possível". Se eu pudesse mudar sua definição, mudaria para: "colocar uma PUV na cabeça das pessoas mais propensas a comprar o produto pelo menor custo de publicidade possível."
+
+Herb Ahrend, fundador da Ahrend Associates Inc., disse certa vez: "Um copywriter precisa criar valor percebido. Ele precisa perguntar: “Qual é a natureza do produto? O que torna esse produto diferente? Se ele não é diferente, que atributo você pode destacar que não foi enfatizado pela concorrência?"
+
+Malcolm D. MacDougall, ex-presidente e diretor criativo da SSC&B, disse que existem quatro maneiras de anunciar produtos aparentemente semelhantes:
+
+1. **Enfatize um benefício pouco divulgado ou pouco conhecido.**  
+    Certa vez, um copywriter visitou uma cervejaria na esperança de aprender algo que pudesse diferenciar a cerveja produzida ali das outras cervejas. Ele ficou fascinado ao descobrir que as garrafas de cerveja, assim como as de leite, eram lavadas no vapor para matar os germes. Embora esse procedimento fosse padrão em todas as marcas de cerveja, nenhum outro fabricante havia enfatizado o fato. Assim, o copywriter escreveu sobre uma cerveja tão pura que as garrafas eram lavadas no vapor, nascendo assim a Proposta Única de Valor da cerveja. Estude sua lista de recursos e benefícios do produto. Depois, veja os anúncios da concorrência. Existe um benefício importante que foi ignorado, que você pode adotar como a Proposta Única de Valor, que diferenciará seu produto de todos os demais?
+2. **Dramatize e demonstre um grande benefício de forma convincente.**  
+    A PUV da Flex Tape destaca sua fita adesiva à prova d'água. A empresa fez um comercial de TV mostrando um barco de metal serrado ao meio.  
+    Depois de colar as duas metades com a Flex Tape, o barco foi levado para um lago. Ele navegou rapidamente e sem qualquer vazamento.
+3. **Dramatize o nome do produto ou a embalagem.**  
+    Você se lembra do Pez, o doce que vinha em dosadores de plástico, feitos para ficarem parecidos com Mickey Mouse, Pluto e outros personagens de desenho animado? Ele era um doce comum, mas sua embalagem o tornava especial.  
+    Da mesma forma, a característica mais incomum da meia-calça original da L'eggs não era seu design, tecido ou estilo, mas a embalagem em forma de ovo em que era vendida. Tornar famoso o nome do seu produto ou a embalagem dele é uma maneira segura de garantir que o produto saia das prateleiras das lojas. Mas isso custa caro. A não ser que seu cliente seja um grande profissional de marketing, com um orçamento de um milhão de dólares, essa tática será difícil de executar.
+4. **Construa as personalidades da marca no longo prazo.**  
+    Outra tática utilizada pelos fabricantes de grandes marcas nacionais é criar publicidade que dê "personalidade" à sua marca.
+
+Os comerciais da Stella Artois com a Sarah Jessica Parker apresentam a cerveja como uma alternativa sofisticada a um cosmopolitan, um martini ou outros coquetéis. Da mesma forma, usar o apresentador Alex Trebek, do programa Jeopardy!, como porta-voz da Colonial Penn Life Insurance transmite a imagem de um produto financeiro que pessoas inteligentes gostariam de ter. Se você tem milhões para gastar, pode usar a publicidade para dar ao seu produto uma "perso-nalidade"única e inseri-la na mente do consumidor. Mas, mesmo que seu orçamento de publicidade seja mais modesto, você ainda pode usar recursos e benefícios para criar uma Proposta Única de Valor que diferenciará seu produto dos demais.
+
+## A promessa secundária
+
+Samuel Johnson estava certo: para se destacar em meio a tantos e gerar uma resposta lucrativa, o marketing deve fazer uma grande promessa. Veja aqui alguns exemplos de grandes promessas de promoções clássicas:
+
+- "Se aposente no exterior com US$ 600 por mês."
+- "Dinheiro grátis esperando por você."
+- "John F. Kennedy tinha isso. A princesa Diana também. O Michael Jordan tem agora. Essa é a razão pela qual milhões de pessoas os adoram. Olhe para dentro de si e descubra o que é e como você pode adquirir."
+
+Testes mostram que, pelo menos no marketing direto ao consumi-dor, pequenas promessas não funcionam. Para chamar atenção e gerar interesse, você precisa fazer uma promessa grande e poderosa.
+
+Mas tem um problema: o que acontece se o leitor duvidar... já que a promessa é tão fantástica e boa demais para ser verdade? Nesse caso, use uma promessa secundária.
+
+A promessa secundária é um benefício menor que o produto também oferece. Embora não seja tão ampla quanto a grande promessa, a secundária deve ser grande o bastante para que, por si só, seja motivo suficiente para o consumidor comprar o produto — mas humilde o suficiente para se acreditar nela com facilidade.
+
+Dessa forma, mesmo que os leitores sejam totalmente céticos quanto à grande promessa, eles podem acreditar na secundária e comprar apenas com base nela.
+
+Por exemplo, uma promoção de investimento tinha uma grande promessa em seu título: "Por mais louco que pareça, as ações desta pequena empresa de pesquisa e desenvolvimento, vendidas por USS 2 hoje, podem valer até US$ 100 em breve." Essa sim é uma promessa bem grande: fazer uma ação passar de US$ 2 para US$ 100 é um ganho de 4.900%. Com mil ações, seu lucro seria de US$ 98 mil.
+
+O problema é que, num período de mercado em baixa, esse ganho pode, para alguns leitores, ser alto demais para acreditarem. No entanto, nesse caso, estavam mesmo falando a verdade: se o dispositivo médico da empresa ganhasse a aprovação da FDA, um aumento de cinquenta vezes no preço das ações não estava fora de questão.
+
+A solução para isso é um subtítulo inserido diretamente abaixo da grande promessa do título, com uma promessa secundária:
+
+> Eu acho que essa nova tecnologia para tratar doenças do fígado vai funcionar. Se isso acontecer, o preço das ações pode facilmente aumentar 50 vezes ou mais.
+> 
+> E mesmo que não aumente, e o tratamento da empresa seja um fracasso total, a ação ainda pode render aos investidores em estágio inicial um ganho de 500% em suas ações nos próximos 24 meses.
+
+A pegadinha era a seguinte: mesmo que o tratamento não ganhasse a aprovação da FDA, a empresa ainda ganharia muito dinheiro (embora não tanto quanto com o tratamento aprovado) usando a mesma tecnologia em uma aplicação diferente. Portanto, mesmo que a grande promessa não desse certo, a promessa secundária seria suficiente para fazer valer a pena investir nessas ações.
+
+Existem muitas técnicas que você pode usar para provar sua grande promessa quando seu leitor estiver em dúvida. Isso inclui testemunhos, estudos de caso, resultados de testes, revisões favoráveis, design superior do produto, histórico, sistema ou metodologia, reputação do fabricante.
+
+Tudo isso é bom. Mas o problema é este: se a grande promessa for tão forte que os leitores tendam a descartá-la como falsa, você vai acabar discutindo e indo contra a crença arraigada deles ao apresentar todas essas provas.
+
+Eu ainda apresentaria a prova, mas uma maneira mais fácil de superar a dúvida sobre a grande promessa é sempre acompanhá-la com uma promessa secundária também desejável, porém menor e mais fácil de acreditar.
+
+A promessa secundária é sua promessa "backup". Em um pacote com uma grande promessa e uma secundária, a grande atrairá leitores porque é ampla — e se você oferecer provas suficientes, muitos desses leitores irão acreditar.
+
+E quanto aos potenciais clientes ainda não convencidos? Sem uma promessa secundária, eles simplesmente descartarão seu anúncio ou correspondência sem resposta.
+
+Mas quando você adiciona uma promessa secundária e a torna proeminente (o que significa apresentá-la no título ou no lide), muitas pessoas que acham difícil de acreditar na grande promessa irão achar a promessa secundária confiável — e atraente o bastante para, sozinha, vender as duas.
+
+Na verdade, com uma promessa secundária, os clientes em potencial que não acreditam totalmente em sua grande promessa ainda podem ser persuadidos por ela. Eles pensam: "Ei, se essa grande promessa for verdade, este é um bom produto para se comprar; e mesmo que não seja verdade, o produto vale mais do que o preço apenas pela promessa secundária — a qual tenho certeza de que é verdade. Então, de qualquer forma, não há o que se perder."
+
+# Conheça o seu cliente
+
+A revista _Psychology Today_ apresentou um estudo desenvolvido para descobrir as características dos vendedores de sucesso.
+
+"Os melhores vendedores estabelecem primeiramente um clima de confiança e relacionamento por meio do 'ritmo hipnótico' — declarações e gestos que reproduzem as observações, experiências ou comportamentos de um cliente, escreveu o autor do estudo. "O ritmo é uma espécie de correspondência espelhada, uma maneira de sugerir: Eu sou como você. Estamos em sincronia. Você pode confiar em mim."
+
+Em outras palavras, os vendedores de sucesso têm empatia com seus clientes. Em vez de começar com um discurso de vendas já pronto, ovendedordesucesso primeirotenta entenderasnecessidades, ohumor, a personalidade e os preconceitos do cliente. Ao espelhar os pensamentos e sentimentos do cliente em suas apresentações de vendas, os vendedores bem-sucedidos vencem a resistência às vendas, estabelecem confiança e credibilidade e destacam apenas os benefícios do produto que interessam ao cliente.
+
+Os copywriters também devem conhecer os clientes. Compreender os clientes e suas motivações para comprar o produto é o segredo para escrever uma copy que vende.
+
+Muita publicidade é criada no vácuo. Anunciantes e agências redigem a copy baseados nos recursos do produto que agradam a eles mesmos, e não nos recursos importantes para o cliente. O resultado é uma copy que agrada à agência e ao anunciante, mas deixa o cliente com um sentimento de indiferença.
+
+Em uma pesquisa publicada em um boletim de marketing, agências de publicidade e compradores de produtos de alta tecnologia foram questionados sobre quais características de produtos consideravam importantes. Os resultados mostraram que as agências enfatizaram características que não eram importantes para os compradores e também omitiram informações vitais para eles. Por exemplo, tanto os agentes de compras quanto os engenheiros classificaram o preço como a consideração número dois na aquisição de equipamentos de alta tecnologia. Mas as agências disseram que o preço não era um ponto de interesse importante. Elas disseram que os anúncios de alta tecnologia devem enfatizar como o produto economiza o tempo do comprador. Mas engenheiros e agentes de compras disseram que isso é muito menos importante do que as especificações e limitações do produto.
+
+Ao redigir uma copy, não escreva no vácuo. Não basta sentar-se em frente ao computador e escolher os recursos e benefícios que mais lhe agradam. Em vez disso, descubra quais benefícios e recursos são mais importantes para os seus leitores e escreva sobre os argumentos de venda que irão motivá-los a comprar o produto.
+
+Um bom exemplo de copy que "chega na casa" do leitor é uma carta de assinatura que recebi alguns anos atrás da revista Inc. Esta é a introdução da carta:
+
+> Um convite especial para o herói dos negócios americanos
+> 
+> Caro Empreendedor, É você mesmo!
+> 
+> Você é o tipo de pessoa sobre quem a livre iniciativa é construída. A am-bição, a visão e a coragem dos pequenos empresários como você sempre foram a força motriz por trás da economia americana.
+> 
+> Infelizmente, esse é um fato que a imprensa de negócios em geral parece ter esquecido. Na sua ênfase em tudo o que é grande, como conglome-rados, multinacionais e empresas petrolíferas do tamanho de países, a maioria das publicações de negócios presta muito pouca atenção ao pequeno empreendedor.
+
+A carta é eficaz porque fala diretamente ao orgulho que os empreendedores sentem daquilo que conquistaram com o próprio esforço. O autor da carta fez um bom trabalho de empatia com o leitor e de entender como um empreendedor pensa sobre si mesmo.
+
+Você também deve conhecer seu leitor. Uma maneira de fazer isso é começar a prestar muita atenção ao seu próprio comportamento como consumidor.
+
+Quando você começar a pensar como consumidor em vez de redator, será mais respeitado pelo seu leitor e escreverá uma copy que forneça tanto informações úteis sobre o produto quanto apelos de vendas, e não algo extravagante e vazio.
+
+Outra maneira de entender seu cliente em potencial é observar os consumidores e ser um estudante ativo do mercado. Quando estiver no supermercado, observe outros compradores. Que tipo de pessoa compara os produtos e que tipo vai atrás das marcas?
+
+Ao visitar uma concessionária de automóveis, observe como os vendedores bem-sucedidos fazem as ofertas e tratam os clientes. Ouça o discurso de vendas e reflita porque ele influenciou você ou não.
+
+Tenha um interesse ativo no mundo do e-commerce. Ao visualizar um anúncio no Facebook, preste atenção no assunto, na oferta e no design.
+
+Converse com os empresários com quem você negocia — donos de lojas, encanadores, advogados, jardineiros, a pessoa que conserta seu aquecedor de água — e descubra as técnicas que eles usam para promover os serviços e produtos que oferecem. As pessoas mais próximas de seus clientes — como muitos pequenos empresários — sabem mais sobre a realidade das vendas do que a maioria dos executivos de contas de agências de publicidade ou gerentes de marcas corporativas. Ouça essas pessoas e você aprenderá sobre o que fideliza o cliente. (O capítulo 5 fornecerá dicas extras sobre como conhecer seu leitor.)
+
+Como diz o ditado: "Você não pode agradar a gregos e troianos". Isso certamente se aplica à publicidade e à venda. Você não pode criar um anúncio ou comercial que agrade a todos, porque diferentes grupos de compradores têm necessidades diferentes. Portanto, como copywriter, você deve primeiro identificar seu público — o segmento de mercado para o qual está vendendo — e então aprender quais benefícios do produto interessam a esses compradores.
+
+Adapte o conteúdo e a apresentação de suas informações ao grupo de clientes para o qual você está vendendo. Pegue os alimentos congelados como exemplo. Ao vender alimentos congelados para um pai ou mãe que cozinha, ele ou ela estará mais interessado em nutrição e preço.
+
+Mas um profissional jovem e solteiro está interessado principalmente na conveniência: ele ou ela não quer passar muito tempo na cozinha. O preço não é um fator tão importante porque o jovem profissional tem mais renda disponível do que uma pessoa responsável por uma família.
+
+Veja outro exemplo com fotocopiadoras. Uma grande empresa que compra uma copiadora deseja uma máquina que seja rápida e ofereça uma maior variedade de recursos, como cópias coloridas, agrupadas e frente e verso. Mas o profissional autônomo que traba-Iha em casa tem necessidades diferentes. Seu orçamento é limitado, então a copiadora deve ser barata. E, como ele trabalha em casa, o espaço é valioso, então a compacidade é um recurso importante. A velocidade e a capacidade não são tão cruciais, já que o profissional que trabalha em casa faz menos cópias do que o usuário corporativo.
+
+Às vezes, os benefícios a serem enfatizados para vários grupos de compradores são óbvios. Em outros casos, você deve perguntar ao anunciante ou aos clientes dele quais recursos devem ser enfatizados. Certa vez, recebi a tarefa de vender um sistema purificador de água para dois tipos diferentes de clientes: usuários marítimos (principalmente embarcações de pesca comercial) e usuários da indústria química (fábricas químicas). Mesmo produto, dois compradores diferentes.
+
+Ao conversar com alguns clientes em cada grupo, descobri que os usuários marítimos valorizam uma operação confiável, pois não podem ficar sem água fresca enquanto estão no mar. O peso também é importante, pois quanto maior o equipamento, mais combustível o barco consome para transportá-lo.
+
+Os compradores da indústria química, por outro lado, não se importam com o peso, porque a máquina é instalada no chão da fábrica. E, por terem muitas fontes de água, a confiabilidade não é tão crucial. Os compradores da indústria química — todos engenheiros de formação — estavam mais interessados nas características técnicas. Eles queriam conhecer todas as especificações do produto até a última porca, parafuso, bomba e tubulação. Eu não saberia que essas diferenças existiam a não ser que eu perguntasse. É por isso que é essencial que você conheça seu comprador.
+
+Mas o quanto você realmente conhece seus clientes? Saber que está escrevendo para agricultores, profissionais de tecnologia da informação (TI) ou encanadores é apenas o começo. Você deve ir mais fundo. Mas como?
+
+Para escrever uma copy poderosa, é preciso ir além dos dados demográficos para entender o que realmente motiva essas pessoas: quem são elas, o que querem, como se sentem e quais são os maiores problemas e preocupações que seu produto pode ajudar a resolver. A sua copy deve alcançar os clientes em potencial em três níveis: _intelectual_, _emocional_ e _pessoal_.
+
+## O Intelectual
+
+O _intelectual_ é o primeiro nível e, apesar de eficaz, não é tão forte quanto os outros dois. O apelo intelectual é baseado na lógica. Por exemplo: "Compre as ações que recomendamos em nosso boletim de investimentos e você irá superar o mercado em 50 a 100%".
+
+## O Emocional
+
+Mais poderoso, contudo, é alcançar seu cliente em potencial em um nível _emocional_. As emoções que podem ser exploradas incluem medo, ganância, amor, vaidade e, para angariar fundos, caridade. Voltando ao nosso exemplo do boletim informativo do mercado de ações, o apelo emocional pode ser: "Nosso conselho pode ajudá-lo a reduzir suas perdas e ganhar muito mais dinheiro, de modo que você fique muito mais rico que seus amigos e vizinhos. Você poderá comprar à vista seu próximo carro — um Lexus, uma BMW ou qualquer automóvel de luxo que queira — e dormir tranquilo."
+
+## O Pessoal
+
+Mas a maneira mais poderosa de alcançar as pessoas é no nível _pessoal_. Voltando novamente para nosso exemplo do boletim de notícias do mercado de ações: "Você perdeu uma pequena fortuna na bolsa de valores durante a crise de 2008? Tanto que deixou de lado seus sonhos de aposentadoria ou independência financeira? Agora você pode recuperar tudo o que perdeu, reconstruir seu patrimônio líquido e realizar o sonho da aposentadoria antecipada ou da independência financeira muito mais cedo do que você imagina."
+
+# A fórmula BDF (CDS, em português)
+
+Para alcançar seus potenciais clientes em todos esses três níveis — intelec-tual, emocional e pessoal —, você deve compreender o que o copywriter Mark Ford chama de "Complexo Central" do comprador. São as emoções, atitudes e aspirações que os impulsionam, conforme representado pela fórmula BDE, que significa _crenças_, _desejos_ e _sentimentos_ (_beliefs_, _desires_, and _feelings_, em inglês).
+
+- **Crenças.**  
+    No que o seu público acredita? Qual é a atitude dele em relação ao seu produto e aos problemas ou questões que ele aborda?
+- **Desejos.**  
+    O que o público quer? Quais são os objetivos dele? O que ele quer mudar em sua vida que seu produto pode ajudá-lo a alcançar?
+- **Sentimentos.**  
+    Como o público se sente? Confiante e impetuoso? Nervoso e tem medo?  
+    O que ele sente sobre os principais problemas da vida, negócios ou seg-mentos?
+
+Por exemplo, uma equipe de marketing fez esse exercício com profissionais de TI para uma empresa que oferece seminários sobre comunicação e habilidades interpessoais para profissionais dessa área. Aqui está o que se descobriu em uma reunião de grupo:
+
+- **Crenças.** Os profissionais de TI acreditam que são mais inteligentes do que os outros, que a tecnologia é a coisa mais importante do mundo, que os usuários são estúpidos e que a administração não os valoriza o suficiente.
+- **Desejos.** Os profissionais de TI querem ser valorizados e reconhecidos. Eles também preferem lidar com computadores e, sempre que possível, evitar pessoas. E eles querem salários mais altos.
+- **Sentimentos.** Frequentemente, os profissionais de TI se relacionam de maneira adversa com a gerência e os usuários, a quem eles atendem. Sentem que os outros não gostam deles, os desprezam e não entendem o que eles fazem.
+
+Com base nessa análise, principalmente em relação aos sentimentos, a empresa criou a mala direta mais bem-sucedida de todos os tempos para promover o seminário: "Habilidades interpessoais para profissionais de TI" O título era bastante incomum: "Notícias importantes para qualquer profissional de TI que já sentiu vontade de dizer a um usuário: 'Vá para o inferno."
+
+Antes de redigir a copy, escreva em forma narrativa a BDF do seu público-alvo. Compartilhe com sua equipe e chegue a um acordo sobre esses itens. Em seguida, escreva uma copy baseada na BDF combinada.
+
+Às vezes, insights sobre os desejos e preocupações do cliente em potencial podem ser obtidos por meio de pesquisa formal de mercado. Por exemplo, um copywriter que trabalhava para um cliente que vendia óleo de cozinha estava lendo uma transcrição do público-alvo e se deparou com este comentário de um usuário: "Eu fritei frango no óleo e depois despejei o óleo em um copo medidor. Todo o óleo estava lá, menos uma colher de chá."
+
+Esse comentário, escondido no apêndice de um relatório sobre o público-alvo, tornou-se a base de uma campanha de TV bem-sucedida, que dramatizava o argumento de venda de que os alimentos não absorviam o óleo e que, portanto, não eram gordurosos quando cozidos nele.
+
+Certa vez, o publicitário veterano Joe Sacco recebeu a incumbência de escrever uma campanha para uma nova agulha usada por diabéticos para injetar insulina. Qual foi o principal argumento de venda?
+
+Todos os diabéticos com quem Sacco conversou elogiaram a agulha por ser afiada. Um não usuário provavelmente enxergaria isso como algo negativo. Mas se você já aplicou uma injeção em si mesmo ou em outra pessoa, sabe que agulhas mais afiadas entram mais suavemente, com o mínimo de desconforto. Sacco escreveu uma campanha publicitária de sucesso com base na alegação de que essas agulhas eram afiadas, permi-tindo, portanto, aplicações de insulina mais facilmente e sem dor.
+
+O copywriter Don Hauptman aconselha: "Comece falando do potencial cliente, e não do produto. Com a fórmula BDF, você pode obter rapidamente uma compreensão mais profunda de seus clientes em potencial antes de tentar vender algo a eles. Dessa forma, são geradas campanhas de marketing mais fortes.
+
+# Uma checklist de "motivadores para copy”
+
+Conforme mencionei anteriormente, pessoas diferentes compram produtos por motivos diferentes. Se eu for comprar um carro, vou procurar um meio de transporte confiável para me levar aonde quero ir. Assim, um carro econômico usado me atenderá muito bem. Mas aqueles que compram um Porsche ou uma Mercedes-Benz estão comprando mais do que um transporte — estão comprando status e prestígio também.
+
+Antes de escrever sua copy, é uma boa ideia revisar as razões pelas quais as pessoas podem querer comprar seu produto. Para ajudar você, compilei a seguinte lista de "motivadores para copy": 22 motivações que as pessoas têm para fazer compras. Esta lista não é exaustiva, mas fará você pensar sobre para quem está escrevendo e por que está escrevendo para eles.
+
+Então, aqui estão 22 razões pelas quais as pessoas podem comprar seu produto. Não leia apenas a lista; pense em cada um dos motivos e como isso pode se aplicar aos produtos com os quais trabalha.
+--- start-multi-column: ID_2fd8
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+- Ser apreciado.
+- Ser estimado.
+- Ter razão.
+- Se sentir importante.
+- Ganhar dinheiro.
+- Poupar dinheiro.
+- Economizar tempo.
+- Facilitar o trabalho.
+- Estar seguro.
+- Ser atraente.
+- Ser sexy.
+
+--- column-break ---
+
+- Sentir-se confortável.
+- Ser diferenciado.
+- Ser feliz.
+- Se divertir.
+- Adquirir conhecimento.
+- Ser saudável.
+- Satisfazer a curiosidade.
+- Ser prático.
+- Por medo.
+- Por cobiça.
+- Por culpa.
+
+--- end-multi-column
+Pense nas coisas que você compra, e por que as compras.
+
+Você compra um perfume para recender um cheiro bom. E deseja isso para atrair alguém.
+
