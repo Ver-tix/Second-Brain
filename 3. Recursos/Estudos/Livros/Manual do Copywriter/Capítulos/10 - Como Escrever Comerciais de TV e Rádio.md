@@ -187,4 +187,251 @@ Aqui está outro comercial de trinta segundos eficaz da mesma redatora:
 |**7. MS:** Mulher afasta o copo, sorridente.|**7. MULHER:** Porque é minha...|
 |**8. TS:** Garrafa SUA contra fundo preto.|**8. NRRD: (VO):** SUA... a primeira cerveja só para mulheres.|
 
-Esse é basicamente um comercial de estilo de vida combinado com uma apresentação dos benefícios do produto. SUA é uma cerveja para mulheres que frequentam restaurantes chiques, se vestem bem e têm companhias atraentes e agradáveis para jantar. Você pode imaginar
+Esse é basicamente um comercial de estilo de vida combinado com uma apresentação dos benefícios do produto. SUA é uma cerveja para mulheres que frequentam restaurantes chiques, se vestem bem e têm companhias atraentes e agradáveis para jantar. Você pode imaginar Cameron Diaz e Dylan McDermott interpretando essa luxuosa dupla.
+
+Outras coisas de que gosto nesse roteiro:
+
+1. Ele é divertido, bem-humorado e brincalhão, sendo que o humor é relevante para o produto.
+2. O produto tem um ponto bem forte: "A primeira cerveja só para mulheres."
+3. O comercial destaca características do produto que agradariam às mulheres: é leve, tem poucas calorias e as garrafas contêm uma quantidade ideal.
+4. O nome é repetido cinco vezes, e o rótulo é exibido duas.
+
+# Como escrever comerciais de rádio
+
+O rádio é diferente da TV e da imprensa, e a diferença é tripla. Em primeiro lugar, o comercial de rádio pode ser gravado antecipadamente por locutores profissionais, com música e efeitos sonoros, ou pode ser lido ao vivo pelo radialista.
+
+Segundo, comprar tempo de rádio normalmente é muito mais barato do que comprar tempo de TV. Terceiro, grande parte de seu público está dirigindo enquanto ouve o comercial, o que torna mais difícil para ele anotar um número de telefone ou endereço eletrônico.
+
+O copywriter de rádio trabalha com palavras e sons, que devem criar uma imagem do produto na mente do ouvinte.
+
+Um comercial de rádio sobre a "Deliciosa torta de mirtilo da tia Lucy" não pode mostrar a família comendo e saboreando a torta. Então, você deve usar o som para pintar a imagem da torta sendo cortada, de um garfo cortando a crosta, de alguém mastigando, de pessoas se deleitando e elogiando a anfitriã.
+
+Vamos supor que as tortas de mirtilo vendidas nos supermercados locais tenham uma embalagem inconfundível de papel alumínio azul. A embalagem não pode ser mostrada no rádio. Neste caso, o locutor deve dizer: "Procure a torta caseira com a embalagem de papel alumínio azul no supermercado ou padaria local."
+
+Uma mini-indústria se desenvolveu em torno de produtoras independentes que escrevem e produzem comerciais de rádio para agências de publicidade e seus clientes. Muitos copywriters e diretores de criação de agências de publicidade menosprezam o rádio (talvez porque o dinheiro envolvido seja insignificante comparado ao da televisão) e ficam felizes em terceirizar os comerciais nesse meio.
+
+Mas há tendências e estrelas na publicidade de rádio. Durante anos, Stan Freberg foi o astro dos comerciais humorísticos de rádio para a Chung King e outras empresas. Depois, Dick Orkin e Bert Berdis passaram a reinar no lugar dele. Então, John Cleese, do filme Monty Python, se tornou um sucesso com seus comerciais de doces Callard & Bowser e da cerveja Kronenbourg, e Jerry Seinfeld apareceu em anúncios da American Express.
+
+Em um artigo publicado na Writer's Digest, o copywriter David
+
+Campiti ofereceu as seguintes dicas para iniciantes em comerciais de rádio:
+
+- Foque nas "informações-chave" de um vendedor. Essas são informações privilegiadas que os vendedores de uma empresa obtêm ao conversar com os clientes.
+- O feedback dos clientes pode revelar os principais argumentos de venda.  
+    Por exemplo, um copywriter entrevistou fazendeiros para descobrir por que seu comercial de rádio não estava vendendo pelo correio o veneno de rato anunciado. Ele descobriu que os fazendeiros com esse tipo de problema ficavam envergonhados e não queriam que o carteiro ou os vizinhos os vissem recebendo pacotes com veneno de rato. O copywriter acrescentou uma linha ao comercial, informando que o veneno era enviado em uma embalagem marrom e discreta, e assim as vendas dispararam.
+- Fale sobre os benefícios. Diga ao público o que os produtos do cliente irão fazer por eles.
+- Seja conciso. Use frases curtas.
+- Repita as informações-chave. No mínimo, mencione os nomes das lojas duas vezes e o site uma ou duas vezes no final. Inclua o número de telefone pelo menos duas vezes — ou mais, se o comercial tiver mais do que sessenta segundos. Produções recentes estão encorajando a resposta on-line ou via mensagens de texto.
+- Conheça o produto sobre o qual está escrevendo. Faça pesquisas sobre ele.
+- Conheça os recursos disponíveis para os produtores de comerciais de rá-dio. Aprenda a usar os recursos de produção. Conheça a extensão de suas bibliotecas de música e efeitos sonoros, a qualidade e a capacidade do equipamento de gravação e as habilidades dos locutores que irão ler sua copy no ar.
+
+Aqui estão dois comerciais de rádio e os motivos pelos quais eu gosto deles. O primeiro é um comercial de sessenta segundos do Instituto de Alvenaria de St. Louis:
+
+> **Homem**: Hã, hoje estamos falando com os Três Porquinhos, certo?
+> 
+> **Porquinhos:** Sim, isso mesmo. Você acertou, cara.
+> 
+> **Homem:** É, bem, então me digam, desde que vocês optaram por construir casas de tijolos, vocês já tiveram algum problema com o...
+> 
+> **Porquinho n° 1:** Grande, mau e esbaforido?
+> 
+> **Homem:** Isso mesmo.
+> 
+> **Porquinho n° 2:** Não. Ele nunca mais apareceu.
+> 
+> **Homem:** Isso é muito bom.
+> 
+> **Porquinho n° 3:** Agora ele sabe que não adianta soprar esta casa, mano!
+> 
+> **Homem:** Sim, pois é, mas além de resolver seus problemas de segurança, deve ter havido outras razões para vocês escolherem os tijolos.
+> 
+> **Porquinho n° 1:** Olha, quando você constrói uma casa hoje em dia com oitenta tijolos dos grandes, você quer algo que dure, certo, pessoal?
+> 
+> **Porquinho n° 2:** Com certeza.
+> 
+> **Porquinho n° 3:** Falou tudo.
+> 
+> **Homem:** Bem, o tijolo certamente faz isso, certo?
+> 
+> **Porquinho n° 1:** E com pouca ou nenhuma manutenção.
+> 
+> **Homem:** Certo.
+> 
+> **Porquinho n° 2:** Não só mantém o lobo longe da porta, como também resiste ao fogo, granizos...
+> 
+> **Porquinho n° 3:** A vendedores de revestimento de alumínio.
+> 
+> **Homem:** Sim, bem, eu notei que vocês também têm uma lareira de tijolos bem sólidos.
+> 
+> **Porquinho n° 1:** Sim, a gente tem.
+> 
+> **Homem:** Muito elegante.
+> 
+> **Porquinho n° 2:** Achamos que ela dá um toque bacana.
+> 
+> **Porquinho n° 3:** Especialmente quando as meninas aparecem.
+> 
+> **Homem:** E é segura também, aposto.
+> 
+> **Porquinho n° 1:** E sim. Elas que não são. (Homem e porquinhos dão risada).
+> 
+> **Homem:** Tem mais alguma coisa que devemos saber sobre construir com tijolos?
+> 
+> **Porquinho n° 1:** Se houver, não nos pergunte.
+> 
+> **Homem:** Como?
+> 
+> **Porquinho n° 2:** Pergunte ao pessoal do Instituto de Alvenaria.
+> 
+> **Homem:** Do Instituto de Alvenaria?
+> 
+> **Porquinho n° 3:** Eles ficarão felizes por poder enviar informações comple-tas.
+> 
+> **Homem:** No tijolo.
+> 
+> **Porquinho n° 1:** Não. Em papel.
+> 
+> **Homem:** O que?!
+> 
+> **Porquinho n° 1:** Eles não iam conseguir colocar um tijolo no envelope....
+> 
+> (Música)
+> 
+> **NRRD:** Se você quiser saber mais sobre como construir com tijolos, ligue para o Instituto de Alvenaria de St. Louis pelo telefone 555-550-5888. Repetindo, 555-550-5888.
+
+O comercial me chamou a atenção porque é rápido e genuinamente engraçado. A brincadeira entre os três porquinhos e o entrevistador mantém as coisas animadas, e o pequeno e inteligente diálogo consegue empacotar uma grande quantidade de informações sobre o produto em sessenta segundos. Nós aprendemos que:
+
+1. O tijolo resiste às intempéries — granizo, ventos, tempestades.
+2. O tijolo dura muito tempo e requer pouca ou nenhuma manutenção.
+3. É à prova de fogo.
+4. Se sua casa for construída com tijolos, não precisará de revestimento de alumínio.
+5. Você pode usar tijolos para construir uma lareira segura e elegante.
+6. O Instituto de Alvenaria enviará gratuitamente informações sobre como construir com tijolos a qualquer pessoa que solicitar.
+7. O segundo comercial de rádio que me chamou atenção é este clássico de sessenta segundos do Conselho de Processadores de Leite da Califórnia, produzido e apresentado por Dick Orkin e Bert Berdis:
+
+> **Executivo da empresa:** Alô!  
+> **Sidney:** É do Conselho de Processadores de Leite da Califórnia?  
+> **Executivo:** Sim.  
+> **Sidney:** Posso dar uma pequena sugestão sobre seu jingle?  
+> **Executivo:** "Qualquer hora é hora de tomar leite"?  
+> **Sidney:** Sim, é realmente cativante, mas talvez você deva mudar para "Qualquer hora é hora de tomar leite, exceto em uma tourada".  
+> **Executivo (risos):** Isso soou quase como: "Qualquer hora é hora de tomar leite, exceto em uma tourada".  
+> **Sidney:** Mas foi o que eu disse.  
+> **Executivo**: O quê?  
+> **Sidney**: Permita que eu me apresente. Me chamo Sidney Feltzer e sou toureiro freelancer.  
+> **Executivo:** Ahã.  
+> **Sidney:** Adoro seu leite.  
+> **Executivo:** Ahã.  
+> **Sidney:** Eu tomo o tempo todo. É gelado e refrescante...  
+> **Executivo:** Continue, Sidney.  
+> **Sidney:** Mas tentar beber leite com uma mão e mover minha capa com a outra é muito...  
+> **Executivo:** Sidney, você não tentou, hã...?  
+> **Sidney:** Só hoje já foram seis caixas.  
+> **Executivo:** De leite?  
+> **Sidney:** De calças.  
+> **Executivo:** Calças?  
+> **Sidney:** Olha, quando você se vira e corre, o touro está bem ali...  
+> **Executivo:** Sidney, por que não toma seu leite depois?  
+> **Sidney:** No hospital?  
+> **Executivo:** Não, não, eu quis dizer depois que você se exercita, o leite cai muito bem, ou fazendo um lanche, ou apenas sentado, vendo televisão.  
+> **Sidney:** Ah, eu não posso fazer isso.  
+> **Executivo:** Ver televisão?  
+> **Sidney:** Não. Me sentar.  
+> **Executivo:** Ah.  
+> **Sidney:** Olha, quando você vira e corre, o touro está bem ali.  
+> **Executivo:** Entendi. Saquei. Tudo bem, Sidney.  
+> **Jingle:** É isso aí! Qualquer hora... é hora do leite!  
+> **Sidney:** Exceto durante uma tourada.  
+> **Executivo:** Já chega, Sidney.  
+> **Sidney:** De touradas?  
+> **Executivo:** Não, dessa ligação.  
+> **Sidney:** Ah, certo. (A música desaparece.)  
+> **NRRD:** Esta ligação é um oferecimento do Conselho de Processadores de  
+> Leite da Califórnia.
+
+Mais uma vez, vemos um comercial bem-humorado e rápido com uma mensagem persuasiva. Observe o uso de frases bem curtas (com uma ou duas palavras) para definir o ritmo.
+
+# Conteúdos AV não transmitidos
+
+Os comerciais de rádio e TV são a parte mais visível do trabalho do copywriter, pois os ouvimos e vemos todos os dias. Mas a cada ano milhares de roteiros são escritos e produzidos e nunca chegamos a vê-los ou ouvi-los.
+
+Essa área do copywriting é conhecida como conteúdos audiovisuais (AV) não transmitidos. São apresentações audiovisuais criadas por uma empresa e utilizadas para atingir públicos pequenos e seletos. Em vez de serem transmitidas pelo rádio ou pela TV, essas apresentações são exibidas em reuniões, feiras comerciais, seminários, apresentações e em discursos de vendas individuais, em que o vendedor está conversando com apenas um cliente. Elas também são publicadas hoje como vídeos no YouTube e em sites da internet.
+
+Muitas mídias diferentes estão disponíveis para AV não transmitidos. Elas incluem:
+
+- PowerPoint;
+- conteúdo de vídeo on-line;
+- DVD;
+- videotexto;
+- software.
+
+Essas apresentações são usadas em muitas aplicações diferentes:
+
+- comunicações aos funcionários;
+- exposições de feiras comerciais;
+- seminários e conferências;
+- recrutamento;
+- relações comunitárias;
+- relações públicas;
+- suporte de vendas;
+- atendimento de consultas de publicidade (DVDs gratuitos enviados aos clientes em potencial selecionados, que responderam aos comerciais de seu aparelho para abdominais ou cruzeiro no Caribe);
+- apresentações para executivos;
+- treinamento;
+- apresentação de produtos;
+- demonstração de produtos;
+- históricos de casos;
+- reuniões;
+- materiais para vendedores de empresas e representantes comerciais;
+- ponto de exibição de compras em locais de varejo;
+- resumos executivos de relatórios anuais, apresentações de vendas e outros materiais promocionais impressos;
+- registros de eventos históricos.
+
+O formato do roteiro para apresentações de slides e filmes é o mesmo dos comerciais de TV: recursos visuais à esquerda e áudio à direita.
+
+A diferença é que o AV não transmitido não está limitado a 30 ou 60 segundos. Você pode fazê-lo com a duração que quiser. A melhor, para uma apresentação de slides ou filme, dura de oito a dez minutos, sendo vinte o limite máximo. Mais do que isso, seu público começará a sumir.
+
+O AV não transmitido é muito mais barato de produzir do que os comerciais de TV. Um comercial de um minuto pode custar US$ 40 mil ou mais. Um vídeo de dez minutos não transmitido pode ser produzido por um valor de US$ 500 a US$ 1.000.
+
+Aqui estão algumas dicas para escrever AV não transmitido:
+
+- Escreva palavras para os ouvidos, e não para os olhos. Um roteiro não contém simplesmente palavras em uma página, mas palavras que serão pronunciadas em voz alta.
+- As palavras devem ser precisas, coerentes e cheias de imagens vívidas.
+- Seja cristalino. O ouvinte não poderá se dar ao luxo de voltar ao texto.  
+    Sua escrita deve ser prontamente compreendida à primeira escuta.
+- Pesquise. Descubra tudo o que puder sobre o tema, o produto, o propósito e o público.
+- O roteiro deve repetir várias vezes os pontos-chave de venda.
+- O início é fundamental e deve "fisgar" o público, prendendo a atenção dele.
+- Seja animado, cativante e preciso. Use verbos ativos, palavras e frases cativantes.
+- Alimente o público a colheradas. Não despeje sobre ele fato após fato.  
+    Seja seletivo quanto aos fatos escolhidos. Uma apresentação AV não conta a história toda e deve deixar o espectador com fome de mais informações.
+- Use palavras para pintar imagens que complementem os recursos visuais da apresentação.
+- Seja o mais conciso e direto possível. Evite frases complicadas.
+
+# Como escrever para apresentações de PowerPoint
+
+Certo. Digamos que você esteja montando uma apresentação e que o Po-werPoint seja necessário. O que você pode fazer para torná-lo mais eficaz?
+
+Em primeiro lugar, você não precisa mostrar slides o tempo todo. Use o PowerPoint seletivamente, não durante toda a apresentação.
+
+Quando houver uma imagem valiosa para mostrar, mostre-a. Ao terminar, use um slide vazio, azul ou preto.
+
+Segundo, use recursos visuais apenas quando eles se comunicarem de forma mais eficaz do que palavras. Se você está falando sobre qualidade, ter a palavra Qualidade na tela acrescenta pouca coisa ao seu ponto. Por outro lado, se você quiser explicar como é um porco - formigueiro, não há palavras que possam descrevê-lo tão bem quanto simplesmente mostrar uma foto dele.
+
+Terceiro, não carregue demais os slides. Não insira mais do que um recurso visual principal por slide e mantenha-o simples. Evite, por exemplo, diagramas de processo com muitas linhas e conexões.
+
+Quarto, considere a possibilidade de adicionar outras mídias como suplementos ou até alternativas ao PowerPoint. Quando eu estava ensinando vendas por telefone, o som de um telefone tocando e um telefone de brinquedo envolviam muito mais os alunos do que os slides de computador.
+
+Quinto, desenvolva a apresentação de modo que, se houver um problema com o computador, você possa continuar sem ele. Não há nada mais embaraçoso do que ver um palestrante se perdendo porque não consegue encontrar o slide certo. Use os recursos visuais como um aprimoramento, não como uma muleta.
+
+O consultor de design gráfico Roger C. Parker oferece as seguintes dicas para preparar suas apresentações em PowerPoint:
+
+- Faça um visual simples. Evite cliparts decorativos, que geralmente projetam uma imagem semelhante a um desenho animado. Adicione gráficos somente quando acrescentarem algo aos seus argumentos.
+- Use palavras-chave, e não frases. Os recursos visuais devem fornecer uma estrutura, e não um roteiro, para a apresentação. Limitar o texto a palavras-chave permite que você use um tamanho de fonte grande e fácil de ler.
+- Evite fundos complexos. Na dúvida, escolha uma fonte preta sobre um fundo branco.
+- Personalize os recursos visuais. Adicione seu logotipo em cada recurso, juntamente com o título e a data da apresentação.
+
+Eu acrescentaria mais algumas dicas às sugestões de Roger, com base na minha experiência de criar dezenas de apresentações em PowerPoint ao longo dos anos:
+
+- Não insira tabelas, gráficos e diagramas confusos, complexos ou pequenos. Os slides devem ser fáceis de se ver e ler para todos os participantes, mesmo para aqueles sentados na última fila.
+- Se você tiver realmente que passar muitas informações ou dados usando listas com marcadores ou recursos visuais, lembre-se da regra 5 x 5 para slides de palavras: no máximo 5 marcadores por slide com, no máximo, 5 palavras por marcador.
+- Misture slides de palavras com slides de imagens (por exemplo, se você estiver vendendo sementes de milho, mostre um agricultor plantando as sementes e depois caules de milho altos e saudáveis). O ideal é ter apenas uma imagem por slide. Se não for possível, não coloque mais do que três.
