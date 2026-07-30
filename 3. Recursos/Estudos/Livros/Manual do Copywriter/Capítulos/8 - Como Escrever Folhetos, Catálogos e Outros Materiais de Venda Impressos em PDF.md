@@ -20,7 +20,7 @@ Mesmo na era digital, muitas empresas ainda utilizam material promocional impres
 
 Isso é bem conveniente quando um vendedor liga para a casa ou escritório de seus clientes em potencial ou quando esses clientes visitam o estande da feira do profissional de marketing. Além disso, os folhetos impressos têm um apelo tátil que os PDFs não têm, e são mais fáceis de arquivar para referência futura.
 
-Em geral, os folhetos também estão disponíveis para downloads em PDF nos sites dos profissionais de marketing. Seja impresso, eletrônico, ou ambos, os anunciantes precisam de materiais promocionais por dois motivos. Em primeiro lugar, pela credibilidade — as pessoas esperam que uma empresa "de verdade" tenha material promocional de produ-tos. Qualquer um pode gastar US$ 50 em papel timbrado e cartões de visita e chamar a si mesmo de empresa. Mas um folheto, em especial uma copy impressa, prova que você está no mercado e mostra que você é mais do que uma operação improvisada.
+Em geral, os folhetos também estão disponíveis para downloads em PDF nos sites dos profissionais de marketing. Seja impresso, eletrônico, ou ambos, os anunciantes precisam de materiais promocionais por dois motivos. Em primeiro lugar, pela credibilidade — as pessoas esperam que uma empresa "de verdade" tenha material promocional de produtos. Qualquer um pode gastar US$ 50 em papel timbrado e cartões de visita e chamar a si mesmo de empresa. Mas um folheto, em especial uma copy impressa, prova que você está no mercado e mostra que você é mais do que uma operação improvisada.
 
 Segundo, porque o folheto é um dispositivo que economiza tempo. As pessoas querem informações impressas para poder levar para casa e analisar à vontade. E levaria muito tempo para digitar cartas individuais com informações específicas para cada cliente em potencial que perguntasse sobre o seu produto. Enquanto alguns clientes em potencial adoram acessar sites para saber mais sobre produtos, outros já preferem informações mais palpáveis.
 
@@ -32,5 +32,4 @@ E também auxiliam programas de publicidade e mala direta, além de servir como 
 
 Eles são principalmente um meio de informação. Dizem aos potenciais clientes o que é o produto e o que pode fazer por eles. Seu folheto também deve explicar como o produto funciona, por que as pessoas devem comprá-lo e como podem fazer o pedido.
 
-Mas um bom folheto de vendas faz mais do que explicar e informar. Ele também convence. Lembre-se: ele é uma ferramenta de vendas, não um manual de instrução. Uma boa copy de folheto faz mais do que listar fatos ou características sobre o produto. Ela traduz esses fatos e recursos em benefícios para o cliente - razões pelas quais ele deve  
-comprar o produto.
+Mas um bom folheto de vendas faz mais do que explicar e informar. Ele também convence. Lembre-se: ele é uma ferramenta de vendas, não um manual de instrução. Uma boa copy de folheto faz mais do que listar fatos ou características sobre o produto. Ela traduz esses fatos e recursos em benefícios para o cliente - razões pelas quais ele deve   comprar o produto.
