@@ -141,3 +141,143 @@ Da mesma forma, existem certas técnicas visuais que tornam os anúncios pouco a
 A aparência do seu anúncio — seu layout, como os elementos são configurados na página — não tornará eficaz um anúncio com uma copy ruim, mas um layout pouco atraente pode desencorajar consumidores interessados em ler uma copy brilhante, que tem muito a lhes oferecer. Novamente, o [[19 - Desenvolvendo e Produzindo Sua Copy|capítulo 19]] tratará dos fundamentos que os copywriters precisam saber sobre como criar anúncios.
 
 ## 5. O texto da copy abrange todos os argumentos de venda importantes em uma sequência lógica.
+
+O anúncio eficaz conta uma história interessante e importante sobre o produto. Como um romance ou conto, a copy deve ser organizada de maneira lógica, com começo, meio e fim.
+
+Se você estiver descrevendo um produto e seus benefícios, provavelmente organizará os argumentos de venda em ordem de impor-tância, colocando a PUV no título e conduzindo o leitor dos principais benefícios para os recursos menores, à medida que ele percorre o texto da copy. Nesse formato, o anúncio se assemelha ao estilo "pirâmide invertida" usado pelos jornalistas nas matérias de jornais.
+
+Se os argumentos de venda não tiverem relação entre si, você pode usar um formato de lista, no qual você simplesmente listará tais argumentos de uma forma simples, do tipo 1-2-3.
+
+Se você estiver escrevendo um histórico de caso ou anúncio com depoimento, poderá usar a ordem cronológica para relatar a história da forma como aconteceu. Ou pode usar um formato do tipo proble-ma/solução para mostrar como o produto resolveu um problema.
+
+## 6. A copy fornece as informações necessárias para convencer o maior número de potenciais clientes qualificados a dar o próximo passo no processo de compra.
+
+O tamanho e o número de argumentos de vendas a serem incluídos na copy dependem do que você está vendendo, para quem está vendendo e qual é o próximo passo no processo de compra.
+
+Aqui estão algumas observações sobre o tamanho do anúncio que surgem ao folhear uma única edição da revista Good Housekeeping:
+
+- Um anúncio de página inteira do perfume Sophia mostra uma foto colorida do frasco sobreposta a um fundo de fogos de artifício. O anúncio não contém o corpo da copy, apenas
+    - um título e um slogan.
+    - Sophia é desejo.
+    - Sophia é mistério.
+    - Sophia é fantasia.
+    - Sophia, por Coty. Use com paixão
+
+Aparentemente, não há muito o que falar sobre perfumes. E vendi. do pela crença de que estar cheiroso aumenta o sex appeal das pessoas.
+
+- Um anúncio do Caltrate 600, um suplemento de cálcio, contém um dia-grama, um gráfico, mais de 400 palavras no texto da copy e um título dire-to, que anuncia: "O novo Caltrate 600 ajuda a manter os ossos saudáveis." Aparentemente, há muito a dizer sobre produtos de saúde. O anúncio também convida o leitor a escrever solicitando um cupom de desconto para o produto e um "contador de cálcio"
+- Muitos anúncios de alimentos contêm receitas que giram em torno do produto anunciado. O anunciante de alimentos espera que o leitor goste da receita e, com isso, compre o produto toda vez que for fazer o prato.
+- Os anúncios de itens mais caros - liquidificadores, centrífugas, pisos, kits de teste de DNA, próteses dentárias, imóveis — convidam o leitor a escrever ou telefonar para obter informações adicionais. O anunciante sabe que há mais a dizer sobre esses produtos do que pode ser inserido em um anúncio de jornal ou revista. Folhetos, sites e vendedores precisarão aumentar os esforços do anúncio.
+
+Quando você se sentar para escrever seu anúncio, pergunte a si mesmo: "O que eu quero que o leitor faça? O que posso dizer que o convencerá a fazer isso?"
+
+## 7. A copy é interessante de ler.
+
+"Você não pode entediar as pessoas para que comprem seu produto", escreve David Ogilvy em Ogilvy on Advertising. "Você só pode animá-las a comprá-lo."
+
+As pessoas irão ler seu anúncio apenas enquanto for interessante para elas. Elas não vão ler uma copy chata em conteúdo ou estilo.
+
+Como redator e leitor, você sabe quando a escrita é interessante de ler e quando é entediante. O estilo deve ser nítido, vivo e leve. A copy deve ter ritmo e clareza.
+
+Um grande estilo não salvará um anúncio sem substância. A copy deve apelar ao interesse pessoal de quem a lê. Deve conter benefícios, novidades ou deve resolver o problema do leitor. Ela não pode ser apenas entretenimento; deve apresentar razões convincentes para fazer com que ele deseje o produto.
+
+Aqui estão algumas coisas que tornam os anúncios mais interessantes:
+
+- uma copy que fala diretamente sobre a vida do leitor, suas emoções, necessidades e desejos;
+- uma copy que conta uma história;
+- uma copy sobre pessoas;
+- uma copy escrita em estilo pessoal, parecida com uma carta enviada por um amigo: calorosa, prestativa e sincera;
+- depoimentos de celebridades;
+- uma oferta gratuita (de um brinde, panfleto, folheto ou uma amostra);
+- uma copy que contém novidades importantes, como avanços práticos nos cuidados de saúde e na medicina;
+- uma copy que aborda questões importantes: beleza, saúde, velhice, paternidade, casamento, lar, segurança, família, carreira, educação ou questões sociais;
+- uma copy que responde às perguntas que os leitores têm em mente;
+- uma copy sobre um assunto que interessa ao leitor.
+
+Aqui estão algumas coisas que tornam os anúncios chatos:
+
+- uma copy centrada no fabricante — que fala sobre a empresa, sua filosofia, seu sucesso;
+- uma copy que fala apenas sobre como o produto é feito ou como ele fun-ciona, e não sobre o que ele pode fazer pelo leitor;
+- uma copy que diz coisas que os leitores já sabem;
+- uma copy prolixa, com palavras grandes, frases longas e grandes períodos de texto ininterruptos;
+- uma copy em que todas as frases possuem o mesmo tamanho (variar o comprimento da frase adiciona movimento à escrita);
+- uma copy que fornece apenas os recursos do produto, e não os benefícios;
+- uma copy sem um ponto de vista — sem uma forte proposta de venda nem um discurso de vendas coerente (ela apresenta os fatos sem realmente mostrar ao leitor como estes se relacionam com suas necessidades);
+- anúncios com layouts confusos e recursos visuais mal reproduzidos que parecem chatos e desanimam o leitor.
+
+## 8. A copy passa credibilidade.
+
+"Cinismo e suspeita são abundantes hoje em dia", disse o proprietário da agência de publicidade Amil Gargano, "e não sem razão. É por isso que a publicidade não funcionará a não ser que seja confiável, não importa o quanto possa parecer inteligente. E a maneira certa de ser confiável é ser honesto e sensível com as pessoas que você deseja al-cançar."
+
+A tarefa do copywriter não é fácil. Além de chamar a atenção, explicar o produto e ser persuasivo, você deve vencer a desconfiança dos leitores e fazer com que eles acreditem em você.  
+Já mencionamos várias técnicas que ajudam a construir credibili-dade: depoimentos, demonstrações, testes de pesquisa. Mas são apenas técnicas. O segredo para passar credibilidade é dizer a verdade.
+
+Isso não é tão radical quanto parece. Ao contrário da fama dos publicitários de serem marqueteiros maliciosos, muitos deles são empresários honestos e profissionais que acreditam nos produtos que estão vendendo. Eles não criariam publicidade para um produto nocivo ou de qualidade inferior. E, embora a ética desempenhe um papel, a verdadeira razao para isso é um simples fato sobre a publicidade.
+
+_A publicidade esperta pode convencer as pessoas a provar um produto ruim uma vez, mas não pode convencê-las a comprar um produto que já provaram e não gostaram._
+
+Assim, você pode perceber que não há a possibilidade de escrever anúncios que contam mentiras. Além de antiético, não é lucrativo nem para a agência nem para o anunciante, e ainda prejudica a imagem da publicidade.
+
+Cada vez menos praticantes se envolvem em um comportamento antiético. A maioria acredita que o produto que está anunciando é muito bom para o leitor. Quando você acredita em seu produto, é fácil escrever uma copy sincera, informativa e útil. E quando você é sincero, os leitores percebem isso e acreditam no que você escreveu.
+
+## 9. O anúncio pede uma ação
+
+de compra, seja enviar um pedido, ligar para um escritório de vendas, visitar uma loja, provar uma amostra, ver uma demonstração ou visitar um site ou landing page.
+
+Você já está familiarizado com cupons, números 0800 e outros dispositivos usados para incitar o leitor a responder ao anúncio. Barry Kingston, diretor de merchandising da revista Opportunity, comparti-
+
+Ihou essas dicas para obter a melhor resposta para seu anúncio:
+
+- forneça o endereço em vez de um número de caixa postal; um endereço passa a impressão de que sua empresa é grande, estável e bem-estabelecida;
+- se a maioria dos leitores da revista se qualificar para sua oferta, forneça um número de ligação gratuita para aumentar a resposta; agora, se você quiser qualificar seus leads, forneça o número de telefone normal da empresa;
+- se o produto puder ser comprado diretamente com cartão de crédito, forneça um número de ligação gratuita;
+- fornecer o número de telefone da empresa aumenta a credibilidade do e-commerce e da publicidade impressa;
+- um cupom aumenta a resposta entre 25 e 100%;
+- pedir ao leitor que envie uma carta reduz o número de respostas, mas produz leads altamente qualificados (pessoas com interesse genuíno no produto).
+
+# Seu anúncio precisa de um slogan?
+
+Um slogan, também conhecido como lema, é uma frase ou sentença que aparece embaixo do logotipo da empresa em um anúncio ou série de anúncios. O slogan é usado para resumir a mensagem central dos anúncios ou para fazer uma declaração ampla sobre a natureza da empresa.
+
+Alguns slogans conhecidos:
+
+> Somos a American Airlines: fazendo o que fazemos melhor.
+
+> Maxwell House: Delicioso até a última gota.
+
+> Como um bom vizinho, a State Farm está ali.
+
+> Nada bate um grande par de L'eggs.
+
+> Prudential: pegue um pedaço da rocha.
+
+> Se eles pudessem não crescer até suas roupas da Carter desgastarem.
+
+> Interurbano: melhor que isso, só estando lá.
+
+> American Express: não saia de casa sem ele.
+
+Esses slogans conscientizaram o consumidor sobre os produtos de marca porque são expressivos, memoráveis e resumem a natureza do produto ou serviço. No entanto, existem centenas de slogans que foram usados por alguns meses e depois retirados dos anúncios, para nunca mais voltarem.
+
+Você deve usar um slogan no seu anúncio?
+
+Depende se essa técnica pode ou não ser aplicada ao seu produto.  
+No copywriting, a regra deve ser: "A forma segue a função." Em outras palavras, use uma técnica se ela funcionar e parecer natural. Não force uma técnica de copy em um anúncio no qual ela não se encaixa.
+
+Ao aplicar essa regra aos slogans, eu diria para você usar um slogan se a principal proposta de venda do seu produto ou a natureza dele puder ser resumida em uma única declaração cativante. Mas se a essência do produto ou negócio não puder ser capturada em uma frase, não force, ou o resultado será um slogan artificial que prejudicará o anúncio e envergonhará você, sua agência de publicidade, seus funcionários e seus clientes.
+
+Por exemplo, digamos que sua empresa fabrique um papel mata-moscas. O presidente da empresa diz: "Nosso slogan deve ser: A líder em papéis mata-moscas de qualidade." Mas esse slogan restringe você a uma categoria limitada de produto. Se você decidir expandir e fabricar mata-moscas de plástico, tipo raquete, você terá dificuldades porque as pessoas pensarão em você apenas como uma empresa de mata-moscas de papel.
+
+Então sua agência de publicidade diz: "Vamos pensar grande. Você não está apenas no ramo de papel mata-moscas, você está no ramo de 'controle de pragas' Que tal 'Líder no conhecimento de controle de pragas' como slogan?" Mas isso é muito genérico. Controle de pragas pode ser qualquer coisa, desde pulverizar cupins até capturar ratos — e sua empresa realmente não planeja se envolver nessas áreas.
+
+Portanto, o perigo dos slogans é que alguns são muito restritos e compartimentam você em uma única especialidade, enquanto outros são tão amplos que perdem qualquer significado real ou aplicabilidade ao seu negócio.
+
+Os slogans funcionam melhor quando são memoráveis e repetidos para o público-alvo várias vezes durante um longo período. Por exemplo, o slogan da Allstate é "Você está em boas mãos" desde 1950.
+
+# Formato de manuscrito para copy de anúncios
+
+Atualmente, envio a maior parte do meu trabalho para os clientes por e-mail, por meio de arquivos do Microsoft Word em anexo, a partir de uma pasta do Dropbox ou Google Docs. Se seus clientes forem bons de informática, eles poderão usar o recurso "Controlar Alterações" do Word para fazer comentários na sua copy, eliminando assim a necessidade de imprimi-la e destacá-la à mão.
+
+Alguns copywriters incluem rótulos na copy que indicam se o texto que o revisor está lendo é para um título, subtítulo, corpo da copy, legenda, caixa de texto ou descrição de um recurso visual. Alguns redatores deixam essas descrições entre parênteses, na margem esquerda. Eu as digito com letras maiúsculas rente à margem esquerda, com dois pontos após o rótulo, mas sem os parênteses. Dessa forma, meu manuscrito fica bem organizado, com tudo alinhado na margem esquerda.
+
+Segue uma página de amostra de manuscrito:
