@@ -11,6 +11,10 @@ tags:
 ![[3 - Como Escrever Títulos Que Captam Os Leitores E Os Transportam Para A Sua Mensagem]]
 
 ---
+# Orientações de Robert W. Bly
+![[2 - Como Escrever para Chamar Atenção - O Título e o Assunto]]
+
+---
 # Orientações de Victor O. Schwab
 
 Existem cinco fundamentos na redação de um bom anúncio:
