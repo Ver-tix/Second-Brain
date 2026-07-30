@@ -290,3 +290,120 @@ AAo escrever uma copy com depoimento, use ao máximo as próprias palavras do cl
 ![[38 Modelos de Títulos para seu Swipe-File]]
 
 # A fórmula dos 4 Us para escrever títulos eficazes
+
+A fórmula de copywriting dos " 4 Us" — que significa urgente, único, ultraespecífico e útil — pode ajudar.
+
+Desenvolvida por meu colega Mark Ford para redigir títulos mais poderosos, a fórmula dos 4 Us afirma que um título forte é:
+
+1. **Urgente.**  
+    A urgência dá ao leitor uma razão para agir agora, e não mais tarde.  
+    Você pode criar um senso de urgência no seu título incorporando um elemento de tempo. Por exemplo, "Ganhe US$ 100 mil trabalhando em casa este ano" tem um senso de urgência maior do que "Ganhe US$ 100 mil trabalhando em casa". Um senso de urgência também pode ser criado com uma oferta especial por tempo limitado, como um desconto ou um bônus se você comprar até determinada data. Muitos profissionais de marketing digital dão aos potenciais clientes 24 horas ou menos para aproveitar a oferta. Uma vez terminado o períododa oferta, ela não estará mais disponível. No entanto, descobri que os consumidores consideram a "oferta prorrogada" crível e aceitável após o término do prazo.
+2. **Único.**  
+    Um título poderoso traz algo novo ou, se diz alguma coisa que o leitor já ouviu antes, faz isso de uma maneira diferente e original. Por exemplo,  
+    "Por que as mulheres japonesas têm uma pele bonita" foi o título de um e-mail que promovia um kit de banho japonês. Isso é diferente do típico  
+    "Economize 10% em kits de banho japoneses".
+3. **Ultraespecífico.**  
+    A editora de boletins informativos Bottom Line Inc (anteriormente  
+    Boardroom) é a mestra absoluta das listas ultraespecíficas, conhecidas como "fascinações". Elas provocam o leitor a ler mais e encomendar o produto. Exemplos: "O que nunca comer em um avião", "Contas que você pode pagar com atraso" e "Melhor momento para solicitar a restituição dos impostos".
+4. **Util.**  
+    A linha de assunto forte apela ao interesse pessoal do leitor, oferecendo um benefício. No título "Um convite para esquiar e economizar", o benefício é economizar dinheiro.
+
+Ao escrever seu título, pergunte-se o quanto ele é forte em cada um dos 4 Us. Use uma escala de 1 a 4 (1 = fraco, 4 = forte) para classificá-lo em cada categoria.
+
+Raramente um título será 3 ou 4 em todos os quatro Us. Mas, se seu título não for classificado como 3 ou 4 em pelo menos três deles, provavelmente não é tão forte quanto poderia ser — e pode melhorar caso seja reescrito.
+
+Um erro comum é defender um título fraco apontando para uma boa resposta. É melhor pensar da seguinte maneira: se o anúncio gerou uma resposta lucrativa apesar do título fraco, imagine quanto dinheiro você poderia ter ganhado aplicando os 4 Us.
+
+Um profissional de marketing me escreveu para dizer que obteve sucesso em uma campanha de e-mail marketing com o assunto "Relatório especial gratuito'". Como isso se compara aos 4 Us?
+
+**Urgente.** Não há urgência ou senso de oportunidade. Em uma escala de 1 a 4, sendo 4 a classificação mais alta, "Relatório especial gratuito" é 1.
+
+**Único.** Nem todo profissional de marketing oferece um relatório especial gratuito, mas muitos sim. Portanto, o "Relatório especial gratuito" leva pontuação 2 em termos de singularidade.
+
+**Ultraespecífico.** O profissional de marketing poderia ter sido menos específico do que "Relatório especial gratuito"? Sim, ele poderia apenas ter dito "Bônus grátis". Portanto, pontuamos o "Relatório Especial Gratuito" em 2 em vez de 1.
+
+**Útil.** Suponho que o leitor seja esperto o suficiente para descobrir que o relatório contém algumas informações úteis. Por outro lado, a utilidade está nas informações específicas contidas no relatório. Elas nem sequer são mencionadas no título. Além disso, o destinatário, que já tem muito para ler, realmente precisa de mais um "relatório especial gratuito"? Isso, então, leva nota 2. Especificar o tópico ajudaria (por exemplo, "Relatório especial gratuito revela como cortar custos de treinamento em até 90% com e-learning").
+
+Faça esse exercício com cada título que você escreve. Você também pode aplicar a fórmula em outra copy, tanto on-line quanto off-line, incluindo assuntos de e-mail, teasers de envelopes de mala direta, cartas de vendas, títulos de páginas da Web, subtítulos e marcadores.
+
+Avalie o título que você redigiu em todos os 4 Us. Em seguida, reescreva-o para aumentar pelo menos 1 ponto, em duas categorias, no mínimo, mas de preferência em três ou quatro delas. Esse exercício simples pode, com muito pouco esforço, aumentar substancialmente o número de leitores e as taxas de resposta da copy.
+
+# Mais dicas para títulos
+
+Aqui estão alguns pontos a serem considerados ao avaliar títulos:
+
+- O título promete um benefício ou uma recompensa pela leitura do anúncio?
+- O título é claro e direto? Ele transmite as informações de forma simples e rápida?
+- O título é o mais específico possível? ("Perca 19 quilos em três semanas" é um título melhor do que "Perca peso rápido".)
+- O título consegue chamar sua atenção com uma mensagem forte de ven-das, declarada dramaticamente de uma nova maneira?
+- O título está relacionado de maneira lógica com o produto? (Evite títulos  
+    "sensacionalistas", que atraem com exageros e depois não cumprem o que prometem.)
+- O título e o visual trabalham juntos para formar um conceito total de venda?
+- O título desperta a curiosidade e atrai o leitor para o texto da copy?
+- O título seleciona o público?
+- O nome da marca é mencionado no título?
+- O nome do anunciante é mencionado no título?
+- Evite títulos "mudos" — aqueles que não dizem nada a não ser que você leia a copy em seguida. ('Dê uma mãozinha" é um título mudo, usado em um anúncio recente de pó compacto.)  
+    Evite trocadilhos irrelevantes e outros truques de copywriters. Eles podem fazer anúncios divertidos, mas que não vendem os produtos.
+- Evite negativas. (Em vez de "Não contém sódio", escreva "100% livre de sódio".)
+
+# Uma técnica para produzir títulos
+
+Copywriters não usam métodos iguais para produzir títulos. Alguns gastam 90% do tempo escrevendo dezenas de títulos antes de escrever uma palavra no texto da copy. Outros escrevem primeiro o corpo do texto e extraem o título dessa copy. Muitos copywriters mantêm arquivos de furto de anúncios publicados e usam os títulos desses anúncios como inspiração para os próprios anúncios (já compartilhei com você  
+38 da minha coleção pessoal).
+
+Os copywriters que trabalham em grandes agências normalmente contam com diretores de arte para ajudá-los a desenvolver o conceito, mas acredito que copywriters profissionais devem ser capazes de gerar títulos, conceitos e ideias por conta própria.  
+Permita-me contar como escrevo um título. Você pode considerar essas técnicas úteis para seu próprio trabalho. Em primeiro lugar, faço quatro perguntas:
+
+1. Quem é o meu cliente?
+2. Quais são as principais características do produto?
+3. Quais dessas características faltam nos produtos concorrentes?
+4. Por que o cliente vai querer comprar o produto? (Qual característica do produto oferece o benefício mais importante para ele?)
+
+Ao receber a resposta da pergunta número 3, saberei qual é a principal proposta de venda que irei apresentar no título. Então é simplesmente uma questão de anunciar esse benefício de forma clara, convincente e interessante, que fará com que o leitor tome conhecimento e queira saber mais sobre o produto.
+
+Às vezes, uso um título de instruções. As vezes, uma pergunta ou o formato "razões pelas quais". Outras vezes, faço algo que não se encaixa em nenhuma dessas categorias. O ponto aqui é que eu não tento forçar uma fórmula à proposta de venda. Começo com uma mensagem de vendas e escrevo títulos que fazem o melhor trabalho para iluminar essa mensagem.
+
+Costumo redigir de seis a oito títulos, dos quais surge um vencedor ou dois. Outros copywriters que conheço escrevem dezenas de títulos para um único anúncio. Se escrever um monte de títulos funciona bem para você, tudo bem. Você sempre poderá aproveitar alguns dos me-Ihores que foram descartados como subtítulos ou frases no texto da sua copy.
+
+Ao escrever um novo anúncio para um produto que já existe, percorro o arquivo de anúncios anteriores para ver quais pontos de venda foram cobertos por esses anúncios. Muitas vezes, a mensagem de vendas do meu título estará escondida no corpo da copy de um dos anúncios existentes.
+
+Às vezes, quando não consigo produzir um título vigoroso, faço uma lista de palavras relacionadas ao produto. Em seguida, misturo e combino as palavras dessa lista para formar títulos diferentes.
+
+Por exemplo, um cliente me pediu para escrever um anúncio sobre um novo tipo de aparelho de contenção dental, usado para estabilizar dentes que apresentem mobilidade. Os modelos antigos eram placas feitas de tiras rígidas de metal; o novo aparelho, de um fio de aço tran-çado, que pode ser mais facilmente torcido para se ajustar aos dentes do paciente.
+
+Minha lista de palavras ficou assim:
+
+|Torcer|Fácil|
+|---|---|
+|Contenção|Tecnologia|
+|Dentes|Inventado|
+|Nova|Revolucionário|
+|Desenvolvimento|Contorno|
+|Dentária|Curva|
+|Trançado|Dentista|
+|Fio|Apresentando|
+|Aço|Flexível|
+|Ajuste|Solto|
+
+Misturar e combinar as palavras dessa lista produziu meia dúzia de bons títulos. O que eu mais gostei foi "Apresentando a nova tecnologia de contenção dentária". O cliente gostou e usou em um anúncio de sucesso.
+
+Se você não conseguir criar um título, não deixe que isso se torne um bloqueio criativo. Deixe-o de lado e comece a escrever o corpo da copy. A medida que escreve a copy e revisa suas anotações, surgirão na sua mente ideias para títulos. Anote-as à medida que forem surgindo e retorne a elas mais tarde. Muito desse material será inadequado, mas o título perfeito poderá ser produzido dessa maneira.
+
+# Uma consideração final sobre títulos
+
+O título é a parte do anúncio que chama atenção. E chamar atenção é o primeiro passo para persuadir seu leitor a comprar seu produto.
+
+Frases espetaculares, espertas e extravagantes não produzem, por si sós, um bom título. Criar títulos maravilhosamente inteligentes só vale a pena se a inteligência melhorar a mensagem de venda e torná-la mais memorável. Infelizmente, muitos copywriters se engajam na criatividade por ela mesma, e o resultado é a esperteza que obscurece a mensagem de venda.
+
+Se você tiver que escolher entre ser esperto e obscuro ou simples e direto, aconselho-o a ser simples e direto. Você não vai ganhar nenhum prêmio de publicidade, mas pelo menos vai vender o produto.
+
+Jim Alexander, presidente da Alexander Marketing Services, também acredita que os títulos devem vender. Aqui vai como Jim pensa sobre o assunto:
+
+> _Acreditamos em dramatizar com talento e emoção a mensagem de venda de um produto. São ingredientes importantes de uma boa habilidade de vendas no meio impresso, mas declarações e artes visuais simples e sem glamour geralmente produzem anúncios poderosos._
+> 
+> _Por exemplo, o título "Manuseando Ácido Sulfúrico" pode soar maçante ou sem criatividade para você. Já para um engenheiro químico, que está sempre tendo problemas com a corrosão — que custa uma fortuna —, esse simples título implica em volume e faz com que ele queira ler cada palavra da copy de resolução de problemas após o título._
+> 
+> _Portanto, antes que nossos clientes digam que um anúncio é sem graça, primeiro perguntamos a eles: "Sem graça para quem?" Sem graça para você, o anunciante? Ou sem graça para o leitor, nosso cliente em potencial? E fácil esquecer que o verdadeiro propósito de um anúncio é comunicar ideias e informações sobre um produto. Muitos anúncios são aprovados devido ao seu valor de entretenimento. Quanto dinheiro jogado fora._
+
+Mais adiante, veremos como escrever títulos eficazes para mídias digitais específicas, incluindo sites, campanhas de e-mail marketing e anúncios on-line (consulte os capítulos 11, 13 e 14).
