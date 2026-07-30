@@ -175,3 +175,16 @@ Há uma série de coisas de que eu gosto nesse comercial:
 4. O final ("se seu frango comum é osso duro de roer") é um trocadilho inteligente que deixa um sorriso em seu rosto, e informa onde você pode comprar o produto.
 
 Aqui está outro comercial de trinta segundos eficaz da mesma redatora:
+
+|VÍDEO|ÁUDIO|
+|---|---|
+|**1. MS:** Casal bem vestido sentado em restaurante chique. Homem pega garrafa de cerveja na mesa. Mulher dá tapa na mão dele, de brincadeira.|**1. MULHER:** Ei, essa é SUA!|
+|**2. MS:** Rosto do homem. Ele olha para ela, intrigado, sorrindo ironicamente.|**2. HOMEM:** Se é minha, por que não posso pegá-la?|
+|**3. TS:** Dedo da mulher apontando para o rótulo da garrafa.|**3. MULHER:** Porque a SUA é a cerveja feita apenas para mulheres.|
+|**4. MS:** Mulher servindo cerveja.|**4. SFX:** Cerveja sendo despejada no copo. **NRRD:** A SUA é borbulhante, leve e tem menos calorias do que a cerveja comum.|
+|**5. MS:** Mulher termina de servir cerveja e pega o copo.|**5. NRRD:** E vem em garrafas convenientes de 300 ml que servem um copo perfeito de cerveja... o suficiente para saciar sua sede sem encher.|
+|**6. MS:** Homem pegando o copo de cerveja.|**6. HOMEM:** Por que não posso pegar a SUA?|
+|**7. MS:** Mulher afasta o copo, sorridente.|**7. MULHER:** Porque é minha...|
+|**8. TS:** Garrafa SUA contra fundo preto.|**8. NRRD: (VO):** SUA... a primeira cerveja só para mulheres.|
+
+Esse é basicamente um comercial de estilo de vida combinado com uma apresentação dos benefícios do produto. SUA é uma cerveja para mulheres que frequentam restaurantes chiques, se vestem bem e têm companhias atraentes e agradáveis para jantar. Você pode imaginar
