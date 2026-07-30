@@ -292,3 +292,145 @@ Segue uma página de amostra de manuscrito:
 | **COPY:**           | A ThermoPal é pequena o suficiente para caber na maleta mais fina ou numa mochila bem compacta, mas grande o bastante para manter gelados 230 ml de chá, limonada ou suco de frutas. Essa é a medida que cabe em um copo alto e bacana que temos em casa ou que é vendido na rua.<br><br>Assim, ao levar sua bebida do almoço na ThermoPal, se refrescar custará apenas alguns centavos, em vez de um dólar ou mais, como custaria em uma máquina de venda automática ou em um fast food. Dessa forma, a ThermoPal se pagará em apenas algumas semanas... e fará você economizar bastante durante o longo e quente verão. <br><br>Sabemos que você continuará satisfeito com a ThermoPal nos próximos anos. Caso contrário, basta nos enviar a tampa pelo correio e você será reembolsado totalmente - e sem perguntas. <br><br>Para encomendar a ThermoPal, preencha e envie o cupom de resposta. Ou visite www. [thermopal.com/offer](http://thermopal.com/offer). Mas corra. Os estoques são limitados e geralmente acabam no meio da primavera. |
 | **CUPOM:**          | SIM, eu quero continuar me refrescando. Por favor, me envie ThermoPals pelo preço de US$ 8,95 por garrafa e mais US$ 1 de frete e manuseio cada. Meu cheque está no envelope. Se eu não ficar satisfeito, enviarei de volta a tampa da garrafa térmica para receber o reembolso total do meu dinheiro. <br><br>Nome <br><br>Endereço Cidade Estado CEP: <br><br>Cupom enviado para:  <br><br>ThermoPal: Caixa Postal XXX Cidade, EUA XXXXX                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 # Uma checklist de ideias publicitárias
+Copywriters não se sentam para redigir algo e dizem: "Quero fazer um anúncio de depoimento" ou "Vamos fazer um anúncio do tipo 'como fazer'". Eles primeiro estudam o produto, o público e o propósito do anúncio. Em seguida, usam a técnica que se encaixa melhor na tarefa.
+
+Mesmo assim, ajuda muito estar familiarizado com os vários tipos de anúncios que fizeram sucesso ao longo dos anos: do tipo como fazer, de depoimentos, antes e depois e outros.
+
+Abaixo está uma checklist com muitas dessas categorias. Quando você estiver preso a uma ideia, uma rápida revisão nessa lista poderá Ihe inspirar — você pode bater os olhos nela e dizer: "Ei, essa abordagem aqui funciona bem com o que estou vendendo!" Mas não faça dessa checklist uma muleta, e sim uma ajuda na sua produção de ideias de venda:
+
+- anúncio de pergunta — faz uma pergunta no título e a responde no corpo da copy
+- anúncio tipo quiz — a copy apresenta um quiz. O leitor faz o teste e suas respostas determinam se ele é um cliente em potencial para o produto ou serviço que está sendo oferecido.
+- anúncio tipo notícias — anuncia um novo produto ou algo novo sobre um produto existente.
+- anúncio direto — apresenta diretamente os fatos.
+- anúncio indireto — tem um título obscuro destinado a despertar a curiosidade e incitar o leitor a ler a copy.
+- anúncio de recompensa — promete uma recompensa pela leitura do anúncio.
+- anúncio de ordem — ordena que o leitor realize uma ação.
+- anúncio de preço e onde comprar — anuncia uma venda, descreve o produto, fornece o preço e o desconto e informa onde comprar.
+- anúncio tipo "razões pelas quais" — apresenta os motivos pelos quais você deve comprar o produto.
+- anúncio tipo carta — um anúncio escrito em forma de carta.
+- antes e depois — mostra as melhorias obtidas ao usar o produto.
+- depoimento — um usuário do produto ou uma celebridade se pronuncia a favor do produto.
+- histórico de caso — uma história detalhada de sucesso do produto.
+- anúncio de informação grátis — oferece um folheto, panfleto ou outra informação; o anúncio se concentra em atrair o leitor e enviar literatura gratuita em vez de vender o produto diretamente.
+- história — conta uma história envolvendo pessoas e o produto.
+- "nova onda" — conta com gráficos avançados para chamar atenção.
+- identificação do leitor — o título é usado para selecionar o público.
+- anúncio informativo — o anúncio fornece informações úteis relacionadas ao uso do produto em geral, em vez de empurrar o produto diretamente.
+- anúncio de local — apresenta o produto usado em um local incomum para destacar sua versatilidade, utilidade, conveniência ou robustez.
+- personagens fictícios — o anúncio gira em torno de um personagem fictício como o Sr. Whipple ou o Gigante Verde.
+- lugares fictícios — o anúncio gira em torno de um lugar fictício como o mundo de Marlboro.
+- desenhos animados e quadrinhos.
+- anúncio com o anunciante — o anunciante aparece no anúncio para falar sobre o próprio produto.
+- neologismo — o anunciante inventa uma palavra para descrever seu produto ou sua aplicação. (O termo "pé de atleta" foi inventado pelo publicitário Obie Winters para vender o produto de seu cliente, um linimento de cavalo que também podia curar a micose do pé; Gerard Lambert popularizou a "halitose" para vender Listerine.)
+- publicidade comparativa — mostra como seu produto se compara aos da concorrência.
+- desafio - desafia o leitor a encontrar um produto melhor que o seu.
+- anúncio de garantia — foca na garantia, não no produto.
+- anúncio de oferta — concentra-se na oferta, na venda, e não no produto.
+- demonstração — mostra como o produto funciona.
+- trocadilho — o título atrai a atenção com um jogo de palavras inteligente. O trocadilho é explicado na copy.
+- competições e sorteios.
+- conexão com eventos atuais — para agregar pontualidade e urgência à proposta de venda.
+
+# Como escrever anúncios gráficos fracionados
+
+Como copywriter, você irá escrever principalmente anúncios de página inteira de revistas e jornais. Mas muitos anunciantes de pedidos por correspondência obtêm resultados melhores com anúncios de meia página e com um layout, na maioria das vezes, vertical para se assemelhar a uma coluna de texto do jornal.
+
+Em geral, eles são projetados e escritos como publieditorial, ou publicidade nativa. Isso significa que são projetados para parecerem artigos e não anúncios. A lógica dessa abordagem é sólida, pois o conteúdo "editorial" (artigo) obtém mais leitores e é mais confiável do que anúncios óbvios.
+
+Para que os potenciais clientes do produto notem seu anúncio, indique no título quem é o leitor (por exemplo, "usuários de medicamentos prescritos") ou qual é o problema deles (por exemplo, "porão com umidade").
+
+Os apelos que funcionam bem na publicidade para venda por correspondência em classificados incluem promessas de que o cliente irá conquistar coisas como: amor, dinheiro, saúde, popularidade, sucesso, lazer, segurança, autoconfiança, melhor aparência, autoaperfeiçoamento, prestígio, conforto, economia de tempo, orgulho por realizar ou ter algo, diversão, despreocupação, menos trabalho, menos risco, satisfação da curiosidade, de sua autoexpressão ou da criatividade.
+
+Palavras e frases eficazes para usar em seus pequenos anúncios incluem: grátis, novo, incrível, agora, como fazer, fácil, descubra, método, plano, revelamos, mostramos, simples, surpreendente, avançado, aperfeiçoado e você.
+
+Em uma publicidade de página inteira, o anúncio é a única coisa que os leitores veem. Assim, eles não são distraídos por nenhum outro conteúdo na página.
+
+Já ao veicular um anúncio de meia página, muitos outros anúncios irão competir por atenção. Novamente, técnicas comprovadamente eficazes para atrair seus clientes em potencial para o anúncio incluem identificar o leitor ideal no título (por exemplo, "pacientes cardíacos") ou o problema que os possíveis clientes desejam aliviar (por exemplo, "perda de memória").
+
+# Como escrever classificados e minianúncios gráficos
+
+Procure testar alguns anúncios gráficos de 2 ou 5 cm e classificados. Sim, eles são pequenos e parecem quase insignificantes, mas também custam pouco para serem veiculados e testados. Portanto, podem gerar um retorno lucrativo. E anúncios classificados que rendem dinheiro podem ser veiculados por longos períodos e testados em várias publicações.
+
+Um dos meus anúncios de venda por correspondência mais bem-sucedido, que foi veiculado durante muitos anos na Writer's Digest, dizia o seguinte:
+
+> **GANHE US$ 100 MIL/ANO** escrevendo anúncios, folhetos e material promocional para clientes locais/nacionais. Para mais detalhes: CTC, 22 E. Quackenbush, Dept. WD, Dumont, NJ 07628.
+
+Aqui estão alguns outros exemplos de como escrever anúncios classificados de venda por correspondência:
+
+> **DINHEIRO EXTRA**. 12 formas de ganhar dinheiro em casa. Para mais detalhes...
+
+> **MILIONÁRIO DOS PEDIDOS POR CORRESPONDÊNCIA** revela como ganha tanto dinheiro. GRÁTIS fita com 1 hora de...
+
+> **VENDA NOVO LIVRO** pelo correio! 400% de lucro! Informações gratuitas do revendedor...
+
+> **CULTIV**E minhocas em casa para ganhar dinheiro...
+
+> Terrário de plantas **CARNÍVORAS E DE FLORESTA**. Peça um catálogo GRÁTIS.
+
+> **CAÇANDO ANCESTRAIS?** Encontre suas raízes familiares da maneira mais fácil. Para detalhes grátis...
+
+A medida de um anúncio classificado bem-sucedido é o custo por consulta. Portanto, se você conseguir transmitir sua mensagem com menos palavras pagará menos pelo anúncio e, portanto, reduzirá seu custo por consulta.
+
+Deixe seus classificados o mais curtos e concisos possível. Aqui estão algumas dicas para reduzir sua contagem de palavras:
+
+- **Seja conciso.**  
+    Use o número mínimo de palavras necessárias para comunicar sua ideia.  
+    Por exemplo, em vez de "Ganhe US$ 500 por dia com seu próprio negócio trabalhando de casa", escreva: "Trabalhe de casa - US$ 500/dia!"
+- **Minimize seu endereço.**  
+    Você paga a publicação pelas palavras em seu classificado, incluindo seu endereço. Portanto, em vez de "Avenida E. Quackenbush, 22", eu escrevo apenas "E. Quackenbush, 22". A correspondência será entregue e economizo uma palavra. Isso pode gerar economias significativas para anúncios divulgados com frequência em várias publicações.
+- **Use frases e fragmentos de sentenças em vez de orações completas.**
+- **Lembre-se do seu objetivo.**  
+    Você está pedindo apenas uma consulta, e não uma encomenda. Você não precisa de muita copy, já que tudo o que está pedindo ao leitor é que ele solicite informações gratuitas.
+- **Use palavras combinadas, com hífen e construções de barra.**  
+    Por exemplo, em vez de "CULTIVE MUITAS MINHOCAS", que são três palavras, escreva "CULTIVE MINHOCAS", que são apenas duas palavras e você economiza uma.
+
+Em anúncios classificados, a melhor maneira de gerar uma resposta é pedir por uma consulta em vez de um pedido. Isso é feito colocando uma frase como "detalhes grátis", "informações grátis", "catálogo grátis" ou outra semelhante, seguida por dois pontos e seu endereço (por exemplo, Detalhes grátis: Box 54, Canuga, TN 44566).
+
+Você deve cobrar por suas informações? Alguns anunciantes pedem que o cliente em potencial pague pelas informações enviando uma pequena quantia (25 ou 50 centavos, US$ 1 ou US$ 2 são comuns) ou enviando um envelope selado com o próprio endereço para envio das informações.
+
+A teoria é que pedir uma postagem ou um pagamento nominal traz um lead mais qualificado e, portanto, resulta em uma porcentagem maior de leads convertidos em vendas.
+
+Minha experiência, porém, diz que não vale a pena cobrar por seu kit de informações, porque isso vai reduzir drasticamente o número de leads que você receberá.
+
+Sempre que você oferece informações para gerar uma consulta, acredito que o melhor é fornecê-las gratuitamente. A exceção pode ser se você estiver oferecendo um catálogo muito caro e elaborado, para o qual você cobra US$ 1 ou US$ 2 para cobrir os custos.
+
+Em seus anúncios classificados, coloque um código-chave no endereço. Assim, quando você receber consultas, poderá acompanhar qual anúncio as gerou. Por exemplo, no meu anúncio "GANHE US$ 100 MIL/ANO ESCREVENDO", o código-chave "WD" refere-se à revista Writer's Digest. Como o anúncio é veiculado todos os meses, não me importo em adicionar um número de código para rastrear o mês. Se você quiser fazer isso, também pode. Por exemplo, "Dep. WD-10" significa: revista Writer's Digest, edição de outubro (o décimo mês do ano). Acompanhe o código-chave em cada consulta e registre as informações em um bloco de notas ou planilha para medir as respostas do anúncio.
+
+Já falamos anteriormente sobre as duas principais medições da publicidade de classificados em duas etapas: o custo por consulta e a porcentagem de consultas convertidas em pedidos. O resumo da ópera é: as vendas geradas pelo anúncio excederam o custo do espaço do anúncio? Se excederam, foi lucrativo. Se não, ele não está funcionando bem e um novo anúncio deve ser testado.
+
+Coloque os anúncios em publicações que tenham seções de anúncios de venda por correspondência nos classificados. Entre em contato com as revistas de seu interesse e peça os kits de mídia, que incluem detalhes sobre circulação, taxas de publicidade e leitores, além de um exemplar da publicação. Pergunte se o editor enviará várias edições de amostra.
+
+Observe as seções de classificados nas publicações. Os anúncios de produtos são semelhantes aos seus? Caso sejam, é um bom si-nal. Veja se esses anúncios se repetem de uma edição para outra. Os anunciantes não iriam repetir os anúncios a não ser que estivessem funcionando. Se a publicação está funcionando para as ofertas deles, também pode funcionar para as suas.
+
+As seções de classificados são divididas em vários cabeçalhos. Insira seu anúncio na seção apropriada. Se não a encontrar, ligue para a revista e pergunte se ela poderia criar uma seção para você.
+
+Se você vende informações pelo correio, evite colocar os classificados na seção de "Livros e livretos". Isso reduzirá os pedidos. Em vez disso, coloque o anúncio na seção relacionada ao assunto principal. Por exemplo, se você está vendendo um livro sobre como ganhar dinheiro limpando chaminés, insira o anúncio em "Oportunidades de Negócios".
+
+Você pode testar um anúncio de classificados ou minianúncio gráfico colocando-o apenas uma vez em uma publicação. O problema é que a maioria das revistas e até jornais semanais têm longos prazos de espera — várias semanas ou mais — para colocar anúncios. Se você colocá-lo para ser veiculado apenas uma vez e o anúncio for bem-su-cedido, terá que esperar várias semanas ou meses até poder colocá-lo na publicação novamente.
+
+Em um jornal ou revista semanal, testo um anúncio de classificados ao publicá-lo por um mês — quatro edições consecutivas. Para uma publicação mensal, testo por três meses — três edições consecu-tivas. Se a primeira inserção for lucrativa, provavelmente estenderei o pedido por vários meses para que o anúncio seja veiculado continuamente e sem interrupção.
+
+Com um anúncio de página inteira, você geralmente obtém o maior número de pedidos na primeira vez que ele for veiculado na re-vista. A resposta diminui a cada inserção adicional. No ponto em que o anúncio não for mais lucrativo, você o retira e tenta outro.
+
+A razão para esse padrão de resposta é que, na primeira vez que o anúncio é executado, ele atinge a nata dos clientes em potencial, recebendo pedidos daqueles mais propensos a comprar. Quem compra na primeira inserção do anúncio não comprará quando ele for veiculado novamente. Portanto, cada vez que o anúncio for executado, atingirá um público cada vez menor de novos e potenciais compradores.
+
+Embora a resposta aos anúncios de página inteira diminua a cada inserção, a resposta a um anúncio fracionado ou a um anúncio de classificados pode permanecer estável por muitas inserções. De fato, aqueles que respondem a pedidos pelo correio (e eu sou um deles) têm publicado o mesmo anúncio de classificados mensalmente, na mesma revista, durante anos, sem redução na resposta.
+
+A resposta, às vezes, aumenta durante os primeiros doze meses em que o anúncio é veiculado, já que as pessoas o veem repetidamente e acabam ficando curiosas o suficiente para responder. Algumas que responderam uma vez, que receberam o material promocional e não compraram, podem responder e receber o material várias vezes antes de serem convencidas a comprar o produto. Além disso, lembre-se de que cada edição atinge um número de novos assinantes por meio de assinaturas e circulação nas bancas, de modo que a audiência total dos classificados permanece bastante estável.
+
+# Mecanismos de resposta
+
+você deve sempre dizer ao potencial cliente interessado qual é a próxima parada, além de fornecer instruções sobre como agir, acompanhadas do motivo para fazê-lo. Algumas das opções de resposta mais populares incluem:
+
+- número para ligações gratuitas;
+- correio normal;
+- carta comercial com pedido de resposta;
+- e-mail;
+- formulário na internet;
+- atendimento eletrônico;
+- QR code;
+- visita à loja ou concessionária;
+- visita do vendedor à casa do consumidor;
+- mensagem de texto.
+
+Escolha a opção que melhor funcione para sua oferta como seu principal mecanismo de resposta. Mas também ofereça uma ou duas alternativas, já que pessoas diferentes respondem de maneiras diferentes (por exemplo, algumas não enviam mensagens de texto.)
