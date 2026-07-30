@@ -105,18 +105,18 @@ Nessa perspectiva, _Manual do Copywriter_ foi escrito para ensiná-lo a escrever
 3. Persuadir
 4. Pedir uma resposta
 
-Assim, o capítulo 2 mostrará como escrever uma copy que chama a atenção. Você aprenderá a usar títulos e imagens como ferramentas chamativas. E aprenderá a fazê-las trabalhar juntas.
+Assim, o [[2 - Como Escrever para Chamar Atenção - O Título e o Assunto|capítulo 2]] mostrará como escrever uma copy que chama a atenção. Você aprenderá a usar títulos e imagens como ferramentas chamativas. E aprenderá a fazê-las trabalhar juntas.
 
-O capítulo 3 é uma cartilha sobre como escrever para comunicar. Ele apresenta as regras para a escrita de textos claros, concisos e simples que transmitirão sua mensagem ao leitor, tanto on-line quanto off-line.
+O [[3 - Escrever para Comunicar|capítulo 3]] é uma cartilha sobre como escrever para comunicar. Ele apresenta as regras para a escrita de textos claros, concisos e simples que transmitirão sua mensagem ao leitor, tanto on-line quanto off-line.
 
-O capítulo 4 apresenta orientações sobre escrita persuasiva. Você aprenderá a ser tanto vendedor quanto redator.
+O [[3. Recursos/Estudos/Livros/Manual do Copywriter/Capítulos/4 - Como Escrever para Vender|capítulo 4]] apresenta orientações sobre escrita persuasiva. Você aprenderá a ser tanto vendedor quanto redator.
 
-O capítulo 5 apresenta um passo a passo que irá ajudá-lo a se preparar de maneira efetiva para qualquer tarefa de copywriting.
+O [[3. Recursos/Estudos/Livros/Manual do Copywriter/Capítulos/5 - Como Se Preparar Para Escrever|capítulo 5]] apresenta um passo a passo que irá ajudá-lo a se preparar de maneira efetiva para qualquer tarefa de copywriting.
 
 Do capítulo 6 ao 17, você aprenderá como aplicar esses princípios  
 de copywriting a uma série de mídias on-line e off-line.
 
-Nos capítulos 18 e 19, mostramos várias opções sobre como redigir, desenvolver e produzir sua copy, incluindo gráficos, opções visuais e layout.
+Nos capítulos [[3. Recursos/Estudos/Livros/Manual do Copywriter/Capítulos/18 - Escrevendo Sua Copy|18]] e [[3. Recursos/Estudos/Livros/Manual do Copywriter/Capítulos/19 - Desenvolvendo e Produzindo Sua Copy|19]], mostramos várias opções sobre como redigir, desenvolver e produzir sua copy, incluindo gráficos, opções visuais e layout.
 
 # A internet mudou o Copywriting para redatores e leitores?
 
@@ -128,5 +128,115 @@ Gary Halbert observou com perspicácia: "Os fundamentos nunca mudam, mas as vari
 Sem sombra de dúvida, a internet revolucionou o marketing pela sua velocidade, acessibilidade, facilidade e baixo custo: enviar uma campanha de e-mail marketing é mais rápido, fácil e menos oneroso do que distribuir o mesmo material promocional pelo correio ou publicá-lo como anúncios de revistas ou televisão. Os anúncios do Facebook podem segmentar diretamente os clientes em potencial que você deseja alcançar por meio do acesso a anúncios ao consumidor. Além disso, você pode ver os resultados preliminares minutos depois de transmitir seu e-mail ou exibir seus anúncios. Na mala direta, às vezes leva semanas até que você possa mensurar algum resultado.
 
 # As três chaves para redigir uma copy que funciona na era digital
-Estas são as três formas pelas quais a internet afetou a maneira como a copy é escrtia, avaliada e testada hoje em dia
+Estas são as três formas pelas quais a internet afetou a maneira como a copy é escrita, avaliada e testada hoje em dia:
+## 1. Emoção Humana
 
+Em primeiro lugar, uma boa copy costumava ser impulsionada principalmente pela compreensão da emoção humana. Esse foi o principal fator que guiou bons copywriters na criação de uma copy vencedora.
+
+Mas hoje não existe apenas um, mas três fatores-chave que influenciam o modo como se cria uma copy que dá resultado: emoção humana, dados e compliance (fig. 1.1).
+
+O copywriter Frank Joseph escreveu: "Nunca houve nenhum tipe de marketing que não tenha sido aprimorado por emoção e sinceridade." Tyler Kelley da SLAM! Agency diz: "Acredito que veremos o surgimento de profissionais de marketing digital que não apenas entendem o digital mas que também compreendem as pessoas — como elas pensam, e que as motiva e por que compram."
+
+Um ponto importante é que a internet não mudou a natureza humana. A psicologia de compra das pessoas não mudou simplesmente porque elas estão lendo sua mensagem on-line, em vez de off-line. Como Claude Hopkins escreveu em seu livro clássico Scientific Advertising (veja o apêndice D): "A natureza humana é eterna. Na maioria dos aspectos. permanece hoje tal como era nos tempos de César. Os princípios da psicologia são estáveis e duradouros. Você nunca precisará desaprender o que aprendeu sobre eles”
+
+## 2. Análise de Dados
+
+A emoção humana continua sendo um fator importante, mas e copywriting é cada vez mais impulsionado por dados, conforme relatado pelas análises.
+
+Um informe técnico da Signal observa que: "Os tomadores de decisão não podem mais depender da experiência, da intuição e de informações de segunda mão |...]|Dados |...] são a única fonte da verdade —a Estrela do Norte que orienta os profissionais de marketing em um mundo que muda constantemente" Ou, comoordan Pritikin da HubSpot) coloca: "Grandes profissionais de marketing ouvem seus números."
+
+Dos profissionais de marketing pesquisados pela eMarketer, 55% disseram que o melhor uso dos dados para uma segmentação de público mais eficaz está entre suas três prioridades principais.
+
+Ignorar os dados é perigoso, porque eles mostram o que está funcionando hoje. Além disso, a medição quantitativa baseada em dados atualizados e testes sempre supera a opinião subjetiva.
+
+Quanto aos dados e informações usados como fonte de material para projetos de copywriting, há tantos dados brutos e conteúdo na web sobre todos os assuntos imagináveis que alguns de meus clientes me enviam novos links a cada cinco minutos para o projeto que estou escrevendo para eles.
+
+Durante décadas, sempre disse aos clientes que mais é melhor do que menos, mas agora estou repensando essa posição. Às vezes, existem milhares de artigos sobre o tema. (Acabei de pesquisar " perda de  
+a peso" no Google e, em menos de um segundo, recebi links para quase dois milhões de páginas.) Se eu lesse cuidadosamente os dois milhões de artigos sobre perda de peso ou fizesse uma leitura rápida, eu não conseguiria cumprir o prazo da minha copy.
+
+O renomado jornalista John McPhee diz: "Escrever é selecionar". Em uma era de excesso de informações, ser seletivo na escrita é extremamente importante.
+
+Alguns profissionais de marketing são tão orientados por dados que ignoram a copy forte e emocional, que frequentemente gera taxas de resposta mais altas do que a copy medíocre usada em tantos testes.
+
+Eles também impõem regras baseadas nos seus extensos testes de anúncios na categoria de produto e mídia preferida, que são contrários ao que os copywriters experientes pensam e sabem. Por exemplo, um cliente de um nicho da indústria descobriu que o tamanho ideal para um título de anúncio de jornal de meia página deve conter de 8 a 12 palavras. Se for mais longo ou mais curto, a taxa de resposta cai. Eu nunca tinha ouvido sobre isso antes de escrever para eles, mas seus dados superam meu treinamento, opiniões e instintos.
+
+## 3. Compliance digital.
+
+Você deve seguir as diretrizes e regras de anúncios para qualquer mecanismo de pesquisa, rede social, site, rede de anúncios, provedor de serviços de e-mail ou outra plataforma digital na qual deseja exibir seu anúncio.
+
+Se você não fizer isso, seu anúncio não será exibido e ninguém o verá. A conformidade com esses requisitos geralmente dificulta a criação de publicidade on-line que diz o que você quer que ela diga.
+
+Por exemplo, no momento em que estou redigindo isto, o Facebook está rejeitando anúncios que falam sobre perda de peso com promessas específicas (por exemplo: perca 10 quilos em 7 dias). Então, como fazer um anúncio de perda de peso eficaz ali? Em 2018, o Google retirou 3,2 bilhões de anúncios que violavam suas políticas de publicidade.
+
+Profissionais de marketing estão encontrando maneiras de se adaptar a esse tipo de restrição. Para perda de peso e outras queixas de saúde, os anúncios de benefícios de produtos foram amplamente substituídos por anúncios do Facebook baseados em alimentos (por exemplo: "Os principais médicos dizem para jogar este vegetal no lixo!").
+
+Profissionais espertos de marketing estão encontrando novas maneiras, honestas e inteligentes, de fazer com que seus anúncios fiquem mais fortes, mais ousados e mais específicos, e ainda sejam aprovados pelo Facebook e outras mídias que controlam essas diretrizes.
+
+Desta forma, os dados e a compliance nos restringem de maneiras com as quais não precisávamos lidar antigamente. O copywriter Richard Armstrong resume os efeitos debilitantes dos requisitos de anúncios digitais n° 2 e 3 da seguinte forma:  
+
+>Passamos de "Eles riram quando eu sentei ao piano, mas quando comecei a tocar.." para "É possível que o curso por correspondência vendido neste anúncio possa ajudá-lo a se familiarizar com o aprendizado de como tocar piano, se você estiver disposto a dedicar muitas horas estudando e praticando".
+
+Embora a compliance seja importante, o que a constitui, às vezes, é passível de interpretação. A regra geral, no entanto, é esta: quando você chega 10% mais próximo da compliance perfeita, suas taxas de resposta caem 10%. A verdade pura e simples é que a obediência excessivamente zelosa, em muitos casos, resulta em uma copy mais fraca.
+
+# Boas Notícias para Copywriters Veteranos
+
+A boa notícia para você é que o amplo conjunto de técnicas de copywri-ting e princípios de vendas que você aprendeu ao longo de sua carreira, incluindo os deste livro, continuam viáveis e eficazes.
+
+Então, a internet mudou alguma coisa para os seus leitores? Sim, bastante. E aqui estão as mudanças que observo:
+
+1. A internet, os computadores, os videogames e outras mídias eletrônicas provocaram uma redução na capacidade de atenção humana. Ser conciso sempre foi uma virtude na escrita, mas agora se tornou ainda mais importante. Isso não significa que uma copy longa não funcione, que as pessoas não leiam mais (como alguns afirmam erroneamente) ou que toda copy deva ser pequena (alguns dos meus roteiros de cartas de vendas para vídeo chegam a 6.500 palavras). Isso significa que você deve seguir o sábio conselho de Strunk e White em The Elements of Style e "evitar palavras desnecessárias", mantendo sua copy limpa e concisa.
+2. Os leitores são bombardeados por mais mensagens publicitárias e excesso de informações do que foram em qualquer outro momento da história humana. Como disse certa vez o bibliotecário de Yale Rutherford D. Rogers: "Estamos nos afogando em informações e famintos por conhecimento." Isso significa que você deve se esforçar para tornar sua copy relevante para o leitor, entender o que o mantém acordado à noite e direcionar essa necessidade, desejo ou medo em seu anúncio.
+3. A internet tornou os consumidores mais experientes, treinando-os para evitar promoções, serem mais capazes de identificar o exagero e cada vez mais céticos. Tanto na mídia impressa quanto na internet, os compradores geralmente preferem materiais publicitários do tipo educacional: anúncios que respeitam a sua inteligência, não a rebai-xam, e que transmitem informações úteis e práticas consideradas valiosas para a resolução do problema ou tomada da decisão de compra.
+4. A copy que se compõe principalmente de informação e não de vendas é chamada hoje de "marketing de conteúdo". A publicidade que se parece mais com um artigo do que com um anúncio pago é chamada de publie-ditorial ou de "publicidade nativa.
+5. Seus clientes em potencial estão ocupados e pressionados pelo tempo.  
+    Conveniência e rapidez na entrega são grandes diferenciais hoje em dia para os produtos e serviços, assim como a economia de tempo.
+6. Os profissionais de marketing agora têm a opção de colocar as informações de seus produtos em material impresso, on-line ou em uma combinação dos dois. "Campanhas de marketing multicanal" normalmente alternam promoções entre mídia impressa e digital.
+7. Como a mídia impressa e a digital acabaram sendo, em grande parte, integradas, o funil de vendas e a jornada do cliente — as etapas que os profissionais de marketing seguem para gerar leads e vendas, bem como o processo de compra pelo qual o cliente passa — têm várias etapas e são mais sofisticadas do que eram antes do advento do marketing na internet.  
+    Os capítulos de 11 a 17 detalham essas mudanças.
+
+# Como vídeos on-line mudaram o Copywriting
+
+Plataformas como Vimeo e YouTube inundaram a web com vídeos de marketing que variam de 20 segundos a 45 minutos ou mais.
+
+O YouTube é a plataforma líder de vídeos on-line, com quase 5 bilhões de vídeos assistidos diariamente e 300 horas de novos vídeos carregados a cada minuto.
+
+Antigamente, os vídeos de marketing eram gravados em DVDs e enviados aos clientes em potencial por correio ou então mostrados a estes por vendedores em seus notebooks. Alguns DVDs e vídeos ainda são usados como encartes em pacotes de mala direta ou em folhetos de vídeo.
+
+Existem quatro modos básicos de aprendizagem: assistir, ouvir, ler e fazer — o último também é chamado de "aprendizagem experiencial". O problema é a dificuldade de segmentar seu mercado pelo modo de aprendizagem preferido. Por isso, produzimos nosso conteúdo em vários formatos:
+
+- Arquivos de vídeo mp4 para pessoas que gostam de assistir.
+- Arquivos de áudio mp3 para pessoas que preferem ouvir.
+- Livros e e-books para leitores.
+- Workshops, treinamento com exercícios e outros eventos ao vivo para pessoas que aprendem fazendo.
+
+(De acordo com um artigo no site ClickZ [1 de maio de 2019], 73% das pessoas que participam do marketing experimental de uma marca têm maior probabilidade de comprar a marca envolvida.)
+
+O capítulo 16 mostra como escrever scripts de vídeos on-line nos formatos curto e longo.
+
+# Como as mídias sociais mudaram o marketing
+
+As mídias sociais mudaram a internet de uma forma geral e o marketing on-line de quatro maneiras importantes.
+
+Em primeiro lugar, você não precisa mais de um grande orçamento de publicidade para transmitir suas mensagens ao mundo. Tudo o que você precisa é de uma conta gratuita em um ou mais canais de rede social e, em seguida, começar a escrever as postagens, embora as publicações e os anúncios impulsionados não sejam gratuitos. Uma
+
+"postagem impulsionada" significa que você pagou ao Facebook para distribuir sua publicação para mais pessoas.)
+
+Segundo, embora algumas comunicações entre duas partes na internet sejam privadas, tudo o que você publica no Facebook, seja texto ou foto, é para consumo público. Assim, a mídia social diminui o grau de privacidade dos usuários da internet.
+
+Terceiro, a mídia social é mais interativa do que a maioria dos outros canais digitais. Os usuários podem comentar as publicações dos outros usuários à vontade. Além disso, às vezes, as redes sociais se tornam palco de controvérsias, com discussões on-line em longos tópicos de comentários rudes, maldosos, pessoais ou desagradáveis. Aparentemente, as pessoas se sentem à vontade para insultar enquanto estão escondidas atrás do teclado, dizendo coisas que nunca ousariam dizer pessoalmente.
+
+Quarto, a maioria das redes de mídia social vende publicidade, sendo essa, em geral, a sua principal fonte de renda. E como as redes sociais são controladas pela própria gestão, podem rejeitar qualquer anúncio sem necessidade de explicar ou justificar a decisão. Dessa forma, em vez de um meio universal para troca livre de informações, o lado publicitário da internet é restritivo e rigidamente controlado.
+
+O capítulo 15 apresenta diretrizes sobre como os profissionais de marketing devem escrever e usar as mídias sociais para construir marcas, gerar cliques e conversões e, por fim, vender produtos.
+
+# Como o marketing multicanal mudou o Copywriting
+
+O grande acontecimento ocorrido desde a publicação da primeira edição deste livro foi a ascensão da internet como meio de marketing e canal de e-commerce.
+
+O problema para gerentes de marketing, gerentes de marca, proprietários de pequenas empresas e copywriters é o número crescente de canais de marketing, o planejamento de como integrá-los em uma campanha de sucesso e, em seguida, a criação de um funil de vendas para obter o máximo de resultados. Um "funil de vendas" é uma sequência planejada de comunicação que faz com que as pessoas se familiarizem com você a ponto de fechar negócio contigo.
+
+Por exemplo, muitos clientes pedem a seus copywriters que aumentem as taxas de conversão em seus sites. Quando o copywriter pergunta qual é a taxa de conversão atual, alguns clientes, muitas vezes, não sa-bem, porque simplesmente não medem. ("Taxa de conversão" é a porcentagem de usuários que acessam um site ou landing page e compram um produto, baixam conteúdo gratuito ou reagem de outra forma à call to action.) Mas sem uma métrica para medir e avaliar os resultados, você não tem como saber qual copy está funcionando melhor.
+
+O outro desafio criado pela proliferação de canais de marketing é a "atribuição". Na linguagem do marketing moderno, atribuição é saber qual promoção é a fonte original do pedido ou compra. Em um mundo multicanal, a atribuição adequada pode ser difícil, com cliques oriundos de diversas fontes, muitas vezes, simultaneamente. Isso é um problema porque quanto menos você acompanhar de maneira precisa a atribuição e o desempenho do anúncio, menos saberá sobre o que está funcionando ou não para você e, portanto, quais promoções deve continuar veiculando e quais anúncios deve excluir.
+
+De acordo com o site eMarketer, dos mais de mil profissionais de marketing pesquisados, mais de quatro em cada dez identificaram a "integração de ferramentas de marketing para maior eficiência" como uma prioridade.
