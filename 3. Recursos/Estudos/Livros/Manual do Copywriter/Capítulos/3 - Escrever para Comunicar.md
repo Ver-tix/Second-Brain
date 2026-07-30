@@ -190,3 +190,96 @@ A publicidade nos convence fornecendo informações específicas sobre o produto
 Ao sentar-se na frente do computador, seu arquivo de informações básicas deve ter pelo menos o dobro do material que acabará usando na versão final do seu anúncio. Quando você tem um estoque de fatos para escolher, escrever uma copy é fácil: basta selecionar os fatos mais importantes e descrevê-los de maneira clara, concisa e direta.
 
 Mas quando os copywriters têm pouco a dizer, eles recorrem a frases extravagantes e expressões pomposas para preencher o espaço vazio na página. As palavras soam bem, mas não dizem nada de valor. E o anúncio não vende porque não informa.
+
+## 9. Vá direto ao ponto
+
+Se o título é a parte mais importante de um anúncio, então o lide é certamente a segunda parte mais importante. É o lide que atrai o leitor para o texto, cumprindo a promessa do título, ou o aborrece com palavras desinteressantes, irrelevantes e desnecessárias.
+
+A primeira copy que escrevi foi um folheto que descrevia um sistema de radar de aeroporto. Aqui está o lide:
+
+> Os tempos mudam. Os aeroportos de hoje lidam com um volume de tráfego muito maior do que os aeroportos do final dos anos 1960.
+> 
+> Os radares daquela época não foram construídos visando o futuro e não podiam lidar com as crescentes demandas impostas aos sistemas de controle de tráfego aéreo dos terminais.
+> 
+> O tráfego aéreo dos aeroportos de hoje continua aumentando a um ritmo acelerado. Um radar de vigilância de aeroportos deve ser construído para lidar não apenas com o tráfego aéreo de hoje, mas também com os requisitos mais complexos de controle de tráfego dos aeroportos que existirão amanhã.
+
+Tudo isso é verdade e, como leigo, achei interessante. Mas a pessoa que lê o folheto já é responsável pelo controle de tráfego aéreo em um aeroporto de grande ou médio porte. Ela já não sabe que o volume de tráfego está aumentando? Se souber, estou desperdiçando seu tempo repetindo o óbvio. Muitos copywriters iniciantes caem nessa armadilha. Eles gastam os primeiros parágrafos "aquecendo" antes de chegar ao argumento de venda. Quando começam a falar sobre o produto, a maioria dos leitores já fugiu.
+
+Comece a vender já com a primeira linha de copy. Aqui está como eu deveria ter escrito o lide para aquele folheto de radar:
+
+> O radar X-900 detecta até mesmo a menor aeronave comercial em um alcance de 145 milhas. Além disso, a eficiência operacional da banda L do sistema o torna 40 vezes mais eficiente do que os radares de banda S.
+
+Se você sente a necessidade de "aquecer" enquanto escreve seus pensamentos no papel, faça isso. Mas exclua esses aquecimentos da versão final. A copy finalizada deve vender da primeira à última palavra.
+
+Aqui está outro exemplo de copy que fracassa por não chegar ao ponto:
+
+> **Mire alto. Alcance novos horizontes**
+> 
+> Nunca é fácil. Mas alcançar novos horizontes é o que significa mirar alto. Porque, para alcançar novos horizontes, você deve visualizar as coisas não apenas como elas são agora, mas como podem ser...
+
+Por que escrever uma copy tão vaga como essa? O anúncio tenta ser dramático, mas o resultado é uma retórica vazia; a copy não dá uma pista sobre o que está sendo anunciado.
+
+Essa copy apareceu em um anúncio de recrutamento da Força Aérea dos EUA. Os benefícios de ingressar na Força Aérea são viagens, treinamento vocacional e a chance de pilotar jatos. Por que não apresentar esses pontos imediatamente?
+
+## 10. Escreva em um estilo amigável e coloquial
+
+Ann Landers foi uma das colunistas mais lidas do país. Por que ela era tão popular? Ela disse: "Fui ensinada a escrever como falo."
+
+As pessoas gostam de ler textos claros, simples e fáceis de entender, e o estilo mais simples e claro é escrever do jeito que você fala. Os especialistas em redação chamam isso de "tom coloquial".
+
+O tom coloquial é importante principalmente na publicidade, em que a página impressa é o substituto mais barato de um vendedor. A única razão pela qual as empresas anunciam é que a publicidade pode atingir mais pessoas do que um vendedor ambulante, a um custo menor. Um estilo leve e coloquial é muito mais fácil de ler do que a prosa rígida e formal dos negócios, da ciência e das universidades. Ao escrever de forma simples, você se torna amigo do leitor. Quando escreve pomposamente, você se torna um chato.
+
+Na década de 1980, os famosos anúncios e comerciais da IBM com Charlie Chaplin lançaram o primeiro computador da IBM e ajudaram a torná-lo um best-seller. Essa série de anúncios era um modelo de copy amigável, útil e coloquial. Aqui está uma amostra:
+
+> Há um mundo de informações esperando por você. Mas para usá-lo, estudá-lo, desfrutá-lo e lucrar com ele, primeiro você precisa chegar até ele. No entanto, os fatos podem estar literalmente na ponta dos seus dedos — com o seu telefone, um modem e o computador pessoal da IBM.
+
+Observe o uso de expressões coloquiais ("um mundo de informa-ções", "na ponta dos seus dedos") e a linguagem informal ("só esperando por você", "primeiro você precisa chegar até ele"). A IBM parece querer nos ajudar em um nível pessoal, e a sua copy soa como um amigo conversando com outro.
+
+Então, como você vai fazer isso? Em um artigo no Wall Street Journal, John Louis DiGaetani recomenda este teste simples para o tom coloquial: "Ao revisar, pergunte-se se você diria ao seu leitor o que está escrevendo ou imagine-se talando com a pessoa em vez de escrevendo para ela."
+
+Certa vez, meu ex-chefe escreveu uma carta de vendas que começava com: "Anexada está a literatura que você solicitou." Perguntei a ele: "Se você estivesse me entregando este envelope em vez de enviá-lo pelo correio, o que você diria?"
+
+"Bem, eu diria: 'Aqui está a informação que você pediu' ou 'Anexei o folheto que você pediu' ou algo assim."
+
+"Então por que não escrever dessa maneira?" Respondi. E ele escreveu.
+
+E para ajudá-lo a escrever do jeito que você fala, aqui estão algumas dicas para alcançar um estilo coloquial natural:
+
+- Use pronomes: eu, nós, você, eles.
+- Use expressões coloquiais: uma coisa é certa, fique ligado, roubada, tudo bem.
+- Use contrações: da, pra, no, numa, pela.
+- Use palavras simples.
+- Se você precisar escolher entre escrever com naturalidade e ser gramaticalmente correto, escreva com naturalidade.
+
+## 11. Editando para evitar linguagem sexista
+
+O dia do publicitário, do vendedor e do sorveteiro acabou. Agora é o profissional de publicidade, de vendas e fornecedor(a) de sorvetes.
+
+Os copywriters devem evitar a linguagem sexista. Quer você goste ou não, a linguagem sexista ofende grande parte da população, e você não venderá produtos para as pessoas se deixá-las com raiva de você.
+
+Nesta era LGBTQ+, lidar com gênero na escrita é uma questão delicada. Aqui estão algumas dicas:
+
+1. **Use plurais.**  
+    Ao invés de "o médico recebe um relatório sobre os pacientes dele", escreva "os médicos e médicas recebem relatórios sobre seus pacientes".
+2. **Reescreva para evitar referência ao gênero.**  
+    Ao invés de "o gerente convocou uma reunião para sua equipe", escreva "a gerência convocou uma reunião de equipe".
+3. **Referências de gênero alternativo.**  
+    No passado, eu usava dele e ele na minha copy inteira. Agora, alterno entre ele e ela, e dele e dela.
+4. **Use "ele e ela" e "dele e dela".**  
+    Isso funciona em frases simples, mas pode se tornar complicado em frases como: "Quando ele ou ela bate seu cartão de ponto, ele ou ela é automaticamente transferido(a) para a taxa de pagamento de horas extras dele ou dela". Ao usar ele e ela e dele e dela, alterne entre ela e ele e dela e dele.
+5. **Não use as construções desajeitadas ele/ela ou dele/dela.**  
+    Em vez disso, escreva "ele ou ela" ou "dele ou dela".
+6. **Crie uma pessoa imaginária para estabelecer o gênero.**  
+    Por exemplo: "Digamos que Doris Franklin está fazendo hora extra. Ao bater seu cartão de ponto, ela é automaticamente alterada para sua taxa de pagamento de horas extras."
+# Alguns truques do ramo
+
+Copywriters usam várias técnicas de estilo para reunir diversas informações em apenas alguns parágrafos curtos em uma copy que flui. Aqui estão algumas dicas.
+
+## Termine com um verbo
+
+Finalizar uma frase com um verbo aumenta o tom coloquial da copy e é uma técnica perfeitamente aceitável, endossada por William Zinsser, Rudolt Flesch, Henry Fowler e muitas outras autoridades do copywriting moderno. Veja alguns exemplos:
+
+|Ele é o tipo de pessoa com quem você ia adorar ter uma conversa|Ele é o tipo de pessoa com quem você adoraria conversar|
+|---|---|
+|A poluição do ar é algo de que nós queremos nos ver livres|A poluição do ar é algo de que queremos nos livrar|
+|Estamos lutando para quê?|Pelo que estamos lutando?|
