@@ -365,3 +365,88 @@ O ideal é que sejam quatro revisores ou menos. Seis deve ser o máximo. Mais do
 
 Quando escrevo para pequenas empresas, minha copy geralmente é aprovada por uma pessoa: o proprietário ou presidente da empresa. Alguns de meus melhores trabalhos foram publicados dessa forma. Se outras pessoas da empresa quiserem ver a copy antes de ser publicada, coloque-as em cópia "Cc" no e-mail para que também recebam a informação. Essas pessoas podem dar a opinião delas se quiserem, mas não têm o direito de aprovar ou desaprovar. Apenas alguns membros da equipe devem opinar sobre qual será o conteúdo final do anúncio.
 
+>[! ]
+>##### O PRINCÍPIO 25-50-25 DE REVISÕES DE COPY
+>Cerca de 25% das alterações feitas pelo cliente melhoram a copy. Aproximadamente 25% tornam a copy mais fraca. Os outros 50% não fazem qualquer diferença.
+>
+>Qual é a minha reação sobre isso? Eu altero os 25% que melhoram a copy e agradeço ao cliente por sua revisão cuidadosa. Também altero os 50% que não afetarão de qualquer forma a eficácia da copy, e faço isso sem questionar ou reclamar.
+>
+>Para os 25% de mudanças que afetarão negativamente os resultados da campanha, exponho minhas razões para o cliente. Se ele não concordar comigo, eu concordo gentilmente.
+
+## 3. E quanto ao compliance?
+
+Compliance significa garantir que a copy atenda a todos os requisitos legais e regulamentares exigidos pelo governo federal e seus departamentos.
+
+Por exemplo, ao escrever uma copy para vender suplementos dietéticos, você não pode dizer que sua pílula cura uma doença. Portanto, você não pode dizer que seu suplemento para articulações cura ou elimina a artrite. Você pode dizer que ele ajuda na saúde das articulações.  
+Ainda mais seguro é dizer que "pode" ou que "poderá ajudar" a manter a saúde das articulações.
+
+Eu não sou advogado. Não posso aconselhá-lo sobre questões legais ou de compliance.
+
+No entanto, empresas diferentes têm diversos níveis de regras regulatórias. Algumas jogam mais soltas, enquanto outras publicam uma copy de compliance dura como uma pedra.
+
+Um experiente profissional de marketing direto me contou sua regra de compliance: "Para cada 10% que a copy se aproximar de 100% de compliance, sua taxa de resposta cai cerca de 10%."
+
+## 4. Seja civilizado
+
+Alguns clientes adoram rebaixar o trabalho de um redator. Já outros são meramente insensíveis. Eles não percebem que escrever é um ato altamente pessoal — e os redatores levam as críticas para um nível pessoal.
+
+Adman Amil Gargano diz que algumas pessoas "têm prazer em intimidar pessoas criativas; estas têm um ego muito frágil e dificuldade em lidar com a rejeição. Você deve comentar sobre o trabalho delas de maneira ponderada, atenciosa e articulada."
+
+Você não deve tratá-las como um bebê, apenas lembre-se de que são pessoas. E, como seus próprios funcionários, são rápidas em responder a elogios e insultos.
+
+Seja cauteloso quando tiver que dizer a um copywriter que o trabalho dele não atende aos seus padrões. Não diga: "A copy não é muito boa e precisamos que seja reescrita totalmente."
+
+Em vez disso, comece com os elogios e depois chegue aos defeitos. Diga: "No geral, você fez um bom trabalho ao montar isso. Deixe-me mostrar o que achamos dela e as mudanças que gostaríamos que você fizesse."
+
+As empresas gastam muito dinheiro motivando os funcionários.  
+Os fornecedores externos também respondem aos motivadores de elo-gio, gentileza, cortesia e decência. Trate bem seus copywriters, e eles lhe darão seu melhor.
+
+Meu ex-chefe na Westinghouse, T. C. Smith, tem uma maneira inteligente e eficaz de fazer críticas. O primeiro passo é dizer "O que eu gosto nisso é..." e depois elogia um ou dois dos pontos fortes que você sempre irá encontrar se procurar bem.
+
+Então você diz: "Se fosse eu, faria assim.." e faz suas críticas.
+
+Copywriters são mais receptivos e menos negativos em relação às críticas quando você começa com algumas palavras de elogio, como T. C. faz no exemplo acima.
+
+## 5. Deixe os copywriters escreverem
+
+"Bons clientes não escrevem copy", diz Malcolm MacDougall, presidente da SSC&B. "Bons clientes sabem muito bem que ninguém da Harvard Business School jamais escreveu uma grande campanha pu-blicitária. É por isso que eles contratam uma agência."
+
+Deixe seus redatores fazerem o trabalho deles. Não escreva ou reescreva a copy. Se você deseja que sejam feitas alterações, escreva quais são, e não altere por conta própria. Mande-as para o copywriter e deixe-o reescrever o texto.
+
+Não banque o professor ou gramático amador. O copywriter é especialista em como usar a linguagem como ferramenta de vendas.
+
+Se você acha que o anúncio não reflete sua estratégia e objetivo, apenas diga. Se houver um fato errado, aponte-o. Mas não mude vírgulas para ponto e vírgula nem corrija pequenos erros gramaticais. Deixe a escrita para o copywriter.
+
+## 6. Não faça pesquisas de opinião
+
+Um de meus clientes me fez criar duas versões de capa para um folheto. Ele a escolheu perguntando à mãe, ao pai, à esposa, ao sogro e à sogra, ao avô e a vários amigos de qual capa eles gostavam mais. A capa "B" teve mais votos e foi a escolhida. Não cometa o mesmo erro de meu cliente. A copy do anúncio deve ser julgada por profissionais de negócios, não por amigos, parentes ou vizinhos.
+
+Ao visualizar um layout de anúncio ou ler uma copy, os amadores julgam o anúncio pela estética, não pelo fato de levá-los a comprar o produto. Eles sempre irão escolher o layout bonito com a copy florida e poética. Então, por mais legal que essas pessoas sejam, a opinião delas sobre seu anúncio não deve desempenhar papel algum em seu processo de aprovação.
+
+Alguns profissionais de marketing compartilham a copy (geralmente pelo Google Docs) com muitas pessoas, porque acreditam que, quanto mais opiniões obtiverem, melhor será a copy.
+
+Tenho a mesma opinião que tinha outro ex-chefe meu, David Koch. Um dia, no escritório, mais de meia dúzia de nós discutíamos se gostávamos ou não de uma copy.
+
+Então, David se pronunciou e nos perguntou: "Você sabe o que é um alce?" Não sabíamos o que responder, então David disse: "É uma vaca desenvolvida por um comitê." A partir disso, formulei minha própria regra de revisão de copy:
+
+_Descobri que a qualidade da copy é inversamente proporcional ao número de pessoas que a revisam._
+
+## 7. Leia a copy como um cliente, não como um anunciante ou um editor
+
+Me preocupo quando o cliente lê a copy com uma caneta ou lápis na mão. Isso me diz que ele está lendo o anúncio como um editor, e não como um comprador.
+
+Em vez disso, leia a copy do ponto de vista do cliente. Faça a seguinte pergunta: "Se eu fosse meu cliente, esse anúncio chamaria minha atenção? Ele é forte o bastante para prender meu interesse e me fazer ler ou, pelo menos, dar uma olhada no texto da copy? Eu me lembraria do anúncio, desejaria comprar o produto ou seria levado a recortar o cupom e responder?"
+
+Não se preocupe se o anúncio não mostrar uma foto do presidente da empresa ou falar sobre as novas esteiras transportadoras da fábrica de Kentucky. Se o cliente não se importa, então você também não deve se importar.
+
+## 8. Desenvolva e publique diretrizes para revisão de copy
+
+Como eu disse antes, o copywriter não consegue ler sua mente. Ele não tem como conhecer as diretrizes corporativas, os gostos e desgostos de sua empresa, a não ser que você diga a ele quais sejam.
+
+Desenvolva um conjunto de regras e diretrizes para os copywriters seguirem. Essas regras devem conter os requisitos estilísticos obrigatórios (por exemplo, "O nome da empresa deve estar em caixa-alta e seguido por um símbolo de marca registrada") e orientações sugeridas.
+
+Essas diretrizes orientarão os copywriters sobre a maneira como você está acostumado a fazer as coisas. Por exemplo, você pode preferir subtítulos longos e informativos em folhetos em vez de subtítulos curtos e rápidos. No entanto, o copywriter deverá considerar essas diretrizes apenas como sugestões. As regras podem ser torcidas e quebradas para tornar a copy mais eficaz.
+
+Você pode contar com a ajuda do copywriter freelancer, seu consultor de publicidade ou agência para desenvolver essas regras e diretrizes. Juntos, vocês podem decidir adicionar novas regras ou excluir aquelas diretrizes que não servem a nenhum propósito real.
+
+O ideal é que as diretrizes de copy sejam formuladas e refinadas com base na análise dos dados testados. Por exemplo, um de meus clientes descobriu, por meio de testes extensivos, que títulos em anúncios de jornal de meia página com 8 a 12 palavras geram mais pedidos de compra. Ele tem muitas outras diretrizes, também baseadas em experiências comprovadas, que usa para aumentar a resposta de seus anúncios.
