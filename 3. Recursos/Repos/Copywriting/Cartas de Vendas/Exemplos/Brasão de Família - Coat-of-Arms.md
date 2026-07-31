@@ -28,7 +28,7 @@ author:
 >
 >O relatório agradou tanto nossos amigos que nós fizemos algumas cópias extras para compartilhar essa informação com outras pessoas de mesmo nome.
 >
->Emoldurados, esses relatórios se tornam uma ótima decoração de parede e são ótimos presentes para pa-rentes. Devo lembrar que nós não rastreamos o nome individual de nenhuma família, mas pesquisamos por vários séculos até encontrar os registros mais antigos de pessoas com o nome MacDonald.
+>Emoldurados, esses relatórios se tornam uma ótima decoração de parede e são ótimos presentes para parentes. Devo lembrar que nós não rastreamos o nome individual de nenhuma família, mas pesquisamos por vários séculos até encontrar os registros mais antigos de pessoas com o nome MacDonald.
 >
 >Tudo que estamos pedindo por eles é o suficiente para cobrir as despesas adicionais de ter essas cópias extras impressas e enviadas (veja abaixo). Se você está interessado, por favor nos avise agora porque nosso estoque é bem pequeno. Apenas verifique se temos seu nome e endereço corretos e envie a quantidade correta em dinheiro ou cheque para o número de relatórios que você quer. Nós lhe enviaremos rapidamente pelo correio.
 >
@@ -58,10 +58,10 @@ A estratégia da carta é:
 
 Uma mensagem altamente pessoal enviada pelo correio pedindo uma resposta direta e urgente. Outro ponto fundamental é: a voz da carta é feminina (da esposa dele).
 
-Se fosse a voz dele, possivelmente não teria o mesmo impacto. E esse é um fator subestimado nas cartas e vídeos de vendas. Se você escrever na voz errada, suas vendas podem literalmente atundar.
+Se fosse a voz dele, possivelmente não teria o mesmo impacto. E esse é um fator subestimado nas cartas e vídeos de vendas. Se você escrever na voz errada, suas vendas podem literalmente afundar.
 
 # Principais lições dessa carta:
 
 - Crie uma mensagem que pareça o mais pessoal possível;
-- Antes dessa carta, Gary Halbert escreveu quatro versões dife-rentes. Essa, que teve o melhor resultado, vendeu apenas UM produto, para UMA família. Mas fez isso milhões de vezes;
-- Preste atenção à "voz" correta da sua carta. É como uma músi-ca. Se você cantar no tom errado, a música ficará estranha.
+- Antes dessa carta, Gary Halbert escreveu quatro versões diferentes. Essa, que teve o melhor resultado, vendeu apenas UM produto, para UMA família. Mas fez isso milhões de vezes;
+- Preste atenção à "voz" correta da sua carta. É como uma música. Se você cantar no tom errado, a música ficará estranha.
