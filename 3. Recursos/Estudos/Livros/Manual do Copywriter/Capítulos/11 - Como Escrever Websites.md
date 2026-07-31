@@ -13,7 +13,7 @@ tipo:
   - fonte
 author:
   - Robert W. Bly
-description: Além de SEO, hoje, com IA temos AEO e GEO
+description: "Além de SEO, hoje, com IA temos AEO e GEO. Canal: ONLINE - website"
 ---
 # O que funciona no marketing on-line hoje?
 

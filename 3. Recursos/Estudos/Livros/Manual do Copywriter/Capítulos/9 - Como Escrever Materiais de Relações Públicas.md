@@ -8,7 +8,6 @@ Subdominio:
 Sub_subdominio:
   - promoção
   - copywriting
-  - praça
 tipo:
   - fonte
 author:

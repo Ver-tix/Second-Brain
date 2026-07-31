@@ -13,6 +13,7 @@ tipo:
   - fonte
 author:
   - Robert W. Bly
+description: "Canal: OFFLINE - mala direta"
 ---
 DE ACORDO COM A ASSOCIAÇÃO DE DADOS E MARKETING (DATA AND MARKETING Association - DMA), o valor gasto com mala direta em 2018 foi de US$ 38,5 bilhões.' Atualmente, mais de 120 bilhões de malas diretas são enviadas por ano pelos correios.
 

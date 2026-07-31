@@ -13,6 +13,7 @@ tipo:
   - fonte
 author:
   - Robert W. Bly
+description: "Canal: OFFLINE - Folhetos"
 ---
 **O MATERIAL PROMOCIONAL EXISTE HÁ MUITO TEMPO. DE ACORDO COM O LIVRO** _Ripley's: Acredite se Quiser!_, o primeiro folheto foi escrito por Hernán Cortés há quase quinhentos anos. Ele foi distribuído como um broadside por Carlos V aos espanhóis e anunciava uma venda de perus.
 

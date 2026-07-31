@@ -13,6 +13,7 @@ tipo:
   - fonte
 author:
   - Robert W. Bly
+description: "Canal: OFFLINE - anúncio impresso"
 ---
 **APESAR DA TENDÊNCIA DE QUEDA DA INDÚSTRIA JORNALÍSTICA, QUASE US$ 16** bilhões são gastos anualmente nos Estados Unidos com anúncios de jornais. Assim, embora o número de leitores de jornais esteja certamente em declínio, afirmar que os jornais estão com os dias contados é um tanto exagerado.
 

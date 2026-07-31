@@ -13,6 +13,7 @@ tipo:
   - fonte
 author:
   - Robert W. Bly
+description: "Canal: OFFLINE - comerciais de TV e rádio"
 ---
 ATUALMENTE, COM CENTENAS DE CANAIS DE TV E STREAMING DE VÍDEOS, MAIS E mais comerciais estão competindo pela nossa atenção. O desafio é fazer com que seu comercial se destaque dos demais e atraia a atenção do consumidor, mas os anunciantes não têm certeza de como fazer isso.
 
