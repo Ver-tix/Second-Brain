@@ -6,8 +6,8 @@ tags:
   - copywriting
   - headline
 ---
-| Headline                                                                                                         | Descrição                                                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Headline                                                                                                           | Descrição                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *38 Maneiras Fáceis e Divertidas Para Ganhar R$ 500,00 no Próximo Final de Semana*                                 | **Especificidade e Recompensa:** Usa números exatos (38, R$ 500,00), um prazo claro ("próximo final de semana") e remove a fricção ("fáceis e divertidas").            |
 | *As Pessoas que Lerem Esse Livro Ficarão com Seu Dinheiro*                                                         | **Curiosidade (Information Gap):** Cria um mistério imediato. O leitor é forçado a ler para entender qual é a "pegadinha" ou o mecanismo por trás dessa afirmação.     |
 | *Usar um Advogado Pode Ser Perigoso para Sua Riqueza*                                                              | **Abordagem Negativa e Medo:** Aponta um risco inesperado em uma ação comum, ativando o instinto de proteção do leitor sobre seu patrimônio.                           |
