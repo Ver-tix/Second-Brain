@@ -118,3 +118,63 @@ Agora vamos criar uma amostra do roteiro para que você veja como é:
 | **3** | Uma tela de computador com o software aberto em uma página de seleção.                                                                       | O PantherWorks elimina o acesso a vários bancos de dados antigos e desatualizados. Se todas as suas informações e dados estiverem atualizados e integrados, não haverá mais necessidade de gastar seu tempo entrando e saindo de vários bancos de dados. Todas as informações e dados importantes podem ser acessados em um só lugar, com apenas alguns toques no teclado.                                                                                                                                                                                                                                                                                                                      |
 | **4** | Relatório na mesa: cronograma, inventário e relatório mensal de faturamento.                                                                 | Depois de apertar a tecla Enter, em apenas alguns segundos você terá seu relatório. Também personalizamos os relatórios de acordo com suas necessidades. Assim, você não precisará ficar fazendo isso. Tem um relatório novo que você deseja extrair toda semana? Nos conte qual é para que possamos criá-lo e carregá-lo em sua plataforma. É rápido, fácil de implementar, e nós forneceremos o treinamento inicial no consultório, para que a plataforma esteja pronta e funcionando imediatamente após a conclusão do treinamento. Vídeos de treinamento estarão disponíveis em nosso site para que você nunca fique sem suporte. Se você tiver dúvidas, nós providenciaremos as respostas. |
 | **5** | Trabalhadores felizes e mostrando o polegar para cima... Desvanecimento...<br><br>O endereço de um site é mostrado na parte inferior da tela | (o orador aperta a mão do dentista da clínica odontológica — o orador volta-se para a câmera) Então, se quiser ver o que o PantherWorks pode fazer por você, ligue agora para o número xxxx-xxXx. Agendaremos um horário para ir ao seu consultório e conversar com você e seus funcionários. Se deseja entrar em contato conosco on-line para obter mais informações, em vez de dar um telefonema, visite: [Biedermort.com/signup/e](http://biedermort.com/signup/e) conecte-se conosco lá. Mal podemos esperar para ajudá-lo e fazer a diferença em sua clínica odontológica! Ligue agora para xxx-xxx-xxxx ou envie-nos uma mensagem online!                                                 |
+# Cartas de vendas em vídeo (VSLS)
+
+As cartas de vendas em vídeo (video sales letters) foram originalmente criadas em um tipo de tela branca. É aqui que você vê uma frase digitada na página enquanto uma voz narra também o texto. Geralmente é apenas uma frase, ou talvez duas, para cada slide.
+
+Elas são exibidas em vídeos bastante longos e normalmente estão relacionadas a tópicos de saúde ou do setor financeiro. Na verdade, elas podem ser sobre qualquer coisa, mas sempre há o risco desse vídeo ficar muito extenso, fazendo com que a atenção do espectador se perca ao longo do caminho.
+
+Os videoclipes podem ser curtos, mas, para o marketing de resposta direta, as cartas de vendas em vídeo geralmente duram de 15 a 45 minutos, ou até mais. O roteiro tem entre 2.000 e 7.000 palavras.
+
+Uma diferença fundamental entre cartas de vendas em vídeo e cartas de vendas estáticas (landing pages ou impressas) é esta: um cliente em potencial pode ler uma carta de texto convencional várias vezes, com a opção de voltar e reler algumas partes, caso seja do interesse dele. E, muitas vezes, ele faz isso. Mas o cliente em potencial só pode assistir a uma carta de vendas em vídeo inteira diretamente; ele não tem a opção de escolher as partes que irá assistir.
+
+Com isso em mente, aqui estão algumas diretrizes para escrever cartas de vendas em vídeo eficazes:
+
+1. A maneira certa de começar é prendendo a atenção do público com uma declaração que o tire de seu padrão normal. Surpreenda-o. Sacuda-o.
+2. Conte uma história envolvente que faça o ouvinte se identificar com ela. O superastro de marketing Michael Masterson chama isso de "slide de veludo".
+3. Mantenha-a simples. A "densidade de informação" — o número de fatos por página — deve ser aproximadamente 20% menor do que uma promoção em texto.
+4. Use frases e palavras especialmente curtas. Eu não uso nenhuma palavra com mais de 9 letras.
+5. Use parágrafos curtos. Algumas frases são comuns. Isso torna o texto do vídeo mais fácil de ler.
+6. Se você quiser dramatizar ou provar uma afirmação ou fato da copy, pode inserir uma tabela ou gráfico na apresentação do vídeo. Mesmo que o cliente em potencial tenha apenas alguns segundos para visualizá-los, tabelas e gráficos passam a impressão de que seu ponto de vista está bem fundamentado.
+7. Você pode declarar de forma concisa o problema que seu produto resolve no início da carta de vendas em vídeo, mas explique a solução no primeiro minuto ou no segundo. Se você esperar muito para mencionar a solução, correrá o risco de deixar seu cliente em potencial entediado.
+8. Não use mais de dois números em uma frase. Se o fizer, arredonde pelo menos um deles.
+9. O tom da copy deve ser positivo e entusiasmado, pois o cliente em potencial ouve a voz que está lendo o texto. Mas também deve passar auto-ridade.
+
+Quando falo sobre cartas de vendas em vídeo, invariavelmente ouço a objeção: "Elas são muito longas! Eu sempre caio fora. Quem gastaria trinta minutos para assisti-la?"
+
+Mas muitas pessoas assistem. Como eu sei disso? Testes mostram repetidamente que as cartas de vendas em vídeo normalmente geram taxas de conversão mais altas do que as landing pages estáticas.
+
+Se você ainda se opõe às cartas de vendas em vídeo porque simplesmente não gosta delas, cito este conselho do copywriter Peter Beutel: "Não deixe sua preferência pessoal atrapalhar."
+
+# Recursos
+
+## The Voice Realm (O Reino da Voz)
+
+Acesse o site para fazer o upload de seu roteiro neste contador de tempo, conhecido como Voice Over Estimate, para converter o tempo do roteiro em tempo de vídeo.
+
+[https://www.thevoicerealm.com/count-script.php](https://www.thevoicerealm.com/count-script.php)
+
+## Vídeos de animação de quadro branco
+
+São plataformas de software que permitem criar vídeos usando personagens pré-instalados, planos de fundo, itens como mesas, cadeiras, relógios e muito mais. Você cria sua própria cena colocando os componentes na página e, ao executá-la, a plataforma a "desenhará"
+
+VideoScribe: [https://www.videoscribe.co/en/Whiteboard-Animation](https://www.videoscribe.co/en/Whiteboard-Animation)
+
+Renderforest: [https://www.renderforest.com/whiteboard-animation](https://www.renderforest.com/whiteboard-animation)
+
+Animaker:[https://www.animaker.com/blog/how-to-create-white-board-video/](https://www.animaker.com/blog/how-to-create-white-board-video/)
+
+Rawshorts: [https://www.rawshorts.com/](https://www.rawshorts.com/)
+
+Explee: [https://explee.com/](https://explee.com/)
+
+Se você deseja criar seus próprios vídeos do início ao fim, pode usar um dos programas abaixo:
+
+**Softwares de edição de vídeo:**
+
+- Windows 10 Video Editor;
+- Adobe Premiere Pro (vendido junto ou separado do pacote Creative
+- Cloud);
+- Apple Final Cut Pro X (para Macs);
+- Adobe Premiere Elements (voltado para iniciantes).
+- CapCut

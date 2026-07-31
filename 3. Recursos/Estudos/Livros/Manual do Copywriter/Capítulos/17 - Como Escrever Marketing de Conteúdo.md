@@ -7,8 +7,7 @@ Subdominio:
   - marketing-tático-mix
 Sub_subdominio:
   - promoção
-  - copywriting
-  - praça
+  - marketing-de-conteúdo
 tipo:
   - fonte
 author:
