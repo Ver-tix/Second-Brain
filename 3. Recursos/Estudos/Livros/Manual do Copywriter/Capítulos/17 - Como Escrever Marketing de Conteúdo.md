@@ -260,3 +260,143 @@ Aqui vão mais algumas dicas de como escrever white papers:
 - Crie um conteúdo que ajude a conduzir os leitores para a próxima etapa do processo de compra.
 
 ## Etapa cinco: Mídia
+
+Onde e como você pode conseguir potenciais compradores — seu público-alvo? Para obter resultados, você deve promover sua oferta de white paper gratuito para os clientes em potencial, e isso geralmente é realizado por meio de alguma forma de marketing direto.
+
+O marketing direto por correio ou e-mail é difícil, a não ser que você consiga obter uma lista de clientes em potencial de seu público-alvo. Olhe em volta e veja o que está disponível em seu público-alvo em relação a listas de destinatários, bancos de dados, publicações, si-tes, feiras comerciais, convenções, associações profissionais, boletins informativos, e-zines e outras mídias. Quanto mais segmentada for a lista, maior será a taxa de resposta à sua campanha de marketing.
+
+Em um episódio do reality show do presidente Donald Trump, O Aprendiz, Trump deu a mesma tarefa para dois grupos concorrentes: criar uma loja para noivas e fazer uma venda noturna. O time que vendesse mais seria o vencedor.
+
+A estratégia de marketing da equipe A era imprimir flyers sobre a venda e distribuí-los na estação Penn Station durante a hora do rush. Trump questionou a sabedoria dessa estratégia, perguntando: "Quantas pessoas estão pensando em se casar quando descem do trem voltando do trabalho?"
+
+A estratégia de marketing da equipe B foi conseguir uma lista grande de e-mails de nova-iorquinos que iriam se casar e enviar uma mensagem para a lista falando sobre a venda.
+
+Acho que você já consegue adivinhar o resultado: a loja da equipe. A ficou praticamente vazia. Eles conseguiram apenas meia dúzia de compradores e venderam apenas dois vestidos, faturando US$ 1.000.
+
+A estratégia mais direcionada de e-mail marketing da equipe B foi a vencedora: havia pessoas esperando na fila para entrar na loja, que vendeu 26 vestidos e faturou mais de US$ 12 mil, superando a equipe A em mais de doze vezes. (Com certeza, Trump demitiu o líder da equipe A naquela semana).
+
+O ponto aqui é: quanto mais direcionadas forem suas listas de destinatários de mídia, listas on-line, banners, anúncios de revistas e jornais, comerciais de rádio e TV, mais clientes em potencial farão o download de seu white paper.
+
+## Etapa seis: Táticas
+
+As táticas são os meios pelos quais você alcançará seus clientes em potencial (ou seja, mala direta, anúncios, e-mail marketing, publicidade impressa, spots de rádio, feiras comerciais, banners, anúncios pay-per-click, joint ventures e outras comunicações de marketing).
+
+Parte de sua decisão sobre táticas é regida pelo custo e disponi-bilidade. Por exemplo, se não houver uma lista que você possa alugar com o endereço de e-mail dos clientes em potencial, provavelmente não poderá usar o e-mail marketing para alcançá-los. Às vezes, há uma lista de e-mails com um valor razoável de aluguel de US$ 100 por mil e-mails. Mas, se o dono da lista cobrar US$ 1.000 por mil endereços, o e-mail não será economicamente viável.
+
+Outro fator que rege a tática de seleção são seus clientes em potencial. O e-mail marketing não funcionará se a maioria de seus clientes em potencial não tiver acesso à internet — o que, surpreendentemente, ainda é cerca de metade da população mundial.
+
+## Etapa sete: Cronograma
+
+Um cronograma útil contém todas as tarefas e etapas do projeto (por exemplo, "primeiro rascunho do white paper"), a data programada para entrega e as pessoas responsáveis.
+
+A maioria das campanhas de white paper tem vários componentes e envolve vários colaboradores, revisores e aprovadores. Sem um cronograma do projeto que inclua as tarefas, as etapas envolvidas na tarefa, a pessoa responsável pelas etapas e a data em que cada etapa deverá ser finalizada, a probabilidade de concluir o projeto no prazo é bem remota.
+
+## Etapa oito: Orçamento
+
+O orçamento é simplesmente o custo da campanha. Para defini-lo, primeiro você deve fazer uma lista com os resultados da campanha.
+
+Para o white paper, você vai gastar com copywriting, design e, se for um documento impresso, impressão e encadernação. Há também o custo de atendimento da consulta, que se refere ao envio de materiais solicitados pelos clientes em potencial que responderam à isca.
+
+Ao responder às solicitações de seu white paper enviando um PDF por uma resposta automática, o atendimento de consultas é quase gratuito.
+
+No entanto, não se esqueça de levar em consideração o custo de sua campanha de marketing. Só porque ela é principalmente digital não significa que seja gratuita. Pelo contrário, o marketing digital pode ser, na verdade, relativamente caro. Seus gastos com banners, anúncios do Google, do Facebook e e-mails para listas alugadas podem facilmente chegar a milhares de dólares por mês, por semana ou até mesmo por dia.
+
+## Etapa nove: Métricas
+
+Determine seus objetivos. As principais métricas para campanhas de marketing de white paper incluem:
+
+- taxas de cliques para a landing page do white paper;
+- taxas de conversão de cliques para download de white papers;
+- consultas de destinatários do white paper via e-mail ou telefone;
+- número de destinatários do white paper que são clientes em potencial qualificados para o produto;
+- percentual de destinatários do white paper que compram.
+
+# Blogs
+
+Os blogs, que em sua forma mais básica são os diários on-line — embora tenham ramificações de maior alcance —, ganharam destaque nacional nas últimas duas décadas.
+
+De acordo com a SoftwareFindr, há mais de meio bilhão de blogs na internet. A Techjury relata que 77% dos usuários da internet leem blogs e que adicionar um blog ao seu site pode aumentar o tráfego em até 434%.5
+
+Os mecanismos de busca gostam de conteúdo e, quando você publica em seu blog, está inserindo conteúdo novo em seu site, regularmente.
+
+Adicionar um blog ativo ao seu site certamente aumentará seu ranking nos mecanismos de busca.
+
+Ao contrário de artigos e white papers, que são tradicionalmente comunicações unidirecionais (você escreve, seus assinantes leem), os blogs são um meio on-line bidirecional, ou seja, uma forma de iniciar uma conversa animada sobre um tópico interessante.
+
+Uma técnica eficaz para escrever em blog é fazer uma declaração forte em sua postagem e, em seguida, pedir uma resposta ao leitor (por exemplo, muitas vezes encerro minhas postagens com uma pergunta do tipo "O que você acha?"). Outra técnica que estimula a conversa é manter sua opinião para si e pedir que seus leitores opinem.
+
+Se estiver debatendo um artigo que você ou outra fonte já publi-cou, certifique-se de colocar uma referência para o artigo original em sua postagem no blog. Insira o link que faz referência ao artigo anterior, caso ele esteja disponível on-line.
+
+Muitos blogs de negócios são escritos na voz de um único autor que se torna familiar aos leitores ao longo do tempo, construindo uma relação de confiança.
+
+Quando apropriado, coloque um hiperlink de uma ou duas frases em suas postagens para algum material relevante, como artigos ou sites que abordem o mesmo tópico.
+
+De acordo com a Orbit Media, o post padrão de blog tem cerca de mil palavras e leva mais de três horas para ser escrito. Seu blog deve ter pelo menos um novo post por semana.
+
+Existem muitas plataformas de blogs. O WordPress, uma plataforma de software de código aberto, é a mais usada na criação de blogs, e alguns hosts configuram isso para você com apenas um clique.  
+Essa plataforma oferece temas gratuitos e pagos, mas confira também outras que possam ser usadas. Quanto ao WordPress, você pode fazer o download da versão gratuita pelo [WordPress.org](http://wordpress.org/). Se você optar por ele, certifique-se de que sua empresa de hospedagem suporta essa plataforma; a maioria suporta.
+
+A outra versão é encontrada no [WordPress.com](http://wordpress.com/), em que o WordPress hospeda sua página de blog, mas é muito pequena em termos de extensão. As outras opções de compra são um domínio personalizado e armazenamento adicional.
+
+Você não poderá usar plataformas de publicidade, como o Google AdSense.  
+Você também encontrará o termo "WordPress Theme Frameworks" o que significa que a versão que baixou do [WordPress.org](http://wordpress.org/) foi tomada por uma empresa de desenvolvedores e recodificada para ser mais eficiente, usando os próprios kits de ferramentas. Algumas empresas cobram um valor pelos pacotes, enquanto outras os oferecem gratuitamente, como a [CherryFramework.com](http://cherryframework.com/).
+
+# Estudos de casos
+
+De acordo com a copywriter Heather Sloan, estudos de caso costumam ser mais eficazes do que folhetos e outros materiais tradicionais de vendas. Por quê?
+
+"Todo mundo adora uma história", explica Heather. "Nunca essa frase soou mais verdadeira do que em conversas de vendas e peças de marketing. Histórias criam imagens. Histórias evocam emoções.  
+Histórias são memoráveis. Histórias fixam o conteúdo de suas apre-sentações. E a maneira mais fácil de contar uma história de marketing é pelo estudo de caso."
+
+Um estudo de caso é a história de sucesso de um produto. Ele conta como uma empresa resolveu um problema usando determinado produto, processo, método ou ideia. Tal como acontece com outras técnicas de marketing, os estudos de caso flutuam em popularidade: embora quase todas as empresas possam vender lucrativamente com eles, uma pesquisa informal de sites B2B mostrou que a maioria das empresas não aproveita ao máximo o poder do marketing de estudo de caso.
+
+Embora esses não precisem aderir a nenhuma fórmula, aqui estão algumas diretrizes.
+
+O estudo de caso padrão é relativamente breve: um ou dois lados de uma página de 21,59 x 27,94 cm, ou cerca de 800 a 1.500 palavras. Os mais complexos ou aprofundados podem ter de 2.000 a 2.500 palavras.
+
+Um estudo de caso eficaz faz com que o leitor queira saber mais sobre o produto que apresenta. É uma proposta de venda sutil, projetada para incitar seus clientes em potencial a solicitarem informações mais detalhadas. Se você espelhar o problema dos leitores com sucesso, o estudo de caso os impulsionará ainda mais no funil de vendas, deixando-os mais próximos de fecharem a compra.
+
+Na maioria das vezes, esses estudos não são excessivamente técnicos: eles são escritos em um estilo semelhante ao de um artigo de revista. Sua intenção não é apresentar minúcias aprofundadas e dados analíticos, mas descrever brevemente como um produto ou serviço pode abordar de maneira eficaz um problema específico e resolvê-lo.
+
+Você não precisa ser criativo ou reinventar a roda ao criar um estudo de caso. A maioria deles segue uma variação deste esboço com eficácia comprovada:
+
+1. Quem é o cliente?
+2. Qual era o problema? Como ele estava prejudicando o negócio do cliente?
+3. Quais soluções eles analisaram e acabaram rejeitando, e por quê?
+4. Por que escolheram nosso produto como solução?
+5. Descreva a implementação do produto, incluindo quaisquer problemas e como eles foram resolvidos.
+6. Como e onde o cliente usa o produto?
+7. Quais são os resultados e benefícios que estão obtendo?
+8. Eles o recomendariam a outras pessoas? Por quê?
+
+"Não temos diretrizes formais para estudos de caso", disse Mark Rosenzweig, ex-editor da Chemical Processing, uma revista comercial que publica artigos com estudos de caso há décadas. "Geralmente, procuramos por uma instalação relativamente recente, digamos, nos últimos dois anos, de tecnologia inovadora. Quais problemas motivaram a instalação? O que envolveu? Quais resultados foram alcançados? Geralmente procuramos algo em torno de 1.500 a 2.000 palavras."
+
+Como os estudos de caso são apresentados em formato de história, os leitores são naturalmente mais propensos a se interessar — ainda mais se a história trouxer algum tipo de benefício para eles. Ao contrário das apresentações de vendas, esses estudos tratam de mostrar como um produto ou serviço funciona, em vez de contar. Como os benefícios do produto são exaltados por um usuário real — e não pelo fabricante —, as alegações passam mais credibilidade.
+
+Ao usar um cliente satisfeito como exemplo, um estudo de caso basicamente demonstra como seu produto funciona. Em vez de apresentar uma pilha de fatos e números, você conta uma história envolvente que mostra de forma brilhante a eficácia do produto.
+
+Um argumento de venda igualmente forte é o nível de empatia que um estudo de caso cria entre seus clientes em potencial e fregueses satisfeitos. As pessoas tendem a se identificar com as outras. Os clientes em potencial se sentem mais à vontade quando ouvem seus pares. Eles se relacionam melhor, porque, muitas vezes, compartilham os mesmos problemas e questões.
+
+Os leitores também acreditam mais nos estudos de caso do que em outros materiais promocionais. Eles são céticos em relação aos anúncios e acham que os folhetos estão repletos de exagero. Até os podcasts e blogs de empresas podem parecer interesseiros. Mas, em um estudo de caso, um cliente elogia o produto mesmo sem motivo ou incentivo financeiro, passando credibilidade imediata.
+
+Uma pesquisa da Forrester Research Inc. mostra que 71% dos compradores baseiam suas decisões em confiança e credibilidade.   Relacionar as experiências positivas de seus clientes com seu produto é uma das melhores formas de estabelecer credibilidade no mercado. Fazer com que os clientes confiem no que você está oferecendo aumenta drasticamente a probabilidade de comprarem de você.
+
+Uma das melhores fontes de candidatos para estudos de caso é a força de vendas. No entanto, os vendedores preferem gastar o tempo vendendo. Normalmente, são indiferentes às comunicações de marketing e veem a participação em estudos de caso como um trabalho extra que não trará qualquer recompensa direta para eles.
+
+Você pode deixar os vendedores animados para sugerir possíveis estudos de caso oferecendo-lhes incentivos tangíveis: o representante de vendas recebe dinheiro, mercadorias ou um incentivo de viagem se sua sugestão for escolhida para um estudo. Quando um bom incentivo é oferecido, a força de vendas, de repente, fica empolgada com a busca da sugestão do estudo de caso. O incentivo não precisa ser enorme, mas deve ser desejável, como um novo iPod, por exemplo.
+
+Para preparar o estudo de caso, o copywriter deve entrevistar a pessoa na empresa do cliente, pois é ela que está mais envolvida na aplicação. Para uma pequena empresa, este pode ser o proprietário; para uma empresa maior, pode ser um gerente de fábrica ou engenheiro. Antes do copywriter, o vendedor ou o gerente de contas que atende o cliente deve ligar e certificar-se de que este está disposto e até mesmo empolgado para participar. Estudos de caso escritos sobre usuários relutantes ou hostis são difíceis de elaborar e raramente se tornam um sucesso.
+
+Durante a entrevista, obtenha o maior número possível de boas citações. Use-as no texto do estudo e as atribua à pessoa que está sendo entrevistada.
+
+Motivo: as citações em estudos de caso publicados podem ter uma dupla serventia como depoimentos.
+
+Dica: se o entrevistado não está dizendo exatamente o que você quer que ele diga, use a técnica "Então você está dizendo". Diga à pessoa: "Então você está dizendo que...", seguido pela declaração que você deseja que ela faça. Se ela responder "sim, é isso que estou dizendo", você pode atribuir a frase à tal pessoa.
+
+Muitas vezes, os clientes em potencial são vagos em suas respostas, e cabe ao entrevistador/redator extrair os detalhes da conversa. Sempre que possível, peça para a pessoa fornecer números, para que as afirmações e resultados sejam específicos.
+
+Por exemplo, se o sujeito disser que o produto reduz os custos de energia, mas sem dizer quanto, peça para ele ser mais específico: "Ele reduziu o consumo de energia em mais de 10%? Mais de 100%?" Ele lhe dará uma estimativa, e você poderá usá-la como um valor aproximado (ou seja, "O sistema XYZ reduziu o consumo de energia da planta em mais de 10%").
+
+Antes que o estudo de caso possa ser divulgado, o entrevistado deve aprovar e assiná-lo. Deixe o estudo arquivado. Se a pessoa mudar de emprego, você pode perdê-la de vista. Portanto, você não pode abrir mão do formulário de permissão assinado. Caso contrário, se a autorização para usar o estudo for questionada e você não conseguir apresentá-la assinada, talvez seja necessário removê-lo de seu site.
+
+Pergunte aos participantes dos estudos se estão dispostos a servir como fontes de referência. Dessa forma, um cliente em potencial cujas necessidades estão relacionadas a um estudo específico pode, de fato, falar com o usuário do produto apresentado nesse estudo. Verifique sua lista de fontes de referência periodicamente para garantir que os nomes e números estejam sempre atualizados.
