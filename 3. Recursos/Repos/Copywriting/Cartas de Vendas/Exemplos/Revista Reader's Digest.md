@@ -13,7 +13,23 @@ tipo:
 ---
 # Texto
 
-
+> Estimado leitor
+> 
+> Um antigo poeta persa disse: "Se você tiver apenas duas moedas, gaste uma com o pão. Com a outra, compre flores para a alma."
+> 
+> Poético, talvez; mas totalmente sem sentido!
+> 
+> Comprar "flores para a alma" - para nutrir a sua mente e o coração com boa leitura; para estar informado, alerta, preocupado com o que diz aos outros - é tão importante quanto progredir na carreira ou na vida social.
+> 
+> E isto não precisa ser uma tarefa difícil! Uma pequena revista - 12 vezes por ano - vai livrá-lo da estagnação mental, lhe dará algo interessante para pensar e conversar, o manterá livre do tédio - e o livra de entediar aos outros! A revista é a Reader's Digest.
+> 
+> Nesta carta (com os nossos cumprimentos) há duas moedas para você. Nós o convidamos para manter uma consigo como um pagamento - e com a outra moeda, aproveite a barganha pelas mais finas "flores" que você pode encontrar por aí - as próximas 12 edições de Readers Digest.
+> 
+> Apenas coloque uma moeda no bolso do envelope que lhe enviamos e nos retorne ainda hoje. Nós vamos lhe enviar as próximas 12 edições da Digest - por menos de US$ 4,00 - mas nós lhe mandaremos uma cobrança de somente US$ 2,01. Assim você recebe 12 edições pelo preço de seis - e começa já a sua mudança!
+> 
+> Este convite não lhe será feito de novo por pelo menos dois anos. É por isso, então, que nós suplicamos que você aja agora. Apenas por se beneficiar desta oportunidade agora você poderá receber as próximas 12 edições da Reader's Digest por US$ 2,00.
+> 
+> Sinceramente,
 # Contexto
 
 A revista Readers Digest foi uma das maiores do ramo nos Estados Unidos.
