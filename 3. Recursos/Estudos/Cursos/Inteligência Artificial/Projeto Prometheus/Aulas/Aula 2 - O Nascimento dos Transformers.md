@@ -1,6 +1,12 @@
 ---
 tags:
   - IA
+dominio:
+  - IA
+Subdominio:
+  - arquitetura_redes_neurais
+Sub_subdominio:
+  - transformers
 ---
 
 ## Um Breve Contexto
