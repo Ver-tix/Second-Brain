@@ -2,7 +2,6 @@
 tags:
   - IA
 ---
-
 # Aula 4 - A Arte da Atenção, Como um Transformer Decide Para Onde Olhar
 
 # 🎯 A Grande Pergunta
