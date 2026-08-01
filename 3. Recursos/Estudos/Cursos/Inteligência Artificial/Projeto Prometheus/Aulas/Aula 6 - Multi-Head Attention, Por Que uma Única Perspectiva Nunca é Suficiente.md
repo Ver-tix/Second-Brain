@@ -15,7 +15,7 @@ Imagine que você está lendo esta frase:
 
 Enquanto você lê, seu cérebro faz várias análises ao mesmo tempo.
 
-Sem perceber, ele observa:
+Sem perceber, você observa:
 
 - quem é o sujeito;
 - qual verbo se relaciona com qual substantivo;
