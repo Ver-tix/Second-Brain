@@ -104,8 +104,6 @@ Ela cria um espaço interno mais rico para realizar transformações.
 
 ---
 
-<aside>
-
 ## 🧠 Modelo Mental nº 2
 
 Pense em um chef.
@@ -122,7 +120,6 @@ Os ingredientes certos não produzem um prato sozinhos.
 
 É preciso transformá-los.
 
-</aside>
 
 ---
 
