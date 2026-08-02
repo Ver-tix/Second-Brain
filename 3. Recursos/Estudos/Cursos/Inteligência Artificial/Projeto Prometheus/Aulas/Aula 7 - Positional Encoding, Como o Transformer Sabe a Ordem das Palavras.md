@@ -2,7 +2,6 @@
 tags:
   - IA
 ---
-
 ## 🎯 A Grande Pergunta
 
 Vou lhe fazer uma pergunta aparentemente simples.

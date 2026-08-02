@@ -23,20 +23,14 @@ A resposta surpreende muita gente.
 
 ---
 
-<aside>  
-💡
 
-## Um dos maiores mal-entendidos sobre Transformers
+>[! ]
+>## Um dos maiores mal-entendidos sobre Transformers
+>Quase todos os vídeos e artigos dão enorme destaque à Self-Attention.
+>
+>Ela realmente foi a grande inovação. Mas...
+><h4 align="center">Ela não é responsável pela maior parte da transformação não linear do modelo. Quem faz isso é a Feed-Forward Network (FFN).</h4>
 
-Quase todos os vídeos e artigos dão enorme destaque à Self-Attention.
-
-Ela realmente foi a grande inovação.
-
-Mas...
-
-**Ela não é responsável pela maior parte da transformação não linear do modelo.** Quem faz isso é a **Feed-Forward Network (FFN)**.
-
-</aside>
 
 ---
 
