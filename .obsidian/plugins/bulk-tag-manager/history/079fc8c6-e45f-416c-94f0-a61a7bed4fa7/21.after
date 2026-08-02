@@ -1,8 +1,0 @@
----
-tags:
-  - IA
-  - prompts
----
-
-- [[incorporacao-imobiliaria-v1|Prompts Imobiliários do Projeto Prometheus v1]]
-- [[incorporacao-imobiliaria-v2|Prompts Imobiliários do Projeto Prometheus v2]]
