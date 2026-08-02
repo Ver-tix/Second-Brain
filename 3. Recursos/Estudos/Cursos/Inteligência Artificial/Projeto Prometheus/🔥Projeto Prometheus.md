@@ -49,7 +49,7 @@ tags:
 - [[Aula 7 - Positional Encoding, Como o Transformer Sabe a Ordem das Palavras]]
 - [[Ponte Entre Aulas 7 e 8]]
 - [[Aula 8 - Feed-Forward Networks (FFN), Onde a transformação da informação realmente acontece.]]
-- [[Aula 9 - esidual Connections e Layer Normalization, Por que Transformers conseguem ser tão profundos sem desmoronar durante o treinamento.]]
+- [[Aula 9 - Residual Connections e Layer Normalization, Por que Transformers conseguem ser tão profundos sem desmoronar durante o treinamento.]]
 - [[Aula 10 -Encoder × Decoder, Por que alguns modelos usam apenas Encoder (BERT), outros apenas Decoder (GPT), e outros ambos (T5)]]
 - [[Registro Prometheus]]
 - [[Aula 11 - O Transformer como Sistema, da Primeira Palavra ao Último Token]]
