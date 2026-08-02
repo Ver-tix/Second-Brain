@@ -67,7 +67,7 @@ tags:
 - [[Ponte Entre Aulas 7 e 8]]
 - [[Aula 8 - Mixture of Experts (MoE), Como Construir Modelos Gigantes Sem Pagar O Custo De Usar Todo O Modelo O Tempo Todo]]
 - [[Aula 9 - Como Nasce Um LLM Moderno, Da Internet Ao ChatGPT - A Cadeia Completa De Treinamento]]
-- [[Aula 10 - Os Limites dos LLMS, O Que Um Transformer Ainda Não Consegue Fazer (E Por Quê)]]
+- [[Aula 10 - Os Limites dos LLMs, O Que Um Transformer Ainda Não Consegue Fazer (E Por Quê)]]
 - [[Aula 11 - Projeto Final]]
 
 # Módulo 3 - Engenharia de Prompt como Engenharia de Sistemas

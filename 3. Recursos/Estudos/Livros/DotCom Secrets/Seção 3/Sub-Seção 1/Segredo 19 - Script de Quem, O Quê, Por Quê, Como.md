@@ -11,7 +11,7 @@ O script segue quatro questões básicas antes de seguir para o CTA:
   
 ## Questão #1: Quem é Você? 
 O script geralmente é usado na frente da sua escada de valores com tráfego frio. Para a maioria das pessoas que assistiram ao vídeo ou ao texto que você desenvolveu, será provavelmente a primeira vez que estão te vendo; então apresente-se rapidamente.  
--  "Olá, eu sou Russell Brunson, e eu sou um dos co-fundadores do ClickFunnels"  
+-  "Olá, eu sou Russell Brunson, e eu sou um dos cofundadores do ClickFunnels"  
   
 ## Questão #2: O Que Você Tem? 
 Aqui é onde você irá, rapidamente, fisgá-los e introduzir a oferta  
