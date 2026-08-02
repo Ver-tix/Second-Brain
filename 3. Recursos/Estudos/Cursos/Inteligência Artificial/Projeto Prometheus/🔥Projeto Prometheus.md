@@ -56,7 +56,7 @@ tags:
 - [[Aula 12 - Projeto de Final de Módulo]]
 
 # Módulo 2 - A Engenharia dos Grandes Modelos de Linguagem (LLMs)
-- [[3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Introdução]]
+- [[Introdução 002]]
 - [[Aula 1 - O Que Significa Aprender]]
 - [[Aula 2 - Scalling Laws, Por Que Modelos Maiores Parecem Mais Inteligentes]]
 - [[Aula 3 - Capacidades Emergentes, Quando Um Modelo Começa A Fazer Coisas Que Ninguém Previu]]
