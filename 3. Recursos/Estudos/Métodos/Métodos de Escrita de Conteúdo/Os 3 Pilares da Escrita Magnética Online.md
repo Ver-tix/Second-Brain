@@ -53,4 +53,9 @@ Histórias ajudam sua audiência a vê-los no seu conteúdo. Compartilhar como v
 - Assista: ["Homework for your life | Mathew Dicks | TED X Berkshire"](https://www.youtube.com/watch?v=x7p329Z8MD0);
 - Journaling
 ## Pilar # 3 - Conselho:
-Apenas conselhos pr
+Apenas conselhos práticos levam a resultados e à mudanças. A pergunta mais fácil a responder: o que teria me ajudado antigamente, quando estava iniciando?
+
+##### Como adicionar mais conselhos à sua escrita?
+- Qual conselho você daria a alguém que está alguns passos atrás de você?
+- Por que daria esse conselho? (Adicione histórias + personalidade)
+- Como a maioria das pessoas acaba empancada e o que poderiam ter feito diferente?
