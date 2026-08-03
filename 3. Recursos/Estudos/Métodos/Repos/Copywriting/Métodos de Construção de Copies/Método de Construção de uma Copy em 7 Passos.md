@@ -95,11 +95,13 @@ author:
 >  
 >  Entre agora para nossa família!
 >  
->  <hQuero Ser Um Empresário de Ouro
+>  [Quero Ser Um Empresário de Ouro](button)
 
-1. Diga para fazerem o pedido agora.  
-    Esta é uma oportunidade única de estar em contato direto comigo e criar um negócio sólido, lucrativo e es-calável, que trará tranquilidade e segurança para você e sua família.  
-    Acesse agora as Cartas de Ouro para Empresários!  
-    À Sua Riqueza e Felicidade!  
-    PS: esta oferta com todos estes bônus expira em  
-    ‹data>, portanto, a hora de você agir é agora!
+## 6. Diga para fazerem o pedido agora.  
+>Esta é uma oportunidade única de estar em contato direto comigo e criar um negócio sólido, lucrativo e escalável, que trará tranquilidade e segurança para você e sua família.  
+>
+>Acesse agora as Cartas de Ouro para Empresários!  
+>
+>À Sua Riqueza e Felicidade!  
+>
+>PS: esta oferta com todos estes bônus expira em < data >, portanto, a hora de você agir é agora!
