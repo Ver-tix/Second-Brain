@@ -211,3 +211,227 @@ Essa mudança é exatamente o que o professor descreveu:
 ---
 
 Implemente **apenas esse novo método `calculate()`**, sem alterar os outros quatro métodos. Depois me envie o `CalculatorTool` e seguimos para a refatoração do `ToolManager`.
+
+---
+
+# Etapa 3 - Atualize o `ToolManager`
+
+Perfeito. Essa etapa é pequena, mas arquiteturalmente muito importante.
+
+Hoje, seu `ToolManager` provavelmente faz algo assim:
+
+```python
+def calculate(self, expression: str):
+
+    parts = expression.split()
+
+    a = float(parts[0])
+    operator = parts[1]
+    b = float(parts[2])
+
+    ...
+```
+
+Perceba que ele está fazendo **parsing**.
+
+Isso deixa de existir.
+
+---
+
+## Como ficará
+
+Agora o método passa a receber diretamente os argumentos estruturados:
+
+```python
+class ToolManager:
+
+    def __init__(self):
+        self.calculator = CalculatorTool()
+
+    def calculate(
+        self,
+        a: float,
+        b: float,
+        operation: str
+    ) -> float:
+
+        return self.calculator.calculate(
+            a,
+            b,
+            operation
+        )
+```
+
+E só.
+
+---
+
+## O que mudou?
+
+Antes:
+
+```text
+ToolManager
+
+↓
+
+Recebe string
+
+↓
+
+Faz split
+
+↓
+
+Interpreta operador
+
+↓
+
+Decide qual método chamar
+```
+
+Agora:
+
+```text
+ToolManager
+
+↓
+
+Recebe dados estruturados
+
+↓
+
+Delega para CalculatorTool
+```
+
+Perceba que o `ToolManager` virou realmente um **orquestrador**.
+
+Ele não interpreta mais nada.
+
+Ele apenas encaminha a requisição para a ferramenta correta.
+
+Essa mudança segue exatamente o objetivo da Parte 3 do laboratório: remover o parsing de strings do `ToolManager` e deixá-lo responsável apenas por coordenar a execução das ferramentas.
+
+Depois dessa implementação, faremos um pequeno ajuste no `MentorAgent`, porque ele ainda chama `ToolManager.calculate()` usando o formato antigo. Esse será o último passo para deixar a arquitetura consistente.
+
+## Perfeito. Agora precisamos apenas adaptar o `MentorAgent` para a nova assinatura do `ToolManager`.
+
+Hoje você provavelmente tem algo semelhante a isto:
+
+```python
+elif response["type"] == "tool_call":
+
+    tool_name = response["tool"]
+    tool_input = response["input"]
+
+    if tool_name == "calculator":
+        result = self.tool_manager.calculate(tool_input)
+
+        self.memory.add_assistant_message(str(result))
+
+        return str(result)
+```
+
+Isso usava o formato antigo:
+
+```text
+"25 + 17"
+```
+
+Agora a Aula 8.3 mudou o contrato.
+
+O ToolManager espera:
+
+```python
+calculate(
+    a,
+    b,
+    operation
+)
+```
+
+Então o bloco passa a ficar assim:
+
+```python
+elif response["type"] == "tool_call":
+
+    tool_name = response["tool"]
+
+    if tool_name == "calculator":
+
+        result = self.tool_manager.calculate(
+            a=response["a"],
+            b=response["b"],
+            operation=response["operation"]
+        )
+
+        self.memory.add_assistant_message(str(result))
+
+        return str(result)
+```
+
+---
+
+## O que mudou?
+
+Antes o `MentorAgent` passava:
+
+```python
+tool_input
+```
+
+Agora ele passa:
+
+```python
+a
+b
+operation
+```
+
+Isso significa que ele **não envia mais uma string**.
+
+Ele envia dados estruturados, exatamente como o Function Schema definiu.
+
+---
+
+### Fluxo atualizado
+
+Agora a arquitetura ficou assim:
+
+```text
+LLM
+    │
+    ▼
+{
+    "tool": "calculator",
+    "a": 25,
+    "b": 17,
+    "operation": "add"
+}
+    │
+    ▼
+MentorAgent
+    │
+    ▼
+ToolManager
+    │
+    ▼
+CalculatorTool.calculate(
+    a=25,
+    b=17,
+    operation="add"
+)
+```
+
+Esse é exatamente o objetivo da Aula 8.3: abandonar protocolos informais (strings como `"25 + 17"`) e passar a utilizar um **contrato explícito** baseado em dados estruturados.
+
+**Uma observação importante:** esse código ainda **não será executado de verdade**, porque o `LLMService` continua retornando apenas:
+
+```python
+{
+    "type": "text",
+    "content": response.output_text
+}
+```
+
+Na próxima etapa do curso, quando o Tool Calling real da OpenAI for integrado, esses campos (`"a"`, `"b"` e `"operation"`) passarão a vir da resposta da API automaticamente. Hoje estamos apenas preparando a arquitetura para essa evolução.

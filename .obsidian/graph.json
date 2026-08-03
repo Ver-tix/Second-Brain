@@ -25,7 +25,7 @@
       "query": "tag:#marketing  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16741120
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 12.5520833333333,
   "linkStrength": 1,
   "linkDistance": 163,
-  "scale": 0.043446916281347496,
+  "scale": 0.11972562276006077,
   "close": true
 }
