@@ -1,0 +1,13 @@
+---
+tipo:
+  - fonte
+dominio:
+  - marketing
+Subdominio:
+  - marketing-estrategico
+author:
+  - Alexandre Cesar Motta de Castro
+tags:
+  - marketing
+  - case
+---
