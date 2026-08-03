@@ -3,6 +3,14 @@ tags:
   - marketing
   - precificação
 published: https://youtu.be/YhnvZPVv9jc?si=VKhuX3k-K4RAbGzn
+tipo:
+  - MOC
+dominio:
+  - marketing
+Subdominio:
+  - marketing-tático-mix
+Sub_subdominio:
+  - precificação
 ---
 # Sumário
 1. [[Precificação Baseada na Concorrência|Precificação Baseada na Concorrência]]
