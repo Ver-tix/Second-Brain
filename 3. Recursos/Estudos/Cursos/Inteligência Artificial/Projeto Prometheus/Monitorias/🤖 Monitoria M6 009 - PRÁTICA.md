@@ -361,7 +361,7 @@ Ele apenas entrega:
 
 ---
 
-## Então, primeiro precisamos alterar o ToolManager
+## Então, primeiro precisamos alterar o `ToolManager`
 
 Acrescente este método:
 
@@ -387,3 +387,225 @@ def execute(
 ⚠️ **Não remova o método `calculate()` ainda.**
 
 Vamos mantê-lo temporariamente até verificar que tudo funciona. Depois podemos decidir se ele continua ou desaparece.
+
+Excelente. O `ToolManager` ficou correto e, mais importante, **a responsabilidade foi deslocada para o lugar certo**.
+## Code Review
+
+O método novo está muito bom:
+
+```python
+def execute(
+    self,
+    tool_name: str,
+    tool_input: dict
+):
+
+    tool = self.registry.get(tool_name)
+
+    if tool is None:
+        raise ValueError(f"Ferramenta desconhecida: {tool_name}")
+
+    return tool.calculate(
+        a=tool_input["a"],
+        b=tool_input["b"],
+        operation=tool_input["operation"]
+    )
+```
+
+Observe o que aconteceu:
+
+Antes o `ToolManager` dizia:
+
+> "Eu sei executar a calculadora."
+
+Agora ele diz:
+
+> "Dê-me o nome da ferramenta. Eu descubro quem ela é."
+
+Essa é uma mudança arquitetural muito importante.
+
+---
+
+## Agora vem a última alteração do MentorAgent
+
+O bloco antigo:
+
+```python
+elif response["type"] == "tool_call":
+    tool_name = response["tool"]
+    tool_input = response["input"]
+
+    if tool_name == "calculator":
+        result = self.tool_manager.calculate(
+            a=response["a"],
+            b=response["b"],
+            operation=response["operation"]
+        )
+
+        result = str(result)
+
+        self.memory.add_assistant_message(result)
+
+        return result
+
+    else:
+        raise ValueError(f"Ferramenta desconhecida: {tool_name}")
+```
+
+deve desaparecer completamente.
+
+E virar apenas:
+
+```python
+elif response["type"] == "tool_call":
+
+    result = self.tool_manager.execute(
+        tool_name=response["tool"],
+        tool_input=response["input"]
+    )
+
+    result = str(result)
+
+    self.memory.add_assistant_message(result)
+
+    return result
+```
+
+## Perceba o ganho
+
+Antes o Mentor conhecia:
+
+- Calculator
+    
+- o método `calculate()`
+    
+- como chamá-la
+    
+
+Agora ele conhece apenas um protocolo:
+
+> "Existe uma ferramenta com este nome e estes argumentos."
+
+Isso significa que amanhã você poderá adicionar:
+
+- `SearchTool`
+    
+- `DateTool`
+    
+- `GitHubTool`
+    
+- `RAGTool`
+    
+
+e **não tocar uma única linha do `MentorAgent`**.
+
+---
+
+### Uma pequena observação
+
+Assim que o `MentorAgent` passar a usar `execute()`, o método:
+
+```python
+def calculate(...)
+```
+
+do `ToolManager` ficará sem uso.
+
+**Eu não o removeria ainda.**
+
+Esperaria o laboratório terminar e, depois, verificaria se o professor quer mantê-lo por questões didáticas ou eliminá-lo definitivamente. É comum manter código durante uma transição e limpá-lo ao final da refatoração.
+
+Faça essa alteração no `MentorAgent` e me envie o código atualizado. Se estiver tudo certo, teremos concluído a parte prática principal da Aula 9 e poderemos passar para o teste de extensibilidade (Etapa 5).
+
+## Antes
+
+O `MentorAgent` tinha que conhecer:
+
+- o nome `"calculator"`;
+- que existia um método `calculate()`;
+- como chamar esse método;
+- como tratar ferramenta desconhecida.
+
+Ou seja, ele fazia mais do que deveria.
+
+## Agora
+
+Ele faz apenas isto:
+
+```Python
+elif response["type"] == "tool_call":
+
+    result = self.tool_manager.execute(
+        tool_name=response["tool"],
+        tool_input=response["input"]
+    )
+
+    result = str(result)
+
+    self.memory.add_assistant_message(result)
+
+    return result
+```
+
+Isso é muito mais elegante.
+
+Observe a mudança de responsabilidade:
+
+```
+Antes
+
+Mentor
+   │
+   ├── conhece calculator
+   ├── sabe executar calculator
+   └── trata erro
+```
+
+↓
+
+```
+Agora
+
+Mentor
+    │
+    └── "ToolManager, execute esta ferramenta."
+```
+
+Essa é exatamente a ideia central da Aula 9.
+
+---
+
+## Uma pequena melhoria (opcional)
+
+Há um detalhe que eu faria diferente, mas **não é obrigatório para esta aula**.
+
+Hoje o `MentorAgent` ainda faz:
+
+```Python
+result = str(result)
+
+self.memory.add_assistant_message(result)
+```
+
+Eu escreveria:
+
+```Python
+result = self.tool_manager.execute(
+    tool_name=response["tool"],
+    tool_input=response["input"]
+)
+
+result_text = str(result)
+
+self.memory.add_assistant_message(result_text)
+
+return result_text
+```
+
+Por quê?
+
+Porque `result` continua sendo o valor real (por exemplo, um `float`), e `result_text` representa apenas sua versão textual para armazenamento e exibição. Em sistemas maiores, é comum manter essa distinção entre o dado e sua representação.
+
+Mas, para o estágio atual do curso, sua versão está totalmente adequada.
+
+### `Implementei as alterações`
