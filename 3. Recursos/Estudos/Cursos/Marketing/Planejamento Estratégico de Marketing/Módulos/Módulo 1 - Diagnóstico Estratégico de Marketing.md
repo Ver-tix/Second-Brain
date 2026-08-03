@@ -177,18 +177,11 @@ Entender a economia do seu país e como ela influencia no seu negócio
 # **ETAPA 4 - ANÁLISE DO MICROAMBIENTE
 
 Entendendo o Ambiente Competitivo
-
 - Consumidor
-    
 - Mercado
-    
 - Segmentação
-    
 - Concorrência
-    
 - Atratividade do Segmento-Alvo
-    
-
 ## ETAPA 4.1 - ANÁLISE DO MICROAMBIENTE - CONSUMIDOR
 
 Entendendo o Consumidor
@@ -343,34 +336,22 @@ Entendendo a Segmentação de Mercado:
 - Critérios de segmentação
 - Identificação de segmentos
 
-  
-
 ### Introdução À Segmentação de Mercado
+#### O QUE É SEGMENTAÇÃO DE MERCADO
+>É a divisão de um mercado em grupos de consumidores com características, necessidades e desejos semelhantes
 
-|   |
-|---|
-|O QUE É SEGMENTAÇÃO DE MERCADO|
-É a divisão de um mercado em grupos de consumidores com características, necessidades e desejos semelhantes
+#### BASES PARA A SEGMENTAÇÃO DE MERCADO
 
-|   |
-|---|
-|BASES PARA A SEGMENTAÇÃO DE MERCADO|
-
-|   |   |   |   |
-|---|---|---|---|
-|GEOGRÁFICA|DEMOGRÁFICA|PSICOGRÁFICA|COMPORTAMENTAL|
-
-|   |   |   |   |
-|---|---|---|---|
-|Países, estados, cidades, bairros, indivíduos|Idade|Personalidade|Necessidades e Benefícios|
-|Marketing Regional|Gênero|Valores|Papel de compra|
-||Estágio no Ciclo de Vida|Estilo de Vida|Hábito e Perfil de Uso|
-||Emprego e Renda||Quantidade Consumida|
-||Formação Familiar||Fidelidade à Marca|
-||Grau de Instrução||Atitude em Relação à Marca|
-||Classe Social|||
-||Raça, Etnia, Religião|||
-
+| GEOGRÁFICA                                    | DEMOGRÁFICA              | PSICOGRÁFICA   | COMPORTAMENTAL             |
+| --------------------------------------------- | ------------------------ | -------------- | -------------------------- |
+| Países, estados, cidades, bairros, indivíduos | Idade                    | Personalidade  | Necessidades e Benefícios  |
+| Marketing Regional                            | Gênero                   | Valores        | Papel de compra            |
+|                                               | Estágio no Ciclo de Vida | Estilo de Vida | Hábito e Perfil de Uso     |
+|                                               | Emprego e Renda          |                | Quantidade Consumida       |
+|                                               | Formação Familiar        |                | Fidelidade à Marca         |
+|                                               | Grau de Instrução        |                | Atitude em Relação à Marca |
+|                                               | Classe Social            |                |                            |
+|                                               | Raça. Etnia e Religião   |                |                            |
 ### ETAPA 4.3.1 Critérios Para Segmentação
 #### CRITÉRIOS PARA SELEÇÃO DOS SEGMENTOS-ALVO
 - Mensuráveis
@@ -409,76 +390,56 @@ Vamos olhar pra dentro do nosso mercado, e entender quem são nossos principais 
 
 >“Se conheces o inimigo e a ti mesmo, não precisas temer o resultado de cem batalhas. Se te conheces, mas não conheces o inimigo, para cada vitória sofrerás uma derrota. Se não conhece a ti, nem ao inimigo, perderás todas as batalhas.” SUN TZU, A Arte da Guerra
 
-|   |
-|---|
-|CONCEITO DE CONCORRÊNCIA|
+### CONCEITO DE CONCORRÊNCIA
 
 A concorrência inclui todas as ofertas e os substitutos rivais, reais e potenciais que um comprador possa considerar.
 
 >Segundo Kotler: “concorrentes são empresas que atendem às mesmas necessidades dos clientes”
 
-|   |
-|---|
-|POR QUE ANALISAR A CONCORRÊNCIA?|
+### POR QUE ANALISAR A CONCORRÊNCIA?
 
-|   |   |
-|---|---|
-|Forças e Fraquezas ⬇️|Benchmark ⬇️|
-|Oportunidades e ameaças|Referências e Boas Práticas|
-
-  
-
+| Forças e Fraquezas ⬇️   | Benchmark ⬇️                |
+| ----------------------- | --------------------------- |
+| Oportunidades e ameaças | Referências e Boas Práticas |
 ### ETAPA 4.4.1 Identificação da Concorrência 
+#### IDENTIFICAÇÃO DA CONCORRÊNCIA
+```
+					PLAYERS DE MERCADO
+							↓
+					PLAYERS DE SEGMENTO
+							↓
+					-----------------
+					|               |
+					↓               ↓
+				  DIRETOS       INDIRETOS
+					↓               ↓
+				  Mesmas         Mesmas 
+				necessidades   necessidades 
+				e desejos do   e desejos do
+				seu segmento   seu segmento
+					↓               ↓
+			  Mesmos produtos   Produtos e 
+				e serviços       serviços 
+				                diferentes
+```
 
-|   |
-|---|
-|IDENTIFICAÇÃO DA CONCORRÊNCIA|
+**Exemplo:**
 
-|   |
-|---|
-|PLAYERS DE MERCADO|
-⬇️
-
-|   |
-|---|
-|PLAYERS DE SEGMENTO|
-⬇️
-
-|   |   |
-|---|---|
-|DIRETOS|INDIRETOS|
-|Mesmas necessidades e desejos do seu segmento|Mesmas necessidades e desejos do seu segmento|
-|Mesmos produtos e Serviços|Produtos e serviços diferentes|
-⬇️
-(exemplo)
-
-|   |   |   |   |
-|---|---|---|---|
-|Mercado|Segmento Alvo|Diretos|Indiretos|
-|Ex.: Saúde e bem estar|Ex.: Academia premium|Bodytech, Bio Ritmo, Cia Atlética, Cia do Exercício|Youtubers, Aplicativos, Studios de pilates, Boxes de Crossfit|
+| Mercado                | Segmento Alvo         | Diretos                                             | Indiretos                                                     |
+| ---------------------- | --------------------- | --------------------------------------------------- | ------------------------------------------------------------- |
+| Ex.: Saúde e bem estar | Ex.: Academia premium | Bodytech, Bio Ritmo, Cia Atlética, Cia do Exercício | Youtubers, Aplicativos, Studios de pilates, Boxes de Crossfit |
 
 ### ETAPA 4.4.2 Critérios Para Avaliação da Concorrência
-
-|   |
-|---|
-|PRINCIPAIS CRITÉRIOS PARA ANÁLISE DA CONCORRÊNCIA|
-
-|Modelo de Negócios|
-|---|
-|Missão, Visão e Valores|
-|---|
-|Posicionamento de Mercado|
-|---|
-|Mix de Marketing (4 Ps)|
-|Tecnologia e Presença Digital|
-|Participação de Mercado|
-|Segmentos de Mercado|
-|Qualidade dos Produtos e Serviços|
-|Satisfação do Cliente|
-
-  
-  
-
+#### PRINCIPAIS CRITÉRIOS PARA ANÁLISE DA CONCORRÊNCIA
+- Modelo de Negócios
+- Missão, Visão e Valores
+- Posicionamento de Mercado
+- Mix de Marketing (4 Ps)
+- Tecnologia e Presença Digital
+- Participação de Mercado
+- Segmentos de Mercado
+- Qualidade dos Produtos e Serviços
+- Satisfação do Cliente
 # ETAPA 5 - DA ATRATIVIDADE DE MERADO COM AS 5 FORÇAS DE PORTER
 
 - Concorrência
@@ -487,84 +448,25 @@ A concorrência inclui todas as ofertas e os substitutos rivais, reais e potenci
 - Fornecedores
 - Consumidores
 ### Análise de Atratividade de Mercado com as 5 Forças de Porter
-
-|   |
-|---|
-|5 FORÇAS DE PORTER|
-|Professor Michael Porter|
-|5 Força como ferramenta de análise|
-|Principais objetivos|
-
-|   |   |
-|---|---|
-|Analisar mercados e segmentos|Avaliar atratividade e competitividade|
-
-|   |
-|---|
-|5 FORÇAS DE PORTER|
-|1. Rivalidade Dentro do Segmento|
-|2. Novos Entrantes|
-|3. Produtos Substitutos|
-|4. Poder de Barganha dos Consumidores|
-|5. Poder de Barganha dos Fornecedores|
-
+Professor Michael Porter: 5 Forças como ferramenta de análise. **Principais objetivos**:
+- Analisar mercados e segmentos
+- Avaliar atratividade e competitividade
+### E quais São as Cinco Forças?
+1. Rivalidade Dentro do Segmento
+2. Novos Entrantes
+3. Produtos Substitutos
+4. Poder de Barganha dos Consumidores
+5. Poder de Barganha dos Fornecedores
 ## Etapa 5.1 Entendendo as 5 Forças de Porter 
+### CARACTERÍSTICAS DAS 5 FORÇAS DE PORTER
 
-|   |
-|---|
-|CARACTERÍSTICAS DAS 5 FORÇAS DE PORTER|
-
-|   |
-|---|
-|1. RIVALIDADE DENTRO DO SEGMENTO|
-⬇️
-
-|   |   |   |   |
-|---|---|---|---|
-|Quantidade e Qualificação dos Concorrentes|Crescimento do Mercado|Barreiras de Saída|Custos Elevados|
-⬇️
-
-|   |
-|---|
-|2. NOVOS ENTRANTES|
-⬇️
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Barreiras de Entrada e Saída|Diferenciação de Produto|Escala|Investimento|Legislação|
-⬇️
-
-|   |
-|---|
-|3. PRODUTOS SUBSTITUTOS|
-⬇️
-
-|   |   |
-|---|---|
-|Limitam os Preços e o Lucro|Tecnologia|
-⬇️
-
-|   |
-|---|
-|4. PODER DE BARGANHA DOS CONSUMIDORES|
-⬇️
-
-|   |   |   |   |
-|---|---|---|---|
-|Limitam a Rentabilidade|Integração Para Trás|Grandes Volumes|Quando a Troca Tem Baixo Impacto|
-⬇️
-
-|   |
-|---|
-|5. PODER DE BARGANHA DOS FORNECEDORES|
-⬇️
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Controlam Preços e Volume|Insumos Exclusivos|Integração à Frente|Poucos Substitutos|Alto Custo de Troca|
-
-  
-  
+| 1. RIVALIDADE DENTRO DO SEGMENTO           | 2. NOVOS ENTRANTES           | 3. PRODUTOS SUBSTITUTOS     | 4. PODER DE BARGANHA DOS CONSUMIDORES | 5. PODER DE BARGANHA DOS FORNECEDORES |
+| ------------------------------------------ | ---------------------------- | --------------------------- | ------------------------------------- | ------------------------------------- |
+| Quantidade e Qualificação dos Concorrentes | Barreiras de Entrada e Saída | Limitam os Preços e o Lucro | Limitam a Rentabilidade               | Controlam Preços e Volume             |
+| Crescimento do Mercado                     | Diferenciação de Produto     | Tecnologia                  | Integração Para Trás                  | Insumos Exclusivos                    |
+| Barreiras de Saída                         | Escala                       |                             | Grandes Volumes                       | Integração à Frente                   |
+| Custos Elevados                            | Investimento                 |                             | Quando a Troca Tem Baixo Impacto      | Poucos Substitutos                    |
+|                                            | Legislação                   |                             |                                       | Alto Custo de Troca                   |
 
 ## Etapa 5.2 Exemplo de Avaliação da Atratividade do Segmento-Alvo
 
@@ -582,5 +484,4 @@ Ex.: Barbearia
 |                       | Alta    | Média   | Baixa  |
 | --------------------- | ------- | ------- | ------ |
 | Nível de Atratividade | 0 - 3,9 | 4 - 6,9 | 7 - 10 |
-
-A média das notas de avaliação foi de 5,2. Logo, vemos que o mercado de barbearia possui uma atratividade média**
+**A média das notas de avaliação foi de 5,2. Logo, vemos que o mercado de barbearia possui uma atratividade média**
