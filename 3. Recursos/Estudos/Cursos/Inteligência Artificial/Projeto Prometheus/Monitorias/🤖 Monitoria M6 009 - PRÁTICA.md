@@ -609,3 +609,362 @@ Porque `result` continua sendo o valor real (por exemplo, um `float`), e `result
 Mas, para o estágio atual do curso, sua versão está totalmente adequada.
 
 ### `Implementei as alterações`
+# ✅ Code Review
+
+## 1. Responsabilidade
+
+Seu `MentorAgent` agora possui apenas uma responsabilidade:
+
+```
+Receber a pergunta
+        ↓
+Enviar ao LLM
+        ↓
+Receber a resposta
+        ↓
+Se houver Tool Call
+        ↓
+Delegar ao ToolManager
+```
+
+Ele **não conhece mais nenhuma ferramenta**.
+
+Esse era exatamente o objetivo da aula.
+
+---
+
+## 2. Acoplamento
+
+Antes existia algo parecido com:
+
+```
+if tool_name == "calculator":
+```
+
+Agora isso desapareceu completamente.
+
+Excelente.
+
+Se amanhã existir:
+
+```
+SearchTool
+
+CalendarTool
+
+GitHubTool
+
+ExcelTool
+```
+
+o `MentorAgent` continua exatamente igual.
+
+Isso é um enorme ganho arquitetural.
+
+---
+
+## 3. A nova arquitetura
+
+Agora o fluxo ficou realmente assim:
+
+```
+                Usuário
+                   │
+                   ▼
+             MentorAgent
+                   │
+                   ▼
+             LLMService
+                   │
+                   ▼
+            Tool Call recebido
+                   │
+                   ▼
+             ToolManager
+                   │
+                   ▼
+             ToolRegistry
+                   │
+                   ▼
+         CalculatorTool()
+```
+
+Observe uma coisa interessante.
+
+O Mentor sequer sabe que existe um Registry.
+
+Ele conhece apenas o ToolManager.
+
+Isso é excelente.
+
+---
+
+# Uma pequena sugestão de estilo
+
+Eu apenas adicionaria um espaço aqui:
+
+```
+result_text = str(result)
+```
+
+ao invés de
+
+```
+result_text=str(result)
+```
+
+É apenas uma questão de seguir a PEP 8.
+
+---
+
+# Outra observação
+
+O bloco:
+
+```
+elif response["type"] == "tool_call":
+
+        result = ...
+```
+
+está com uma indentação um pouco maior do que o necessário.
+
+Eu deixaria assim:
+
+```
+elif response["type"] == "tool_call":
+
+    result = self.tool_manager.execute(
+        tool_name=response["tool"],
+        tool_input=response["input"]
+    )
+
+    result_text = str(result)
+
+    self.memory.add_assistant_message(result_text)
+
+    return result_text
+```
+
+Fica visualmente mais limpo.
+
+---
+
+# O que mais gostei
+
+Há algumas aulas você me deu uma analogia que nunca mais esqueci.
+
+Você disse:
+
+> "O ToolDecision é como um trilho de trem, e cada bifurcação escolhe para onde o trem vai."
+
+Olha como essa ideia evoluiu.
+
+Na Aula 7:
+
+```
+Trem
+ │
+ ▼
+ToolDecision
+ │
+ ├── Calculator
+ ├── Search
+ └── ...
+```
+
+Agora, na Aula 9:
+
+```
+Trem
+ │
+ ▼
+ToolManager
+ │
+ ▼
+ToolRegistry
+ │
+ ├── Calculator
+ ├── Search
+ ├── Calendar
+ ├── RAG
+ └── ...
+```
+
+Percebe a diferença?
+
+Antes o "desvio dos trilhos" era construído manualmente.
+
+Agora existe uma **estação ferroviária** (o Registry) onde os destinos são registrados. O maquinista (ToolManager) não precisa conhecer previamente cada linha férrea; ele apenas consulta o painel da estação e segue o destino correspondente.
+
+Essa evolução mostra exatamente o que o professor comentou: vocês deixaram de pensar em funcionalidades isoladas e começaram a pensar em **infraestrutura**.
+
+---
+
+## Status do laboratório
+
+Até aqui temos:
+
+- ✅ Etapa 1 — Tool Registry
+- ✅ Etapa 2 — Registro da CalculatorTool
+- ✅ Etapa 3 — ToolManager baseado em Registry
+- ✅ Etapa 4 — MentorAgent desacoplado das ferramentas
+
+Restam apenas:
+
+- **Etapa 5:** provar que a arquitetura realmente é extensível adicionando uma segunda ferramenta.
+- **Etapa 6:** responder às reflexões arquiteturais.
+
+E, sinceramente, a Etapa 5 será a "prova de fogo". Se conseguirmos adicionar uma nova ferramenta sem modificar o `MentorAgent` e praticamente sem modificar o `ToolManager`, teremos demonstrado na prática o princípio **Open/Closed** que motivou toda esta aula.
+
+---
+# Etapa 5 - Provar que a Arquitetura é Realmente Extensível adicionando uma segunda ferramenta
+## Por que não adicionar o RAG ainda?
+A etapa 5 apenas quer mostrar que podemos agora implementar novas ferramentas úteis. Então, deve ser o mais simples possível.
+
+Iríamos, inicialmente, criar um `DateTool`, para retornar datas. Mas, como conheço o rumo que estamos dando ao projeto, faria uma pequena adaptação.
+
+Em vez de uma ferramenta genérica, criaria algo que fará parte do ecossistema futuramente.
+
+Por exemplo:
+
+```Python
+KnowledgeTool
+```
+
+Por enquanto, ela seria apenas um _stub_:
+
+```Python
+class KnowledgeTool:
+
+    def execute(self, query: str):
+
+        return f"[Knowledge] Busca simulada por: {query}"
+```
+
+Ela ainda não consulta seu Second Brain.
+
+Ela apenas simula a existência dele.
+
+Então você registraria:
+
+```Python
+registry.register(
+    "knowledge",
+    KnowledgeTool()
+)
+```
+
+Mais tarde, quando chegarmos ao módulo de RAG, você substituirá a implementação interna dessa classe.
+
+Perceba o ganho arquitetural:
+
+- o `MentorAgent` continuará igual;
+- o `ToolManager` continuará igual;
+- o `ToolRegistry` continuará igual.
+
+A única mudança será dentro de `KnowledgeTool`.
+
+Isso demonstra exatamente o princípio **Open for Extension, Closed for Modification** que esta aula quer ensinar.
+
+---
+# Etapa 5.1 - Criar `knowledge_tool.py`
+Crie um novo arquivo:
+
+```
+app/
+└── tools/
+    └── knowledge_tool.py
+```
+
+Conteúdo:
+
+```Python
+class KnowledgeTool:
+
+    def search(self, query: str) -> str:
+        return f"[Knowledge] Busca simulada por: '{query}'"
+```
+
+Observe que ele **não busca nada ainda**.
+
+Ele apenas simula o comportamento futuro.
+
+---
+
+# Por que usei `search()` e não `calculate()`?
+
+Porque a ferramenta deve expor uma interface coerente com sua responsabilidade.
+
+A calculadora faz:
+
+```Python
+calculate(...)
+```
+
+O Knowledge faz:
+
+```Python
+search(...)
+```
+
+Estamos começando a deixar cada ferramenta falar sua própria "linguagem".
+
+---
+
+# Etapa 5.2 — Registrar no Registry
+
+Agora altere o `ToolRegistry`:
+
+```Python
+from app.tools.calculator_tool import CalculatorTool
+from app.tools.knowledge_tool import KnowledgeTool
+
+
+class ToolRegistry:
+
+    def __init__(self):
+        self.tools = {}
+
+        self.register(
+            "calculator",
+            CalculatorTool()
+        )
+
+        self.register(
+            "knowledge",
+            KnowledgeTool()
+        )
+```
+
+Nada mais.
+
+---
+
+## O que estamos provando?
+
+Depois dessa alteração teremos:
+
+```
+ToolRegistry
+
+calculator
+        ↓
+CalculatorTool()
+
+knowledge
+        ↓
+KnowledgeTool()
+```
+
+Sem alterar:
+
+- `MentorAgent`
+- `LLMService`
+- fluxo principal
+
+Essa é justamente a evidência de que a arquitetura está aberta para extensão.
+
+---
+
+Quando terminar essas duas etapas, envia o `ToolRegistry` atualizado. Depois veremos como adaptar o `ToolManager` para que ele consiga executar ferramentas diferentes sem voltar a criar `if`s — e aí você verá por que o professor escolheu essa etapa como prova da arquitetura.
