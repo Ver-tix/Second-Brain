@@ -284,3 +284,137 @@ Se são ofertas menores, muitas vezes faço apenas em 2 dias.
 
 ---
 # Sequência Post Sell
+
+Vamos rever até agora.
+
+Na sequência "soft sell" você CONSCIENTIZOU seu cliente sobre a  
+sua oferta.
+
+Na sequência "hard sell" você apresentou de fato sua oferta.
+
+Agora, a maior chance é que 99% da sua lista NÃO comprou.
+
+Essa sequência é para você descobrir porque.
+
+Para isso, você pode enviar o e-mail que Ryan Levesque criou e chamou de "Você me odeia":
+
+---
+
+>**Assunto: Você me odeia?**
+>Do Escritório de [SEU NOME]  
+>Sexta-Feira, 17/03/2017  
+>Caro Amigo,
+>
+>Essa semana foi intensa...  
+>Mas hoje estou triste.  
+>Porque se você está recebendo esse e-mail é porque decidiu não participar da xxxxxxxxx...  
+>E entendo isso.  
+>Mas estou um pouco confuso.  
+>Veja...  
+>Isso me deixou pensando.  
+>Foi algo que eu disse?  
+>Algo que eu não disse?  
+>Ou, Deus me livre, você me odeia? :-)  
+>Brincadeira ;-)  
+>Sei que estamos bem e agora na verdade preciso de um favor.  
+>Você pode clicar no link abaixo e dizer o que aconteceu?  
+>»>› O que o impediu você de participar da xxxxxxxx? 
+>À Sua Riqueza e Felicidade!
+>
+>[SEU NOME]  
+>PS: com o seu feedback garanto que vou preparar algo muito bom para  
+>você, ok?
+
+Claro, você não precisa seguir isso "ao pé da letra". Aqui está uma variação que criei para um cliente:
+
+---
+
+> Trecho do E-mail:  
+> PS: eu só estou confuso com uma coisa...  
+> Fiz o máximo que pude para fazer o workshop xxxxxxxxxxxxx algo in-crível...  
+> E por algum motivo você decidiu não participar.  
+> Isso me deixou confuso...  
+> Foi algo que eu disse? Algo que eu não disse?  
+> Ou você apenas me odeia? ;)  
+> Brincadeira...  
+> Mas se você puder me dizer o que o impediu de participar do programa, seu feedback é muito importante para mim.
+> 
+> › O que o impediu de participar do xxxxxxxxx? ‹<<
+
+---
+
+Claro, muitas vezes a objeção é o preço (nem todo mundo tem condição de pagar por um produto de R$ 1 mil, por exemplo).
+
+Mas, o que é fundamental aqui é que se houve uma falha na apresentação da sua oferta as pessoas lhe dirão.
+
+Com base nessas respostas, você "reabre" a campanha.
+
+Sugiro duas alternativas:
+
+1. Reabra a mesma campanha, ajustando os pontos que você identificou que precisam melhorar, ou...
+2. Faça uma nova oferta de valor mais baixo.
+
+Vamos olhar rapidamente esses e-mails:
+
+<h2 align="center">E-mail 12</h2>
+Esse é o e-mail para você identificar as objeções (o "Você me odeia" ou alguma variação)…
+
+<h2 align="center">E-mail 13</h2>
+Com base nas respostas, você tem duas opções. Ou você faz uma aula ao vivo para responder todas as dúvidas (e no e-mail você coloca o link de chamada da aula).
+
+Ou você envia um e-mail respondendo às perguntas mais comuns (e já reabre a oferta).
+
+Aqui estão algumas perguntas comuns que você pode precisar responder:
+
+- O que é o produto/serviço?
+- O que está incluso?
+- Para quem é?
+- "Vai funcionar para mim"?
+- Vou receber algo na minha casa?
+- Qual o valor!
+- Tenho alguma garantia?
+- Se estou com pouco tempo?
+
+Lembre-se que muitas vezes você pode enviar esse e-mail como parte da sua sequência "hard sell".
+
+Se você fizer isso (responder às "perguntas frequentes" durante o
+
+"hard sell"), sugiro você fazer uma chamada para um webinário nesse e-mail de "post sell".
+
+<h2 align="center">E-mails 14 e 15 </h2>
+
+Muito parecido com o e-mail de abertura e fechamento do "hard sell". A diferença é que aqui você adiciona um novo bônus, como forma de "completar" a oferta original.
+
+<h2 align="center">E-mail 16</h2>
+
+Agradeça e "deixe a bola rolando".
+
+SEMPRE que você fizer uma campanha, não suma. Agradeça, diga "obrigado" realmente. E se possível, mande (novamente) algum conteúdo de valor.
+
+Porque assim você transmite a sensação de que você não quer "apenas" vender. Você mostra que se importa de verdade com eles.
+
+Esse último e-mail muitas vezes é esquecido, porém, é um dos e-mails-chaves para você manter a relação com a sua lista saudável.
+
+Aqui está um exemplo:
+
+---
+> **Assunto: Lição Extra: Deixe a bola rolando**  
+> Caro Amigo Gus,  
+> Hoje quero lhe dar um abraço.  
+> Vem cá...
+> 
+> [IMAGE DE UM CÃO E UM GATO CARTUNIZADOS SE ABRAÇANDO]
+> 
+> Gostou? :-)  
+> Veja, as últimas semanas foram divertidas, concorda? :-)  
+> Você aprendeu a teoria e viu a prática de uma sequência de e-mails que vendem.  
+> Quando faço essa campanha, geralmente tenho resultados maiores do que o previsto.  
+> Mas...  
+> O que fazer depois?  
+> Aqui está a resposta... (não sou legal? ;-) )  
+> Deixe a bola rolando...  
+> Dê uma informação bacana...  
+> Um abraço no seu cliente...
+
+---
+
