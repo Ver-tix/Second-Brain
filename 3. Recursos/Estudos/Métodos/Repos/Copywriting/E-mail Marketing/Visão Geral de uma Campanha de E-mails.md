@@ -1,7 +1,8 @@
 ---
 tags:
   - marketing
-  - estratégia
+  - tático
+  - e-mail
 tipo:
   - fonte
 dominio:
@@ -102,4 +103,184 @@ Ela é efetiva da forma que apresento aqui para você, mas você pode e deve faz
 
 Apresentação da sua oferta. Diga o que é sua oferta, para quem é, e o que há dentro.
 
-Se você tiver escassez (de preferência com um sistema de escassez real como o [DeadlineFunnel.io](http://deadlinefunnel.io/)), é bom adicionar.
+Se você tiver escassez (de preferência com um sistema de escassez real como o [DeadlineFunnel.io](http://deadlinefunnel.io/)), é bom adicionar. 
+
+---
+Veja o exemplo:
+
+>**Assunto: [E-mail ELITE] 16 + 12 + 2 = 30 E-mails Para VOCÊ**
+>
+>Caro Amigo,
+>
+>Se existisse uma fórmula mágica que você usasse para montar seus e-mails e você tivesse vendas garantidas... você usaria?
+>
+>Essa fórmula mágica não existe...
+>
+>Mas existe um método testado e provado para você escrever sequências de e-mails que...
+>- Engajam seus clientes e os deixam morrendo de vontade de comprar o que você oferecer.
+>- Identifica os seus 15% melhores compradores em um período de  90 dias.
+>- Transforma listas frias em listas empolgadas e lucrativas
+>
+>E esse método...
+>
+>É a essência do Programa Elite.
+>
+>É um método que venho estudando, testando e refinando nos últimos anos...
+>
+>Com esse método tenho gerado conversões em minhas campanhas de 20% em vendas em 30 dias...
+>
+>É um sistema provado e usado pelos maiores nomes do marketing mundial...
+>
+>Por que você deve segui-lo?
+>
+>Porque funciona.
+>
+>Siga a receita e você terá sucesso.
+>
+>Para garantir que você terá o máximo de resultados, estou dando para você...
+>- **16 e-mails** prontos para você preencher os espaços em branco e **enviar sua sequência de vendas**.
+>- **19 e-mails temáticos** para você preencher os espaços e **enviar a qualquer momento e faturar**.
+>- **7 e-mails "Campanha Relâmpago"** de tempos em tempos você pode criar campanhas relâmpagos no seu negócio.
+>- **2 templates _premium_** para você preencher os espaços e... ganhar mais dinheiro!
+>
+>  Apenas um desses templates premium é responsável por 5 a 10 vezes mais aberturas e cliques...
+>
+>  Isso faria diferença no seu resultado?
+>
+>  Além desses 37 e-mails prontos, você também terá mais de 10 horas de conteúdo, detalhando cada etapa do processo...
+>  
+>  E o que você precisa fazer?
+>  
+>  Simplesmente...
+>  
+>  Escrever, escrever, escrever.
+>  
+>  Somente assim você conseguirá o resultado... e investindo o seu tempo e energia na aplicação prática dos conceitos que apresento...
+>  
+>  Você terá uma lista altamente lucrativa na sua mão...
+>  
+>  Gerará faturamentos por lead de R$ 3,00 a R$ 16,00...
+>  
+>  (92% das empresas faturam na média R$ 1,00 a R$ 2,00 por lead)
+>  
+>  Então, se você ainda não viu...
+>  
+>  Veja agora e faça parte do Programa ELITE.
+>  
+>  Você faz parte agora da ELITE do marketing.
+>  
+>  E tem minha atenção pessoal.
+>  
+>  Aproveite agora porque em breve o Programa subirá de valor (e provavelmente será na casa dos 2 mil reais).
+>  
+>  Então aproveite agora esta chance única e não perca esta oportunidade que não existirá novamente.
+>  
+>  Acesse agora o Programa Email Marketing ELITE!
+>  
+>  A Sua Riqueza e Felicidade!
+>  
+>  [SEU NOME]
+>  
+>  PS: além dos 37 e-mails e das aulas, você ainda tem
+>  - Uma aula Premium de estratégia de negócios
+>  - As melhores práticas para você construir sua lista em menos de 48h
+>  - Diagrama Completo do Funil de Vendas
+>  - 
+>    Então… este poder ser o passo mais importante da sua vida até agora.<
+
+---
+
+<h2 align="center">E-mails 6 e 7</h2>
+
+Foque no "Grande Benefício" que seu cliente terá, e na "Grande Dor" que aflige a vida dele.
+
+Hoje muitas vezes junto esses dois e-mails em apenas um.
+
+Seguindo o exemplo do serviço do "coach de carreira", você pode falar algo mais ou menos assim:
+
+> "Imagine que daqui apenas três meses você consegue um aumento.  
+> E como agora você sabe os melhores caminhos para crescer na carreira, daqui a um ano você pode ser o diretor da sua empresa.
+> 
+> Imagine o que isso significa para você. Chega de ficar aflito porque seu salário não cresce, as contas não param de chegar, e você não se sente valorizado.
+> 
+> Chega de ver todos seus colegas de trabalho crescendo e você ficando para trás, sempre com medo de ser demitido.  
+> Agora é hora de você mostrar para todos na sua empresa quem você realmente é.
+> 
+> Agora seus colegas ficarão com inveja de você e do seu cargo.
+> 
+> Sua família vai se orgulhar de você."
+
+Lembre-se que as pessoas fogem da dor e buscam o prazer. Esse e-mail está recheado de "gatilhos mentais", e o objetivo dele é gerar uma mensagem emocional.
+
+<h2 align="center">E-mail 8</h2>
+
+Mostre uma parte do seu produto ou serviço. Se você está vendendo um livro, mostre uma parte de um capítulo. Dê acesso à primeira aula do
+
+seu curso.
+
+Entregue um "pdf" do seu serviço de coaching para a pessoa sentir
+
+como é o processo.
+
+Em algumas situações onde não posso "mostrar" uma parte do pro-duto, troco pelo e-mail de FAQ (como mostrei um exemplo algumas páginas atrás).
+
+<h2 align="center">E-mails 9, 10 e 11</h2>
+
+Envie três mensagens no mesmo dia falando que é a última chance
+
+de acessar a oferta.
+
+Quando possível, divido esses e-mails da seguinte forma:
+
+- E-mail 9: Último dia para acessar e resumo da oferta
+- E-mail 10: Depoimentos das pessoas que já estão acessando
+- E-mail 11: Última chamada.
+
+Além dos exemplos que você já viu, aqui está mais um modelo simples:
+
+> **Assunto: ÚLTIMA Chamada**
+> 
+> Oi minha linda!
+> 
+> Apenas um e-mail rápido para avisar que essa é a sua ULTIMA CHAMADA para participar do xxxxxxxx.
+> 
+> Se você quer e acredita que merece ser feliz, faça isso por você.
+> 
+> Você pode ter o relacionamento dos seus sonhos, com aquele cara que você ama. Você pode construir uma família incrível e feliz.
+> 
+> Você não precisa mais sofrer porque um homem a deixou, nem se sentir com medo, ansiosa ou sozinha...
+> 
+> Você pode dar a volta por cima.
+> 
+> Você pode e merece uma vida feliz e incrivel.
+> 
+> Dê esse passo agora.
+> 
+> Lembre-se que você tem 90 dias para passar por todo o Programa e só então decidir se essa foi a sua melhor decisão hoje.
+> 
+> Faça isso por você.
+> 
+> Você merece.
+
+Lembre-se que muitas vezes as pessoas agem apenas no último minuto.
+
+E repito mais uma vez: você pode adaptar a ordem desses e-mails
+
+como você quiser.
+
+Por exemplo, você pode enviar uma sequência hard sell assim, divi-
+
+dida em dois dias:
+
+- **E-mail 5:** Apresentação do produto (enviado de manhã)
+- **E-mail 6:** Depoimentos (enviado no mesmo dia à noite)
+- **E-mail 7:** Último dia (enviado no dia seguinte de manhã)
+- **E-mail 8:** Perguntas Frequentes - FAQ (enviado no mesmo dia, no meio da tarde)
+- **E-mail 9:** Última chamada (enviado no mesmo dia, no começo da noite)
+
+Quando estou fazendo uma oferta de valor médio (R$ 500,00 para cima), geralmente faço uma sequência "hard sell" de 4 dias.
+
+Se são ofertas menores, muitas vezes faço apenas em 2 dias.
+
+---
+# Sequência Post Sell
