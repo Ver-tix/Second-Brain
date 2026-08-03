@@ -418,3 +418,106 @@ Aqui está um exemplo:
 
 ---
 
+Muitas vezes você pode enviar um artigo, ou um vídeo, com conteúdo para seu cliente.
+
+O importante é "deixar a bola rolando", e você não "sumir" após uma campanha concluída.
+
+Outro ponto importante também é que a campanha "post sell" não é  
+obrigatória (exceto o e-mail de agradecimento).
+
+Quando faço uma campanha de vendas maior (que hoje é chamado erroneamente de "lançamento"), geralmente faço o "post sell" para realmente refinar a oferta.
+
+Porém, quando estou com as campanhas rodando automaticamente, fico apenas intercalando as sequências "soft" e "hard".
+
+A maior parte das minhas campanhas hoje são "lançamentos" que viram funis perpétuos em seguida.
+
+Geralmente rodo a sequência post sell apenas uma vez, para refinar e identificar objeções. Quando a campanha entra no automático, muitas vezes retiro o post sell.
+
+Também já cheguei a deixar 3 meses o post sell rodando no automático para identificar objeções e pontos de melhoria, e depois retirei também.
+
+Preste atenção... Quando você entender como criar suas campanhas "soft sell" e "hard sell", você terá um sistema poderoso nas suas mãos.
+
+É exatamente esse sistema que uso.
+
+**Soft Sell primeiro. Hard Sell depois.**
+
+Relacionamento o tempo todo.
+
+# Depois de uma Campanha
+
+Agora você já entendeu a visão geral de uma sequência automática de e-mails.
+
+O que há "a mais" do que isso?
+
+Na verdade, três situações.
+
+## Situação #1: Você ajuda quem comprou seu produto a CONSUMIR o produto.
+
+Ou seja, para os compradores (que compraram sua oferta) você envia de 2 a 5 e-mails (ou mais, dependendo da complexidade do seu produto), com dicas e também um "passo a passo" de "como usar" o seu produto (se for aplicável, claro).
+
+Por exemplo, em meus livros, você recebe 3 e-mails com informações e dicas complementares sobre o conteúdo e que ajudam a ter mais "sacadas" conforme você os lê.
+
+Em seguida, você pode criar uma campanha de "ascensão", ou seja, você cria uma sequência similar ao "soft sell", mas falando do seu próximo produto.
+
+Com um cliente fizemos o seguinte:
+
+- Uma campanha inicial oferecendo um livro de R$ 27,00.
+- Quem comprou o livro, recebe uma sequência de consumo (com 3 e-mails), e em seguida, uma série de 6 e-mails de ascensão falando do próximo produto (um curso completo).
+
+## Situação #2: Você faz (ou não) um "post sell" com os não-compradores, e envia uma nova sequência de vendas automática.
+
+Nesse exemplo que dei de um cliente, que fizemos a ascensão para o curso completo, mesmo quem não comprou o livro recebe uma sequência similar oferecendo o mesmo produto.
+
+A diferença maior é que quem comprou o livro anteriormente recebe alguns "incentivos extras" para fazer a nova compra (um bônus extra).
+
+## Situação #3: Você pergunta para seu cliente sobre o que ele quer saber
+
+A forma mais simples de você fazer isso é perguntar para seu cliente, sobre o que ele quer saber mais.
+
+Na seção de hipersegmentação dou alguns exemplos disso.
+
+Caso ele não se interesse ativamente, você também pode enviar de forma arbitrária uma campanha (de preferência sua campanha mais lu-crativa).
+
+O importante é você sempre manter o fluxo de relacionamento e comunicação com sua lista.
+
+# Como Você Planeja E-Mails “Broadcast” para o Máximo de Resultado
+
+Lembre-se, o ideal é que você tenha pelo menos 90 dias de e-mails automáticos programados, intercalando sequências "soft sell" e "hard sell".
+
+Isso não precisa ser feito imediato.
+
+Eu mesmo já mudei várias vezes minhas automações, e cheguei a ter 4 meses de e-mails programados, e outras vezes apenas 22 dias.
+
+Isso não é para ser feito uma única vez e ser esquecido, mas sim, para ser sempre refinado.
+
+Agora, e após os e-mails automáticos?
+
+Você passa a enviar e-mails "broadcast", que são e-mails "temporais", enviados uma única vez.
+
+Vários exemplos que trouxe para você nesse livro são de e-mails "broadcast".
+
+Esses e-mails tem três objetivos principais:
+
+1. Manter o relacionamento com sua lista enviando conteúdo de valor e interagindo...
+2. Fazer novas ofertas, temporais (por exemplo, Black Friday, Natal, Dia das Mães), ou usar acontecimentos que são relevantes para o seu nicho (como o BitCoin tem sido explorado por dezenas de empresas que falam sobre investimentos)...
+3. Identificar quais "ganchos" da sua comunicação funcionam melhor para adicionar nos seus e-mails automáticos...
+
+Sim, isso mesmo.
+
+Uso muito esse formato de e-mails para contar histórias e trazer novas "dicas" (basta você ver o blog da CopyCon: cada e-mail "broadcast" vira um post no blog). Mesmo o blog não estando atualizado, você pode ver como desde o começo vou contando uma história.
+
+E os melhores e-mails (ou seja, os que têm a maior abertura, cliques - e vendas), entram para a sequência automática.
+
+Esses e-mails são cruciais, porque é aqui que você realmente encontra as empresas consistentes,
+
+Em 3 anos, em apenas 2 ocasiões fiquei sem enviar pelo menos 1 e-mail por semana para minha lista da CopyCon.
+
+Um dos meus mentores, Roy Furr, envia e-mails de segunda a sexta há alguns anos, sem falhar uma única vez.
+
+E ao contrário do que você pode pensar...
+
+As taxas de abertura dos e-mails permanecem praticamente iguais.
+
+E quanto mais e-mails você envia... mais dinheiro você faz.
+
+Desde que seu conteúdo continue sendo super-relevante para sua audiência.
