@@ -2,6 +2,16 @@
 tags:
   - marketing
   - estratégia
+tipo:
+  - fonte
+dominio:
+  - marketing
+Subdominio:
+  - marketing-tático-mix
+Sub_subdominio:
+  - produto
+author:
+  - Russell Brunson
 ---
 <h4 align="center">A escada de valor é a primeira coisa a ser feita. Ajuda a ar uma visão de como você planeja servir seus clientes dos sonhos e aonde você quer levá-los. Ajuda a descobrir o real propósito da companhia: a meta principal ou resultado que você está tentando ajudar seus clientes a alcançar</h4>
 

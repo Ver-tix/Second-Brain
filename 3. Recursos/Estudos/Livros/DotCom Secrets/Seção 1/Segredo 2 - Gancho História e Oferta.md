@@ -2,6 +2,16 @@
 tags:
   - marketing
   - estratégia
+tipo:
+  - fonte
+dominio:
+  - marketing
+Subdominio:
+  - marketing-tático-mix
+Sub_subdominio:
+  - copywriting
+author:
+  - Russell Brunson
 ---
 <h3 align="center">Há duas maneiras de ter o menor preço: diminuir o preço do que você vende (e competir contra commodities); ou aumentar tanto o valor percebido do seu produto, que o preço parecerá baixo</h3>
 # Gancho, História e Oferta

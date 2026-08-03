@@ -2,6 +2,16 @@
 tags:
   - marketing
   - estratégia
+tipo:
+  - fonte
+dominio:
+  - marketing
+Subdominio:
+  - marketing-tático-funil
+Sub_subdominio:
+  - funil-de-vendas
+author:
+  - Russell Brunson
 ---
 # Introdução
 Quanto melhor você fizer as pessoas se sentirem em cada passo do processo, mais provável que eles se mantenham progredindo com você pelos funis da escada.

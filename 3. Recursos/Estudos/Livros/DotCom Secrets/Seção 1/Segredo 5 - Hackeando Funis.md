@@ -2,6 +2,16 @@
 tags:
   - marketing
   - estratégia
+tipo:
+  - fonte
+dominio:
+  - marketing
+Subdominio:
+  - marketing-tático-funil
+Sub_subdominio:
+  - funil-de-vendas
+author:
+  - Russell Brunson
 ---
 # O mais importante antes de qualquer funil
 Antes de construir um funil, a primeira coisa a se fazer é achar outras pessoas que já tem um funil de sucesso, e estão vendendo para o seu mercado-alvo. Não se moviente até encontrá-los. Após isso, faça engenharia reversa no que eles estão fazendo. Isso é o que chamamos de Hack de Funil. Por isso a comunidade de Russell Brunson é chamada de "Hackers de Funil" (Funnel Hacers).  
