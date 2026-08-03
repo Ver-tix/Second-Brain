@@ -427,7 +427,6 @@ Essa é exatamente a mudança de mentalidade que separa um programa que funciona
 ## [[🤖 Monitoria M6 009 - PRÁTICA]]
 ## [[🛠 Desafio M6 009]] 
 
-Perfeito. Vou reorganizar o desafio em **etapas de implementação progressiva**, seguindo o estilo que adotamos no Prometheus: primeiro construímos a peça isolada, depois conectamos, depois refatoramos a arquitetura.
 
 A ideia é que cada etapa tenha um objetivo arquitetural claro.
 

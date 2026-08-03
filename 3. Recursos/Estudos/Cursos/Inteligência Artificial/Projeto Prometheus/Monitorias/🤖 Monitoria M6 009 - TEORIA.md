@@ -17,7 +17,7 @@ tags:
 
 Na teoria, o Registry foi apresentado como:
 
-```
+```json
 TOOLS = {
     "calculator": CalculatorTool(),
     "calendar": CalendarTool(),
@@ -34,7 +34,7 @@ Mas como estamos trabalhando com Tool Calling, pensei que talvez futuramente o R
 
 Algo como:
 
-```
+```json
 TOOLS = {
     "calculator": {
         "instance": CalculatorTool(),
@@ -52,7 +52,7 @@ TOOLS = {
 
 Hoje a teoria mostra algo semelhante a:
 
-```
+```json
 TOOLS = {
     "calculator": CalculatorTool()
 }
@@ -62,7 +62,7 @@ Ou seja, o Registry cria as instâncias.
 
 Mas outra arquitetura possível seria:
 
-```
+```python
 calculator = CalculatorTool()
 
 registry.register(
@@ -91,7 +91,7 @@ Tool
 
 Mas fiquei pensando se, no futuro, o próprio Registry não poderia devolver diretamente a ferramenta:
 
-```
+```python
 tool = registry.get(tool_name)
 ```
 
@@ -128,7 +128,7 @@ Mentor Editor Knowledge
 
 Hoje o `LLMService` possui:
 
-```
+```python
 tools = [
     CALCULATOR_TOOL
 ]
