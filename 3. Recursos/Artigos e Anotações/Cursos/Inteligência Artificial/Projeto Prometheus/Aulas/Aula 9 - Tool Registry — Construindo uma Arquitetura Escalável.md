@@ -427,19 +427,355 @@ Essa é exatamente a mudança de mentalidade que separa um programa que funciona
 ## [[🤖 Monitoria M6 009 - PRÁTICA]]
 ## [[🛠 Desafio M6 009]] 
 
-Nesta aula, vamos dar o próximo passo no Prometheus-Mentor.
+Perfeito. Vou reorganizar o desafio em **etapas de implementação progressiva**, seguindo o estilo que adotamos no Prometheus: primeiro construímos a peça isolada, depois conectamos, depois refatoramos a arquitetura.
 
-**Objetivo:** substituir um `ToolManager` "engessado" por um sistema baseado em um **Tool Registry**.
+A ideia é que cada etapa tenha um objetivo arquitetural claro.
 
-Ao final do laboratório, teremos:
+---
 
-- Um arquivo dedicado ao registro de ferramentas (`tool_registry.py`).
+Refatorar a arquitetura de ferramentas do **Prometheus-Mentor**.
+
+Hoje temos:
+
+```text
+MentorAgent
+      |
+      ↓
+ToolManager
+      |
+      ↓
+CalculatorTool
+```
+
+O problema:
+
+O `ToolManager` conhece diretamente todas as ferramentas.
+
+A nova arquitetura será:
+
+```text
+MentorAgent
+      |
+      ↓
+ToolManager
+      |
+      ↓
+ToolRegistry
+      |
+      ↓
+CalculatorTool
+```
+
+O agente deixa de conhecer implementações concretas.
+
+---
+
+# Etapa 1 — Criar o Tool Registry
+
+## Objetivo
+
+Criar uma camada responsável apenas por **registrar e armazenar ferramentas disponíveis**.
+
+Criar:
+
+```
+app/
+ └── tools/
+      ├── calculator_tool.py
+      ├── tool_manager.py
+      └── tool_registry.py   ← novo
+```
+
+O Registry inicialmente deve possuir:
+
+- um catálogo de ferramentas;
     
-- Um `ToolManager` que busca ferramentas dinamicamente pelo nome.
+- uma forma de registrar ferramentas;
     
-- Um `MentorAgent` que não precisa conhecer nenhuma ferramenta específica.
-    
-- A possibilidade de adicionar novas ferramentas apenas registrando-as no catálogo, sem alterar o restante da arquitetura.
+- uma forma de recuperar ferramentas pelo nome.
     
 
-Essa será a primeira infraestrutura verdadeiramente reutilizável do ecossistema Prometheus e servirá de base para as futuras ferramentas de RAG, busca na web, Perplexity e integração com o Second Brain.
+Exemplo conceitual:
+
+```python
+registry.get("calculator")
+```
+
+deve retornar:
+
+```python
+CalculatorTool()
+```
+
+---
+
+## Conceito aprendido
+
+Separação de responsabilidade:
+
+Antes:
+
+> ToolManager conhece ferramentas.
+
+Depois:
+
+> ToolManager conhece o Registry.
+
+---
+
+# Etapa 2 — Registrar a CalculatorTool no Registry
+
+## Objetivo
+
+Mover a responsabilidade de criação/conhecimento da ferramenta para o catálogo.
+
+Antes:
+
+```python
+class ToolManager:
+
+    def __init__(self):
+        self.calculator = CalculatorTool()
+```
+
+Depois:
+
+```python
+ToolRegistry:
+
+    "calculator": CalculatorTool()
+```
+
+---
+
+## Resultado esperado
+
+O Registry deve saber:
+
+```
+calculator
+      ↓
+CalculatorTool
+```
+
+Mas o restante da aplicação não deve precisar saber disso.
+
+---
+
+# Etapa 3 — Refatorar o ToolManager
+
+## Objetivo
+
+Fazer o ToolManager deixar de conhecer ferramentas específicas.
+
+Antes:
+
+```python
+if tool_name == "calculator":
+    return self.calculator.calculate(...)
+```
+
+Depois:
+
+O fluxo deve ser:
+
+```text
+ToolManager recebe:
+
+"calculator"
+
+        ↓
+
+consulta Registry
+
+        ↓
+
+recebe CalculatorTool
+
+        ↓
+
+executa ferramenta
+```
+
+---
+
+## Resultado esperado
+
+Adicionar uma nova ferramenta futuramente não deve exigir alterar o ToolManager.
+
+---
+
+# Etapa 4 — Remover conhecimento de ferramentas do MentorAgent
+
+## Objetivo
+
+Garantir que o agente não saiba quais ferramentas existem.
+
+O MentorAgent não deve possuir:
+
+```python
+if tool_name == "calculator"
+```
+
+nem:
+
+```python
+CalculatorTool()
+```
+
+nem:
+
+```python
+SearchTool()
+```
+
+Ele deve apenas dizer:
+
+> "Preciso executar esta ferramenta."
+
+E delegar.
+
+---
+
+Novo fluxo:
+
+```text
+MentorAgent
+
+"preciso usar calculator"
+
+        ↓
+
+ToolManager
+
+        ↓
+
+ToolRegistry
+
+        ↓
+
+CalculatorTool
+```
+
+---
+
+# Etapa 5 — Testar extensibilidade
+
+## Objetivo
+
+Comprovar que a arquitetura realmente ficou mais escalável.
+
+Criar uma segunda ferramenta simples.
+
+Exemplo:
+
+```
+DateTool
+```
+
+ou
+
+```
+TextTool
+```
+
+Registrar:
+
+```python
+registry.register(
+    "date",
+    DateTool()
+)
+```
+
+E verificar:
+
+O ToolManager precisou ser alterado?
+
+O MentorAgent precisou ser alterado?
+
+A resposta esperada:
+
+**Não.**
+
+---
+
+# Etapa 6 — Reflexão arquitetural
+
+Responder:
+
+## 1.
+
+Por que o Tool Registry melhora a escalabilidade do sistema?
+
+---
+
+## 2.
+
+Qual responsabilidade pertence ao Registry e qual pertence ao ToolManager?
+
+---
+
+## 3.
+
+Por que remover conhecimento das ferramentas do MentorAgent é importante?
+
+---
+
+## 4.
+
+Explique por que essa arquitetura se aproxima de um sistema baseado em plugins.
+
+---
+
+# Estado final esperado
+
+Ao final da aula, teremos:
+
+```text
+                MentorAgent
+                     |
+                     ↓
+                ToolManager
+                     |
+                     ↓
+               ToolRegistry
+                     |
+        ┌────────────┼────────────┐
+        ↓            ↓            ↓
+
+ Calculator      Search        RAG
+
+```
+
+O MentorAgent não sabe:
+
+- quantas ferramentas existem;
+    
+- como elas funcionam;
+    
+- onde estão implementadas.
+    
+
+Ele apenas solicita capacidades.
+
+---
+
+## Por que essa aula é importante no Prometheus?
+
+Esta é a primeira aula em que começamos a construir uma **infraestrutura de ecossistema**.
+
+Até agora estávamos construindo um agente.
+
+Agora começamos a construir uma plataforma onde múltiplos agentes poderão existir.
+
+O Tool Registry será uma das primeiras peças reutilizáveis do futuro:
+
+- Prometheus-Mentor;
+    
+- Prometheus-Editor;
+    
+- Prometheus-Knowledge.
+    
+
+Ele será a base para o crescimento do sistema.
