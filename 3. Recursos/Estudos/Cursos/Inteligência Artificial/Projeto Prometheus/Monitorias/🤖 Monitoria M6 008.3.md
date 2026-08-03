@@ -350,7 +350,7 @@ calculate(
 )
 ```
 
-Então o bloco passa a ficar assim:
+**O único trecho que muda é o bloco do `tool_call`.** Então o bloco passa a ficar assim:
 
 ```python
 elif response["type"] == "tool_call":
@@ -365,9 +365,11 @@ elif response["type"] == "tool_call":
             operation=response["operation"]
         )
 
-        self.memory.add_assistant_message(str(result))
-
-        return str(result)
+        result = str(result)
+        
+        self.memory.add_assistant_message(result)
+        
+        return result
 ```
 
 ---
@@ -435,3 +437,18 @@ Esse é exatamente o objetivo da Aula 8.3: abandonar protocolos informais (strin
 ```
 
 Na próxima etapa do curso, quando o Tool Calling real da OpenAI for integrado, esses campos (`"a"`, `"b"` e `"operation"`) passarão a vir da resposta da API automaticamente. Hoje estamos apenas preparando a arquitetura para essa evolução.
+
+---
+
+# Etapa 4 — Reflexão arquitetural
+
+Responda em poucas linhas:
+
+> **Por que um schema torna o sistema mais robusto e escalável do que enviar uma expressão textual como `"2 + 3"` para a ferramenta?**
+
+Essa resposta é mais importante que o código, porque ela demonstra que você compreendeu a transição de um protocolo informal para um contrato explícito — uma ideia que reaparecerá continuamente quando começarmos a construir o ecossistema multiagente do Prometheus.
+
+## Resposta:
+```text
+Um schema torna o sistema mais robusto e escalável porque estabelece um **contrato explícito** entre quem solicita uma operação e quem a executa. Em vez de enviar uma expressão textual como `"2 + 3"`, que exige interpretação e pode ser escrita de diversas formas, o sistema passa a trocar dados estruturados (`a`, `b` e `operation`), eliminando ambiguidades e reduzindo erros. Além disso, contratos explícitos facilitam a validação, a manutenção e a integração entre diferentes componentes ou agentes, permitindo que cada parte do sistema evolua de forma independente sem quebrar a comunicação entre elas.
+```
