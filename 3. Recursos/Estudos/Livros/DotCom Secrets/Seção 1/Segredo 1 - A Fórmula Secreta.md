@@ -19,7 +19,7 @@ Nunca esqueça esse princípio: "se você muda sua isca, você mudará seu clien
 
 # Pergunta #1 - Quem é o Seu Cliente dos Sonhos?
 Com quem você gostaria de trabalhar com?  
-1. Muitos de nós começamos com uma ideia de produto, nunca nos perguntnaod sobre quem queremos como clientes, ainda assim, essas são as pessoas que você irá interagir no cotidiano  
+1. Muitos de nós começamos com uma ideia de produto, nunca nos perguntando sobre quem queremos como clientes, ainda assim, essas são as pessoas que você irá interagir no cotidiano  
 2. Questões importantes:  
 	1. Quem são meus clientes dos sonhos? Como eles se parecem? 
 	2. No que eles são apaixonados por?
