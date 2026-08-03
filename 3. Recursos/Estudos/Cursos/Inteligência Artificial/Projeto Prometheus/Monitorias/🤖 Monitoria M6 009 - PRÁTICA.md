@@ -704,13 +704,13 @@ Isso é excelente.
 
 Eu apenas adicionaria um espaço aqui:
 
-```
+```python
 result_text = str(result)
 ```
 
 ao invés de
 
-```
+```python
 result_text=str(result)
 ```
 
@@ -722,7 +722,7 @@ result_text=str(result)
 
 O bloco:
 
-```
+```python
 elif response["type"] == "tool_call":
 
         result = ...
@@ -732,7 +732,7 @@ está com uma indentação um pouco maior do que o necessário.
 
 Eu deixaria assim:
 
-```
+```python
 elif response["type"] == "tool_call":
 
     result = self.tool_manager.execute(

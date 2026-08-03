@@ -169,6 +169,193 @@ def execute(
 ⚠️ **Não removi o método `calculate()` ainda.**
 
 Vou mantê-lo temporariamente até verificar que tudo funciona. Depois decidirei se ele continua ou desaparece.
+
+### Agora vem a última alteração do MentorAgent
+
+O bloco antigo:
+
+```python
+elif response["type"] == "tool_call":
+    tool_name = response["tool"]
+    tool_input = response["input"]
+
+    if tool_name == "calculator":
+        result = self.tool_manager.calculate(
+            a=response["a"],
+            b=response["b"],
+            operation=response["operation"]
+        )
+
+        result = str(result)
+
+        self.memory.add_assistant_message(result)
+
+        return result
+
+    else:
+        raise ValueError(f"Ferramenta desconhecida: {tool_name}")
+```
+
+deve desaparecer completamente.
+
+E virar apenas:
+
+```python
+elif response["type"] == "tool_call":
+
+    result = self.tool_manager.execute(
+        tool_name=response["tool"],
+        tool_input=response["input"]
+    )
+
+    result = str(result)
+
+    self.memory.add_assistant_message(result)
+
+    return result
+```
+
+# Etapa 5 - Provar que a Arquitetura é Realmente Extensível adicionando uma segunda ferramenta
+## Por que não adicionar o RAG ainda?
+A etapa 5 apenas quer mostrar que podemos agora implementar novas ferramentas úteis. Então, deve ser o mais simples possível.
+
+Iríamos, inicialmente, criar um `DateTool`, para retornar datas. Mas, como conheço o rumo que estamos dando ao projeto, faria uma pequena adaptação.
+
+Em vez de uma ferramenta genérica, criaria algo que fará parte do ecossistema futuramente.
+
+Por exemplo: `KnowledgeTool`
+
+Por enquanto, ela seria apenas um _stub_:
+
+```Python
+class KnowledgeTool:
+
+    def execute(self, query: str):
+
+        return f"[Knowledge] Busca simulada por: {query}"
+```
+
+Ela ainda não consulta seu Second Brain.
+
+Ela apenas simula a existência dele.
+
+Então você registraria:
+
+```Python
+registry.register(
+    "knowledge",
+    KnowledgeTool()
+)
+```
+
+# Etapa 5.1 - Criar `knowledge_tool.py`
+Criei um novo arquivo:
+
+```
+app/
+└── tools/
+    └── knowledge_tool.py
+```
+
+Conteúdo:
+
+```Python
+class KnowledgeTool:
+
+    def search(self, query: str) -> str:
+        return f"[Knowledge] Busca simulada por: '{query}'"
+```
+
+Ele **não busca nada ainda**, apenas simula o comportamento futuro.
+
+# Etapa 5.2 — Registrar no Registry
+
+Agora altere o `ToolRegistry`:
+
+```Python
+from app.tools.calculator_tool import CalculatorTool
+from app.tools.knowledge_tool import KnowledgeTool
+
+
+class ToolRegistry:
+
+    def __init__(self):
+        self.tools = {}
+
+        self.register(
+            "calculator",
+            CalculatorTool()
+        )
+
+        self.register(
+            "knowledge",
+            KnowledgeTool()
+        )
+```
+
+um detalhe MUITO interessante
+
+Quero que você observe uma coisa que provavelmente o professor está preparando para as próximas aulas.
+
+Hoje o seu `ToolManager.execute()` faz isso:
+
+```python
+tool = self.registry.get(tool_name)
+
+return tool.calculate(...)
+```
+
+Isso funciona para a calculadora.
+
+Mas acabamos de criar:
+
+```python
+KnowledgeTool
+```
+
+E ela possui:
+
+```python
+search(...)
+```
+
+Não:
+
+```python
+calculate(...)
+```
+
+Então...
+
+Se amanhã o LLM responder:
+
+```python
+tool = knowledge
+```
+
+o `ToolManager` vai tentar fazer:
+
+```python
+tool.calculate(...)
+```
+
+e receberemos:
+
+```python
+AttributeError
+```
+
+---
+
+## Isso é um erro?
+
+**Não.**
+
+Na verdade, isso é uma excelente descoberta arquitetural.
+
+A arquitetura está nos dizendo:
+
+> "As ferramentas não possuem uma interface comum."
 # Etapa 6 — Reflexão arquitetural
 
 ## 1. Por que o Tool Registry melhora a escalabilidade do sistema?
