@@ -12,14 +12,14 @@ tags:
 ---
 Até agora, cada aula respondeu a uma pergunta arquitetural.
 
-|Aula|Pergunta|
-|---|---|
-|Aula 3|Como conversar com um LLM?|
-|Aula 4|Onde deve ficar a comunicação com a API?|
-|Aula 5|Como dar memória ao agente?|
-|Aula 6|Como dar ferramentas ao agente?|
-|Aula 7|Quem decide quando usar uma ferramenta?|
-|Aula 8|Como o Tool Calling realmente funciona?|
+| Aula   | Pergunta                                 |
+| ------ | ---------------------------------------- |
+| Aula 3 | Como conversar com um LLM?               |
+| Aula 4 | Onde deve ficar a comunicação com a API? |
+| Aula 5 | Como dar memória ao agente?              |
+| Aula 6 | Como dar ferramentas ao agente?          |
+| Aula 7 | Quem decide quando usar uma ferramenta?  |
+| Aula 8 | Como o Tool Calling realmente funciona?  |
 
 Agora surge um problema completamente novo.
 

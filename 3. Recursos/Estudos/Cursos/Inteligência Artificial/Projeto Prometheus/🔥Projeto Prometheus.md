@@ -120,4 +120,4 @@ tags:
 - [[Aula 8.3 - Schemas -  o contrato entre o LLM e suas ferramentas]]
 - [[Aula 9 - Tool Registry — Construindo uma Arquitetura Escalável]]
 
-3. Recursos/Artigos e Anotações/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas
+3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas

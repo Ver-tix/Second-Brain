@@ -106,3 +106,284 @@ Parece uma diferença pequena.
 Mas é exatamente isso que elimina os `if` e `elif` do sistema.
 
 # Etapa 2 - `ToolManager` deixará de instanciar a `CalculatorTool` e passará a utilizar o `ToolRegistry`.
+Agora vamos alterar o `ToolManager`.
+
+Hoje ele provavelmente está assim (ou muito próximo disso):
+
+```Python
+class ToolManager:
+
+    def __init__(self):
+        self.calculator = CalculatorTool()
+```
+
+Essa linha precisa desaparecer.
+
+Em vez disso, o `ToolManager` passa a conhecer apenas o `ToolRegistry`.
+
+A estrutura ficará assim:
+
+```Python
+from app.tools.tool_registry import ToolRegistry
+
+
+class ToolManager:
+
+    def __init__(self):
+        self.registry = ToolRegistry()
+```
+
+**Por enquanto, altere apenas o `__init__`.**
+
+Não mexa ainda no método `calculate()`. Faremos isso na Etapa 3 para enxergar claramente a transição de responsabilidades.
+
+Essa separação em dois passos é didática: primeiro mudamos **quem conhece as ferramentas**; depois mudamos **como elas são executadas**.
+
+## O que acabou de acontecer?
+
+Antes, o `ToolManager` dizia:
+
+> "Eu sei criar uma CalculatorTool."
+
+Agora ele diz:
+
+> "Eu conheço alguém que sabe onde encontrar ferramentas."
+
+Essa diferença é o início da **inversão de dependência** (ainda não estamos estudando formalmente o princípio DIP, mas você já está começando a praticá-lo).
+
+---
+
+# Etapa 3 - Refatorar o ToolManagerAgora vamos terminar a transformação.
+
+Hoje seu `ToolManager` provavelmente possui algo semelhante a:
+
+```python
+def calculate(
+    self,
+    a: float,
+    b: float,
+    operation: str
+) -> float:
+
+    return self.calculator.calculate(
+        a,
+        b,
+        operation
+    )
+```
+
+A referência `self.calculator` não existe mais.
+
+Ela deve ser substituída por uma consulta ao Registry.
+
+Implemente assim:
+
+```python
+def calculate(
+    self,
+    a: float,
+    b: float,
+    operation: str
+) -> float:
+
+    calculator = self.registry.get("calculator")
+
+    return calculator.calculate(
+        a,
+        b,
+        operation
+    )
+```
+
+Observe a mudança:
+
+Antes:
+
+```
+ToolManager
+        │
+        ▼
+CalculatorTool
+```
+
+Depois:
+
+```
+ToolManager
+        │
+        ▼
+ToolRegistry
+        │
+        ▼
+CalculatorTool
+```
+
+Agora o `ToolManager` não conhece mais nenhuma ferramenta específica. Ele apenas consulta o catálogo e utiliza o objeto retornado.
+
+## Code Review
+
+### ✅ Separação de responsabilidades
+
+Excelente.
+
+O `ToolManager` não instancia mais nenhuma ferramenta.
+
+Toda responsabilidade de "quem existe" foi transferida para o `ToolRegistry`.
+
+---
+
+### ✅ Acoplamento reduzido
+
+Antes:
+
+```
+ToolManager
+      │
+      ▼
+CalculatorTool
+```
+
+Agora:
+
+```
+ToolManager
+      │
+      ▼
+ToolRegistry
+      │
+      ▼
+CalculatorTool
+```
+
+Isso significa que, se amanhã a implementação da calculadora mudar, o `ToolManager` não precisa saber.
+
+---
+
+### 💡 Uma observação arquitetural (para o futuro)
+
+Existe uma pequena "imperfeição" que ainda permanece, mas **não deve ser corrigida agora**, pois pertence às próximas aulas.
+
+Repare que ainda existe:
+
+```
+calculator = self.registry.get("calculator")
+```
+
+Ou seja, o `ToolManager` ainda conhece o nome `"calculator"`.
+
+Em uma arquitetura mais madura, ele poderia receber o nome dinamicamente:
+
+```
+def execute(self, tool_name: str, **kwargs):
+    tool = self.registry.get(tool_name)
+    ...
+```
+
+Mas isso faz parte de uma evolução futura, quando o `ToolManager` se tornará um executor genérico de ferramentas. Para a Aula 9, sua implementação está exatamente no nível esperado.
+
+---
+
+# Etapa 4 - Eliminar do `MentorAgent` qualquer conhecimento específico sobre `"calculator"`, tornando-o completamente agnóstico em relação às ferramentas.
+Esse é o passo que fecha o principal objetivo arquitetural da aula.
+
+Hoje seu `MentorAgent` provavelmente possui algo parecido com isto:
+
+```python
+if tool_name == "calculator":
+    result = self.tool_manager.calculate(
+        a=response["a"],
+        b=response["b"],
+        operation=response["operation"]
+    )
+
+    result = str(result)
+
+    self.memory.add_assistant_message(result)
+
+    return result
+```
+
+Observe que ele ainda sabe duas coisas:
+
+- existe uma ferramenta chamada `"calculator"`;
+- para executá-la deve chamar `calculate()`.
+
+Isso viola exatamente o objetivo da aula.
+
+---
+
+# A ideia
+
+Quem deve conhecer as ferramentas?
+
+Não é mais o Mentor.
+
+É o ToolManager.
+
+Então o Mentor deve apenas dizer:
+
+> "Execute esta ferramenta."
+
+Sem saber qual é.
+
+---
+
+# A mudança
+
+Vamos transformar o `ToolManager` em um executor genérico.
+
+Em vez de:
+
+```python
+self.tool_manager.calculate(...)
+```
+
+o Mentor fará:
+
+```python
+result = self.tool_manager.execute(
+    tool_name=response["tool"],
+    tool_input=response["input"]
+)
+```
+
+Perceba que agora ele não sabe:
+
+- se existe Calculator;
+- Search;
+- RAG;
+- Calendar.
+
+Ele apenas entrega:
+
+- o nome;
+- os argumentos.
+
+---
+
+## Então, primeiro precisamos alterar o ToolManager
+
+Acrescente este método:
+
+```python
+def execute(
+    self,
+    tool_name: str,
+    tool_input: dict
+):
+
+    tool = self.registry.get(tool_name)
+
+    if tool is None:
+        raise ValueError(f"Ferramenta desconhecida: {tool_name}")
+
+    return tool.calculate(
+        a=tool_input["a"],
+        b=tool_input["b"],
+        operation=tool_input["operation"]
+    )
+```
+
+⚠️ **Não remova o método `calculate()` ainda.**
+
+Vamos mantê-lo temporariamente até verificar que tudo funciona. Depois podemos decidir se ele continua ou desaparece.
