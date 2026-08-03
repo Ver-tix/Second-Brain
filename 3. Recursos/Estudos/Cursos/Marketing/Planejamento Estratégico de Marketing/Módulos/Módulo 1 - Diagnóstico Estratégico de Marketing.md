@@ -43,14 +43,13 @@ Obviamente o nosso objetivo aqui não é construir um modelo de negócio é ente
 ![[Business Model Canvas (BMC)#Guia Para o Preenchimento]]
 
 ## 3. Principais Aspectos Internos
+**Mentalidade Estratégica**
+- ESTRUTURA DA EMPRESA
+- TECNOLOGIA
+- GESTÃO DE PESSOAS
+- PROCESSOS
+- MIX DE MARKETING (4Ps)
 
-| MENTALIDADE ESTRATÉGICA |
-| ----------------------- |
-| ESTRUTURA DA EMPRESA    |
-| TECNOLOGIA              |
-| GESTÃO DE PESSOAS       |
-| PROCESSOS               |
-| MIX DE MARKETING (4Ps)  |
 Levantamento inicial das forças e fraquezas
 
 # ETAPA 3 - ANÁLISE DO MACROAMBIENTE
@@ -190,9 +189,6 @@ Entendendo o Ambiente Competitivo
 - Atratividade do Segmento-Alvo
     
 
-  
-  
-
 ## ETAPA 4.1 - ANÁLISE DO MICROAMBIENTE - CONSUMIDOR
 
 Entendendo o Consumidor
@@ -219,72 +215,53 @@ Será necessária pesquisa. E hoje, o que não falta é ferramenta:
 - Empresas especializadas
 
 ### ETAPA 4.1.2 Perfil e Necessidades do Consumidor
+#### Perfil do Consumidor
 
-|   |
-|---|
-|PERFIL DO CONSUMIDOR|
+| PESSOA FÍSICA                                                                             | PESSOA JURÍDICA                                                                                         |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **PERFIL CULTURAL** - valores (ponto mais importante), subcultura, classe social<br>      | **PERFIL ORGANIZACIONAL** - Segmento de atuação, porte, procedimentos de compra, missão, visão, valores |
+| **PERFIL SOCIAL** - Grupos de referência (Primários e Secundários), como ele se socializa | **PERFIL DO COMPRADOR** - objetivos, necessidade de compra, cargo, perfil pessoal                       |
+| **PERFIL PESSOAL** - Gênero, idade, estilo de vida, ocupação, personalidade               |                                                                                                         |
+| **FATORES PSICOLÓGICOS** - motivação, percepção, aprendizagem, crenças e atitudes         |                                                                                                         |
 
-|   |   |
-|---|---|
-|PESSOA FÍSICA|PESSOA JURÍDICA|
+#### Conhecendo o Consumidor
+##### NECESSIDADES, DESEJOS E HÁBITOS DO CONSUMIDOR
 
-|   |   |
-|---|---|
-|PERFIL CULTURAL - valores (ponto mais importante), subcultura, classe social<br><br>PERFIL SOCIAL - Grupos de referência (Primários e Secundários), como ele se socializa<br><br>PERFIL PESSOAL - Gênero, idade, estilo de vida, ocupação, personalidade<br><br>FATORES PSICOLÓGICOS - motivação, percepção, aprendizagem, crenças e atitudes|PERFIL ORGANIZACIONAL - Segmento de atuação, porte, procedimentos de compra, missão, visão, valores<br><br>  <br><br>PERFIL DO COMPRADOR - objetivos, necessidade de compra, cargo, perfil pessoal|
+| NECESSIDADES E DESEJOS                                               | HÁBITOS DE USO                             |
+| -------------------------------------------------------------------- | ------------------------------------------ |
+| Motivo do Consumo                                                    | Forma de consumo (CEP)                     |
+| Nível de Satisfação                                                  | Local do consumo (CEP)                     |
+| Características que o consumidor mais gosta e menos gosta            | Quantidade comprada e quantidade consumida |
+| Necessidades de modificação ou adequação (no seu produto ou serviço) |                                            |
+##### PAPÉIS DE COMPRA
 
-|   |
-|---|
-|CONHECENDO O CONSUMIDOR|
-
-|   |
-|---|
-|NECESSIDADES, DESEJOS E HÁBITOS DO CONSUMIDOR|
-
-|   |   |
-|---|---|
-|NECESSIDADES E DESEJOS|HÁBITOS DE USO|
-|Motivo do Consumo|Forma de consumo (CEP)|
-|Nível de Satisfação|Local do consumo (CEP)|
-|Características que o consumidor mais gosta e menos gosta|Quantidade comprada e quantidade consumida|
-|Necessidades de modificação ou adequação (no seu produto ou serviço)||
-
-|   |
-|---|
-|CONHECENDO O CONSUMIDOR|
-
-|   |
-|---|
-|PAPÉIS DE COMPRA|
-
-|   |   |   |
-|---|---|---|
-||Descrição|Exemplo:|
-|INICIADOR|Lança a ideia|Filho|
-|INFLUENCIADOR|Influencia o decisor|Amigos, mídia|
-|DECISOR|Toma a decisão final|pais|
-|COMPRADOR|Efetiva a compra|pais|
-|USUÁRIO|Usa o produto ou serviço|filho|
+|               | Descrição                | Exemplo:      |
+| ------------- | ------------------------ | ------------- |
+| **INICIADOR**     | Lança a ideia            | Filho         |
+| **INFLUENCIADOR** | Influencia o decisor     | Amigos, mídia |
+| **DECISOR**       | Toma a decisão final     | pais          |
+| **COMPRADOR**     | Efetiva a compra         | pais          |
+| **USUÁRIO**       | Usa o produto ou serviço | filho         |
 
 ### ETAPA 4.1.3 Jornada de Compras do Consumidor
+#### JORNADA DE COMPRA DO CONSUMIDOR
+```text
+ASSIMILAÇÃO
+	↓
+ ATRAÇÃO
+	↓
+ ARGUIÇÃO
+	↓
+  AÇÃO
+	↓
+APOLOGIA
+```
 
-|   |
-|---|
-|JORNADA DE COMPRA DO CONSUMIDOR|
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|ASSIMILAÇÃO ➡️|ATRAÇÃO ➡️|ARGUIÇÃO ➡️|AÇÃO ➡️|APOLOGIA|
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Exposição a diversas marcas|Pré-seleção de marcas|Levantamento de informações|Efetivação da ação desejada|Fidelidade e defesa da marca|
-|Comunicação|Processamento de mensagens e informações|Família, amigos, conhecidos|Consumo e interação|Estimular recomendações|
-|Experiências passadas||Internet, mídia|Monitoramento e suporte da empresa|Estimular recompra|
-|Influência de terceiros||Centrais de atendimento|||
-
-  
-  
-
+| Exposição a diversas marcas | Pré-seleção de marcas        | Levantamento de informações | Efetivação da ação desejada        | Fidelidade e defesa da marca |
+| --------------------------- | ---------------------------- | --------------------------- | ---------------------------------- | ---------------------------- |
+| Comunicação                 | Processamento de mensagens   | Família, amigos, conhecidos | Consumo e interação                | Estimular recomendações      |
+| Experiências passadas       | Processamento de informações | Internet, mídia             | Monitoramento e suporte da empresa | Estimular recompra           |
+| Influência de terceiros     |                              | Centrais de atendimento     |                                    |                              |
 ## ETAPA 4.2 - ANÁLISE DO MICROAMBIENTE - MERCADO 
 
 Entendendo o Mercado:
@@ -295,63 +272,44 @@ Entendendo o Mercado:
 - Sazonalidade
 - Influência da Tecnologia
 ### Introdução ao Mercado
+#### O QUE É MERCADO?
 
-|   |
-|---|
-|O QUE É MERCADO?|
-
-Philip Kotler, em seu livro Administração de Marketing define mercado como “um conjunto de compradores e vendedores que efetuam transações relativas a determinado produto ou classe de produto”
+>Philip Kotler, em seu livro Administração de Marketing define mercado como “um conjunto de compradores e vendedores que efetuam transações relativas a determinado produto ou classe de produto”
 
 Logo, temos, de um lado empresas que ofertam um produto, e do outro lado o consumidor, que consome/demanda essa oferta.
 
-|   |
-|---|
-|ENTENDENDO O MERCADO|
+#### ENTENDENDO O MERCADO
 
-|   |
-|---|
-|Oportunidades e Ameaças - produto, consumidor, concorrentes, tecnologia|
-|Participação de Mercado - Volume, faturamento|
-|Estimativa de Vendas - produção, finanças, logística, equipe de vendas|
-|Estágio da Demanda - introdutório, crescente, maduro, declínio|
-|Potencial de Lucratividade - rentabilidade, volume, margens de lucro|
-|Projeções de Mercado - crescimento, queda, possíveis cenários|
-
-|   |
-|---|
-|HISTÓRICO DO MERCADO|
-
-|   |   |   |   |
-|---|---|---|---|
-|Como Foi Criado|Evolução|Pontos de Inflexão|Principais Marcas|
-
-|   |   |
-|---|---|
-|Pontos de “virada” do mercado. Qual fato causou isso? Conhecer esses pontos gera um conhecimento importante para observar tendências nesse mercado (a história muitas vezes se repete)|Marcas que lideram o mercado. Marcas novas, marcas antigas, marcas que ficaram no caminho…|
+| Oportunidades e Ameaças - produto, consumidor, concorrentes, tecnologia |
+| ----------------------------------------------------------------------- |
+| Participação de Mercado - Volume, faturamento                           |
+| Estimativa de Vendas - produção, finanças, logística, equipe de vendas  |
+| Estágio da Demanda - introdutório, crescente, maduro, declínio          |
+| Potencial de Lucratividade - rentabilidade, volume, margens de lucro    |
+| Projeções de Mercado - crescimento, queda, possíveis cenários           |
+#### HISTÓRICO DO MERCADO
+- [ ] Como Foi Criado?
+- [ ] Evolução
+- [ ] Pontos de Inflexão
+- [ ] Principais Marcas
+	- [ ] Marcas que lideram o mercado. 
+	- [ ] Marcas novas, 
+	- [ ] marcas antigas, 
+	- [ ] marcas que ficaram no caminho…
+- [ ] Pontos de “virada” do mercado. 
+	- [ ] Qual fato causou isso? Conhecer esses pontos gera um conhecimento importante para observar tendências nesse mercado (a história muitas vezes se repete)
 
 ### ETAPA 4.2.1 Quantificação e Classificação do Mercado
 
 É muito importante vê-lo pela perspectiva do consumidor, e não pela perspectiva do produto.
+#### TAMANHO E CLASSIFICAÇÃO DO MERCADO
 
-|   |
-|---|
-|TAMANHO E CLASSIFICAÇÃO DO MERCADO|
+| MERCADO POTENCIAL               | MERCADO DISPONÍVEL                                       | MERCADO-ALVO                                           | MERCADO ATENDIDO                                |
+| ------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------- |
+| Total de possíveis consumidores | Consumidores com interesse, renda, acesso e qualificação | Segmento de consumidores que a empresa deseja alcançar | Consumidores já atendidos dentro do seu mercado |
+$$P = \text{Consumidores } x \text{ Quantidade Consumida } x \text{preço}$$
 
-|   |   |   |   |
-|---|---|---|---|
-|MERCADO POTENCIAL|MERCADO DISPONÍVEL|MERCADO-ALVO|MERCADO ATENDIDO|
-
-|   |   |   |   |
-|---|---|---|---|
-|Total de possíveis consumidores|Consumidores com interesse, renda, acesso e qualificação|Segmento de consumidores que a empresa deseja alcançar|Consumidores já atendidos dentro do seu mercado|
-
-|   |
-|---|
-|P = Consumidores x Quantidade Consumida x preço|
-
-|   |
-|---|
-|PARTICIPAÇÃO DE MERCADO (Market Share)|
+#### PARTICIPAÇÃO DE MERCADO (Market Share)
 
 Parcela de vendas (Volume ou faturamento) de uma empresa dentro do seu segmento. Revela o tamanho da empresa no mercado em relação aos concorrentes
 
@@ -359,8 +317,7 @@ $$\frac{\text{Resultado da empresa}}{\text{Resultado do Mercado}}\cdot 100$$
 
 ### ETAPA 4.2.2 Sazonalidade e Tecnologia nos Mercados
 
-| SAZONALIDADE |
-| ------------ |
+#### SAZONALIDADE
 Na análise de séries temporais (variáveis que dependem do tempo), há três elementos que compõem o movimento de uma variável (no nosso caso, a variável é o faturamento): tendência (alta, baixa ou estagnada), sazonalidade e ruído (movimentos aleatórios). Sazonalidades são variações percentuais significativas na demanda em determinado espaço de tempo que ocorrem de forma quase padronizada
 
 Exemplos:
@@ -368,7 +325,6 @@ Exemplos:
 - Há aumento do consumo do chocolate na páscoa, 
 - Há aumento das compras de perus no natal
 - O consumo de sorvete reduz em períodos mais frios do ano
-
   
 É importante que você defina estratégias que - caso haja sazonalidades no seu mercado -  não gera uma discrepância muito grande no seu faturamento.
 
@@ -376,9 +332,8 @@ Exemplos:
 
 Olhe padrões no faturamento durante os anos (Caio, você já fez isso centenas de vezes olhando DREs de ações listadas em bolsa…)
 
-|   |
-|---|
-|INFLUÊNCIA DA TECNOLOGIA|
+#### INFLUÊNCIA DA TECNOLOGIA
+
 Vendas, gestão, comunicação, logística, relacionamento com cliente, etc.
 
 ## ETAPA 4.3 - ANÁLISE DO MICROAMBIENTE - SEGMENTAÇÃO DE MERCADO
@@ -417,27 +372,22 @@ Entendendo a Segmentação de Mercado:
 ||Raça, Etnia, Religião|||
 
 ### ETAPA 4.3.1 Critérios Para Segmentação
+#### CRITÉRIOS PARA SELEÇÃO DOS SEGMENTOS-ALVO
+- Mensuráveis
+- Relevantes
+- Acessíveis
+- Diferenciais
+- Acionáveis
 
-|   |
-|---|
-|CRITÉRIOS PARA SELEÇÃO DOS SEGMENTOS-ALVO|
+#### AVALIAÇÃO E SELEÇÃO DOS SEGMENTOS
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Mensuráveis|Relevantes|Acessíveis|Diferenciais|Acionáveis|
-
-|   |
-|---|
-|AVALIAÇÃO E SELEÇÃO DOS SEGMENTOS|
-
-|   |   |
-|---|---|
-|ATRATIVIDADE DO SEGMENTO|OBJETIVOS E RECURSOS DA EMPRESA|
-|Tamanho do segmento|Objetivos e diretrizes da empresa|
-|Taxa de crescimento|Competências|
-|Lucratividade|Recursos|
-|Escalabilidade||
-|Risco||
+| ATRATIVIDADE DO SEGMENTO | OBJETIVOS E RECURSOS DA EMPRESA   |
+| ------------------------ | --------------------------------- |
+| Tamanho do segmento      | Objetivos e diretrizes da empresa |
+| Taxa de crescimento      | Competências                      |
+| Lucratividade            | Recursos                          |
+| Escalabilidade           |                                   |
+| Risco                    |                                   |
 
 ### ETAPA 4.3.2 Níveis de Segmentação
 
@@ -620,19 +570,17 @@ A concorrência inclui todas as ofertas e os substitutos rivais, reais e potenci
 
 Ex.: Barbearia
 
-|   |   |   |
-|---|---|---|
-||Avaliação|Justificativa|
-|1. Rivalidade Dentro do Segmento|8|Muitos concorrentes, qualitativos|
-|2. Novos Entrantes|7|Baixas barreiras de entrada e saída|
-|3. Produtos Substitutos|3|Poucos produtos substitutos|
-|4. Poder de Barganha dos Consumidores|5|Muitos concorrentes, mas o público é fiel|
-|5. Poder de Barganha dos Fornecedores|3|Muitos fornecedores. Alta oferta de fornecimento, apesar da grande quantidade de barbearias. Eles se esforçam para manter os clientes já existentes|
-||5,2||
+|                                       | Avaliação | Justificativa                                                                                                                                       |
+| ------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Rivalidade Dentro do Segmento      | 8         | Muitos concorrentes, qualitativos                                                                                                                   |
+| 2. Novos Entrantes                    | 7         | Baixas barreiras de entrada e saída                                                                                                                 |
+| 3. Produtos Substitutos               | 3         | Poucos produtos substitutos                                                                                                                         |
+| 4. Poder de Barganha dos Consumidores | 5         | Muitos concorrentes, mas o público é fiel                                                                                                           |
+| 5. Poder de Barganha dos Fornecedores | 3         | Muitos fornecedores. Alta oferta de fornecimento, apesar da grande quantidade de barbearias. Eles se esforçam para manter os clientes já existentes |
+| MÉDIA                                 | 5,2       |                                                                                                                                                     |
 
-|   |   |   |   |
-|---|---|---|---|
-||Alta|Média|Baixa|
-|Nível de Atratividade|0 - 3,9|4 - 6,9|7 - 10|
+|                       | Alta    | Média   | Baixa  |
+| --------------------- | ------- | ------- | ------ |
+| Nível de Atratividade | 0 - 3,9 | 4 - 6,9 | 7 - 10 |
 
 A média das notas de avaliação foi de 5,2. Logo, vemos que o mercado de barbearia possui uma atratividade média**
