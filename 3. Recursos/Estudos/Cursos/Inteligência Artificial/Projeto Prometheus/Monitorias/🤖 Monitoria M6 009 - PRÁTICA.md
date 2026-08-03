@@ -153,7 +153,8 @@ Essa diferença é o início da **inversão de dependência** (ainda não estamo
 
 ---
 
-# Etapa 3 - Refatorar o ToolManagerAgora vamos terminar a transformação.
+# Etapa 3 - Refatorar o ToolManager 
+Agora vamos terminar a transformação.
 
 Hoje seu `ToolManager` provavelmente possui algo semelhante a:
 
@@ -967,4 +968,138 @@ Essa é justamente a evidência de que a arquitetura está aberta para extensão
 
 ---
 
-Quando terminar essas duas etapas, envia o `ToolRegistry` atualizado. Depois veremos como adaptar o `ToolManager` para que ele consiga executar ferramentas diferentes sem voltar a criar `if`s — e aí você verá por que o professor escolheu essa etapa como prova da arquitetura.
+## Agora vem um detalhe MUITO interessante
+
+Quero que você observe uma coisa que provavelmente o professor está preparando para as próximas aulas.
+
+Hoje o seu `ToolManager.execute()` faz isso:
+
+```python
+tool = self.registry.get(tool_name)
+
+return tool.calculate(...)
+```
+
+Isso funciona para a calculadora.
+
+Mas acabamos de criar:
+
+```python
+KnowledgeTool
+```
+
+E ela possui:
+
+```python
+search(...)
+```
+
+Não:
+
+```python
+calculate(...)
+```
+
+Então...
+
+Se amanhã o LLM responder:
+
+```python
+tool = knowledge
+```
+
+o `ToolManager` vai tentar fazer:
+
+```python
+tool.calculate(...)
+```
+
+e receberemos:
+
+```python
+AttributeError
+```
+
+---
+
+## Isso é um erro?
+
+**Não.**
+
+Na verdade, isso é uma excelente descoberta arquitetural.
+
+A arquitetura está nos dizendo:
+
+> "As ferramentas não possuem uma interface comum."
+
+E isso costuma levar a uma das próximas evoluções:
+
+### Opção 1 (mais simples)
+
+Todas as ferramentas implementam:
+
+```python
+execute(...)
+```
+
+Independentemente do que fazem internamente.
+
+Por exemplo:
+
+```python
+CalculatorTool.execute(...)
+KnowledgeTool.execute(...)
+SearchTool.execute(...)
+```
+
+Internamente, cada uma decide como trabalhar.
+
+---
+
+### Opção 2 (mais avançada)
+
+Criamos uma classe base, por exemplo:
+
+```python
+BaseTool
+```
+
+e todas as ferramentas herdam dela.
+
+Mas isso já é assunto para uma aula futura.
+
+---
+
+# Minha recomendação
+
+**Não refatore isso agora**, a menos que o professor peça.
+
+Acredito que ele fez essa atividade justamente para que vocês percebam essa limitação por conta própria.
+
+É uma excelente evolução natural da arquitetura.
+
+---
+
+# Onde estamos agora
+
+Temos:
+
+```
+                MentorAgent
+                     │
+                     ▼
+                ToolManager
+                     │
+                     ▼
+               ToolRegistry
+                     │
+      ┌──────────────┴──────────────┐
+      ▼                             ▼
+CalculatorTool               KnowledgeTool
+```
+
+Isso prova que o Registry já suporta múltiplas ferramentas.
+
+O único componente que ainda precisa evoluir é o **protocolo comum de execução** (`calculate()` vs `search()` vs um futuro `execute()`).
+
+Na minha opinião, essa será justamente a próxima refatoração importante do Prometheus. Ela vai transformar as ferramentas em verdadeiros "plugins" intercambiáveis, todos seguindo o mesmo contrato.
