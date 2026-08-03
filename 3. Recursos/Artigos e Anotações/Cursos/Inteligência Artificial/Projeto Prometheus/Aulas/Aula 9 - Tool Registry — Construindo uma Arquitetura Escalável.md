@@ -423,7 +423,8 @@ Essa é exatamente a mudança de mentalidade que separa um programa que funciona
 
 ## Laboratório Prático — Aula 9
 
-## [[🤖 Monitoria M6 009]]  
+## [[🤖 Monitoria M6 009 - TEORIA]]  
+## [[🤖 Monitoria M6 009 - PRÁTICA]]
 ## [[🛠 Desafio M6 009]] 
 
 Nesta aula, vamos dar o próximo passo no Prometheus-Mentor.
