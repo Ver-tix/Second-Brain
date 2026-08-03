@@ -119,5 +119,6 @@ tags:
 - [[Aula 8.2 - Tool Calling na Prática - Quando o LLM Decide Usar uma Ferramenta]]
 - [[Aula 8.3 - Schemas -  o contrato entre o LLM e suas ferramentas]]
 - [[Aula 9 - Tool Registry — Construindo uma Arquitetura Escalável]]
+- [[Aula 10 - Prompts como Componentes da Arquitetura]]
 
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas

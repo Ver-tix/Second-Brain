@@ -396,3 +396,251 @@ Na prática, adicionar uma nova ferramenta passa a seguir um processo simples:
 3. Disponibilizá-la para uso.
 
 O restante da arquitetura permanece inalterado, característica típica de sistemas extensíveis baseados em plugins.
+
+---
+# Feedback
+Perfeito. E eu gostei bastante das observações que você fez durante a implementação, porque elas mostram que você não está apenas escrevendo código: está pensando como arquiteto.
+
+## Avaliação do M6 009
+
+**Resultado:** ✅ **Aprovado**
+
+Este desafio tinha quatro objetivos arquiteturais.
+
+### ✅ Objetivo 1 — Criar um Tool Registry
+
+Concluído.
+
+Você deixou de ter ferramentas espalhadas pelo código e passou a possuir um catálogo centralizado.
+
+Isso é exatamente o primeiro passo para uma arquitetura orientada a plugins.
+
+---
+
+### ✅ Objetivo 2 — Remover o acoplamento do ToolManager
+
+Concluído.
+
+Antes:
+
+```
+ToolManager
+    ├── Calculator
+    ├── Calendar
+    ├── Search
+```
+
+Depois:
+
+```
+ToolManager
+      │
+      ▼
+ToolRegistry
+      │
+      ▼
+Ferramenta
+```
+
+Agora o ToolManager não conhece mais nenhuma implementação concreta.
+
+Excelente.
+
+---
+
+### ✅ Objetivo 3 — Tornar o MentorAgent genérico
+
+Concluído.
+
+Esse talvez seja o maior ganho da aula.
+
+Hoje o Mentor não sabe mais o que é Calculator.
+
+Ele apenas recebe:
+
+```
+tool_name
+```
+
+e diz:
+
+> "ToolManager, execute."
+
+Isso é arquitetura baseada em capacidades.
+
+---
+
+### ✅ Objetivo 4 — Preparar o Prometheus para crescer
+
+Esse era o objetivo escondido da aula.
+
+Você já consegue imaginar adicionar:
+
+```
+WebSearchTool
+
+RAGTool
+
+CalendarTool
+
+GitHubTool
+
+PerplexityTool
+
+PDFReaderTool
+```
+
+sem alterar o Mentor.
+
+Isso é exatamente o motivo da existência do Registry.
+
+---
+
+# Sobre suas observações
+
+Você levantou três pontos muito bons.
+
+## 1. "Registry hoje só guarda instâncias."
+
+Correto.
+
+Mas você percebeu algo importante:
+
+Hoje ele guarda:
+
+```
+CalculatorTool()
+```
+
+A tendência natural é evoluir para algo como:
+
+```
+calculator
+    instance
+    schema
+    permissions
+    provider
+    tags
+```
+
+Ou seja:
+
+Hoje temos um Registry.
+
+Mais tarde teremos um verdadeiro **Catálogo de Ferramentas**.
+
+Excelente percepção.
+
+---
+
+## 2. "ToolManager parece cada vez mais simples."
+
+Também correto.
+
+Isso acontece porque estamos aplicando um princípio clássico:
+
+> cada classe deve ter apenas uma responsabilidade.
+
+O ToolManager vai ficando pequeno justamente porque está ficando correto.
+
+Mais adiante ele terá funções de orquestração (logs, autorização, tratamento de erros, métricas, retries, etc.), e não de armazenamento.
+
+---
+
+## 3. "Isso parece uma arquitetura baseada em plugins."
+
+Essa foi, para mim, a melhor observação.
+
+Sim.
+
+É exatamente isso.
+
+Estamos caminhando para algo assim:
+
+```
+plugins/
+
+    calculator/
+
+    rag/
+
+    web/
+
+    github/
+
+    perplexity/
+
+    memory/
+
+    calendar/
+
+    email/
+
+    pdf/
+```
+
+O restante do sistema sequer precisa saber que um plugin novo foi criado.
+
+Basta registrá-lo.
+
+Esse é um padrão usado em IDEs, navegadores, plataformas de automação e diversos sistemas extensíveis.
+
+---
+
+# O insight mais importante da aula
+
+Até a Aula 8 aprendemos **como um LLM usa ferramentas**.
+
+Na Aula 9 aprendemos **como um software organiza centenas de ferramentas**.
+
+A mudança de escala é enorme.
+
+Antes pensávamos em uma ferramenta.
+
+Agora pensamos em um ecossistema.
+
+E esse é exatamente o tipo de mudança de mentalidade que o Projeto Prometheus busca desenvolver.
+
+---
+
+# CHANGELOG — Módulo 6 · Desafio M6 009
+
+Conforme nosso fluxo do Projeto Prometheus, segue o registro das alterações realizadas.
+
+```md
+# CHANGELOG
+
+## Módulo 6 — Aula 9
+### Desafio M6 009 — Tool Registry
+
+### Adicionado
+- Criação do `ToolRegistry` como catálogo centralizado de ferramentas.
+- Registro inicial da `CalculatorTool` no Registry.
+
+### Refatorado
+- `ToolManager` passou a localizar ferramentas dinamicamente através do `ToolRegistry`.
+- `MentorAgent` deixou de depender de ferramentas específicas e passou a trabalhar apenas com o nome da ferramenta solicitado pelo LLM.
+
+### Arquitetura
+- Introdução do padrão Registry como infraestrutura reutilizável.
+- Redução do acoplamento entre agentes e implementações concretas.
+- Preparação da arquitetura para suportar novas ferramentas sem modificar agentes existentes.
+
+### Benefícios
+- Arquitetura mais extensível.
+- Facilidade para adicionar novos plugins.
+- Base preparada para integração futura com:
+  - RAG
+  - Second Brain
+  - Busca Web
+  - Perplexity
+  - GitHub
+  - Calendário
+  - E-mail
+```
+
+---
+
+**Encerramos oficialmente a Aula 9.**
+
+==Na **Aula 10** faremos uma das evoluções mais importantes do módulo: deixar de construir prompts "na mão" para estruturar **mensagens (`system`, `user`, `assistant`, `tool`)**, aproximando o Prometheus da arquitetura utilizada em agentes modernos. É a última grande peça antes de integrarmos memória persistente e RAG.==
