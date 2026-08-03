@@ -22,7 +22,7 @@ Aqui está o porque:
 
 Meu nome é [SEU NOME], e nos últimos 4 anos me dedico ao copywriting, há 9 anos sou consultor de negócios, porém, sempre tive muita dificuldade em vender.
 
-Meu nome é <fulano>, e <tenho uma credencial de autoridade>, porém, <nem sempre foi assim>
+Meu nome é < fulano >, e < tenho uma credencial de autoridade >, porém, < nem sempre foi assim >
 
 # 2. Por que você precisava resolver esse problema?
 Que frustrações ele gera? Que medos você tinha? Qual o preço de não resolver esse problema?
@@ -31,7 +31,7 @@ Que frustrações ele gera? Que medos você tinha? Qual o preço de não resolve
 
 Há pouco tempo, estava afogado em dívidas, não conseguia pagar as contas e sempre ficava preocupado com o que minha família iria comer. Isso me deixava louco.
 
-Há pouco tempo <estava com dor>, <outra dor), e sempre ficava < preocupação emocional>
+Há pouco tempo < estava com dor >, < outra dor > e sempre ficava < preocupação emocional >
 
 # 3. Imagine o futuro, a solução ideal. A Grande Descoberta. Você imagina que há uma solução perfeita e tem uma ideia de como ela é. NAO é sobre seu produto, mas sobre os benefícios.
 
@@ -41,11 +41,11 @@ Imaginava que deveria existir uma forma simples para <alcançar benefício>
 
 # 4. Sua busca pela solução. Você procurou várias soluções e todas falharam. Algumas eram boas em um ponto e ruins em outro. Não funcionavam.
 
-Decidi buscar uma forma de <alcançar o resultado>. Porém, encontrei muitos produtos no mercado que não funcionavam, <ou objeção>. Alguns até funcionavam por um tempo, mas o resultado sempre era pequeno, <e voltava para o ponto inicial>.
+Decidi buscar uma forma de < alcançar o resultado> . Porém, encontrei muitos produtos no mercado que não funcionavam, < ou objeção >. Alguns até funcionavam por um tempo, mas o resultado sempre era pequeno, < e voltava para o ponto inicial>.
 
 # 5. A hora mais escura ("pesadelo") Sua grande frustração. Tem que ser do jeito certo, senão você fica frustrado.
 
-Eu não aguentava mais isso. Eu precisava <alcançar transformação> porque estava <emoção "ruim"> <diante do maior medo>
+Eu não aguentava mais isso. Eu precisava <alcançar transformação> porque estava <emoção "ruim"> < diante do maior medo>
 
 # 6. O momento da verdade. Você deixa de ter um problema e cria uma solução. "Não consigo encontrar a solução, então vou criá-la."
 
@@ -59,7 +59,7 @@ Eu queria algo que me permitisse ‹benefício>, <benefício> e ‹benefício>. 
 
 # 8. O triunfo. Sua solução é a solução perfeita para o problema.
 
-Criei um método único, e seguindo esses passos, <em pouco tempo> me permitiu <alcançar o benefício/transformação>. Hoje <minha vida é como sempre quis>
+Criei um método único, e seguindo esses passos, < em pouco tempo> me permitiu < alcançar o benefício/transformação>. Hoje < minha vida é como sempre quis>
 
 # 9. Compartilhar
 
@@ -67,7 +67,7 @@ Você percebe que é muito bom para guardar só para você, ou melhor, alguém o
 
 # 10. A Oferta
 
-"Apresento para você <x>."
+"Apresento para você < x>."
 
 Contraste seu suor e lágrimas com o caminho pronto para seu cliente percorrer.
 
