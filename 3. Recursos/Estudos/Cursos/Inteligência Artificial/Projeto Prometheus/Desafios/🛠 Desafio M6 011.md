@@ -315,9 +315,3 @@ Cada componente possui uma função bem definida e se comunica por interfaces es
 Essa característica demonstra que a infraestrutura desenvolvida no Módulo 6 foi projetada para ser **extensível**, permitindo incorporar novas capacidades preservando a organização e a reutilização dos componentes existentes.
 
 ---
-
-# Conclusão do Módulo 6
-
-Ao longo do Módulo 6, o Prometheus-Mentor evoluiu de uma simples chamada à API de um LLM para uma arquitetura modular composta por componentes especializados. Foram implementados serviços de comunicação com modelos, memória conversacional, construção modular de prompts, infraestrutura de ferramentas, Tool Calling, Tool Registry e mecanismos de orquestração.
-
-O resultado não é apenas um agente funcional, mas uma base arquitetural preparada para crescer. Os próximos módulos poderão adicionar capacidades como RAG, múltiplos agentes, planejamento e workflows reutilizando a infraestrutura já construída, sem a necessidade de reescrever o sistema. Esse é o principal aprendizado do módulo: construir software por meio de componentes desacoplados que colaboram entre si, permitindo que novas funcionalidades sejam incorporadas de forma sustentável.
