@@ -124,5 +124,6 @@ tags:
 
 # Módulo 7 - RAG, Conhecimento Externo e o Second Brain do Prometheus
 - [[Introdução 007]]
+- 
 
-3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/Introdução 007
+3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/
