@@ -123,6 +123,6 @@ tags:
 - [[Aula M6 011 - Fechamento do Módulo - Consolidando a Arquitetura do Primeiro Agente]]
 
 # Módulo 7 - RAG, Conhecimento Externo e o Second Brain do Prometheus
-- [[3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/Introdução 007]]
+- [[Introdução 007]]
 
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/Introdução 007
