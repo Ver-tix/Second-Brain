@@ -10,11 +10,9 @@ tags:
   - programação
   - inovação
 ---
-# Etapa 1 — Criar `system_prompt.py`
-
+# ==Etapa 1 — Criar `system_prompt.py`
 ## Objetivo
-
-Criar um componente que contenha **apenas as regras globais do Prometheus**.
+Criar um componente que contenha **apenas as regras globais do Prometheus**.==
 
 Esse arquivo **não pertence ao Mentor**.
 
@@ -95,8 +93,8 @@ Essas instruções pertencem ao **Mentor**, não ao sistema.
 Quando você criar o arquivo, me envie o conteúdo. Em seguida faremos a **Etapa 2**, que será enxugar o `mentor_prompt.py` para conter apenas a identidade do agente.
 
 ---
-# Etapa 2 - Refatorar o `mentor_prompt.py`
-O objetivo será deixá-lo contendo **somente a identidade do Prometheus Mentor**, removendo qualquer regra global que agora pertence ao `system_prompt.py`.
+# ==Etapa 2 - Refatorar o `mentor_prompt.p
+O objetivo será deixá-lo contendo **somente a identidade do Prometheus Mentor**, removendo qualquer regra global que agora pertence ao `system_prompt.py`.==
 
 Agora temos
 ```Python
@@ -217,3 +215,103 @@ Mentor Prompt
 ---
 
 Implemente essa refatoração no seu `mentor_prompt.py` e me envie o código. Em seguida passaremos à **Etapa 3**, onde o `PromptBuilder` deixará de construir um prompt "na mão" e passará a compor esses módulos.
+
+Perceba que **desaparecem** estas partes:
+
+```Python
+Histórico da conversa:
+
+{history}
+
+Nova pergunta do usuário:
+
+{question}
+```
+
+Porque elas não pertencem ao Mentor.
+
+Elas pertencem ao **PromptBuilder**.
+
+---
+## Então... para onde vai a classe `PromptBuilder`?
+
+Ela sai deste arquivo completamente.
+
+Você criará um novo arquivo (caso ainda não exista):
+```
+app/
+└── prompts/
+    ├── system_prompt.py
+    ├── mentor_prompt.py
+    └── prompt_builder.py   ← aqui ficará a classe
+```
+E a classe ficará parecida com isto:
+```Python
+from app.prompts.system_prompt import SYSTEM_PROMPT
+from app.prompts.mentor_prompt import MENTOR_PROMPT
+
+class PromptBuilder:
+    @staticmethod
+    def build(history: str, question: str) -> str:
+
+        return f"""
+{SYSTEM_PROMPT}
+
+{MENTOR_PROMPT}
+
+Histórico da conversa:
+
+{history}
+
+Nova pergunta do usuário:
+
+{question}
+"""
+```
+Observe como agora cada componente tem uma única responsabilidade:
+
+- `system_prompt.py` → regras globais.
+- `mentor_prompt.py` → identidade do Mentor.
+- `prompt_builder.py` → monta o prompt final.
+
+---
+
+💡 **Uma observação importante:** se atualmente sua classe `PromptBuilder` já está em um arquivo chamado `mentor_prompt.py`, este é um ótimo momento para reorganizar a estrutura do projeto:
+
+```
+app/
+└── prompts/
+    ├── system_prompt.py
+    ├── mentor_prompt.py      # apenas MENTOR_PROMPT
+    └── prompt_builder.py     # classe PromptBuilder
+```
+
+Essa organização é muito mais coerente e deixa os nomes dos arquivos alinhados com suas responsabilidades. É exatamente o tipo de refatoração arquitetural que esta aula pretende ensinar.
+
+---
+# ==Etapa 3 - Verificar se o mentorAgent Continuar Importando o PromptBuilder do Novo Arquivo `prompt_builder.py` em vez do Antigo `mentor_prompt.py`
+
+Antes:
+
+```python
+from app.prompts.mentor_prompt import PromptBuilder
+```
+
+Depois:
+
+```python
+from app.prompts.prompt_builder import PromptBuilder
+```
+
+Todo o restante do `MentorAgent` continua exatamente igual.
+
+Ou seja:
+
+```python
+prompt = PromptBuilder.build(
+    history,
+    question
+)
+```
+
+não muda.
