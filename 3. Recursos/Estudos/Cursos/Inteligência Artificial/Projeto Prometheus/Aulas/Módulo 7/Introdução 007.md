@@ -483,3 +483,50 @@ Esse módulo é provavelmente o módulo que mais conversa com tudo que você já
 Até agora construímos o "cérebro executivo".
 
 Agora vamos construir a "biblioteca neural".
+
+---
+# Resumindo:
+## Aula 1 — O problema da memória externa
+
+- Por que LLMs não "sabem" os seus documentos.
+- Diferença entre contexto, memória e conhecimento.
+- **Laboratório:** criar a estrutura inicial do `KnowledgeService`.
+
+## Aula 2 — Embeddings
+
+- O que são embeddings e por que eles substituem busca por palavras-chave.
+- **Laboratório:** criar o `EmbeddingService`.
+
+## Aula 3 — Banco Vetorial
+
+- Como armazenar embeddings.
+- **Laboratório:** integrar um banco vetorial (começaremos com ChromaDB).
+
+## Aula 4 — Pipeline de ingestão
+
+- Documento → Chunks → Embeddings → Banco Vetorial.
+- **Laboratório:** criar `DocumentLoader`, `TextChunker` e `Indexer`.
+
+## Aula 5 — Retrieval
+
+- Como recuperar os trechos mais relevantes.
+- **Laboratório:** implementar o `Retriever`.
+
+## Aula 6 — Integrando ao Mentor
+
+- O agente aprende quando consultar o conhecimento.
+- **Laboratório:** integrar o `KnowledgeService` ao `MentorAgent`.
+
+## Aula 7 — O Second Brain
+
+- Como transformar seu Obsidian em uma base de conhecimento.
+- **Laboratório:** indexar as primeiras notas reais do seu Second Brain.
+
+## Aula 8 — Arquitetura avançada
+
+- Curadoria, atualização de documentos, conflitos de conhecimento e evolução do RAG.
+- **Laboratório:** melhorias arquiteturais.
+
+## Aula 9 — Projeto final
+
+- Construção do **Prometheus-Knowledge**, integrado ao ecossistema Prometheus.

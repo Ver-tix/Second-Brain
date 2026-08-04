@@ -28,6 +28,47 @@ __export(main_exports, {
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
+
+// tag-text.mjs
+function isTagListComment(line) {
+  return line.startsWith("//") || /^#(\s|#)/.test(line);
+}
+function parseCsvRenamePairs(csvText) {
+  const lines = csvText.split(/\r?\n/).map((l) => l.trim()).filter((l) => l && !isTagListComment(l));
+  const pairs = [];
+  for (const line of lines) {
+    const commaIdx = line.indexOf(",");
+    if (commaIdx === -1) continue;
+    const from = line.substring(0, commaIdx).trim().replace(/^#/, "");
+    const to = line.substring(commaIdx + 1).trim().replace(/^#/, "");
+    if (from === "old_tag" && to === "new_tag") continue;
+    if (!from || !to) continue;
+    pairs.push({ from, to });
+  }
+  return pairs;
+}
+function parseTagDeleteList(text) {
+  return text.split(/\r?\n/).map((l) => l.trim()).filter((l) => l && !isTagListComment(l)).map((l) => l.replace(/^#/, "")).filter((l) => l.length > 0);
+}
+function fixFrontmatterMapping(data) {
+  const fmMatch = data.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
+  if (!fmMatch) return null;
+  const [fullMatch, openDelim, body, closeDelim] = fmMatch;
+  const newline = openDelim.includes("\r\n") ? "\r\n" : "\n";
+  let isModified = false;
+  const fixedLines = body.split(/\r?\n/).map((line) => {
+    const match = line.match(/^([\p{L}\p{N}\s_-]+):\s*([^\s"'[{>|].*:\s.*)$/u);
+    if (!match) return line;
+    const key = match[1];
+    const value = match[2].replace(/"/g, '\\"');
+    isModified = true;
+    return `${key}: "${value}"`;
+  });
+  if (!isModified) return null;
+  return openDelim + fixedLines.join(newline) + closeDelim + data.substring(fullMatch.length);
+}
+
+// main.ts
 var DEFAULT_SETTINGS = {
   caseStrategy: "lowercase",
   separatorStrategy: "preserve",
@@ -47,11 +88,114 @@ var DEFAULT_SETTINGS = {
   orphanThreshold: 2,
   maxHistorySize: 50,
   historyExpirationDays: 7,
+  maxHistoryMB: 100,
   ignoredIssues: [],
   protectedTags: []
 };
 var TAG_REGEX = /(^|\s)(#[\p{L}\p{N}_/-]+)/gu;
 var TAG_HOVER_SOURCE = "bulk-tag-manager:tag-pane";
+function getVaultTags(app) {
+  var _a, _b;
+  const cache = app.metadataCache;
+  return (_b = (_a = cache.getTags) == null ? void 0 : _a.call(cache)) != null ? _b : {};
+}
+function getCachedFilePaths(app) {
+  var _a, _b;
+  const cache = app.metadataCache;
+  return (_b = (_a = cache.getCachedFiles) == null ? void 0 : _a.call(cache)) != null ? _b : [];
+}
+async function sha256Hex(text) {
+  var _a;
+  try {
+    const subtle = (_a = window.crypto) == null ? void 0 : _a.subtle;
+    if (!subtle) return null;
+    const digest = await subtle.digest("SHA-256", new TextEncoder().encode(text));
+    return Array.from(new Uint8Array(digest)).map((b) => b.toString(16).padStart(2, "0")).join("");
+  } catch (e) {
+    return null;
+  }
+}
+function getPropertyTypes(app) {
+  const manager = app.metadataTypeManager;
+  const properties = manager == null ? void 0 : manager.properties;
+  if (!properties) return {};
+  const types = {};
+  for (const [key, info] of Object.entries(properties)) {
+    if (info && typeof info.type === "string") types[key.toLowerCase()] = info.type;
+  }
+  return types;
+}
+function bareTextMatchesType(text, type) {
+  switch (type) {
+    case "number":
+      return /^-?\d+(\.\d+)?([eE][+-]?\d+)?$/.test(text) && Number.isFinite(Number(text));
+    case "checkbox":
+      return text === "true" || text === "false";
+    case "date":
+      return /^\d{4}-\d{2}-\d{2}$/.test(text) && !Number.isNaN(Date.parse(text));
+    case "datetime":
+      return /^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}(:\d{2})?/.test(text) && !Number.isNaN(Date.parse(text));
+    default:
+      return false;
+  }
+}
+function applyToTagField(frontmatter, key, transform) {
+  const current = frontmatter[key];
+  if (!current) return false;
+  if (Array.isArray(current)) {
+    const list = current;
+    const next = list.map(transform);
+    if (next.some((value, index) => value !== list[index])) {
+      frontmatter[key] = next;
+      return true;
+    }
+    return false;
+  }
+  if (typeof current === "string") {
+    const next = transform(current);
+    if (next !== current) {
+      frontmatter[key] = next;
+      return true;
+    }
+  }
+  return false;
+}
+function applyToTagFieldWithDedup(frontmatter, key, transform) {
+  const current = frontmatter[key];
+  if (!current) return false;
+  if (Array.isArray(current)) {
+    const list = current;
+    const mapped = list.map(transform);
+    const unique = [];
+    const seen = /* @__PURE__ */ new Set();
+    for (const entry of mapped) {
+      const clean = typeof entry === "string" && entry.startsWith("#") ? entry.substring(1) : entry;
+      if (seen.has(clean)) continue;
+      seen.add(clean);
+      unique.push(entry);
+    }
+    if (unique.length !== list.length || unique.some((value, index) => value !== list[index])) {
+      frontmatter[key] = unique;
+      return true;
+    }
+    return false;
+  }
+  if (typeof current === "string") {
+    const next = transform(current);
+    if (next !== current) {
+      frontmatter[key] = next;
+      return true;
+    }
+  }
+  return false;
+}
+function primitiveToString(value) {
+  if (typeof value === "string") return value;
+  if (typeof value === "number" || typeof value === "boolean" || typeof value === "bigint") {
+    return String(value);
+  }
+  return null;
+}
 function isRecord(value) {
   return value !== null && typeof value === "object" && !Array.isArray(value);
 }
@@ -99,23 +243,6 @@ function menuForEvent(event) {
   window.setTimeout(() => menu.showAtPosition({ x: event.pageX, y: event.pageY }), 0);
   return menu;
 }
-function parseCsvRenamePairs(csvText) {
-  const lines = csvText.split(/\r?\n/).map((l) => l.trim()).filter((l) => l && !l.startsWith("#"));
-  const pairs = [];
-  for (const line of lines) {
-    const commaIdx = line.indexOf(",");
-    if (commaIdx === -1) continue;
-    const from = line.substring(0, commaIdx).trim().replace(/^#/, "");
-    const to = line.substring(commaIdx + 1).trim().replace(/^#/, "");
-    if (from === "old_tag" && to === "new_tag") continue;
-    if (!from || !to) continue;
-    pairs.push({ from, to });
-  }
-  return pairs;
-}
-function parseTagDeleteList(text) {
-  return text.split(/\r?\n/).map((l) => l.trim().replace(/^#/, "")).filter((l) => l && !l.startsWith("#") && !l.startsWith("//"));
-}
 var InlineTagSuggest = class {
   constructor(app, inputEl, containerEl, onSelect) {
     this.app = app;
@@ -142,13 +269,12 @@ var InlineTagSuggest = class {
     this.isOpen = true;
   }
   updateSuggestions() {
-    var _a;
     const query = this.inputEl.value.toLowerCase().replace(/^#/, "");
     if (!query) {
       this.hide();
       return;
     }
-    const allTags = Object.keys((_a = this.app.metadataCache.getTags()) != null ? _a : {}).map((t) => t.replace(/^#/, ""));
+    const allTags = Object.keys(getVaultTags(this.app)).map((t) => t.replace(/^#/, ""));
     const matches = allTags.filter((t) => t.toLowerCase().includes(query)).slice(0, 8);
     if (matches.length > 0) {
       this.suggestEl.empty();
@@ -263,6 +389,85 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
       this.aliasDebounceTimers.delete(file.path);
     }, 1e3);
     this.aliasDebounceTimers.set(file.path, timer);
+  }
+  /**
+   * True when `file` could contain one of `rawTags`, or a child of one.
+   *
+   * Bulk operations must call this before touching a note. Both
+   * `fileManager.processFrontMatter()` and `vault.process()` save the file whether or
+   * not their callback changed anything, and Obsidian's frontmatter round-trip is not
+   * byte-preserving -- it strips quotes, so `title: "2018-08-17"` comes back as
+   * `title: 2018-08-17` and a quoted `"1721"` can come back as an integer. Running an
+   * operation over every note therefore rewrote frontmatter right across the vault.
+   * Those collateral rewrites were never recorded in the operation's history, so undo
+   * could not reverse them.
+   *
+   * `tagRegex` is the operation's own inline-tag pattern; its lastIndex is reset both
+   * before and after use so the caller's iteration is unaffected.
+   */
+  fileMayContainTags(file, content, rawTags, tagRegex) {
+    var _a;
+    if (rawTags.length === 0) return false;
+    tagRegex.lastIndex = 0;
+    const hasInline = tagRegex.test(content);
+    tagRegex.lastIndex = 0;
+    if (hasInline) return true;
+    const frontmatter = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter;
+    if (!frontmatter) return false;
+    for (const key of ["tags", "tag"]) {
+      const value = frontmatter[key];
+      if (!value) continue;
+      for (const entry of Array.isArray(value) ? value : [value]) {
+        if (typeof entry !== "string") continue;
+        const raw = entry.startsWith("#") ? entry.substring(1) : entry;
+        if (rawTags.some((t) => raw === t || raw.startsWith(t + "/"))) return true;
+      }
+    }
+    return false;
+  }
+  /**
+   * Pattern-matching counterpart to {@link fileMayContainTags}, for operations driven by
+   * a user regex rather than a fixed tag list. Mirrors the same skip rules the rename
+   * itself applies -- frontmatter offsets, code blocks and protected tags -- so a note is
+   * only considered a candidate if the rename would genuinely alter one of its tags.
+   */
+  fileMayMatchTagPattern(file, content, regex, replacement) {
+    var _a;
+    const wouldChange = (raw) => {
+      regex.lastIndex = 0;
+      const next = raw.replace(regex, replacement);
+      regex.lastIndex = 0;
+      return next !== raw;
+    };
+    const codeBlockRanges = this.getCodeBlockRanges(content);
+    const fmMatch = content.match(/^---\n[\s\S]*?\n---/);
+    const skipStart = fmMatch ? fmMatch[0].length : 0;
+    TAG_REGEX.lastIndex = 0;
+    let match;
+    while ((match = TAG_REGEX.exec(content)) !== null) {
+      const offset = match.index;
+      if (offset < skipStart) continue;
+      if (this.isInCodeBlockRange(offset, codeBlockRanges)) continue;
+      if (this.isTagProtected(match[2])) continue;
+      if (wouldChange(match[2].substring(1))) {
+        TAG_REGEX.lastIndex = 0;
+        return true;
+      }
+    }
+    TAG_REGEX.lastIndex = 0;
+    const frontmatter = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter;
+    if (!frontmatter) return false;
+    for (const key of ["tags", "tag"]) {
+      const value = frontmatter[key];
+      if (!value) continue;
+      for (const entry of Array.isArray(value) ? value : [value]) {
+        if (typeof entry !== "string") continue;
+        const raw = entry.startsWith("#") ? entry.substring(1) : entry;
+        if (this.isTagProtected(raw)) continue;
+        if (wouldChange(raw)) return true;
+      }
+    }
+    return false;
   }
   async loadSettings() {
     const loadedRaw = await this.loadData();
@@ -452,7 +657,7 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
       var _a2;
       this.pageAliases.clear();
       this.tagPages.clear();
-      for (const path of this.app.metadataCache.getCachedFiles()) {
+      for (const path of getCachedFilePaths(this.app)) {
         const file = this.app.vault.getAbstractFileByPath(path);
         if (file instanceof import_obsidian.TFile) {
           this.updateTagPage(file, (_a2 = this.app.metadataCache.getCache(path)) == null ? void 0 : _a2.frontmatter);
@@ -689,6 +894,72 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
     return files;
   }
   // --- History Management ---
+  /** Root of the external snapshot store. Kept in one place so the paths cannot drift. */
+  get historyRoot() {
+    return `${this.app.vault.configDir}/plugins/bulk-tag-manager/history`;
+  }
+  /**
+   * Total bytes currently used by history snapshots on disk.
+   */
+  async getHistoryDiskUsage() {
+    const measure = async (dir) => {
+      var _a;
+      let total = 0;
+      if (!await this.app.vault.adapter.exists(dir)) return 0;
+      const listing = await this.app.vault.adapter.list(dir);
+      for (const filePath of listing.files) {
+        const stat = await this.app.vault.adapter.stat(filePath);
+        total += (_a = stat == null ? void 0 : stat.size) != null ? _a : 0;
+      }
+      for (const folder of listing.folders) {
+        total += await measure(folder);
+      }
+      return total;
+    };
+    try {
+      return await measure(this.historyRoot);
+    } catch (e) {
+      console.error("Failed to measure history usage:", e);
+      return 0;
+    }
+  }
+  /**
+   * Drop the oldest operations until the snapshot store fits within maxHistoryMB.
+   *
+   * The newest entry is always kept, even when it alone exceeds the budget: undoing the
+   * operation you just ran is the most valuable entry in the store, and silently making
+   * it unrevertible to satisfy a size cap would be the wrong trade.
+   */
+  async enforceHistoryDiskBudget() {
+    const budgetMb = this.settings.maxHistoryMB;
+    if (!budgetMb || budgetMb <= 0) return;
+    const budgetBytes = budgetMb * 1024 * 1024;
+    try {
+      let usage = await this.getHistoryDiskUsage();
+      while (usage > budgetBytes && this.settings.operationHistory.length > 1) {
+        const oldest = this.settings.operationHistory.pop();
+        if (!oldest) break;
+        await this.deleteExternalHistory(oldest.id);
+        usage = await this.getHistoryDiskUsage();
+      }
+    } catch (e) {
+      console.error("Failed to enforce history disk budget:", e);
+    }
+  }
+  /**
+   * Remove every snapshot, including any directory orphaned by an interrupted operation.
+   */
+  async clearAllHistory() {
+    try {
+      if (await this.app.vault.adapter.exists(this.historyRoot)) {
+        await this.app.vault.adapter.rmdir(this.historyRoot, true);
+      }
+    } catch (e) {
+      console.error("Failed to remove history directory:", e);
+    }
+    this.settings.operationHistory = [];
+    await this.saveSettings();
+  }
   async addToHistory(record) {
     const operationId = crypto.randomUUID();
     const fullRecord = {
@@ -700,12 +971,20 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
       useExternalStorage: true
     };
     try {
-      const historyDir = `${this.app.vault.configDir}/plugins/bulk-tag-manager/history/${operationId}`;
+      const historyDir = `${this.historyRoot}/${operationId}`;
       await this.app.vault.adapter.mkdir(historyDir);
+      const afterHashes = [];
       for (let i = 0; i < record.changes.length; i++) {
         const change = record.changes[i];
         await this.app.vault.adapter.write(`${historyDir}/${i}.before`, change.before);
-        await this.app.vault.adapter.write(`${historyDir}/${i}.after`, change.after);
+        const afterHash = await sha256Hex(change.after);
+        afterHashes.push(afterHash);
+        if (!afterHash) {
+          await this.app.vault.adapter.write(`${historyDir}/${i}.after`, change.after);
+        }
+      }
+      if (afterHashes.some((h) => h !== null)) {
+        await this.app.vault.adapter.write(`${historyDir}/hashes.json`, JSON.stringify(afterHashes));
       }
       const manifest = record.changes.map((c) => ({ path: c.path }));
       await this.app.vault.adapter.write(`${historyDir}/manifest.json`, JSON.stringify(manifest));
@@ -713,7 +992,7 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
       fullRecord.changes = [];
     } catch (e) {
       console.error("Failed to save external history snapshots:", e);
-      new import_obsidian.Notice("Warning: Failed to save history snapshots. This operation may not be reversible.");
+      new import_obsidian.Notice("Warning: failed to save history snapshots. This operation may not be reversible.");
       fullRecord.nonRevertible = true;
     }
     this.settings.operationHistory.unshift(fullRecord);
@@ -730,6 +1009,7 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
       totalSize = JSON.stringify(this.settings.operationHistory).length;
     }
     await this.purgeExpiredHistory();
+    await this.enforceHistoryDiskBudget();
     await this.saveSettings();
   }
   async purgeExpiredHistory() {
@@ -754,7 +1034,7 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
   }
   async deleteExternalHistory(id) {
     try {
-      const historyDir = `${this.app.vault.configDir}/plugins/bulk-tag-manager/history/${id}`;
+      const historyDir = `${this.historyRoot}/${id}`;
       if (await this.app.vault.adapter.exists(historyDir)) {
         await this.app.vault.adapter.rmdir(historyDir, true);
       }
@@ -775,7 +1055,7 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
       new import_obsidian.Notice("This operation cannot be reverted (snapshots missing).");
       return;
     }
-    const historyDir = `${this.app.vault.configDir}/plugins/bulk-tag-manager/history/${lastOp.id}`;
+    const historyDir = `${this.historyRoot}/${lastOp.id}`;
     let fileChanges = lastOp.changes;
     if (lastOp.useExternalManifest) {
       try {
@@ -783,7 +1063,7 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
         if (await this.app.vault.adapter.exists(manifestPath)) {
           fileChanges = JSON.parse(await this.app.vault.adapter.read(manifestPath));
         } else {
-          new import_obsidian.Notice("Critical error: History manifest missing.");
+          new import_obsidian.Notice("Critical error: history manifest missing.");
           return;
         }
       } catch (e) {
@@ -792,7 +1072,18 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
         return;
       }
     }
+    let afterHashes = [];
+    try {
+      const hashesPath = `${historyDir}/hashes.json`;
+      if (await this.app.vault.adapter.exists(hashesPath)) {
+        const parsed = JSON.parse(await this.app.vault.adapter.read(hashesPath));
+        if (Array.isArray(parsed)) afterHashes = parsed;
+      }
+    } catch (e) {
+      console.error("Failed to load history hashes:", e);
+    }
     this.isBulkOperationInProgress = true;
+    const skipped = [];
     for (let i = 0; i < fileChanges.length; i++) {
       const change = fileChanges[i];
       const file = this.app.vault.getAbstractFileByPath(change.path);
@@ -811,7 +1102,26 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
             beforeContent = (_a = change.before) != null ? _a : "";
           }
           if (beforeContent && beforeContent !== "(Snapshot omitted due to size)") {
-            await this.app.vault.modify(file, beforeContent);
+            if (lastOp.useExternalStorage) {
+              const expectedHash = afterHashes[i];
+              const afterPath = `${historyDir}/${i}.after`;
+              let editedSince = false;
+              if (typeof expectedHash === "string") {
+                const current = await sha256Hex(await this.app.vault.read(file));
+                editedSince = current !== null && current !== expectedHash;
+              } else if (await this.app.vault.adapter.exists(afterPath)) {
+                const expected = await this.app.vault.adapter.read(afterPath);
+                editedSince = await this.app.vault.read(file) !== expected;
+              }
+              if (editedSince) {
+                skipped.push({
+                  path: change.path,
+                  message: "Edited since the operation ran. Left untouched so the newer changes are not lost."
+                });
+                continue;
+              }
+            }
+            await this.app.vault.process(file, () => beforeContent);
             revertedCount++;
           }
         } catch (e) {
@@ -825,118 +1135,168 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
     }
     this.settings.operationHistory.shift();
     await this.saveSettings();
-    new import_obsidian.Notice(`Reverted ${revertedCount} files.`);
-  }
-  async standardiseProperties() {
-    const files = this.getFilteredFiles();
-    if (files.length === 0) {
-      new import_obsidian.Notice("No markdown files found in current scope.");
-      return;
+    if (skipped.length > 0) {
+      new import_obsidian.Notice(`Reverted ${revertedCount} files, skipped ${skipped.length}.`);
+      new BtmErrorReportModal(this.app, this, "Skipped during undo", skipped).open();
+    } else {
+      new import_obsidian.Notice(`Reverted ${revertedCount} files.`);
     }
-    new BtmConfirmationModal(
-      this.app,
-      "Clean Frontmatter Formatting",
-      `Are you sure you want to standardise properties across ${files.length} files? This will remove unnecessary quotes and trim whitespace from all fields.`,
-      async () => {
-        const progressModal = new ProgressModal(this.app, files.length);
-        progressModal.open();
+  }
+  /**
+   * Work out the expected type of each property.
+   *
+   * Obsidian's own type manager is authoritative when available. Failing that, infer from
+   * the vault: if most of a property's values are written bare as numbers, dates or
+   * booleans, that is what the property is, and the quoted stragglers are the mismatches.
+   */
+  async resolvePropertyTypes(files) {
+    var _a, _b, _c, _d;
+    const declared = getPropertyTypes(this.app);
+    if (Object.keys(declared).length > 0) return declared;
+    const tally = {};
+    for (const file of files) {
+      const frontmatter = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter;
+      if (!frontmatter) continue;
+      for (const [key, value] of Object.entries(frontmatter)) {
+        if (value === null || value === void 0 || Array.isArray(value)) continue;
+        let kind = "text";
+        if (typeof value === "number") kind = "number";
+        else if (typeof value === "boolean") kind = "checkbox";
+        else if (value instanceof Date) kind = "date";
+        const name = key.toLowerCase();
+        (_b = tally[name]) != null ? _b : tally[name] = {};
+        tally[name][kind] = ((_c = tally[name][kind]) != null ? _c : 0) + 1;
+      }
+    }
+    const inferred = {};
+    for (const [name, kinds] of Object.entries(tally)) {
+      const total = Object.values(kinds).reduce((a, b) => a + b, 0);
+      for (const kind of ["number", "checkbox", "date", "datetime"]) {
+        if (((_d = kinds[kind]) != null ? _d : 0) > total / 2) inferred[name] = kind;
+      }
+    }
+    return inferred;
+  }
+  /**
+   * Find frontmatter values that are quoted text where a non-text type is expected.
+   */
+  async findInvalidProperties() {
+    var _a, _b;
+    const files = this.getFilteredFiles();
+    const types = await this.resolvePropertyTypes(files);
+    if (Object.keys(types).length === 0) return [];
+    const issues = [];
+    for (const file of files) {
+      let content;
+      try {
+        content = await this.app.vault.cachedRead(file);
+      } catch (e) {
+        continue;
+      }
+      const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+      if (!match) continue;
+      const bodyLines = match[1].split(/\r?\n/);
+      for (let i = 0; i < bodyLines.length; i++) {
+        const entry = bodyLines[i].match(/^([^\s:][^:]*):[ \t]+(.+?)[ \t]*$/);
+        if (!entry) continue;
+        const property = entry[1].trim();
+        const written = entry[2];
+        const quoted = written.match(/^"([^"]*)"$|^'([^']*)'$/);
+        if (!quoted) continue;
+        const inner = (_b = (_a = quoted[1]) != null ? _a : quoted[2]) != null ? _b : "";
+        const expected = types[property.toLowerCase()];
+        if (!expected || !bareTextMatchesType(inner, expected)) continue;
+        issues.push({
+          path: file.path,
+          file,
+          property,
+          expectedType: expected,
+          lineIndex: i + 1,
+          // +1 for the opening "---"
+          currentValue: written,
+          fixedValue: inner
+        });
+      }
+    }
+    return issues;
+  }
+  /**
+   * Remove the quotes around the offending values.
+   *
+   * This edits the specific lines rather than going through processFrontMatter, because a
+   * frontmatter round-trip would reformat the rest of the note's properties as a side
+   * effect -- the exact behaviour this plugin now takes care to avoid.
+   */
+  async fixPropertyIssues(issues) {
+    var _a;
+    if (issues.length === 0) return 0;
+    const byFile = /* @__PURE__ */ new Map();
+    for (const issue of issues) {
+      const list = (_a = byFile.get(issue.path)) != null ? _a : [];
+      list.push(issue);
+      byFile.set(issue.path, list);
+    }
+    const changes = [];
+    this.isBulkOperationInProgress = true;
+    try {
+      for (const [path, fileIssues] of byFile) {
+        const file = this.app.vault.getAbstractFileByPath(path);
+        if (!(file instanceof import_obsidian.TFile)) continue;
         try {
-          this.isBulkOperationInProgress = true;
-          let attemptCount = 0;
-          const changes = [];
-          const errors = [];
-          for (const file of files) {
-            attemptCount++;
-            try {
-              const before = await this.app.vault.read(file);
-              await this.app.fileManager.processFrontMatter(file, (fm) => {
-                if (!isRecord(fm)) return;
-                const processValue = (val) => {
-                  if (typeof val === "string") return val.trim();
-                  if (Array.isArray(val)) return val.map((v) => processValue(v));
-                  if (isRecord(val) && !(val instanceof Date)) {
-                    for (const k in val) val[k] = processValue(val[k]);
-                  }
-                  return val;
-                };
-                for (const key of Object.keys(fm)) {
-                  fm[key] = processValue(fm[key]);
-                }
-              });
-              const after = await this.app.vault.read(file);
-              if (before !== after) {
-                changes.push({ path: file.path, before, after });
-              }
-            } catch (e) {
-              const errorMsg = e instanceof Error ? e.message : String(e);
-              console.error(`Standardise failed for ${file.path}:`, errorMsg);
-              errors.push({ path: file.path, message: errorMsg });
+          let before = "";
+          let after = "";
+          await this.app.vault.process(file, (data) => {
+            before = data;
+            const lines = data.split("\n");
+            for (const issue of fileIssues) {
+              const line = lines[issue.lineIndex];
+              if (line === void 0) continue;
+              const expectedLine = `${issue.property}:`;
+              if (!line.startsWith(expectedLine) || !line.includes(issue.currentValue)) continue;
+              lines[issue.lineIndex] = line.replace(issue.currentValue, issue.fixedValue);
             }
-            if (attemptCount % 50 === 0) {
-              progressModal.update(attemptCount);
-              await new Promise((resolve) => window.setTimeout(resolve, 5));
-            } else {
-              progressModal.update(attemptCount);
-            }
-          }
-          if (changes.length > 0) {
-            await this.addToHistory({
-              type: "standardise-properties",
-              description: `Clean frontmatter formatting (${changes.length} files)`,
-              changes
-            });
-          }
-          new import_obsidian.Notice(
-            `Finished: ${changes.length} files changed. ${errors.length > 0 ? `(${errors.length} skipped due to errors)` : ""}`
-          );
-          if (errors.length > 0) {
-            new BtmErrorReportModal(this.app, this, "Standardise Errors", errors).open();
-          }
-        } finally {
-          this.isBulkOperationInProgress = false;
-          progressModal.close();
+            after = lines.join("\n");
+            return after;
+          });
+          if (before !== after) changes.push({ path, before, after });
+        } catch (e) {
+          console.error(`Failed to fix properties in ${path}:`, e);
         }
       }
-    ).open();
-  }
-  async fixInvalidMappingError(file) {
-    const before = await this.app.vault.read(file);
-    const fmMatch = before.match(/^---\n([\s\S]*?)\n---/);
-    if (!fmMatch) return;
-    const originalFm = fmMatch[1];
-    const lines = originalFm.split("\n");
-    let isModified = false;
-    const fixedLines = lines.map((line) => {
-      const match = line.match(/^([\w\s_-]+):\s*(?!["'[{>|])(.*:\s.*)$/);
-      if (match) {
-        const key = match[1];
-        let value = match[2];
-        value = value.replace(/"/g, '\\"');
-        isModified = true;
-        return `${key}: "${value}"`;
-      }
-      return line;
-    });
-    if (isModified) {
-      const newFm = fixedLines.join("\n");
-      const fmStartIdx = before.indexOf("---\n") + 4;
-      const fmEndIdx = before.indexOf("\n---", fmStartIdx);
-      if (before.indexOf("---\n") === -1 || fmEndIdx === -1) return;
-      const newContent = before.substring(0, fmStartIdx) + newFm + before.substring(fmEndIdx);
-      await this.app.vault.modify(file, newContent);
+    } finally {
+      this.isBulkOperationInProgress = false;
+    }
+    if (changes.length > 0) {
       await this.addToHistory({
-        type: "fix-invalid-mapping",
-        description: `Fix invalid frontmatter mapping (${file.path})`,
-        changes: [{ path: file.path, before, after: newContent }]
+        type: "fix-property-types",
+        description: `Fix property types (${changes.length} files)`,
+        changes
       });
     }
+    return changes.length;
+  }
+  async fixInvalidMappingError(file) {
+    if (fixFrontmatterMapping(await this.app.vault.read(file)) === null) return;
+    let before = "";
+    let after = null;
+    await this.app.vault.process(file, (data) => {
+      before = data;
+      after = fixFrontmatterMapping(data);
+      return after != null ? after : data;
+    });
+    if (after === null) return;
+    await this.addToHistory({
+      type: "fix-invalid-mapping",
+      description: `Fix invalid frontmatter mapping (${file.path})`,
+      changes: [{ path: file.path, before, after }]
+    });
   }
   // --- Preview System ---
   async previewConversion() {
     const files = this.getFilteredFiles();
     const affectedFiles = [];
     for (const file of files) {
-      const content = await this.app.vault.read(file);
+      const content = await this.app.vault.cachedRead(file);
       const codeBlockRanges = this.getCodeBlockRanges(content);
       const fmMatch = content.match(/^---\n[\s\S]*?\n---/);
       const skipStart = fmMatch ? fmMatch[0].length : 0;
@@ -1070,7 +1430,7 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
     }
   }
   async generateTagList() {
-    const tags = this.app.metadataCache.getTags();
+    const tags = getVaultTags(this.app);
     if (!tags || Object.keys(tags).length === 0) {
       new import_obsidian.Notice("No tags found in vault.");
       return;
@@ -1078,17 +1438,41 @@ var TagLowercasePlugin = class extends import_obsidian.Plugin {
     const sortedTags = Object.keys(tags).sort((a, b) => a.localeCompare(b));
     const fileContent = `# All Tags
 
-${sortedTags.join("\n")}
+${sortedTags.map((t) => `\`${t}\` (${tags[t]})`).join("\n")}
 `;
     const fileName = "All Tags.md";
+    const existingFile = this.app.vault.getAbstractFileByPath(fileName);
+    if (existingFile instanceof import_obsidian.TFile) {
+      const before = await this.app.vault.read(existingFile);
+      if (before === fileContent) {
+        new import_obsidian.Notice("Tag list is already up to date.");
+        return;
+      }
+      new BtmConfirmationModal(
+        this.app,
+        "Overwrite tag list?",
+        `"${fileName}" already exists. Its current contents will be replaced, and saved to undo history first.`,
+        () => this.writeTagList(existingFile, fileName, fileContent, sortedTags.length, before)
+      ).open();
+      return;
+    }
+    await this.writeTagList(null, fileName, fileContent, sortedTags.length, null);
+  }
+  async writeTagList(existingFile, fileName, fileContent, tagCount, before) {
     try {
-      const existingFile = this.app.vault.getAbstractFileByPath(fileName);
-      if (existingFile instanceof import_obsidian.TFile) {
-        await this.app.vault.modify(existingFile, fileContent);
+      if (existingFile) {
+        await this.app.vault.process(existingFile, () => fileContent);
       } else {
         await this.app.vault.create(fileName, fileContent);
       }
-      new import_obsidian.Notice(`Created "${fileName}" with ${sortedTags.length} tags.`);
+      if (before !== null) {
+        await this.addToHistory({
+          type: "generate-tag-list",
+          description: `Overwrite tag list (${fileName})`,
+          changes: [{ path: fileName, before, after: fileContent }]
+        });
+      }
+      new import_obsidian.Notice(`Created "${fileName}" with ${tagCount} tags.`);
     } catch (e) {
       console.error("Failed to create tag list:", e);
       new import_obsidian.Notice("Failed to create tag list file.");
@@ -1189,7 +1573,7 @@ ${sortedTags.join("\n")}
     );
     const matchingFiles = [];
     for (const file of files) {
-      const content = await this.app.vault.read(file);
+      const content = await this.app.vault.cachedRead(file);
       const cache = this.app.metadataCache.getFileCache(file);
       let hasFrontmatterTag = false;
       if ((_a = cache == null ? void 0 : cache.frontmatter) == null ? void 0 : _a.tags) {
@@ -1244,43 +1628,26 @@ ${sortedTags.join("\n")}
             }
             return t;
           };
-          if (fm.tags) {
-            if (Array.isArray(fm.tags)) {
-              const newTags = fm.tags.map(processSingleTag);
-              if (newTags.some((t, i) => t !== fm.tags[i])) {
-                fm.tags = newTags;
-              }
-            } else if (typeof fm.tags === "string") {
-              const newTag2 = processSingleTag(fm.tags);
-              if (newTag2 !== fm.tags) fm.tags = newTag2;
-            }
-          }
-          if (fm.tag) {
-            if (Array.isArray(fm.tag)) {
-              const newTags = fm.tag.map(processSingleTag);
-              if (newTags.some((t, i) => t !== fm.tag[i])) {
-                fm.tag = newTags;
-              }
-            } else if (typeof fm.tag === "string") {
-              const newTag2 = processSingleTag(fm.tag);
-              if (newTag2 !== fm.tag) fm.tag = newTag2;
-            }
-          }
+          applyToTagField(fm, "tags", processSingleTag);
+          applyToTagField(fm, "tag", processSingleTag);
         });
         let after = before;
         await this.app.vault.process(file, (data) => {
           const codeBlockRanges = this.getCodeBlockRanges(data);
-          const newData = data.replace(tagRegex, (m, prefix, hash, captured, offset) => {
-            if (this.isInCodeBlockRange(offset, codeBlockRanges)) return m;
-            if (this.isTagProtected(captured)) return m;
-            modified = true;
-            if (captured === search) {
-              return prefix + hash + replace;
-            } else if (captured.startsWith(search + "/")) {
-              return prefix + hash + replace + captured.substring(search.length);
+          const newData = data.replace(
+            tagRegex,
+            (m, prefix, hash, captured, offset) => {
+              if (this.isInCodeBlockRange(offset, codeBlockRanges)) return m;
+              if (this.isTagProtected(captured)) return m;
+              modified = true;
+              if (captured === search) {
+                return prefix + hash + replace;
+              } else if (captured.startsWith(search + "/")) {
+                return prefix + hash + replace + captured.substring(search.length);
+              }
+              return m;
             }
-            return m;
-          });
+          );
           tagRegex.lastIndex = 0;
           after = newData;
           return newData;
@@ -1377,6 +1744,11 @@ ${sortedTags.join("\n")}
       try {
         const before = await this.app.vault.read(file);
         let modified = false;
+        if (!this.fileMayContainTags(file, before, sourcesClean, tagRegex)) {
+          processedCount++;
+          progressModal.update(processedCount);
+          continue;
+        }
         await this.app.fileManager.processFrontMatter(file, (fm) => {
           const processSingleTag = (t) => {
             if (typeof t !== "string") return t;
@@ -1396,53 +1768,30 @@ ${sortedTags.join("\n")}
             }
             return t;
           };
-          const handleTagKey = (key) => {
-            if (fm[key]) {
-              if (Array.isArray(fm[key])) {
-                const newTags = fm[key].map(processSingleTag);
-                const uniqueTags = [];
-                const seen = /* @__PURE__ */ new Set();
-                for (const t of newTags) {
-                  const clean = typeof t === "string" && t.startsWith("#") ? t.substring(1) : t;
-                  if (!seen.has(clean)) {
-                    seen.add(clean);
-                    uniqueTags.push(t);
-                  }
-                }
-                if (uniqueTags.length !== fm[key].length || uniqueTags.some((t, i) => t !== fm[key][i])) {
-                  fm[key] = uniqueTags;
-                  modified = true;
-                }
-              } else if (typeof fm[key] === "string") {
-                const newTag = processSingleTag(fm[key]);
-                if (newTag !== fm[key]) {
-                  fm[key] = newTag;
-                  modified = true;
-                }
-              }
-            }
-          };
-          handleTagKey("tags");
-          handleTagKey("tag");
+          if (applyToTagFieldWithDedup(fm, "tags", processSingleTag)) modified = true;
+          if (applyToTagFieldWithDedup(fm, "tag", processSingleTag)) modified = true;
         });
         let after = before;
         await this.app.vault.process(file, (data) => {
           const codeBlockRanges = this.getCodeBlockRanges(data);
-          let newData = data.replace(tagRegex, (match, prefix, hash, capturedTag, offset) => {
-            if (this.isInCodeBlockRange(offset, codeBlockRanges)) return match;
-            if (this.isTagProtected(capturedTag)) return match;
-            for (const source of sourcesClean) {
-              if (capturedTag === source || capturedTag.startsWith(source + "/")) {
-                modified = true;
-                if (capturedTag === source) {
-                  return prefix + hash + targetClean;
-                } else {
-                  return prefix + hash + targetClean + capturedTag.substring(source.length);
+          let newData = data.replace(
+            tagRegex,
+            (match, prefix, hash, capturedTag, offset) => {
+              if (this.isInCodeBlockRange(offset, codeBlockRanges)) return match;
+              if (this.isTagProtected(capturedTag)) return match;
+              for (const source of sourcesClean) {
+                if (capturedTag === source || capturedTag.startsWith(source + "/")) {
+                  modified = true;
+                  if (capturedTag === source) {
+                    return prefix + hash + targetClean;
+                  } else {
+                    return prefix + hash + targetClean + capturedTag.substring(source.length);
+                  }
                 }
               }
+              return match;
             }
-            return match;
-          });
+          );
           if (modified) {
             const targetTagEscaped = escapeRegExp(targetClean);
             const duoRegex = new RegExp(
@@ -1480,7 +1829,7 @@ ${sortedTags.join("\n")}
       });
       new import_obsidian.Notice(`Merged ${sourcesClean.length} tags into #${targetClean}. ${changes.length} files changed.`);
     } else {
-      new import_obsidian.Notice(`No files were modified. (Tags might not exist in the current scope)`);
+      new import_obsidian.Notice(`No files were modified. Tags might not exist in the current scope.`);
     }
   }
   async nestTags(parent, children) {
@@ -1574,6 +1923,11 @@ ${sortedTags.join("\n")}
       try {
         const before = await this.app.vault.read(file);
         let modified = false;
+        if (!this.fileMayContainTags(file, before, toNest, tagRegex)) {
+          processedCount++;
+          progressModal.update(processedCount);
+          continue;
+        }
         await this.app.fileManager.processFrontMatter(file, (fm) => {
           const processSingleTag = (t) => {
             if (typeof t !== "string") return t;
@@ -1593,55 +1947,33 @@ ${sortedTags.join("\n")}
             }
             return t;
           };
-          const handleTagKey = (key) => {
-            if (!fm[key]) return;
-            if (Array.isArray(fm[key])) {
-              const newTags = fm[key].map(processSingleTag);
-              const uniqueTags = [];
-              const seen = /* @__PURE__ */ new Set();
-              for (const t of newTags) {
-                const clean = typeof t === "string" && t.startsWith("#") ? t.substring(1) : t;
-                if (!seen.has(clean)) {
-                  seen.add(clean);
-                  uniqueTags.push(t);
-                }
-              }
-              if (uniqueTags.length !== fm[key].length || uniqueTags.some((t, i) => t !== fm[key][i])) {
-                fm[key] = uniqueTags;
-                modified = true;
-              }
-            } else if (typeof fm[key] === "string") {
-              const newTag = processSingleTag(fm[key]);
-              if (newTag !== fm[key]) {
-                fm[key] = newTag;
-                modified = true;
-              }
-            }
-          };
-          handleTagKey("tags");
-          handleTagKey("tag");
+          if (applyToTagFieldWithDedup(fm, "tags", processSingleTag)) modified = true;
+          if (applyToTagFieldWithDedup(fm, "tag", processSingleTag)) modified = true;
         });
         let after = before;
         await this.app.vault.process(file, (data) => {
           const codeBlockRanges = this.getCodeBlockRanges(data);
           const fmMatch = data.match(/^---\n[\s\S]*?\n---/);
           const skipStart = fmMatch ? fmMatch[0].length : 0;
-          const newData = data.replace(tagRegex, (match, prefix, hash, capturedTag, offset) => {
-            if (offset < skipStart) return match;
-            if (this.isInCodeBlockRange(offset, codeBlockRanges)) return match;
-            if (this.isTagProtected(capturedTag)) return match;
-            for (const [child, nested] of renameMap) {
-              if (capturedTag === child) {
-                modified = true;
-                return prefix + hash + nested;
+          const newData = data.replace(
+            tagRegex,
+            (match, prefix, hash, capturedTag, offset) => {
+              if (offset < skipStart) return match;
+              if (this.isInCodeBlockRange(offset, codeBlockRanges)) return match;
+              if (this.isTagProtected(capturedTag)) return match;
+              for (const [child, nested] of renameMap) {
+                if (capturedTag === child) {
+                  modified = true;
+                  return prefix + hash + nested;
+                }
+                if (capturedTag.startsWith(child + "/")) {
+                  modified = true;
+                  return prefix + hash + nested + capturedTag.substring(child.length);
+                }
               }
-              if (capturedTag.startsWith(child + "/")) {
-                modified = true;
-                return prefix + hash + nested + capturedTag.substring(child.length);
-              }
+              return match;
             }
-            return match;
-          });
+          );
           tagRegex.lastIndex = 0;
           after = newData;
           return newData;
@@ -1667,7 +1999,7 @@ ${sortedTags.join("\n")}
       });
       new import_obsidian.Notice(`Nested ${toNest.length} tags under #${parentClean}. ${changes.length} files changed.`);
     } else {
-      new import_obsidian.Notice(`No files were modified. (Tags might not exist in the current scope)`);
+      new import_obsidian.Notice(`No files were modified. Tags might not exist in the current scope.`);
     }
   }
   async renameTagBatch(pairs) {
@@ -1747,6 +2079,11 @@ ${sortedTags.join("\n")}
       try {
         const before = await this.app.vault.read(file);
         let modified = false;
+        if (!this.fileMayContainTags(file, before, Array.from(renameMap.keys()), tagRegex)) {
+          processedCount++;
+          progressModal.update(processedCount);
+          continue;
+        }
         await this.app.fileManager.processFrontMatter(file, (fm) => {
           const processSingleTag = (t) => {
             if (typeof t !== "string") return t;
@@ -1765,55 +2102,33 @@ ${sortedTags.join("\n")}
             }
             return t;
           };
-          const handleTagKey = (key) => {
-            if (!fm[key]) return;
-            if (Array.isArray(fm[key])) {
-              const newTags = fm[key].map(processSingleTag);
-              const uniqueTags = [];
-              const seen = /* @__PURE__ */ new Set();
-              for (const t of newTags) {
-                const clean = typeof t === "string" && t.startsWith("#") ? t.substring(1) : t;
-                if (!seen.has(clean)) {
-                  seen.add(clean);
-                  uniqueTags.push(t);
-                }
-              }
-              if (uniqueTags.length !== fm[key].length || uniqueTags.some((t, i) => t !== fm[key][i])) {
-                fm[key] = uniqueTags;
-                modified = true;
-              }
-            } else if (typeof fm[key] === "string") {
-              const n = processSingleTag(fm[key]);
-              if (n !== fm[key]) {
-                fm[key] = n;
-                modified = true;
-              }
-            }
-          };
-          handleTagKey("tags");
-          handleTagKey("tag");
+          if (applyToTagFieldWithDedup(fm, "tags", processSingleTag)) modified = true;
+          if (applyToTagFieldWithDedup(fm, "tag", processSingleTag)) modified = true;
         });
         let after = before;
         await this.app.vault.process(file, (data) => {
           const codeBlockRanges = this.getCodeBlockRanges(data);
           const fmMatch = data.match(/^---\n[\s\S]*?\n---/);
           const skipStart = fmMatch ? fmMatch[0].length : 0;
-          const newData = data.replace(tagRegex, (match, prefix, hash, capturedTag, offset) => {
-            if (offset < skipStart) return match;
-            if (this.isInCodeBlockRange(offset, codeBlockRanges)) return match;
-            if (this.isTagProtected(capturedTag)) return match;
-            for (const [from, to] of renameMap) {
-              if (capturedTag === from) {
-                modified = true;
-                return prefix + hash + to;
+          const newData = data.replace(
+            tagRegex,
+            (match, prefix, hash, capturedTag, offset) => {
+              if (offset < skipStart) return match;
+              if (this.isInCodeBlockRange(offset, codeBlockRanges)) return match;
+              if (this.isTagProtected(capturedTag)) return match;
+              for (const [from, to] of renameMap) {
+                if (capturedTag === from) {
+                  modified = true;
+                  return prefix + hash + to;
+                }
+                if (capturedTag.startsWith(from + "/")) {
+                  modified = true;
+                  return prefix + hash + to + capturedTag.substring(from.length);
+                }
               }
-              if (capturedTag.startsWith(from + "/")) {
-                modified = true;
-                return prefix + hash + to + capturedTag.substring(from.length);
-              }
+              return match;
             }
-            return match;
-          });
+          );
           tagRegex.lastIndex = 0;
           after = newData;
           return newData;
@@ -1866,36 +2181,35 @@ ${sortedTags.join("\n")}
       try {
         const before = await this.app.vault.read(file);
         let modified = false;
+        if (!this.fileMayContainTags(file, before, deletableTags, tagRegex)) {
+          processedCount++;
+          progressModal.update(processedCount);
+          continue;
+        }
         await this.app.fileManager.processFrontMatter(file, (fm) => {
           const shouldDelete = (t) => {
+            if (typeof t !== "string") return false;
             const raw = t.startsWith("#") ? t.substring(1) : t;
             if (this.isTagProtected(raw)) return false;
             return deletableTags.some((del) => raw === del || raw.startsWith(del + "/"));
           };
-          if (fm.tags) {
-            if (Array.isArray(fm.tags)) {
-              const originalLen = fm.tags.length;
-              fm.tags = fm.tags.filter((t) => !shouldDelete(t));
-              if (fm.tags.length !== originalLen) modified = true;
-            } else if (typeof fm.tags === "string") {
-              if (shouldDelete(fm.tags)) {
-                delete fm.tags;
+          const removeFromTagField = (key) => {
+            const current = fm[key];
+            if (!current) return;
+            if (Array.isArray(current)) {
+              const list = current;
+              const kept = list.filter((t) => !shouldDelete(t));
+              if (kept.length !== list.length) {
+                fm[key] = kept;
                 modified = true;
               }
+            } else if (typeof current === "string" && shouldDelete(current)) {
+              delete fm[key];
+              modified = true;
             }
-          }
-          if (fm.tag) {
-            if (Array.isArray(fm.tag)) {
-              const originalLen = fm.tag.length;
-              fm.tag = fm.tag.filter((t) => !shouldDelete(t));
-              if (fm.tag.length !== originalLen) modified = true;
-            } else if (typeof fm.tag === "string") {
-              if (shouldDelete(fm.tag)) {
-                delete fm.tag;
-                modified = true;
-              }
-            }
-          }
+          };
+          removeFromTagField("tags");
+          removeFromTagField("tag");
         });
         let after = before;
         await this.app.vault.process(file, (data) => {
@@ -1959,6 +2273,11 @@ ${sortedTags.join("\n")}
       try {
         const before = await this.app.vault.read(file);
         let after = before;
+        if (!this.fileMayMatchTagPattern(file, before, regex, replacement)) {
+          processedCount++;
+          progressModal.update(processedCount);
+          continue;
+        }
         await this.app.fileManager.processFrontMatter(file, (fm) => {
           const processSingleTag = (t) => {
             if (typeof t !== "string") return t;
@@ -1970,41 +2289,28 @@ ${sortedTags.join("\n")}
             if (newRaw !== raw) return hasHash ? "#" + newRaw : newRaw;
             return t;
           };
-          if (fm.tags) {
-            if (Array.isArray(fm.tags)) {
-              const newTags = fm.tags.map(processSingleTag);
-              if (newTags.some((t, i) => t !== fm.tags[i])) fm.tags = newTags;
-            } else if (typeof fm.tags === "string") {
-              const newTag = processSingleTag(fm.tags);
-              if (newTag !== fm.tags) fm.tags = newTag;
-            }
-          }
-          if (fm.tag) {
-            if (Array.isArray(fm.tag)) {
-              const newTags = fm.tag.map(processSingleTag);
-              if (newTags.some((t, i) => t !== fm.tag[i])) fm.tag = newTags;
-            } else if (typeof fm.tag === "string") {
-              const newTag = processSingleTag(fm.tag);
-              if (newTag !== fm.tag) fm.tag = newTag;
-            }
-          }
+          applyToTagField(fm, "tags", processSingleTag);
+          applyToTagField(fm, "tag", processSingleTag);
         });
         await this.app.vault.process(file, (data) => {
           const codeBlockRanges = this.getCodeBlockRanges(data);
           const fmMatch = data.match(/^---\n[\s\S]*?\n---/);
           const skipStart = fmMatch ? fmMatch[0].length : 0;
-          const newData = data.replace(TAG_REGEX, (fullMatch, prefix, tag, offset) => {
-            if (offset < skipStart) return fullMatch;
-            if (this.isInCodeBlockRange(offset, codeBlockRanges)) return fullMatch;
-            if (this.isTagProtected(tag)) return fullMatch;
-            regex.lastIndex = 0;
-            const clean = tag.substring(1);
-            const newTag = clean.replace(regex, replacement);
-            if (newTag !== clean) {
-              return prefix + "#" + newTag;
+          const newData = data.replace(
+            TAG_REGEX,
+            (fullMatch, prefix, tag, offset) => {
+              if (offset < skipStart) return fullMatch;
+              if (this.isInCodeBlockRange(offset, codeBlockRanges)) return fullMatch;
+              if (this.isTagProtected(tag)) return fullMatch;
+              regex.lastIndex = 0;
+              const clean = tag.substring(1);
+              const newTag = clean.replace(regex, replacement);
+              if (newTag !== clean) {
+                return prefix + "#" + newTag;
+              }
+              return fullMatch;
             }
-            return fullMatch;
-          });
+          );
           after = newData;
           return newData;
         });
@@ -2032,7 +2338,7 @@ ${sortedTags.join("\n")}
   }
   // --- Tag Analysis ---
   getTagHierarchy() {
-    const tags = this.app.metadataCache.getTags();
+    const tags = getVaultTags(this.app);
     const root = [];
     for (const tag of Object.keys(tags)) {
       const count = tags[tag];
@@ -2065,7 +2371,7 @@ ${sortedTags.join("\n")}
     return root;
   }
   findOrphanedTags() {
-    const tags = this.app.metadataCache.getTags();
+    const tags = getVaultTags(this.app);
     return Object.keys(tags).map((tag) => ({ tag, count: tags[tag] })).filter(({ count }) => count < this.settings.orphanThreshold).sort((a, b) => a.count - b.count);
   }
   async analyzeTagStandardization(files) {
@@ -2285,7 +2591,7 @@ ${sortedTags.join("\n")}
     const inconsistentSep = stats.separatorStats.both.length;
     stats.separatorStats.consistency = totalTags > 0 ? Math.min(100, Math.round(dominantSep / (totalTags - inconsistentSep || 1) * 100)) : 100;
     stats.specialCharStats.consistency = totalTags > 0 ? Math.round(stats.specialCharStats.clean.length / totalTags * 100) : 100;
-    const globalTags = this.app.metadataCache.getTags();
+    const globalTags = getVaultTags(this.app);
     const caseGroups = /* @__PURE__ */ new Map();
     tags.forEach((tag) => {
       var _a;
@@ -2349,7 +2655,8 @@ ${sortedTags.join("\n")}
             if (err) issues.push(err);
           } else if (Array.isArray(value)) {
             value.forEach((t) => {
-              const tagStr = String(t);
+              if (typeof t !== "string") return;
+              const tagStr = t;
               const clean = tagStr.startsWith("#") ? tagStr.substring(1) : tagStr;
               if (seenInFM.has(clean)) {
                 issues.push({
@@ -2619,8 +2926,16 @@ ${sortedTags.join("\n")}
   // --- Aliases ---
   async applyAliases(file) {
     const aliases = this.settings.aliases;
-    if (Object.keys(aliases).length === 0) return;
-    let modified = false;
+    const aliasKeys = Object.keys(aliases);
+    if (aliasKeys.length === 0) return;
+    const escapeAlias = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const aliasProbe = new RegExp(
+      `(^|\\s)(#)(?:${aliasKeys.map(escapeAlias).join("|")})(?=[\\s/]|$|[^\\p{L}\\p{N}_-])`,
+      "gu"
+    );
+    if (!this.fileMayContainTags(file, await this.app.vault.cachedRead(file), aliasKeys, aliasProbe)) {
+      return;
+    }
     await this.app.fileManager.processFrontMatter(file, (fm) => {
       const processSingleTag = (t) => {
         if (typeof t !== "string") return t;
@@ -2628,36 +2943,18 @@ ${sortedTags.join("\n")}
         const raw = hasHash ? t.substring(1) : t;
         if (this.isTagProtected(raw)) return t;
         if (aliases[raw]) {
-          modified = true;
           return hasHash ? "#" + aliases[raw] : aliases[raw];
         }
         for (const [aliasKey, aliasValue] of Object.entries(aliases)) {
           if (raw.startsWith(aliasKey + "/")) {
-            modified = true;
             const newRaw = aliasValue + raw.substring(aliasKey.length);
             return hasHash ? "#" + newRaw : newRaw;
           }
         }
         return t;
       };
-      if (fm.tags) {
-        if (Array.isArray(fm.tags)) {
-          const newTags = fm.tags.map(processSingleTag);
-          if (newTags.some((t, i) => t !== fm.tags[i])) fm.tags = newTags;
-        } else if (typeof fm.tags === "string") {
-          const newTag = processSingleTag(fm.tags);
-          if (newTag !== fm.tags) fm.tags = newTag;
-        }
-      }
-      if (fm.tag) {
-        if (Array.isArray(fm.tag)) {
-          const newTags = fm.tag.map(processSingleTag);
-          if (newTags.some((t, i) => t !== fm.tag[i])) fm.tag = newTags;
-        } else if (typeof fm.tag === "string") {
-          const newTag = processSingleTag(fm.tag);
-          if (newTag !== fm.tag) fm.tag = newTag;
-        }
-      }
+      applyToTagField(fm, "tags", processSingleTag);
+      applyToTagField(fm, "tag", processSingleTag);
     });
     await this.app.vault.process(file, (data) => {
       const codeBlockRanges = this.getCodeBlockRanges(data);
@@ -2665,12 +2962,14 @@ ${sortedTags.join("\n")}
       for (const [alias, canonical] of Object.entries(aliases)) {
         const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
         const regex = new RegExp(`(^|\\s)(#)(${escapeRegExp(alias)})(?=[\\s\\/]|$|[^\\p{L}\\p{N}_-])`, "gu");
-        result = result.replace(regex, (m, prefix, hash, captured, offset) => {
-          if (this.isInCodeBlockRange(offset, codeBlockRanges)) return m;
-          if (this.isTagProtected(captured)) return m;
-          modified = true;
-          return prefix + hash + canonical;
-        });
+        result = result.replace(
+          regex,
+          (m, prefix, hash, captured, offset) => {
+            if (this.isInCodeBlockRange(offset, codeBlockRanges)) return m;
+            if (this.isTagProtected(captured)) return m;
+            return prefix + hash + canonical;
+          }
+        );
       }
       return result;
     });
@@ -2688,28 +2987,8 @@ ${sortedTags.join("\n")}
         const converted = this.convertTagContent(clean, overrides);
         return hasHash ? "#" + converted : converted;
       };
-      if (fm.tags) {
-        if (Array.isArray(fm.tags)) {
-          const newTags = fm.tags.map(processSingleTag);
-          if (newTags.some((t, i) => t !== fm.tags[i])) {
-            fm.tags = newTags;
-          }
-        } else if (typeof fm.tags === "string") {
-          const newTag = processSingleTag(fm.tags);
-          if (newTag !== fm.tags) fm.tags = newTag;
-        }
-      }
-      if (fm.tag) {
-        if (Array.isArray(fm.tag)) {
-          const newTags = fm.tag.map(processSingleTag);
-          if (newTags.some((t, i) => t !== fm.tag[i])) {
-            fm.tag = newTags;
-          }
-        } else if (typeof fm.tag === "string") {
-          const newTag = processSingleTag(fm.tag);
-          if (newTag !== fm.tag) fm.tag = newTag;
-        }
-      }
+      applyToTagField(fm, "tags", processSingleTag);
+      applyToTagField(fm, "tag", processSingleTag);
     });
     await this.app.vault.process(file, (data) => {
       const codeBlockRanges = this.getCodeBlockRanges(data);
@@ -2796,7 +3075,7 @@ ${sortedTags.join("\n")}
     }
   }
   getAllTags() {
-    const tags = this.app.metadataCache.getTags();
+    const tags = getVaultTags(this.app);
     return Object.keys(tags).map((t) => t.substring(1)).sort();
   }
 };
@@ -2808,6 +3087,7 @@ var ProgressModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-progress-modal");
     new import_obsidian.Setting(contentEl).setName("Processing...").setHeading();
     const container = contentEl.createDiv({ cls: "btm-progress-container" });
@@ -2835,6 +3115,7 @@ var PreviewModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-wide");
     contentEl.addClass("btm-preview-modal");
     new import_obsidian.Setting(contentEl).setName("Preview changes").setHeading();
     contentEl.createEl("p", {
@@ -2842,7 +3123,7 @@ var PreviewModal = class extends import_obsidian.Modal {
     });
     contentEl.createEl("p", {
       cls: "btm-preview-warning",
-      text: "Note: Detailed line diffs for frontmatter tags are not shown, but they will be standardized."
+      text: "Note: detailed line diffs for frontmatter tags are not shown, but they will be standardized."
     });
     const listEl = contentEl.createDiv({ cls: "btm-preview-list" });
     for (const file of this.preview.affectedFiles) {
@@ -2899,6 +3180,7 @@ var HistoryModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-history-modal");
     new import_obsidian.Setting(contentEl).setName("Operation history").setHeading();
     if (this.plugin.settings.historyExpirationDays > 0) {
@@ -2982,6 +3264,7 @@ var TagHierarchyModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-wide");
     contentEl.addClass("btm-hierarchy-modal");
     new import_obsidian.Setting(contentEl).setName("Nested tags").setHeading();
     this.hierarchy = this.plugin.getTagHierarchy().filter((n) => n.children.length > 0);
@@ -3139,6 +3422,101 @@ var TagHierarchyModal = class extends import_obsidian.Modal {
     this.contentEl.empty();
   }
 };
+var InvalidPropertiesModal = class extends import_obsidian.Modal {
+  constructor(app, plugin, issues, onDone) {
+    super(app);
+    this.plugin = plugin;
+    this.issues = issues;
+    this.onDone = onDone;
+  }
+  onOpen() {
+    var _a;
+    const { contentEl } = this;
+    contentEl.empty();
+    contentEl.addClass("btm-invalid-modal");
+    this.modalEl.addClass("btm-modal-wide");
+    const byProperty = /* @__PURE__ */ new Map();
+    for (const issue of this.issues) {
+      const list = (_a = byProperty.get(issue.property)) != null ? _a : [];
+      list.push(issue);
+      byProperty.set(issue.property, list);
+    }
+    new import_obsidian.Setting(contentEl).setName("Properties with a type mismatch").setDesc(
+      `${this.issues.length} value${this.issues.length === 1 ? "" : "s"} across ${new Set(this.issues.map((i) => i.path)).size} notes are quoted, so Obsidian reads them as text. Removing the quotes restores the expected type.`
+    ).setHeading();
+    const listEl = contentEl.createDiv({ cls: "btm-file-list" });
+    for (const [property, group] of byProperty) {
+      const groupEl = listEl.createDiv({ cls: "btm-file-item" });
+      groupEl.createDiv({
+        cls: "btm-file-error-text",
+        text: `${property} \u2014 expected ${group[0].expectedType}, ${group.length} note${group.length === 1 ? "" : "s"} store it as text`
+      });
+      const sample = group[0];
+      groupEl.createDiv({
+        cls: "btm-invalid-mini-item",
+        text: `${sample.property}: ${sample.currentValue}   \u2192   ${sample.property}: ${sample.fixedValue}`
+      });
+      const actions = groupEl.createDiv({ cls: "btm-button-row btm-button-row-start" });
+      const fixGroupBtn = actions.createEl("button", {
+        text: `Fix these ${group.length}`,
+        cls: "mod-cta btm-small-btn"
+      });
+      fixGroupBtn.onclick = () => {
+        runAsync(async () => {
+          const n = await this.plugin.fixPropertyIssues(group);
+          new import_obsidian.Notice(`Fixed ${property} in ${n} notes.`);
+          groupEl.remove();
+          this.onDone();
+          if (!listEl.hasChildNodes()) this.close();
+        });
+      };
+      const listBtn = actions.createEl("button", { text: "Show notes", cls: "btm-small-btn" });
+      listBtn.onclick = () => {
+        const detail = groupEl.createDiv({ cls: "btm-invalid-mini-list" });
+        listBtn.remove();
+        for (const issue of group) {
+          const row = detail.createDiv({ cls: "btm-file-item" });
+          const link = row.createEl("a", { text: issue.path, cls: "btm-file-link" });
+          link.onclick = () => {
+            this.close();
+            void this.app.workspace.openLinkText(issue.path, "", false);
+          };
+          row.createSpan({ text: `  ${issue.property}: ${issue.currentValue}` });
+          const fixOne = row.createEl("button", { text: "Fix", cls: "btm-small-btn" });
+          fixOne.onclick = () => {
+            runAsync(async () => {
+              await this.plugin.fixPropertyIssues([issue]);
+              row.remove();
+              new import_obsidian.Notice("Property fixed.");
+              this.onDone();
+            });
+          };
+        }
+      };
+    }
+    const footer = contentEl.createDiv({ cls: "btm-button-row-centered" });
+    const fixAll = footer.createEl("button", {
+      text: `Fix all ${this.issues.length}`,
+      cls: "mod-cta btm-conf-btn"
+    });
+    fixAll.onclick = () => {
+      new BtmConfirmationModal(
+        this.app,
+        "Fix all property types?",
+        `Remove the quotes from ${this.issues.length} values across ${new Set(this.issues.map((i) => i.path)).size} notes. This can be undone.`,
+        async () => {
+          const n = await this.plugin.fixPropertyIssues(this.issues);
+          new import_obsidian.Notice(`Fixed property types in ${n} notes.`);
+          this.onDone();
+          this.close();
+        }
+      ).open();
+    };
+  }
+  onClose() {
+    this.contentEl.empty();
+  }
+};
 var InvalidTagsModal = class extends import_obsidian.Modal {
   constructor(app, plugin, invalidFiles) {
     super(app);
@@ -3148,6 +3526,7 @@ var InvalidTagsModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-wide");
     contentEl.addClass("btm-invalid-modal");
     new import_obsidian.Setting(contentEl).setName("Files with invalid tag format").setDesc(
       `${this.invalidFiles.length} file${this.invalidFiles.length > 1 ? "s" : ""} found with tag format issues`
@@ -3185,12 +3564,14 @@ var InvalidTagsModal = class extends import_obsidian.Modal {
               if (file instanceof import_obsidian.TFile) {
                 await this.app.fileManager.processFrontMatter(file, (fm) => {
                   const updateOne = (key) => {
-                    if (fm[key]) {
-                      if (typeof fm[key] === "string" && fm[key] === issue.tag) {
+                    const field = fm[key];
+                    if (field) {
+                      if (typeof field === "string" && field === issue.tag) {
                         fm[key] = newValue;
-                      } else if (Array.isArray(fm[key])) {
-                        const idx = fm[key].findIndex((t) => String(t) === issue.tag);
-                        if (idx > -1) fm[key][idx] = newValue;
+                      } else if (Array.isArray(field)) {
+                        const list = field;
+                        const idx = list.findIndex((t) => primitiveToString(t) === issue.tag);
+                        if (idx > -1) list[idx] = newValue;
                       }
                     }
                   };
@@ -3213,12 +3594,14 @@ var InvalidTagsModal = class extends import_obsidian.Modal {
               if (file instanceof import_obsidian.TFile) {
                 await this.app.fileManager.processFrontMatter(file, (fm) => {
                   const removeOne = (key) => {
-                    if (fm[key]) {
-                      if (typeof fm[key] === "string" && fm[key] === issue.tag) {
+                    const field = fm[key];
+                    if (field) {
+                      if (typeof field === "string" && field === issue.tag) {
                         delete fm[key];
-                      } else if (Array.isArray(fm[key])) {
-                        const idx = fm[key].findIndex((t) => String(t) === issue.tag);
-                        if (idx > -1) fm[key].splice(idx, 1);
+                      } else if (Array.isArray(field)) {
+                        const list = field;
+                        const idx = list.findIndex((t) => primitiveToString(t) === issue.tag);
+                        if (idx > -1) list.splice(idx, 1);
                       }
                     }
                   };
@@ -3273,6 +3656,7 @@ var EmptyTagsModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-invalid-modal");
     new import_obsidian.Setting(contentEl).setName("Files with empty tags").setDesc(`${this.emptyFiles.length} file${this.emptyFiles.length > 1 ? "s" : ""} found`).setHeading();
     const listEl = contentEl.createDiv({ cls: "btm-invalid-list" });
@@ -3307,6 +3691,7 @@ var InlineTagsModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-invalid-modal");
     new import_obsidian.Setting(contentEl).setName("Notes with inline tags").setDesc(`${this.inlineFiles.length} notes found with tags in body`).setHeading();
     const listEl = contentEl.createDiv({ cls: "btm-invalid-list" });
@@ -3345,6 +3730,7 @@ var NestedFilesModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-invalid-modal");
     new import_obsidian.Setting(contentEl).setName("Notes with nested tags").setDesc(`${this.nestedFiles.length} notes found containing hierarchical tags`).setHeading();
     const listEl = contentEl.createDiv({ cls: "btm-invalid-list" });
@@ -3384,6 +3770,7 @@ var TagListModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-tag-list-modal");
     new import_obsidian.Setting(contentEl).setName(this.title).setDesc(`${this.tags.length} tags found`).setHeading();
     const listEl = contentEl.createDiv({ cls: "btm-invalid-list" });
@@ -3398,7 +3785,7 @@ var TagListModal = class extends import_obsidian.Modal {
         if (search == null ? void 0 : search.openGlobalSearch) {
           search.openGlobalSearch(`tag:${tagText}`);
         } else {
-          new import_obsidian.Notice("Global Search plugin not enabled");
+          new import_obsidian.Notice("Global search plugin not enabled");
         }
       };
     }
@@ -3418,6 +3805,7 @@ var SimpleFileListModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-file-list-modal");
     new import_obsidian.Setting(contentEl).setName(this.title).setDesc(`${this.files.length} files found`).setHeading();
     const listEl = contentEl.createDiv({ cls: "btm-file-list" });
@@ -3497,6 +3885,7 @@ var OrphanTagsModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-orphan-modal");
     new import_obsidian.Setting(contentEl).setName("Orphaned tags").setDesc(`Tags used in fewer than ${this.plugin.settings.orphanThreshold} files`).setHeading();
     const orphans = this.plugin.findOrphanedTags();
@@ -3538,11 +3927,10 @@ var OrphanTagsModal = class extends import_obsidian.Modal {
 };
 var TagSuggest = class extends import_obsidian.SuggestModal {
   constructor(app, plugin, onSelect) {
-    var _a;
     super(app);
     this.plugin = plugin;
     this.onSelect = onSelect;
-    this.tagCounts = (_a = this.plugin.app.metadataCache.getTags()) != null ? _a : {};
+    this.tagCounts = getVaultTags(this.plugin.app);
   }
   getSuggestions(query) {
     const tags = this.plugin.getAllTags();
@@ -3560,16 +3948,16 @@ var TagSuggest = class extends import_obsidian.SuggestModal {
 };
 var MultiTagSelectModal = class extends import_obsidian.Modal {
   constructor(app, plugin, onConfirm) {
-    var _a;
     super(app);
     this.selectedTags = /* @__PURE__ */ new Set();
     this.plugin = plugin;
     this.onConfirm = onConfirm;
-    this.tagCounts = (_a = this.plugin.app.metadataCache.getTags()) != null ? _a : {};
+    this.tagCounts = getVaultTags(this.plugin.app);
   }
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-multiselect-modal");
     new import_obsidian.Setting(contentEl).setName("Select tags to merge").setHeading();
     const searchDiv = contentEl.createDiv({ cls: "btm-search-container" });
@@ -3638,6 +4026,7 @@ var FolderSelectModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     contentEl.addClass("btm-folder-modal");
     new import_obsidian.Setting(contentEl).setName("Select folders").setHeading();
     const searchDiv = contentEl.createDiv({ cls: "btm-search-container" });
@@ -3685,7 +4074,7 @@ var FolderSelectModal = class extends import_obsidian.Modal {
         this.listEl.createEl("p", { text: "Start typing to search folders...", cls: "btm-loading" });
         return;
       }
-      this.listEl.createEl("div", { text: "Selected folders:", cls: "btm-list-header" });
+      this.listEl.createDiv({ text: "Selected folders:", cls: "btm-list-header" });
     } else {
       displayFolders = allFolders.filter((f) => f.toLowerCase().includes(query)).slice(0, 100);
       if (displayFolders.length === 0) {
@@ -3840,6 +4229,7 @@ var TagRenamePromptModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     new import_obsidian.Setting(contentEl).setName(`Rename #${this.tagName}`).setHeading();
     const input = new import_obsidian.TextComponent(contentEl).setValue(this.tagName).setPlaceholder("new-tag-name");
     input.inputEl.focus();
@@ -3874,6 +4264,7 @@ var TagPageCreateModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-narrow");
     new import_obsidian.Setting(contentEl).setName("Create tag page").setHeading();
     contentEl.createEl("p", { text: `A tag page for #${this.tagName} does not exist.` });
     const actions = contentEl.createDiv({ cls: "btm-action-row" });
@@ -3916,6 +4307,9 @@ var BulkManagerSettingsDashboard = class {
     this.invalidBlock = contentEl.createDiv({ cls: "btm-section-box btm-invalid-block" });
     this.invalidBlock.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Invalid Tags (Real-time)" });
     this.invalidContentEl = this.invalidBlock.createDiv({ cls: "btm-invalid-content" });
+    this.propertyBlock = contentEl.createDiv({ cls: "btm-section-box btm-invalid-block" });
+    this.propertyBlock.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Property types (Real-time)" });
+    this.propertyContentEl = this.propertyBlock.createDiv({ cls: "btm-invalid-content" });
     void this.updateStats();
     let isExpanded = true;
     overviewHeader.onclick = () => {
@@ -4413,40 +4807,6 @@ var BulkManagerSettingsDashboard = class {
         void this.updateStats();
       });
     };
-    const utilBox = contentEl.createDiv({ cls: "btm-section-box" });
-    utilBox.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Metadata Utilities" });
-    const utilRow = utilBox.createDiv({ cls: "btm-util-column" });
-    const btnClean = this.createIconButton(utilRow, "file-check", "Clean front matter formatting");
-    (0, import_obsidian.setTooltip)(btnClean, "Remove unnecessary quotes and trim whitespace from all frontmatter fields");
-    btnClean.onclick = () => void this.plugin.standardiseProperties();
-    const btnAllInline = this.createIconButton(utilRow, "list-plus", "Standardise to Inline Array");
-    btnAllInline.onclick = () => {
-      const files = this.plugin.getFilteredFiles();
-      new BtmConfirmationModal(
-        this.app,
-        "Standardise to Inline Array",
-        `Convert tags and wiki links to inline arrays across ${files.length} files?`,
-        async () => {
-          await this.plugin.convertTagFormat(files, "inline", true);
-          await this.plugin.convertWikiLinkFormat(files, "inline", true);
-          void this.updateStats();
-        }
-      ).open();
-    };
-    const btnAllList = this.createIconButton(utilRow, "list-minus", "Standardise to YAML List");
-    btnAllList.onclick = () => {
-      const files = this.plugin.getFilteredFiles();
-      new BtmConfirmationModal(
-        this.app,
-        "Standardise to YAML List",
-        `Convert tags and wiki links to YAML lists across ${files.length} files?`,
-        async () => {
-          await this.plugin.convertTagFormat(files, "list", true);
-          await this.plugin.convertWikiLinkFormat(files, "list", true);
-          void this.updateStats();
-        }
-      ).open();
-    };
     const actionBox = contentEl.createDiv({ cls: "btm-section-box" });
     actionBox.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Other Actions" });
     const actionRowBottom = actionBox.createDiv({ cls: "btm-action-row" });
@@ -4757,6 +5117,7 @@ var BulkManagerSettingsDashboard = class {
       };
     }
     await this.checkInvalidTags();
+    await this.checkInvalidProperties();
     await this.checkEmptyTags();
   }
   async checkInvalidTags() {
@@ -4773,12 +5134,43 @@ var BulkManagerSettingsDashboard = class {
     warningRow.createSpan({
       text: ` ${invalidFiles.length} file${invalidFiles.length > 1 ? "s" : ""} with invalid tags`
     });
-    const fixBtn = warningRow.createEl("button", { text: "Fix invalid", cls: "mod-warning btm-fix-invalid-btn" });
+    const fixBtn = warningRow.createEl("button", { text: "Manage", cls: "mod-warning btm-fix-invalid-btn" });
     fixBtn.onclick = () => new InvalidTagsModal(this.app, this.plugin, invalidFiles).open();
     const list = this.invalidContentEl.createDiv({ cls: "btm-invalid-mini-list" });
     invalidFiles.slice(0, 3).forEach((file) => list.createDiv({ text: file.path, cls: "btm-invalid-mini-item" }));
     if (invalidFiles.length > 3) {
       list.createDiv({ text: `... and ${invalidFiles.length - 3} more`, cls: "btm-more" });
+    }
+  }
+  async checkInvalidProperties() {
+    var _a;
+    if (!this.propertyContentEl) return;
+    this.propertyContentEl.empty();
+    const issues = await this.plugin.findInvalidProperties();
+    if (!issues.length) {
+      this.propertyBlock.hide();
+      return;
+    }
+    this.propertyBlock.show();
+    const noteCount = new Set(issues.map((i) => i.path)).size;
+    const warningRow = this.propertyContentEl.createDiv({ cls: "btm-invalid-warning" });
+    const iconEl = warningRow.createSpan({ cls: "btm-icon" });
+    (0, import_obsidian.setIcon)(iconEl, "alert-triangle");
+    warningRow.createSpan({
+      text: ` ${issues.length} value${issues.length > 1 ? "s" : ""} in ${noteCount} file${noteCount > 1 ? "s" : ""} with a type mismatch`
+    });
+    const manageBtn = warningRow.createEl("button", { text: "Manage", cls: "mod-warning btm-fix-invalid-btn" });
+    manageBtn.onclick = () => new InvalidPropertiesModal(this.app, this.plugin, issues, () => {
+      void this.checkInvalidProperties();
+    }).open();
+    const byProperty = /* @__PURE__ */ new Map();
+    for (const issue of issues) byProperty.set(issue.property, ((_a = byProperty.get(issue.property)) != null ? _a : 0) + 1);
+    const list = this.propertyContentEl.createDiv({ cls: "btm-invalid-mini-list" });
+    [...byProperty.entries()].slice(0, 3).forEach(([name, count]) => {
+      list.createDiv({ text: `${name} \u2014 ${count} value${count > 1 ? "s" : ""}`, cls: "btm-invalid-mini-item" });
+    });
+    if (byProperty.size > 3) {
+      list.createDiv({ text: `... and ${byProperty.size - 3} more`, cls: "btm-more" });
     }
   }
   async checkEmptyTags() {
@@ -4800,6 +5192,7 @@ var TagManagerModal = class extends import_obsidian.Modal {
   onOpen() {
     const { contentEl } = this;
     contentEl.empty();
+    this.modalEl.addClass("btm-modal-wide");
     contentEl.addClass("btm-dashboard");
     new import_obsidian.Setting(contentEl).setName("Bulk Tag Manager").setHeading();
     const overviewBox = contentEl.createDiv({ cls: "btm-section-box" });
@@ -4811,6 +5204,9 @@ var TagManagerModal = class extends import_obsidian.Modal {
     this.invalidBlock = contentEl.createDiv({ cls: "btm-section-box btm-invalid-block" });
     this.invalidBlock.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Invalid Tags (Real-time)" });
     this.invalidContentEl = this.invalidBlock.createDiv({ cls: "btm-invalid-content" });
+    this.propertyBlock = contentEl.createDiv({ cls: "btm-section-box btm-invalid-block" });
+    this.propertyBlock.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Property types (Real-time)" });
+    this.propertyContentEl = this.propertyBlock.createDiv({ cls: "btm-invalid-content" });
     this.updateStats().catch((e) => console.error("Failed to update stats", e));
     let isExpanded = true;
     overviewHeader.onclick = () => {
@@ -4847,10 +5243,9 @@ var TagManagerModal = class extends import_obsidian.Modal {
       this.mergeTargetInput.inputEl.dispatchEvent(new Event("input"));
     });
     this.mergeTargetInput.inputEl.addEventListener("input", () => {
-      var _a;
       const target = this.mergeTargetInput.getValue().trim();
       const cleanTarget = target.replace(/^#/, "");
-      const globalTags = (_a = this.plugin.app.metadataCache.getTags()) != null ? _a : {};
+      const globalTags = getVaultTags(this.plugin.app);
       if (globalTags["#" + cleanTarget] !== void 0) {
         mergeWarning.textContent = `\u26A0\uFE0F #${cleanTarget} already exists. This will merge into the existing tag.`;
         mergeWarning.show();
@@ -5288,52 +5683,6 @@ var TagManagerModal = class extends import_obsidian.Modal {
         await this.plugin.runConversionWithPreview();
       });
     };
-    const utilBox = contentEl.createDiv({ cls: "btm-section-box" });
-    utilBox.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Metadata Utilities" });
-    const utilRow = utilBox.createDiv({ cls: "btm-util-column" });
-    const btnClean = this.createIconButton(utilRow, "file-check", "Clean front matter formatting");
-    (0, import_obsidian.setTooltip)(btnClean, "Remove unnecessary quotes and trim whitespace from all frontmatter fields");
-    btnClean.onclick = () => void this.plugin.standardiseProperties();
-    const btnAllInline = this.createIconButton(utilRow, "list-plus", "Standardise to Inline Array");
-    (0, import_obsidian.setTooltip)(btnAllInline, "Convert all tags AND wiki link properties to Inline Array format [ ]");
-    btnAllInline.onclick = () => {
-      const files = this.plugin.getFilteredFiles();
-      new BtmConfirmationModal(
-        this.app,
-        "Standardise All to Inline Array",
-        `Are you sure you want to convert all tags and wiki links to Inline Array across ${files.length} files?`,
-        async () => {
-          const progressModal = new ProgressModal(this.app, files.length * 2);
-          progressModal.open();
-          await this.plugin.convertTagFormat(files, "inline", true);
-          progressModal.update(files.length);
-          await this.plugin.convertWikiLinkFormat(files, "inline", true);
-          progressModal.close();
-          this.updateStats().catch((e) => console.error("Failed to update stats", e));
-          new import_obsidian.Notice("Finished standardising all properties to Inline Array.");
-        }
-      ).open();
-    };
-    const btnAllList = this.createIconButton(utilRow, "list-minus", "Standardise to YAML List");
-    (0, import_obsidian.setTooltip)(btnAllList, "Convert all tags AND wiki link properties to multiline YAML List format -");
-    btnAllList.onclick = () => {
-      const files = this.plugin.getFilteredFiles();
-      new BtmConfirmationModal(
-        this.app,
-        "Standardise All to YAML List",
-        `Are you sure you want to convert all tags and wiki links to YAML List across ${files.length} files?`,
-        async () => {
-          const progressModal = new ProgressModal(this.app, files.length * 2);
-          progressModal.open();
-          await this.plugin.convertTagFormat(files, "list", true);
-          progressModal.update(files.length);
-          await this.plugin.convertWikiLinkFormat(files, "list", true);
-          progressModal.close();
-          this.updateStats().catch((e) => console.error("Failed to update stats", e));
-          new import_obsidian.Notice("Finished standardising all properties to YAML List.");
-        }
-      ).open();
-    };
     const actionBox = contentEl.createDiv({ cls: "btm-section-box" });
     actionBox.createDiv({ cls: "btm-collapsible-header" }).createSpan({ text: "Other actions" });
     const actionRow = actionBox.createDiv({ cls: "btm-action-row" });
@@ -5669,6 +6018,7 @@ var TagManagerModal = class extends import_obsidian.Modal {
       };
     }
     this.checkInvalidTags().catch((e) => console.error("Failed to check invalid tags", e));
+    this.checkInvalidProperties().catch((e) => console.error("Failed to check property types", e));
     this.checkEmptyTags().catch((e) => console.error("Failed to check empty tags", e));
   }
   async checkInvalidTags() {
@@ -5684,7 +6034,7 @@ var TagManagerModal = class extends import_obsidian.Modal {
         text: ` ${invalidFiles.length} file${invalidFiles.length > 1 ? "s" : ""} with invalid tags`
       });
       const fixBtn = warningRow.createEl("button", {
-        text: "Fix invalid",
+        text: "Manage",
         cls: "mod-warning btm-fix-invalid-btn"
       });
       fixBtn.onclick = () => {
@@ -5700,6 +6050,37 @@ var TagManagerModal = class extends import_obsidian.Modal {
       }
     } else {
       this.invalidBlock.hide();
+    }
+  }
+  async checkInvalidProperties() {
+    var _a;
+    if (!this.propertyContentEl) return;
+    this.propertyContentEl.empty();
+    const issues = await this.plugin.findInvalidProperties();
+    if (!issues.length) {
+      this.propertyBlock.hide();
+      return;
+    }
+    this.propertyBlock.show();
+    const noteCount = new Set(issues.map((i) => i.path)).size;
+    const warningRow = this.propertyContentEl.createDiv({ cls: "btm-invalid-warning" });
+    const iconEl = warningRow.createSpan({ cls: "btm-icon" });
+    (0, import_obsidian.setIcon)(iconEl, "alert-triangle");
+    warningRow.createSpan({
+      text: ` ${issues.length} value${issues.length > 1 ? "s" : ""} in ${noteCount} file${noteCount > 1 ? "s" : ""} with a type mismatch`
+    });
+    const manageBtn = warningRow.createEl("button", { text: "Manage", cls: "mod-warning btm-fix-invalid-btn" });
+    manageBtn.onclick = () => new InvalidPropertiesModal(this.app, this.plugin, issues, () => {
+      void this.checkInvalidProperties();
+    }).open();
+    const byProperty = /* @__PURE__ */ new Map();
+    for (const issue of issues) byProperty.set(issue.property, ((_a = byProperty.get(issue.property)) != null ? _a : 0) + 1);
+    const list = this.propertyContentEl.createDiv({ cls: "btm-invalid-mini-list" });
+    [...byProperty.entries()].slice(0, 3).forEach(([name, count]) => {
+      list.createDiv({ text: `${name} \u2014 ${count} value${count > 1 ? "s" : ""}`, cls: "btm-invalid-mini-item" });
+    });
+    if (byProperty.size > 3) {
+      list.createDiv({ text: `... and ${byProperty.size - 3} more`, cls: "btm-more" });
     }
   }
   async checkEmptyTags() {
@@ -5775,18 +6156,43 @@ var TagLowercaseSettingTab = class extends import_obsidian.PluginSettingTab {
         });
       })
     );
-    new import_obsidian.Setting(historySection).setName("Clear history").setDesc("Remove all operation history").addButton(
-      (btn) => btn.setButtonText("Clear").setWarning().onClick(() => {
+    new import_obsidian.Setting(historySection).setName("History size limit (megabytes)").setDesc("Discard the oldest operations once snapshots exceed this size (0 to disable).").addSlider(
+      (slider) => slider.setLimits(0, 500, 25).setValue(this.plugin.settings.maxHistoryMB).setDynamicTooltip().onChange((value) => {
         runAsync(async () => {
-          for (const op of this.plugin.settings.operationHistory) {
-            await this.plugin.deleteExternalHistory(op.id);
-          }
-          this.plugin.settings.operationHistory = [];
+          this.plugin.settings.maxHistoryMB = value;
           await this.plugin.saveSettings();
-          new import_obsidian.Notice("History cleared.");
+          await this.plugin.enforceHistoryDiskBudget();
+          await this.plugin.saveSettings();
+          this.renderHistoryUsage(usageSetting);
         });
       })
     );
+    const usageSetting = new import_obsidian.Setting(historySection).setName("Clear history").addButton(
+      (btn) => btn.setButtonText("Clear").setWarning().onClick(() => {
+        runAsync(async () => {
+          await this.plugin.clearAllHistory();
+          new import_obsidian.Notice("History cleared.");
+          this.renderHistoryUsage(usageSetting);
+        });
+      })
+    );
+    this.renderHistoryUsage(usageSetting);
+  }
+  /** Show what the snapshot store is currently using, against the configured budget. */
+  renderHistoryUsage(setting) {
+    const format = (bytes) => {
+      if (bytes >= 1024 * 1024) return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+      if (bytes >= 1024) return `${Math.round(bytes / 1024)} KB`;
+      return `${bytes} bytes`;
+    };
+    setting.setDesc("Measuring\u2026");
+    runAsync(async () => {
+      const used = await this.plugin.getHistoryDiskUsage();
+      const ops = this.plugin.settings.operationHistory.length;
+      const budget = this.plugin.settings.maxHistoryMB;
+      const limit = budget > 0 ? ` of ${budget} MB` : " (no limit)";
+      setting.setDesc(`${ops} operation${ops === 1 ? "" : "s"}, using ${format(used)}${limit}.`);
+    });
   }
   renderAliases(container) {
     container.empty();
