@@ -398,6 +398,10 @@ Quando o sistema cresce para dezenas de agentes, tratar prompts como componentes
 
 # Laboratório — Aula 10
 
+## [[🛠 Desafio M6 010]]
+## [[🤖 Monitoria M6 010 - TEORIA]]
+## [[🤖 Monitoria M6 010 - PRÁTICA]]
+
 Nesta aula vamos dar mais um passo na arquitetura do Prometheus-Mentor.
 
 **Objetivo:** transformar o `PromptBuilder` em um construtor modular de prompts.
