@@ -124,6 +124,11 @@ tags:
 
 # Módulo 7 - RAG, Conhecimento Externo e o Second Brain do Prometheus
 - [[Introdução 007]]
-- [[Aula M7 001 — O problema da memória externa]]
+- [[Aula M7 001 - O problema da memória externa]]
+- [[Aula M7 002 - Embeddings - Quando Texto Vira Geometria]]
 
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/
+---
+3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Monitorias
+---
+3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Desafios
