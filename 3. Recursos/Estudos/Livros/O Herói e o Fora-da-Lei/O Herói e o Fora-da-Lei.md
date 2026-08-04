@@ -23,7 +23,7 @@ author:
 - [[Capítulo 8 - O Fora-da-lei]]
 - [[Capítulo 9 - O Mago]]
 ## Parte 4. Nenhum homem (ou mulher) é uma ilha: Cara Comum, Amante, Bobo da Corte
-- [[Introdução à Parte 4]]
+- [[3. Recursos/Estudos/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 4]]
 - [[Capítulo 10 - O Cara Comum]]
 - [[Capítulo 11 - O Amante]]
 - [[Capítulo 12 - O Bobo da Corte]]
