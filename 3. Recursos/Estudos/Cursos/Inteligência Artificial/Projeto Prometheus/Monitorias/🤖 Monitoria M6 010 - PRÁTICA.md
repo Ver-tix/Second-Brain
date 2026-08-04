@@ -315,3 +315,86 @@ prompt = PromptBuilder.build(
 ```
 
 não muda.
+
+## Por quê?
+
+Porque a Aula 10 não quis mudar **a interface** do `PromptBuilder`.
+
+Ela quis mudar apenas **a implementação interna**.
+
+Essa é uma diferença arquitetural enorme.
+
+O `MentorAgent` continua dizendo:
+
+> "Construa um prompt."
+
+Ele **não sabe**:
+
+- de onde veio o `SYSTEM_PROMPT`;
+- de onde veio o `MENTOR_PROMPT`;
+- como o histórico foi concatenado;
+- como a pergunta foi adicionada.
+
+Ele apenas usa a interface:
+
+```python
+PromptBuilder.build(...)
+```
+
+Essa é uma consequência direta do desacoplamento.
+
+## Um teste mental
+
+Imagine que daqui a duas aulas o professor resolva adicionar:
+
+```
+SYSTEM_PROMPT
++
+AGENT_PROMPT
++
+RAG Context
++
+Memory
++
+Available Tools
++
+Current Date
++
+User Question
+```
+
+Quem precisará mudar?
+
+Resposta:
+
+Somente:
+
+```
+PromptBuilder
+```
+
+Quem **não** precisará mudar?
+
+- ✅ MentorAgent
+- ✅ LLMService
+- ✅ ConversationMemory
+- ✅ ToolManager
+
+Isso mostra que a interface ficou estável.
+
+---
+
+## Minha avaliação
+
+Até agora, a Aula 10 está praticamente concluída.
+
+Você criou:
+
+- ✅ `system_prompt.py`
+- ✅ `mentor_prompt.py`
+- ✅ `prompt_builder.py`
+- ✅ Atualizou o import do `MentorAgent`
+
+E o mais importante: **não precisou alterar uma única linha da lógica do `MentorAgent`**.
+
+Esse é um ótimo sinal arquitetural. Quando uma refatoração muda a organização interna de um componente sem obrigar os consumidores a mudarem, significa que a interface pública foi bem projetada. Foi exatamente isso que aconteceu aqui.
