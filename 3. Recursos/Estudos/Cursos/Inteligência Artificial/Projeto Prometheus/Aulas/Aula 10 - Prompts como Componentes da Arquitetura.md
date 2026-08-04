@@ -10,8 +10,6 @@ tags:
   - programação
   - inovação
 ---
-Perfeito. Pelo nosso cronograma do **Módulo 6**, agora chegamos à **Aula 10**.
-
 # Aula 10 — Prompts como Componentes da Arquitetura
 
 Até agora você já construiu praticamente toda a infraestrutura de um agente:
@@ -296,17 +294,11 @@ Cada agente possui o seu.
 ## 3) Contexto
 
 Aqui entram:
-
 - memória
-    
 - RAG
-    
 - documentos
-    
 - ferramentas disponíveis
-    
 - histórico
-    
 
 Tudo variável.
 
@@ -369,17 +361,14 @@ Isso é o mesmo ganho arquitetural que tivemos com o Tool Registry.
 Mais para frente teremos algo próximo disso:
 
 ```
-Prometheus OS
-
+  Prometheus OS
         │
-
+		|
         ▼
-
-Prompt Service
-        │
- ┌──────┼──────────┐
- ▼      ▼          ▼
-
+  Prompt Service
+          │
+ ┌─-────-─┼──────────┐
+ ▼        ▼          ▼
 Mentor Editor Knowledge
 ```
 
@@ -398,15 +387,10 @@ A principal ideia não é "escrever prompts melhores".
 É perceber que **prompts também são software**.
 
 E, como qualquer software, eles devem ser:
-
 - modulares;
-    
 - reutilizáveis;
-    
 - desacoplados;
-    
 - fáceis de manter.
-    
 
 Quando o sistema cresce para dezenas de agentes, tratar prompts como componentes arquiteturais faz tanta diferença quanto tratar ferramentas como componentes reutilizáveis.
 
