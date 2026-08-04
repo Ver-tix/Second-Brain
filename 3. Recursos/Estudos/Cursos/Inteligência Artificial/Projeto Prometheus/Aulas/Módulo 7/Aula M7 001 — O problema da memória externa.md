@@ -97,7 +97,6 @@ Ainda não o utilizaremos. O objetivo é aplicar **injeção de dependência** d
 Atualize o `main.py` para criar uma instância do `KnowledgeService` e passá-la ao `MentorAgent`.
 
 ---
-
 ### Etapa 5 — Reflexão
 
 Responda:
