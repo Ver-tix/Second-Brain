@@ -203,11 +203,11 @@ Ambas usaram o mesmo cimento. Mas só uma mora numa casa — e é por isso que, 
 ---
 
 **Fontes (wikilinks do vault):**
-- [[Aula 8 - Agentes de IA, Quando o Sistema Começa a Planejar]]
-- [[Aula 6 - RAG não é memória]]
-- [[Aula 7 - Ferrament Calling, Quando o Modelo Deixa de Ser Apenas Responder e Passa a Utilizar Ferramentas]]
-- [[Aula 4 - O Maior Erro dos Iniciantes - Misturar Lógica de Negócio com Chamadas ao LLM]]
-- [[Aula 1 - O LLM Deixa De Ser Um Chatbot]]
-- [[Aula 8 - Arquitetando Sistemas de Prompt]]
-- [[Aula 7 - Prompt Debugging & Evaluation]]
+- [[Aula M4 8 - Agentes de IA, Quando o Sistema Começa a Planejar]]
+- [[Aula M4 6 - RAG não é memória]]
+- [[Aula M4 7 - Ferrament Calling, Quando o Modelo Deixa de Ser Apenas Responder e Passa a Utilizar Ferramentas]]
+- [[Aula M4 4 - O Maior Erro dos Iniciantes - Misturar Lógica de Negócio com Chamadas ao LLM]]
+- [[Aula M4 1 - O LLM Deixa De Ser Um Chatbot]]
+- [[Aula M3 8 - Arquitetando Sistemas de Prompt]]
+- [[Aula M3 7 - Prompt Debugging & Evaluation]]
 - [[🔥Projeto Prometheus MOC]]

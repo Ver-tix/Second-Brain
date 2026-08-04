@@ -228,7 +228,7 @@ As ferramentas marcadas com ⚠ têm **efeitos colaterais reais** (gastam dinhei
 Decisão = momento em que o sistema precisa **julgar**, não apenas executar. Aqui elas são:
 
 - **Priorizar** solicitações concorrentes (um cliente reclamando vs. um relatório mensal programado).
-- **Escolher qual ferramenta** chamar ([[Aula 7 - Ferrament Calling, Quando o Modelo Deixa de Ser Apenas Responder e Passa a Utilizar Ferramentas|Ferrament Calling]]) a cada passo do loop (e em que ordem).
+- **Escolher qual ferramenta** chamar ([[Aula M4 7 - Ferrament Calling, Quando o Modelo Deixa de Ser Apenas Responder e Passa a Utilizar Ferramentas|Ferrament Calling]]) a cada passo do loop (e em que ordem).
 - **Detectar informação faltante:** "preciso emitir pedido de compra, mas não sei o estoque mínimo — devo consultar configuração antes".
 - **Avaliar se o resultado faz sentido** (validação semântica): o estoque voltou negativo? Há inconsistência entre vendas e estoque?
 - **Decidir se continua, refaz ou para** (critério de parada do loop).

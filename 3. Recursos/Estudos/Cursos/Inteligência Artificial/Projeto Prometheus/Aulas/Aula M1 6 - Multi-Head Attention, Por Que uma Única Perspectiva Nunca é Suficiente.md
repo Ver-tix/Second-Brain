@@ -3,10 +3,6 @@ tags:
   - IA
 ---
 
-# Aula 6 - Multi-Head Attention, Por Que uma Única Perspectiva Nunca é Suficiente
-
----
-
 ## 🎯 A Grande Pergunta
 
 Imagine que você está lendo esta frase:

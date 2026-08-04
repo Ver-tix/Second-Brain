@@ -3,8 +3,6 @@ tags:
   - IA
   - programação
 ---
----
-
 Agora que você consegue conversar com um modelo, surge uma pergunta importante.
 
 > **Onde deve ficar a inteligência da aplicação?**
