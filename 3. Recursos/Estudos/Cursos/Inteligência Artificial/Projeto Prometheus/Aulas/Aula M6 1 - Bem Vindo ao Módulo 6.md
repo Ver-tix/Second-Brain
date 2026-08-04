@@ -3,6 +3,12 @@ tags:
   - IA
   - programação
   - inovação
+tipo:
+  - conceito
+dominio:
+  - IA
+Subdominio:
+  - agentic-archtecture
 ---
 # Bem-vindo ao Módulo 6
 

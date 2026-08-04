@@ -10,22 +10,14 @@ tags:
   - programação
   - inovação
 ---
-# Aula 10 — Prompts como Componentes da Arquitetura
-
 Até agora você já construiu praticamente toda a infraestrutura de um agente:
 
 - ✅ `LLMService`
-    
 - ✅ `ConversationMemory`
-    
 - ✅ `Tool Calling`
-    
 - ✅ `Tool Registry`
-    
 - ✅ `Tool Manager`
-    
 - ✅ `MentorAgent`
-    
 
 Repare numa coisa interessante: existe um componente que ainda está muito simples...
 

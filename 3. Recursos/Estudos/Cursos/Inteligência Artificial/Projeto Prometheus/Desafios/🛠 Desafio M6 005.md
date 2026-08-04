@@ -4,7 +4,7 @@ tags:
   - programação
   - inovação
 ---
-![[Aula 5 - Memória de Conversa#Desafio de reflexão]]
+![[Aula M6 5 - Memória de Conversa#Desafio de reflexão]]
 
 eu: `Por separação de responsabilidade. Isso gera maior organização (tanto em linha quanto para a leitura de um humano ao auditar), e maior possibilidade de escalabilidade`.
 

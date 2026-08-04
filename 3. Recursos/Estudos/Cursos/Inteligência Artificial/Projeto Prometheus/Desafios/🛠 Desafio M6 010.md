@@ -151,4 +151,59 @@ class PromptBuilder:
 ```
 
 ---
-# Etapa 3
+# ==Etapa 3 Verificar se o `mentor_agent.py` Continua Importando o PromptBuilder do Novo Arquivo `prompt_builder.py` em vez do Antigo `mentor_prompt.py`==
+
+Antes:
+
+```python
+from app.prompts.mentor_prompt import PromptBuilder
+```
+
+Depois:
+
+```python
+from app.prompts.prompt_builder import PromptBuilder
+```
+
+Todo o restante do `MentorAgent` continua exatamente igual.
+
+Ou seja:
+
+```python
+prompt = PromptBuilder.build(
+    history,
+    question
+)
+```
+
+não muda.
+
+## Por quê?
+
+Porque a Aula 10 não quis mudar **a interface** do `PromptBuilder`.
+
+Ela quis mudar apenas **a implementação interna**.
+
+Essa é uma diferença arquitetural enorme.
+
+O `MentorAgent` continua dizendo:
+
+> "Construa um prompt."
+
+Ele **não sabe**:
+
+- de onde veio o `SYSTEM_PROMPT`;
+- de onde veio o `MENTOR_PROMPT`;
+- como o histórico foi concatenado;
+- como a pergunta foi adicionada.
+
+Ele apenas usa a interface:
+
+```python
+PromptBuilder.build(...)
+```
+
+Essa é uma consequência direta do desacoplamento.
+
+---
+# Feedback

@@ -8,7 +8,7 @@ tags:
 
 ## Vamos reler a questão
 
-![[Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 1 — Estruturando o Ecossistema Prometheus]]
+![[Aula M5 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 1 — Estruturando o Ecossistema Prometheus]]
 
 
 ---
@@ -374,7 +374,7 @@ E eu gostaria que, nas próximas questões do desafio, resolvêssemos sempre des
 
 # Questão 2
 ## Releitura da Questão
-![[Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 2 — Documento Oficial de Arquitetura do Prometheus]]
+![[Aula M5 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 2 — Documento Oficial de Arquitetura do Prometheus]]
 
 ---
 
@@ -667,7 +667,7 @@ Toda evolução deverá privilegiar modularidade e baixo acoplamento.
 
 # Questão 3
 ## Releitura da Questão
-![[Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 3 — Evoluindo a Arquitetura]]
+![[Aula M5 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 3 — Evoluindo a Arquitetura]]
 
 ---
 ## Parte 1 — O que facilita esse crescimento?
@@ -1090,7 +1090,7 @@ Repare que isso **não substitui** a arquitetura atual; é uma evolução natura
 
 # Questão 4
 ## Releitura da Questão
-![[Aula 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 4 — Reflexão Final]]
+![[Aula M5 12 - Da Arquitetura ao Código - Como um Sistema Inteligente Nasce (Transição para Implementação)#Parte 4 — Reflexão Final]]
 
 ---
 

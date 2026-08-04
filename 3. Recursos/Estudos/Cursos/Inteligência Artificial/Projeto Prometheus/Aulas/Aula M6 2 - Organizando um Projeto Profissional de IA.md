@@ -3,6 +3,12 @@ tags:
   - IA
   - programação
   - inovação
+tipo:
+  - conceito
+dominio:
+  - IA
+Subdominio:
+  - agentic-archtecture
 ---
 Perfeito! Agora começa a parte em que muitos cursos fazem o caminho inverso do nosso.
 

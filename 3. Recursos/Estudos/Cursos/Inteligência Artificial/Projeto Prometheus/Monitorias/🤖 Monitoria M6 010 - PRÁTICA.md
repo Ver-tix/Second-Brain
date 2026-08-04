@@ -289,7 +289,7 @@ app/
 Essa organização é muito mais coerente e deixa os nomes dos arquivos alinhados com suas responsabilidades. É exatamente o tipo de refatoração arquitetural que esta aula pretende ensinar.
 
 ---
-# ==Etapa 3 - Verificar se o mentorAgent Continuar Importando o PromptBuilder do Novo Arquivo `prompt_builder.py` em vez do Antigo `mentor_prompt.py`
+# ==Etapa 3 - Verificar se o mentorAgent Continua Importando o PromptBuilder do Novo Arquivo `prompt_builder.py` em vez do Antigo `mentor_prompt.py`
 
 Antes:
 

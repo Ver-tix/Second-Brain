@@ -3,6 +3,12 @@ tags:
   - IA
   - programação
   - inovação
+tipo:
+  - conceito
+dominio:
+  - IA
+Subdominio:
+  - agentic-archtecture
 ---
 É de extrema importância que você relembre dos frameworks aprendidos em cursos como:
 - [[Claude 101]]
