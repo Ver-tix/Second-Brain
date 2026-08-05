@@ -28,7 +28,7 @@ author:
 - [[Capítulo 11 - O Amante]]
 - [[Capítulo 12 - O Bobo da Corte]]
 ## Parte 5. Os que dão estrutura ao mundo: Prestativo, Criador, Governante
-- [[Introdução à Parte 5]]
+- [[3. Recursos/Estudos/Livros/O Herói e o Fora-da-Lei/Introdução à Parte 5]]
 - [[Capítulo 13 - Prestativo]]
 - [[Capítulo 14 - Criador]]
 - [[Capítulo 15 - Governante]]
