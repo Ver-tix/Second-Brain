@@ -9,6 +9,9 @@ Sub_subdominio:
   - diagnóstico-estratégico
 author:
   - Alexandre Cesar Motta de Castro
+tags:
+  - marketing
+  - case
 ---
 O setor varejista no qual a rede de lojas de departamentos opera se encontra sob forte pressão competitiva, e a empresa em particular lida com um ambiente de negócios e uma realidade interna em transformação, ora representando fortes ameaças a seu modelo de negócio, ora trazendo novas oportunidades, as quais a empresa precisa enfrentar potencializando seus pontos fortes e diminuindo o efeito negativo de seus pontos fracos.
 
