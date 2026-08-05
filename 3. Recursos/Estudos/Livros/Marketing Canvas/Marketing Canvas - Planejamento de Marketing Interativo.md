@@ -32,4 +32,21 @@ author:
 - [[17. Análise da Indústria]]
 - [[18. Segmentação de Mercado]]
 
-## Parte 4 - **
+## Parte 4 - *Análise Estratégica de Mercado*
+- [[19. Análise SWOT]]
+- [[20. Análise dos Fatores Críticos de Sucesso (FCS)]]
+- [[21. Revisão Crítica do Modelo de Negócio]]
+
+## Parte 5 - *Planejamento Estratégico de Marketing*
+- [[22. Posicionamento de Mercado]]
+- [[23. Elaboração do Balanced Scorecard (BSC)]]
+- [[24. Formulação Estratégica]]
+- [[25. Gestão de Portfólio de Projetos]]
+
+## Parte 6 - *Planejamento de Ações Estruturantes Orientadas a Mercado*
+- [[26. Planejamento de Ações Estruturantes]]
+- [[27. Planejamento de Ações de Mercado]]
+- [[28. Elaboração do 5W2H e Orçamento]]
+
+## Parte 7 - *O Plano de Marketing*
+- [[29. O Plano de Marketing - Caso Prático Completo]]
