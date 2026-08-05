@@ -1,0 +1,15 @@
+---
+tipo:
+  - fonte
+dominio:
+  - marketing
+Subdominio:
+  - marketing-estrategico
+Sub_subdominio:
+  - diagnóstico-estratégico
+author:
+  - Alexandre Cesar Motta de Castro
+tags:
+  - marketing
+  - case
+---
