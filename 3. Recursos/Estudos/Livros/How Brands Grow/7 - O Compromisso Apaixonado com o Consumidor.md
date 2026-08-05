@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # Compradores são marionetes?
 A Nike costuma ser considerada uma "supermarca", mas suas vendas e seu estilo são parecidos com os da Adidas. O mercado de roupas e acessórios esportivos tem uma infinidade de marcas concorrentes similares (Reebok, Puma, New Balance e Le Coq Sportif). Uma explicação para essa proliferação de marcas é o fato de as empresas usarem a publicidade e as embalagens para induzir os compradores a adotar preferências e a desenvolver lealdades irracionais. Essa explicação foi apresentada tanto por críticos como por defensores da publicidade e do branding. Não faltam estudos psicológicos para corroborar esse argumento, mas eles também sugerem que a publicidade e as embalagens têm um efeito psicológico bem fraco (mesmo em condições de laboratório).

@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 Nada menos que 2% do PIB do mundo inteiro é gasto em publicidade todos os anos. No entanto, a realidade não é tão clara. No mundo real, não faltam mistérios e contradições. Para as grandes marcas com os maiores orçamentos de publicidade, as vendas raramente aumentam quando a publicidade começa e raramente despencam quando a publicidade para. Além disso, a maioria dos compradores declara não ser afetada pela publicidade. Até as próprias agências publicitárias são extremamente relutantes em afirmar que a publicidade leva às vendas, preferindo falar em desenvolvimento do brand equity, comprometimento emocional e valor agregado. Por outro lado, os críticos acreditam que a publicidade constitui Uma poderosa força de manipulação: "A publicidade incomoda tanto os sociólogos como os diretores-financeiros: os primeiros porque acreditam que a publicidade funciona, os últimos porque acreditam que não" (Bullmore, 1999).
 

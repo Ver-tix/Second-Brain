@@ -1,7 +1,7 @@
 ---
 tags:
   - realestate
-  - "#funding"
+  - funding
 ---
 # Summary
 - [[Capítulo 1 - Desbravando o Mundo do Financiamento Imobiliário]]

@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # AS LEIS DO MARKETING APRESENTADAS NESTE LIVRO
 

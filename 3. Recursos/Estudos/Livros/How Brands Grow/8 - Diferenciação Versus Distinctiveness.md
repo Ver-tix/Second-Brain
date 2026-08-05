@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # Introdução 
 <h4 align="center">Em vez de tentar desenvolver uma diferenciação percebida significativa, os profissionais de marketing deveriam buscar atingir <i>distinctiveness</i> não significativa. Afinal, a marca perdura, mas a diferenciação não.</h4>

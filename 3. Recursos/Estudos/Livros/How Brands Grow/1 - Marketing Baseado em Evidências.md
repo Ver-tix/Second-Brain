@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # Será que os Profissionais de Marketing Estão Desperdiçando o Dinheiro das Empresas?
 > Quando fui à Tailândia, meu gentil anfitrião, o professor Tasman Smith, perguntou se havia muitos restaurantes tailandeses em minha cidade (moro em Adelaide, Austrália). Fiz uma conta rápida de cabeça e respondi: "Consigo me lembrar de seis restaurantes aos quais dá pra ir a pé de minha casa". Isso ilustra quanto as pessoas que vivem em economias de mercado desenvolvidas são mimadas em termos de opções, podendo comer pizza na Tailândia ou curry em Paris quando quiserem. Isso acontece porque hoje em dia as empresas fazem um bom trabalho levando produtos e serviços atraentes ao mercado.

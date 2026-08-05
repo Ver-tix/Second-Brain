@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 Os programas de fidelidade são ações de marketing estruturadas que recompensam e, portanto, incentivam o comportamento de compra fiel. Em geral, os programas distribuem pontos aos consumidores quando eles fazem compras. Aos poucos, depois de algumas compras, esses pontos acumulados atingem um nível a partir do qual podem ser trocados por recompensas. Esse sistema de pontos é um incentivo para os consumidores escolherem uma marca com mais frequência (aumentando sua fidelidade) para ganhar mais recompensas rapidamente. Programas de fidelidade como esse desencorajam o abandono da marca, já que, se os clientes gostarem do programa de fidelidade e o valorizarem, à medida que acumularem pontos, eles serão menos propensos a abandonar a marca por um concorrente.
 

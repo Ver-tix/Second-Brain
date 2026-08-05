@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # Desejo de Crescimento
 O crescimento é um aspecto muito arraigado em nossa cultura empresarial. Espera-se que os departamentos de marketing planejem e entreguem o crescimento; as iniciativas de marketing precisam ser justificadas em termos de potencial de crescimento. A principal razão para essa obsessão pelo crescimento são os custos fixos consideráveis da maioria das organizações. As empresas usufruem de um grande aumento da rentabilidade quando aumentam as vendas, e os lucros podem ser dizimados por perdas comparativamente pequenas das vendas. Desse modo, o crescimento tem um apelo enorme.

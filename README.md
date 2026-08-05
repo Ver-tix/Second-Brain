@@ -1,10 +1,6 @@
 # Second Brain
 
-
-
 Vault pessoal do Obsidian, versionada via Git/GitHub como backup e histórico de evolução.
-
-
 
 ## Estrutura
 

@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 As promoções de preço têm um efeito imediato e positivo sobre as ven-das. No entanto, o efeito não é duradouro e acaba assim que a promoção chega ao fim. Isso acontece porque essas promoções em grande parte recompensam os clientes que já compraram a marca no passado (e que têm a sorte de encontrá-la com desconto), mas não alteram a propensão de comprar no futuro. Elas não têm muito alcance e em geral não conseguem atrair novos clientes para a marca.
 

@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 A maior tarefa do marketing é facilitar as vendas de uma marca, aumentando sua disponibilidade física (distribuição) e mental (salience). Todo o resto é secundário. A competição entre as marcas acontece, em grande parte, nesses dois termos. Até a inovação de produtos funciona melhor, quando funciona, por meio de um brand salience reforçado e maior distribuição física.
 # Uma nova teoria da concorrência para vendas

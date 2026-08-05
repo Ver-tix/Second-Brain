@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # A Morte do Marketing de Massa
 > [! ]

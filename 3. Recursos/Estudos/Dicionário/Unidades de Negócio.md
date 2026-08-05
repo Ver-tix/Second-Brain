@@ -2,7 +2,6 @@
 tags:
   - marketing
   - business
-  - dicionario
 ---
 
 

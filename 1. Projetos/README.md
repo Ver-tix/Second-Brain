@@ -1,6 +1,5 @@
 ---
 tags:
-  - instruction
   - marketing
   - business
   - IA

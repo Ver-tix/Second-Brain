@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # Veja o que Kotler e seus colegas pensam sobre o marketing de massa
 Veja o que Philip Kotler e seus colegas (1998) escreveram sobre o marketing de massa e sobre como as marcas competem umas com as outras:

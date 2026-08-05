@@ -1,7 +1,3 @@
----
-tags:
-  - notes
----
 # Checklist
 - [ ] CEO - Responsável pelo 1. Business
 - [ ] CMO - Responsável pelo 2. Marketing

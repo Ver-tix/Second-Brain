@@ -1,7 +1,6 @@
 ---
 tags:
   - marketing
-  - dicionario
 ---
 O conceito de **vendedor silencioso** refere-se a elementos ou estratégias que influenciam a decisão de compra sem interação verbal direta, operando de três formas principais:
 

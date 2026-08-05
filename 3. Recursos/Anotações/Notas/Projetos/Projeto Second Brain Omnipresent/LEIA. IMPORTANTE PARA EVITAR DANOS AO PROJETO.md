@@ -1,8 +1,3 @@
----
-tags:
-  - notes
----
-
 ### Pós-projeto: workflow de branches (não forks)
 
 **Lógica:** você trabalha numa branch separada durante a semana, sem tocar na `main`. No fim da semana, revisa o que mudou e decide: mescla (se valeu a pena) ou descarta (se foi bagunça/experimento).

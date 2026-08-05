@@ -1,7 +1,6 @@
 ---
 tags:
   - branding
-  - descoberta
 ---
 # O que acontece quando as marcas crescem ou definham?
 ## Segundo a Lei do Duplo Risco

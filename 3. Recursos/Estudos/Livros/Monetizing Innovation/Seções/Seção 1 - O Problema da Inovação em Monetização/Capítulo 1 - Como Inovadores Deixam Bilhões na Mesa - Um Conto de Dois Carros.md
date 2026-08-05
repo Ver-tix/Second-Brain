@@ -1,7 +1,7 @@
 ---
 tags:
   - marketing
-  - "#case"
+  - case
 dominio:
   - marketing
 Subdominio:
