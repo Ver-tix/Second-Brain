@@ -300,7 +300,7 @@ Mais uma vez aplicando o princípio da responsabilidade única.
 
 ---
 
-# Laboratório 7.2 — Criando o EmbeddingService
+# Laboratório 7.2 — Criando o `EmbeddingService`
 
 Hoje construiremos a primeira peça real da infraestrutura de RAG.
 
