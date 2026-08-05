@@ -1,6 +1,6 @@
 ---
-tags:
-  - business
+tipo:
+  - MOC
 ---
 
 - [[Economia de Escala]]
