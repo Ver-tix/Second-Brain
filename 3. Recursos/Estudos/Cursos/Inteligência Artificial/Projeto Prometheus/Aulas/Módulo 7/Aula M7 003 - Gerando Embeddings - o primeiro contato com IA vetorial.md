@@ -166,7 +166,7 @@ Mas porque ele oferece excelente qualidade, baixo custo e é amplamente utilizad
 Hoje construiremos a primeira funcionalidade real da camada de conhecimento.
 
 ## [[🤖 Monitoria M7 003]] 
-## [[🛠 Desafio M7003]] 
+## [[🛠 Desafio M7 003]] 
 
 ## Objetivo
 
