@@ -185,6 +185,10 @@ Essa responsabilidade pertence à próxima aula.
 
 Criar uma infraestrutura capaz de armazenar documentos juntamente com seus embeddings.
 
+## [[🤖 Monitoria M7 004 - TEORIA]]
+## [[🤖 Monitoria M7 004 - PRÁTICA]] 
+## [[🛠 Desafio M7 004]] 
+
 ---
 
 ## Etapa 1 — Criar `vector_store.py`
