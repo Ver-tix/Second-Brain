@@ -294,3 +294,13 @@ Como você ainda **não gerou sua chave da OpenAI** para evitar custos, é esper
 O objetivo desta aula é construir corretamente a arquitetura e a integração. Quando você adicionar a chave no futuro, essa parte passará a funcionar sem necessidade de refatoração.
 
 Quando concluir o laboratório, envie os arquivos como sempre. Farei a revisão detalhada e gerarei o CHANGELOG da **M7.3**. 🚀
+
+---
+
+## O que vem agora?
+
+Na **M7.4**, acontece uma das maiores mudanças do módulo.
+
+Até agora o Prometheus sabe gerar vetores... **mas os descarta imediatamente**.
+
+Na próxima aula, construiremos o primeiro **Vector Store**. Pela primeira vez, o Prometheus conseguirá **armazenar representações semânticas** e preparar o terreno para responder perguntas utilizando conhecimento externo — o verdadeiro começo do RAG.

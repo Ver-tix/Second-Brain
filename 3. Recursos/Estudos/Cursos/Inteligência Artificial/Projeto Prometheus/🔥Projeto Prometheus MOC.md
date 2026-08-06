@@ -127,6 +127,7 @@ tags:
 - [[Aula M7 001 - O problema da memória externa]]
 - [[Aula M7 002 - Embeddings - Quando Texto Vira Geometria]]
 - [[Aula M7 003 - Gerando Embeddings - o primeiro contato com IA vetorial]]
+- [[Aula M7 004 - Construindo o Primeiro Vector Store do Prometheus]]
 
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/
 ---
