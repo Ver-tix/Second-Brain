@@ -349,7 +349,7 @@ EmbeddingService
 
 ---
 
-# Alteração em `knowledge_service.py`
+## Alteração em `knowledge_service.py`
 
 Seu arquivo hoje está assim:
 
@@ -382,9 +382,7 @@ O arquivo completo ficará:
 ```python
 from app.knowledge.embedding_service import EmbeddingService
 
-
 class KnowledgeService:
-
     def __init__(
         self,
         embedding_service: EmbeddingService
@@ -395,13 +393,12 @@ class KnowledgeService:
         self,
         text: str
     ) -> list[float]:
-
         return self.embedding_service.generate_embedding(text)
 ```
 
 ---
 
-# Por que fazer isso?
+### Por que fazer isso?
 
 À primeira vista parece desnecessário:
 
@@ -456,3 +453,156 @@ Ele nunca precisará saber quantos componentes existem dentro da camada de conhe
 Essa é uma aplicação clássica do princípio do **Encapsulamento**: esconder a complexidade interna atrás de uma interface simples.
 
 Implemente esse método e me envie o `knowledge_service.py`. Depois partiremos para a **Etapa 4**, onde faremos o teste temporário no `main.py`.
+
+# Etapa 4 - Teste temporário no `main.py`
+Ótimo! A **Etapa 4** é bem simples. Ela existe apenas para validar que a infraestrutura construída até agora realmente consegue conversar com a API de embeddings.
+
+## Objetivo
+
+Testar o fluxo completo:
+
+```text
+main.py
+     │
+     ▼
+KnowledgeService.generate_embedding(...)
+     │
+     ▼
+EmbeddingService.generate_embedding(...)
+     │
+     ▼
+OpenAI Embeddings API
+     │
+     ▼
+list[float]
+```
+
+Observe que **não chamamos o `EmbeddingService` diretamente**. Isso é proposital: queremos testar a API pública da camada de conhecimento.
+
+---
+
+## Onde inserir o teste?
+
+Logo após criar o `KnowledgeService` no `main.py`, antes da criação do `MentorAgent`.
+
+Ficará aproximadamente assim:
+
+```python
+# Instanciar o serviço de embedding
+embedding_service = EmbeddingService()
+
+# Instanciar o serviço de conhecimento
+knowledge_service = KnowledgeService(
+    embedding_service
+)
+
+# ===== Teste temporário =====
+embedding = knowledge_service.generate_embedding(
+    "Bitcoin é um ativo escasso."
+)
+
+print(
+    f"Dimensão do embedding: {len(embedding)}"
+)
+# ===========================
+
+# Cria o agente
+mentor = MentorAgent(
+    llm_service,
+    memory,
+    tool_manager,
+    knowledge_service,
+)
+```
+
+---
+
+## O que deve acontecer?
+
+### Se você possuir uma API Key válida
+
+O programa imprimirá algo semelhante a:
+
+```text
+Dimensão do embedding: 1536
+```
+
+O número **1536** é a dimensionalidade do vetor gerado pelo modelo `text-embedding-3-small`.
+
+---
+
+### No seu caso
+
+Como você ainda **não configurou uma chave válida da OpenAI** (por decisão consciente para evitar custos), é esperado que ocorra um erro ao tentar chamar a API.
+
+Isso **não significa que sua implementação esteja errada**.
+
+O professor deixou claro que este teste serve para mostrar **onde a chamada ocorrerá** quando a chave estiver disponível.
+
+---
+
+## Por que imprimir apenas `len(embedding)`?
+
+Porque um embedding é uma lista enorme de números de ponto flutuante.
+
+Algo parecido com:
+
+```python
+[
+    0.0184,
+   -0.0932,
+    0.7421,
+   -0.1167,
+    ...
+]
+```
+
+Imprimir tudo só poluiria o terminal.
+
+Ao imprimir:
+
+```python
+len(embedding)
+```
+
+você confirma duas coisas:
+
+1. A API respondeu corretamente.
+    
+2. O vetor possui a dimensionalidade esperada.
+    
+
+---
+
+### Observação arquitetural
+
+Esse teste é **temporário**. Na próxima aula, quando introduzirmos o banco vetorial, ele será removido. O fluxo passará a ser:
+
+```text
+Texto
+   │
+   ▼
+EmbeddingService
+   │
+   ▼
+Embedding
+   │
+   ▼
+VectorStore
+```
+
+Ou seja, o embedding deixará de ser apenas gerado e passará a ser armazenado, preparando o terreno para as buscas semânticas do RAG.
+
+Faça essa alteração no `main.py` e me envie o código. Em seguida, partiremos para a **Etapa 5**, que é a reflexão arquitetural mais importante desta aula.
+
+# Etapa 5 - Reflexão Arquitetural
+
+> **Por que criamos um método `generate_embedding()` no `KnowledgeService`, se ele apenas encaminha a chamada para o `EmbeddingService`? Não seria mais simples chamar o `EmbeddingService` diretamente?**
+
+Criamos esse método para **encapsular a infraestrutura interna da camada de conhecimento** e oferecer uma única interface pública para o restante do sistema.
+
+Hoje, o `KnowledgeService` apenas delega a chamada ao `EmbeddingService`, mas isso é uma decisão arquitetural. O objetivo é impedir que componentes externos, como o `MentorAgent`, dependam diretamente dos detalhes de implementação da camada de conhecimento.
+
+No futuro, o `KnowledgeService` deixará de conversar apenas com o `EmbeddingService` e passará a coordenar diversos componentes, como `Retriever`, `VectorStore`, `DocumentLoader` e `Chunker`. Como o restante da aplicação continuará interagindo apenas com o `KnowledgeService`, essa evolução poderá ocorrer sem modificar o `MentorAgent` ou qualquer outro componente consumidor.
+
+Em outras palavras, o `KnowledgeService` funciona como uma **fachada (Facade)** para a infraestrutura de conhecimento: ele esconde a complexidade interna, reduz o acoplamento entre os módulos e permite que a arquitetura evolua sem exigir refatorações nas camadas superiores. Esse é o mesmo princípio que já aplicamos anteriormente com o `ToolManager` e o `ToolRegistry`: expor uma interface simples enquanto protegemos os detalhes internos da implementação.
