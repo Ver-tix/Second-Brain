@@ -187,56 +187,34 @@ class VectorStore:
     def __init__(
 
             self
-
     ):
-
         self.documents=[]
 
-  
-
     def add_document(
-
             self,
-
             text: str,
-
             embedding: list[float]
 
     ):
 
-  
-
         # cria o dicionário com o texto e o embedding
-
         document = {
-
             "text": text,
-
             "embedding":embedding
-
         }
 
-  
-
         # (opcional, mas eu recomendo) salvar o documento nalista da classe
-
         self.documents.append(document)
 
-  
-
     def count_documents(self) ->int:
-
         return len(self.documents)
 
-  
-
     def list_documents(self) ->list:
-
         return self.documents
        
 ```
 
-# Etapa 4 - Atualizar o `KnowledgeService`
+# Etapa 5 - Atualizar o `KnowledgeService`
 
 ```Python
 from app.knowledge.embedding_service import EmbeddingService
@@ -267,4 +245,138 @@ class KnowledgeService:
             text,
             embedding
         )
+    def count_documents(self) ->int:
+        return self.vector_store.count_documents()
+    
 ```
+
+# Etapa 6 - Atualizar o `main.py`
+
+Perfeito. **Etapa 5 concluída.**
+
+Agora vamos para a **Etapa 6 — atualizar o `main.py`**.
+
+Até agora, a árvore de dependências estava:
+
+```text
+main.py
+   │
+   ▼
+KnowledgeService
+   │
+   ▼
+EmbeddingService
+```
+
+Agora teremos:
+
+```text
+main.py
+   │
+   ▼
+KnowledgeService
+   ├── EmbeddingService
+   └── VectorStore
+```
+
+### 1. Importe o `VectorStore`
+
+No topo do `main.py`, acrescente:
+
+```python
+from app.knowledge.vector_store import VectorStore
+```
+
+### 2. Instancie o `VectorStore`
+
+Depois de criar o `EmbeddingService`:
+
+```python
+embedding_service = EmbeddingService()
+
+vector_store = VectorStore()
+```
+
+### 3. Injete os dois no `KnowledgeService`
+
+Agora:
+
+```python
+knowledge_service = KnowledgeService(
+    embedding_service,
+    vector_store
+)
+```
+
+### 4. Faça o teste pedido pela aula
+
+Depois de criar o `KnowledgeService`:
+
+```python
+knowledge_service.add_document(
+    "Bitcoin é um ativo escasso."
+)
+
+knowledge_service.add_document(
+    "Ethereum permite contratos inteligentes."
+)
+
+print(
+    knowledge_service.count_documents()
+)
+```
+
+O resultado esperado é:
+
+```text
+2
+```
+
+### ⚠️ Mas temos um detalhe
+
+Para esse código funcionar, seu `KnowledgeService` ainda precisa possuir:
+
+```python
+def count_documents(self) -> int:
+    return self.vector_store.count_documents()
+```
+
+Isso é uma **fachada** para o método do `VectorStore`.
+
+O fluxo ficará:
+
+```text
+main.py
+   │
+   │ add_document("Bitcoin...")
+   ▼
+KnowledgeService
+   │
+   ├── EmbeddingService
+   │       ↓
+   │    embedding
+   │
+   └── VectorStore
+           ↓
+       documents[]
+```
+
+E quando o `main.py` perguntar:
+
+```python
+knowledge_service.count_documents()
+```
+
+teremos:
+
+```text
+KnowledgeService.count_documents()
+             ↓
+VectorStore.count_documents()
+             ↓
+       len(documents)
+             ↓
+             2
+```
+
+**Sua tarefa agora:** acrescente `count_documents()` ao `KnowledgeService`, atualize o `main.py` e me envie os dois arquivos. Depois revisamos antes da reflexão arquitetural da Etapa 7.

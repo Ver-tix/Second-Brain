@@ -128,6 +128,7 @@ tags:
 - [[Aula M7 002 - Embeddings - Quando Texto Vira Geometria]]
 - [[Aula M7 003 - Gerando Embeddings - o primeiro contato com IA vetorial]]
 - [[Aula M7 004 - Construindo o Primeiro Vector Store do Prometheus]]
+- [[Aula M7 005 - Busca por similaridade]]
 
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/
 ---
