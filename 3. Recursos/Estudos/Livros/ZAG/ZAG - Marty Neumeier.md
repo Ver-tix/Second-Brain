@@ -1,9 +1,16 @@
 ---
+tipo: fonte
 tags:
   - branding
   - estratégia
 author:
   - Marty Neumeier
+obra: "ZAG"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[3. Recursos/Estudos/Livros/ZAG/Capítulos/INTRODUÇÃO]]

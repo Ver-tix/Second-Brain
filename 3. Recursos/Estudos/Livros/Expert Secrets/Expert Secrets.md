@@ -1,13 +1,16 @@
 ---
-tipo:
-  - MOC
+tipo: fonte
 tags:
   - marketing
   - branding
-dominio:
-  - marketing
 author:
   - Russell Brunson
+obra: "Expert Secrets"
+dominio: marketing
+subdominio: marketing-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 ## Seção 1: Criando Seu Movimento

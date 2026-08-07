@@ -1,8 +1,15 @@
 ---
+tipo: fonte
 tags:
   - branding
 author:
   - Byron Sharp
+obra: "How Brands Grow"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[1 - Marketing Baseado em Evidências|1 - Marketing Baseado em Evidências]]

@@ -1,4 +1,5 @@
 ---
+tipo: fonte
 tags:
   - marketing
   - estratégia
@@ -6,6 +7,12 @@ tags:
 author:
   - Philip Kotler
   - Kevin L. Keller
+obra: "Administração em Marketing"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 ## Sumário
 ### Parte 1: O Que É Administração de Marketing

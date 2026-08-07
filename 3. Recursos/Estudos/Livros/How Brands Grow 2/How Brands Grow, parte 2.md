@@ -1,10 +1,17 @@
 ---
+tipo: fonte
 tags:
   - branding
   - estratégia
 author:
   - Byron Sharp
   - Jenni Romaniuk
+obra: "How Brands Grow 2"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[1 - Como Marcas Crescem|1 - Como Marcas Crescem|]]

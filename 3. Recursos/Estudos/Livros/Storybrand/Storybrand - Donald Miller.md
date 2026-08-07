@@ -1,10 +1,17 @@
 ---
+tipo: fonte
 tags:
   - marketing
   - branding
   - promoção
 author:
   - Donald Miller
+obra: "Storybrand"
+dominio: marketing
+subdominio: marketing-estrategico
+sub_subdominio: ""
+tier: 1
+status: consenso
 ---
 
 # Sumário

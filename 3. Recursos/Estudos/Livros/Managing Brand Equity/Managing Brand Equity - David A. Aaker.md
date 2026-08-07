@@ -1,9 +1,16 @@
 ---
+tipo: fonte
 tags:
   - branding
   - estratégia
 author:
   - David A. Aaker
+obra: "Managing Brand Equity"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[1 - O Que É Brand Equity]]

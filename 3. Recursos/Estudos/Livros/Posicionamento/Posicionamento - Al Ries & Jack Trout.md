@@ -1,15 +1,14 @@
 ---
-tipo:
-  - fonte
-dominio:
-  - branding
-Subdominio:
-  - branding-posicionamento
+tipo: fonte
+dominio: branding
+Subdominio: branding-posicionamento
 author:
   - Al Ries
   - Jack Trout
 tags:
   - branding
+tier: 1
+status: contestado
 ---
 
 ---

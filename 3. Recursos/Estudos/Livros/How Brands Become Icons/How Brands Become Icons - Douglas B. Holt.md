@@ -1,9 +1,16 @@
 ---
+tipo: fonte
 tags:
   - marketing
   - branding
 author:
   - Douglas B. Holt
+obra: "How Brands Become Icons"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[1. O QUE É UMA MARCA ICÔNICA]]

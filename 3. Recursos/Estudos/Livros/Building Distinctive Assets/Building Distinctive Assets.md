@@ -1,9 +1,17 @@
 ---
+tipo:
+  - moc
 tags:
   - branding
   - tático
 author:
   - Jenni Romaniuk
+obra: Building Distinctive Assets
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[1 - Os Sete Pecados Custosos da Identidade de Marca|1 - Os Sete Pecados Custosos da Identidade de Marca]]

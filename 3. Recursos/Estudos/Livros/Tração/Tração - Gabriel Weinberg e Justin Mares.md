@@ -1,4 +1,5 @@
 ---
+tipo: fonte
 tags:
   - marketing
   - tático
@@ -6,6 +7,12 @@ tags:
 author:
   - Gabriel Weinberg
   - Justin Mares
+obra: "Tração"
+dominio: marketing
+subdominio: marketing-estrategico
+sub_subdominio: ""
+tier: 1
+status: consenso
 ---
 # Sumário
 - [[Capítulo 1 - Canais de Tração|Capítulo 1 - Canais de Tração]]

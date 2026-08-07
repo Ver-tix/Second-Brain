@@ -1,13 +1,16 @@
 ---
+tipo: fonte
 tags:
   - marketing
   - estratégia
 author:
   - Russell Brunson
-tipo:
-  - MOC
-dominio:
-  - marketing
+obra: "DotCom Secrets"
+dominio: marketing
+subdominio: marketing-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 ---

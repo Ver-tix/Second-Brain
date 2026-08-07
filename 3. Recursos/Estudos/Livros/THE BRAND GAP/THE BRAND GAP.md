@@ -1,9 +1,16 @@
 ---
+tipo: fonte
 tags:
   - branding
   - tático
 author:
   - Marty Neumeier
+obra: "The Brand Gap"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[3. Recursos/Estudos/Livros/THE BRAND GAP/Capítulos/Introdução]]

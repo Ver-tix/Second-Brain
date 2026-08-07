@@ -1,10 +1,17 @@
 ---
+tipo: fonte
 tags:
   - marketing
   - branding
   - estratégia
 author:
   - David A. Aaker
+obra: "Building Strong Brands"
+dominio: branding
+subdominio: branding-estrategico
+sub_subdominio: ""
+tier: 1
+status: contestado
 ---
 # Sumário
 - [[1 - O Que É uma Marca Forte]]

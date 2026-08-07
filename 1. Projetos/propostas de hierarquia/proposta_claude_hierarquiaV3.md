@@ -61,21 +61,21 @@ business (CEO)
       marketing-tatico-promocao
       marketing-tatico-produto   # microverso fractal — pode ter seu próprio agente (cpo), subordinado ao cmo
 
-  brand-strategy (CBO)
+  branding-estrategico (CBO)
     branding-tatico
-      tatico-identidade_verbal-naming
-      tatico-identidade_verbal-tom_de_voz
-      tatico-identidade_verbal-messaging
-      tatico-identidade_verbal-ativos_distintivos_verbais
-      tatico-identidade_visual-logo
-      tatico-identidade_visual-tipografia
-      tatico-identidade_visual-cores
-      tatico-identidade_visual-ativos_distintivos_visuais
-      tatico-personalidade-arquetipos
-      tatico-experiencia_de_marca-cultural_branding
-      tatico-experiencia_de_marca-touchpoints
-      tatico-experiencia_de_marca-atendimento
-      tatico-experiencia_de_marca-embalagem
+      branding-tatico-identidade_verbal-naming
+      branding-tatico-identidade_verbal-tom_de_voz
+      branding-tatico-identidade_verbal-messaging
+      branding-tatico-identidade_verbal-ativos_distintivos_verbais
+      branding-tatico-identidade_visual-logo
+      branding-tatico-identidade_visual-tipografia
+      branding-tatico-identidade_visual-cores
+      branding-tatico-identidade_visual-ativos_distintivos_visuais
+      branding-tatico-personalidade-arquetipos
+      branding-tatico-experiencia_de_marca-cultural_branding
+      branding-tatico-experiencia_de_marca-touchpoints
+      branding-tatico-experiencia_de_marca-atendimento
+      branding-tatico-experiencia_de_marca-embalagem
 
   inteligenciaartificial (CTO)
 
@@ -473,9 +473,9 @@ Depois que o schema base (Passos 0-8) estiver estável, adicionar a camada de ro
 
 ## 12. Checklist de progresso
 
-- [ ] Passo 0 — branch de backup criada
-- [ ] Passo 1 — tags mecânicas corrigidas
-- [ ] Passo 2 — os 4 tipos entendidos (moc/fonte/conceito/sintese)
+- [x] Passo 0 — branch de backup criada
+- [x] Passo 1 — tags mecânicas corrigidas
+- [x] Passo 2 — os 4 tipos entendidos (moc/fonte/conceito/sintese)
 - [ ] Passo 3 — árvore de departamentos escrita por extenso
 - [ ] Passo 4 — HUBs existentes com campos novos (começando por Branding)
 - [ ] Passo 5 — fontes de um departamento com tier/status
