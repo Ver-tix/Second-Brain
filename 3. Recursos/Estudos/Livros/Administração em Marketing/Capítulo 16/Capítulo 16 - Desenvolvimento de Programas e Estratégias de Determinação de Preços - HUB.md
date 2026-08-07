@@ -3,6 +3,8 @@ tags:
   - marketing
   - tático
   - precificação
+tipo:
+  - MOC
 ---
 # Sumário
 - [[Introdução ao Programa de Preços]]

@@ -4,8 +4,6 @@ tags:
   - produto
   - luxo
 ---
-
-
 O design costuma ser um aspecto importante dos produtos de luxo, embora esse tipo de produto também enfrente problemas específicos. Talvez sejam um dos exemplos mais puros do papel do branding porque a marca e sua imagem costumam ser vantagens competitivas importantes que criam enorme valor e riqueza. Profissionais de marketing para marcas de luxo, como Prada.  
 Gucci, Cartier e Louis Vuitton, gerenciam franquias lucrativas que perduram há décadas em um setor que alguns acreditam valer US$ 270 bilhões.
 

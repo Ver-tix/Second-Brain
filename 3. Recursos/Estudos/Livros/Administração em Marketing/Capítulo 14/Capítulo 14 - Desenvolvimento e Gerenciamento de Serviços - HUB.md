@@ -2,9 +2,11 @@
 tags:
   - marketing
   - produto
+tipo:
+  - moc
 ---
 ## Sumário
-- [[Introdução Cap 14]] 
+- [[Introdução Capítulo 14]] 
 - [[A Natureza dos Serviços]]
 - [[As Novas Realidades no Setor de Serviços|As Novas Realidades no Setor de Serviços]]
 - [[Excelência em Marketing de Serviços|Excelência em Marketing de Serviços]]

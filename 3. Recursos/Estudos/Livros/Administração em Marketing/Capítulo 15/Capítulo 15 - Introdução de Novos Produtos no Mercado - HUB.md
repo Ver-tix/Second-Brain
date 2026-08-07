@@ -2,9 +2,11 @@
 tags:
   - marketing
   - produto
+tipo:
+  - moc
 ---
 # Sumário
-- [[3. Recursos/Estudos/Livros/Administração em Marketing/Introdução]]
+- [[Introdução ao Capítulo 15]]
 - [[Opções para Novos Produtos]]
 - [[Desafios no Desenvolvimento e Novos Produtos]]
 - [[Arranjos Organizacionais]]

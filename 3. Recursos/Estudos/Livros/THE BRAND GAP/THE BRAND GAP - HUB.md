@@ -8,7 +8,7 @@ tipo:
   - moc
 ---
 # Sumário
-- [[3. Recursos/Estudos/Livros/THE BRAND GAP/Capítulos/Introdução]]
+- [[3. Recursos/Estudos/Livros/THE BRAND GAP/Capítulos/Introdução|Introdução]]
 - [[Disciplina 1 - Diferencie]]
 - [[Disciplina 2 - Colabore]]
 - [[Disciplina 3 - Inove]]

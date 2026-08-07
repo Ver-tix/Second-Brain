@@ -1,6 +1,8 @@
 ---
 tags:
   - marketing
+tipo:
+  - moc
 ---
 ## Sumários
 - [[Introdução a Definição da Estratégia de Produto]]

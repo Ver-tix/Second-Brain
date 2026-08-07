@@ -6,6 +6,8 @@ tags:
 author:
   - Philip Kotler
   - Kevin L. Keller
+tipo:
+  - moc
 ---
 ## Sumário
 ### Parte 1: O Que É Administração de Marketing
@@ -25,10 +27,10 @@ author:
 - Capítulo 11 - Criação de Brand Equity
 - Capítulo 12 - Dinâmica Competitiva e Expansão de Mercado
 ### Parte 5: Criação de Valor
-- [[Capítulo 13 - Definição da Estratégia de Produto]]
+- [[Capítulo 13 - Definição da Estratégia de Produto - HUB]]
 - [[Capítulo 14 - Desenvolvimento e Gerenciamento de Serviços]]
-- [[Capítulo 15 - Introdução de Novos Produtos no Mercado]]
-- [[Capítulo 16 - Desenvolvimento de Programas e Estratégias de Determinação de Preços]]
+- [[Capítulo 15 - Introdução de Novos Produtos no Mercado - HUB]]
+- [[Capítulo 16 - Desenvolvimento de Programas e Estratégias de Determinação de Preços - HUB]]
 ### Parte 6: Entrega de Valor
 - Capítulo 17 - Projeto e Gestão de Canais Integrados de Marketing
 - Capítulo 18 - Gestão de Varejo, Atacado e Logística

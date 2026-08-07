@@ -5,6 +5,8 @@ tags:
 author:
   - Margaret Mark
   - Carol S. Pearson
+tipo:
+  - moc
 ---
 # Sumário
 ## Parte 1. Os ativos fundamentais: um sistema para administrar o significado
