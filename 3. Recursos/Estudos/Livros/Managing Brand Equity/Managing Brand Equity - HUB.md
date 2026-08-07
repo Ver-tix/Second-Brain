@@ -4,6 +4,8 @@ tags:
   - estratégia
 author:
   - David A. Aaker
+tipo:
+  - moc
 ---
 # Sumário
 - [[1 - O Que É Brand Equity]]
@@ -16,7 +18,7 @@ author:
 - [[8 - O Nome, Slogan e Símbolo]]
 - [[9 - Extensões de Marca, O Bom, O Mal e O Feio]]
 - [[10 - Revitalizando a Marca]]
-- [[3. Recursos/Estudos/Livros/Managing Brand Equity/11 - Organização para Construção de Marca]]
+- [[3. Recursos/Estudos/Livros/Managing Brand Equity/Capítulos/11 - Organização para Construção de Marca]]
 
 
 

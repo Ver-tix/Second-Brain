@@ -5,7 +5,7 @@ tags:
 author:
   - Russell Brunson
 tipo:
-  - MOC
+  - moc
 dominio:
   - marketing
 ---

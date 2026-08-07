@@ -5,6 +5,8 @@ tags:
   - promoção
 author:
   - Ray Edwards
+tipo:
+  - moc
 ---
 # Sumário
 - [[1 - Como Vender Sem Empurrar A Mercadoria]]

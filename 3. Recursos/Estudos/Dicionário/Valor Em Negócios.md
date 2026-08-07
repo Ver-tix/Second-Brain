@@ -43,7 +43,7 @@ O mesmo martelo pode custar R$ 20 ou R$ 200 dependendo da marca, escassez e cont
 ---
 
 ### 3. Valor Percebido
-[[Building Strong Brands - David A. Aaker]], [[Managing Brand Equity - David A. Aaker#Provendo Valor ao Consumidor e à Firma (Pág. 16 - 18) [Super Insight]]]
+[[Building Strong Brands - HUB]], [[Managing Brand Equity - HUB#Provendo Valor ao Consumidor e à Firma (Pág. 16 - 18) [Super Insight]]]
 
 > _O quanto o cliente acredita que algo vale — independentemente do custo ou utilidade real._
 

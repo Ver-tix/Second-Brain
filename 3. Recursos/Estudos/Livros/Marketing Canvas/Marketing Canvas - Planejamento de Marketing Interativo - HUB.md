@@ -1,6 +1,6 @@
 ---
 tipo:
-  - MOC
+  - moc
 dominio:
   - marketing
 Subdominio:

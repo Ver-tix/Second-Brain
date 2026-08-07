@@ -4,6 +4,8 @@ tags:
   - tático
 author:
   - Marty Neumeier
+tipo:
+  - moc
 ---
 # Sumário
 - [[3. Recursos/Estudos/Livros/THE BRAND GAP/Capítulos/Introdução]]

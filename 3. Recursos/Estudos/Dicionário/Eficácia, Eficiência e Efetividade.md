@@ -3,7 +3,7 @@ tags:
   - business
 ---
 
-A ideia de fazer mais com menos, gerar mais valor gastando menos, se conecta muito com o tema geral do [[Estratégia do Oceano Azul - W. Chan Kim & Renée Mauborgne]], em especial a Inovação em Valor, assim como o [[Análise Estratégica#Estratégia Do Oceano Azul Sob A Ótica Modelo de Negócio]]
+A ideia de fazer mais com menos, gerar mais valor gastando menos, se conecta muito com o tema geral do [[Estratégia do Oceano Azul - HUB]], em especial a Inovação em Valor, assim como o [[Análise Estratégica#Estratégia Do Oceano Azul Sob A Ótica Modelo de Negócio]]
 
 ## Eficiência
 

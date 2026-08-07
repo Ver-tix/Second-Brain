@@ -14,7 +14,7 @@ Sub_subdominio:
 author:
   - Russell Brunson
 ---
->[[Storybrand - Donald Miller]]: sua marca deve agir como mentor, e não como protagonista. O consumidor que deve ser visto como o protagonista
+>[[Storybrand - HUB]]: sua marca deve agir como mentor, e não como protagonista. O consumidor que deve ser visto como o protagonista
 
 # Tipos de Sequência de E-mails
 - **Sequência Noveleira:** a meta é, rapidamente, criar a relação com seu personagem atraente, empurrar seu prospecto para seu Funil Inicial, e ascendê-lo para o próximo funil da Escada de Valores;  

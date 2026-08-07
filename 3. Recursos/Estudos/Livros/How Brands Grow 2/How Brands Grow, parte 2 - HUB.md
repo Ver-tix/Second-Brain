@@ -5,6 +5,8 @@ tags:
 author:
   - Byron Sharp
   - Jenni Romaniuk
+tipo:
+  - moc
 ---
 # Sumário
 - [[1 - Como Marcas Crescem|1 - Como Marcas Crescem|]]

@@ -4,6 +4,8 @@ tags:
   - estratégia
 author:
   - Marty Neumeier
+tipo:
+  - moc
 ---
 # Sumário
 - [[3. Recursos/Estudos/Livros/ZAG/Capítulos/INTRODUÇÃO]]

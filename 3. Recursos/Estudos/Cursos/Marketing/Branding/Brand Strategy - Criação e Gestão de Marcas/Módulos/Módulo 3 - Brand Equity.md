@@ -5,7 +5,7 @@ tags:
 ---
 
 
-[[Managing Brand Equity - David A. Aaker]]
+[[Managing Brand Equity - HUB]]
 # Aula 1 - Conceito de Brand Equity
 
 ## Conceito

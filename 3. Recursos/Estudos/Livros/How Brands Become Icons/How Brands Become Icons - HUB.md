@@ -4,6 +4,8 @@ tags:
   - branding
 author:
   - Douglas B. Holt
+tipo:
+  - moc
 ---
 # Sumário
 - [[1. O QUE É UMA MARCA ICÔNICA]]

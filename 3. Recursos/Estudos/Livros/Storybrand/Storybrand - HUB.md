@@ -5,6 +5,8 @@ tags:
   - promoção
 author:
   - Donald Miller
+tipo:
+  - moc
 ---
 
 # Sumário

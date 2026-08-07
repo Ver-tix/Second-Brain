@@ -4,6 +4,8 @@ tags:
   - tático
 author:
   - Jenni Romaniuk
+tipo:
+  - moc
 ---
 # Sumário
 - [[1 - Os Sete Pecados Custosos da Identidade de Marca|1 - Os Sete Pecados Custosos da Identidade de Marca]]

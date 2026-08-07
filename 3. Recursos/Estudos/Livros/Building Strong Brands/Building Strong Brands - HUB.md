@@ -5,6 +5,8 @@ tags:
   - estratégia
 author:
   - David A. Aaker
+tipo:
+  - moc
 ---
 # Sumário
 - [[1 - O Que É uma Marca Forte]]
@@ -17,4 +19,4 @@ author:
 - [[8 - Gerindo Sistemas de Marca]]
 - [[9 - Alavancando a Marca]]
 - [[10 - Medindo o Brand Equity]]
-- [[3. Recursos/Estudos/Livros/Building Strong Brands/11 - Organização para Construção de Marca]]
+- [[3. Recursos/Estudos/Livros/Building Strong Brands/11 - Organização para Construção de Marca]][[3. Recursos/Estudos/Livros/Building Strong Brands/Capítulos/11 - Organização para Construção de Marca]]

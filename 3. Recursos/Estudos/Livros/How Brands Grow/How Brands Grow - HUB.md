@@ -3,6 +3,8 @@ tags:
   - branding
 author:
   - Byron Sharp
+tipo:
+  - moc
 ---
 # Sumário
 - [[1 - Marketing Baseado em Evidências|1 - Marketing Baseado em Evidências]]

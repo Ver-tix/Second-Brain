@@ -20,7 +20,7 @@ Largest Column: standard
 
 ### Vantagens
 1. **Aumenta o Retorno Sobre Investimento.*** Cobrar o preço inicial máximo do lançamento de um novo produto, particularmente em indústrias high tech, pode ajudar sua empresa a recuperar os custos de P&D publicidade.
-2. **Mantém a Imagem da Marca.*** Preço alto também pode dar a impressão de que o produto é de altíssima qualidade ([[Building Strong Brands - David A. Aaker]] fala um pouco sobre isso).
+2. **Mantém a Imagem da Marca.*** Preço alto também pode dar a impressão de que o produto é de altíssima qualidade ([[Building Strong Brands - HUB]] fala um pouco sobre isso).
 3. ***Divide o Mercado em Segmentos***. Permitindo a coleta máxima possível de lucros de diferentes categorias de clientes, à medida que reduz o preço
 4. ***Adotantes Iniciais Ajudam no Teste de Novos Produtos*** (checar [[O Processo de Adoção pelo Consumidor|O Processo de Adoção pelo Consumidor]]).
 

@@ -6,6 +6,8 @@ tags:
 author:
   - Gabriel Weinberg
   - Justin Mares
+tipo:
+  - moc
 ---
 # Sumário
 - [[Capítulo 1 - Canais de Tração|Capítulo 1 - Canais de Tração]]

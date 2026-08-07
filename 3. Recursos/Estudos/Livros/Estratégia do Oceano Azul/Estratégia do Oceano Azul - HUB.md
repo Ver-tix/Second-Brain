@@ -5,6 +5,8 @@ tags:
 author:
   - W. Chan Kim
   - Renée Mauborgne
+tipo:
+  - moc
 ---
 # Sumário
 ## Parte 1 - Crie Oceanos Azuis
