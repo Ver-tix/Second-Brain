@@ -428,7 +428,7 @@ E aqui aparece novamente a arquitetura que estamos construindo desde o início d
 
 Depois de colocar esse método, **não vamos mexer no `MentorAgent` ainda**. A próxima etapa será o teste da recuperação no `main.py`.
 
-## Etapa 4.1 - Teste de recuperação semântica
+# Etapa 5 - Teste de recuperação semântica
 ## 1. No `main.py`:
 
 Você pode substituir o teste temporário que tínhamos usado para verificar a dimensão do embedding.
@@ -549,3 +549,5 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+# Etapa 
