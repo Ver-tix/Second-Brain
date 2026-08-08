@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"90b11a41d8ed741d","type":"text","text":"<h1 align=\"center\"> Agente de IA </h1>\n","x":-80,"y":-60,"width":227,"height":60,"color":"5"},
+		{"id":"240f77258589151c","type":"text","text":"<h2 align=\"center\"> Identidade e Contexto </h2>\n","x":-680,"y":-260,"width":250,"height":60},
+		{"id":"e843afc3cb9941d5","type":"text","text":"<h3 align=\"center\">System Prompt </h3>\n\n","x":-1160,"y":-260,"width":250,"height":60},
+		{"id":"3374197e93a3ba23","type":"text","text":"<h2 align=\"center\">Guardrails</h2>","x":-680,"y":100,"width":250,"height":60},
+		{"id":"b5a8ac960cecc610","type":"text","text":"<h3 align=\"center\">Restrições, Segurança e Limite de Escopo</h3>","x":-1160,"y":103,"width":250,"height":60},
+		{"id":"6cf106532bf12917","type":"text","text":"<h2 align=\"center\">Ferrament/Tool Calling</h2>","x":500,"y":-260,"width":250,"height":60},
+		{"id":"2efbf08d546a6b30","type":"text","text":"<h2 align=\"center\">Memória</h2>","x":500,"y":109,"width":250,"height":60},
+		{"id":"221d8dd673cfa408","type":"text","text":"<h3 align=\"center\"> LLM utiliza ferramentas externas </h3>\n","x":920,"y":-260,"width":250,"height":60},
+		{"id":"be3558555db96e19","type":"text","text":"<h3 align=\"center\">Memória da Conversa</h3>","x":921,"y":-20,"width":250,"height":60},
+		{"id":"be48576d677e0ded","type":"text","text":"<h3 align=\"center\">Base de Conhecimento</h3>","x":921,"y":240,"width":250,"height":60},
+		{"id":"11551398c7d77457","type":"text","text":"<h4>Banco de Dados:</h4>\n<ul><li>SQL</li><li>SQLite</li><li>PostgreSQL</li><li>NoSql</li></ul>","x":1360,"y":-66,"width":250,"height":153},
+		{"id":"94f96a38d2dd9914","type":"text","text":"<h4>Base de Conhecimento - RAG</h4>","x":1360,"y":240,"width":250,"height":60},
+		{"id":"78eb0a8fee1a1677","x":1780,"y":164,"width":250,"height":213,"type":"text","text":"<h5>Banco Vetorial:</h5>\n<ul><li>Pinecone</li><li>Milvus</li><li>ChromaDB</li><li>MongoDB Atlas Vector Search</li><li>Qdrant</li></ul>"}
+	],
+	"edges":[
+		{"id":"5a7c1a8876bca30a","fromNode":"90b11a41d8ed741d","fromSide":"left","toNode":"240f77258589151c","toSide":"right"},
+		{"id":"2b2276e18ef823dc","fromNode":"90b11a41d8ed741d","fromSide":"left","toNode":"240f77258589151c","toSide":"right"},
+		{"id":"52a0b4afdf264787","fromNode":"240f77258589151c","fromSide":"left","toNode":"e843afc3cb9941d5","toSide":"right"},
+		{"id":"3512fd19d9faff0e","fromNode":"90b11a41d8ed741d","fromSide":"left","toNode":"3374197e93a3ba23","toSide":"right"},
+		{"id":"25ecd2866be14451","fromNode":"3374197e93a3ba23","fromSide":"left","toNode":"b5a8ac960cecc610","toSide":"right"},
+		{"id":"826fafe87a05fe08","fromNode":"90b11a41d8ed741d","fromSide":"right","toNode":"6cf106532bf12917","toSide":"left"},
+		{"id":"aad56e934d84859a","fromNode":"90b11a41d8ed741d","fromSide":"right","toNode":"2efbf08d546a6b30","toSide":"left"},
+		{"id":"9147dd9f63eb11c8","fromNode":"6cf106532bf12917","fromSide":"right","toNode":"221d8dd673cfa408","toSide":"left"},
+		{"id":"7baf4b952a35ce34","fromNode":"2efbf08d546a6b30","fromSide":"right","toNode":"be3558555db96e19","toSide":"left"},
+		{"id":"60a59df36d5b35ff","fromNode":"2efbf08d546a6b30","fromSide":"right","toNode":"be48576d677e0ded","toSide":"left"},
+		{"id":"74982bbc94d8e3bf","fromNode":"be3558555db96e19","fromSide":"right","toNode":"11551398c7d77457","toSide":"left"},
+		{"id":"7c0aad0a4f3ea277","fromNode":"be48576d677e0ded","fromSide":"right","toNode":"94f96a38d2dd9914","toSide":"left"},
+		{"id":"39c274613b9886ff","fromNode":"94f96a38d2dd9914","fromSide":"right","toNode":"78eb0a8fee1a1677","toSide":"left"}
+	]
+}
