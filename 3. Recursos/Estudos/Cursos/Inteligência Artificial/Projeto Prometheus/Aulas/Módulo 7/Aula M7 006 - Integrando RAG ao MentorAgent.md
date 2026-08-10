@@ -814,7 +814,7 @@ Prompt
 LLM
 ```
 
-E agora há uma diferença fundamental:
+E agora há uma diferença fundamental: 
 
 **o modelo não está respondendo apenas com aquilo que já sabia.**
 
@@ -877,6 +877,9 @@ O planejamento do Módulo 7 define justamente esta aula como a integração do `
 # 🛠️ Desafio M7.006 — Integrando RAG ao MentorAgent
 
 **Agora, sim, vem o desafio.**
+
+## [[🛠 Desafio M7 006]]
+## [[🤖 Monitoria M7 006]]
 
 ### Parte 1 — Dependência
 
@@ -1014,3 +1017,6 @@ Queremos terminar a M7.6 com uma arquitetura simples, porém fundamental:
 ```
 
 **Agora é laboratório.** Você implementa o M7.006 e me manda os códigos. Eu faço a revisão como professor — e, depois de aprovado, registramos a evolução no CHANGELOG.
+
+---
+
