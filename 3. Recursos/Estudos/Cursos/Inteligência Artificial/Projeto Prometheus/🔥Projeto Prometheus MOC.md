@@ -82,7 +82,7 @@ tags:
 - [[Aula M3 9 - Projeto Final]]
 
 # Módulo 4 - IA Aplicada
-**==A partir e agora, os feedbacks dos exercícios terão explicações sobre as linhas de códigos e arquiteturas. ==**
+**A partir e agora, os feedbacks dos exercícios terão explicações sobre as linhas de códigos e arquiteturas.**
 - [[Aula M4 1 - O LLM Deixa De Ser Um Chatbot]]
 - [[Aula M4 2 - Nosso primeiro cliente de LLM]]
 - [[Aula M4 3 - Escrevendo nosso primeiro cliente de LLM]]
@@ -129,6 +129,9 @@ tags:
 - [[Aula M7 003 - Gerando Embeddings - o primeiro contato com IA vetorial]]
 - [[Aula M7 004 - Construindo o Primeiro Vector Store do Prometheus]]
 - [[Aula M7 005 - Busca por similaridade]]
+- [[Aula M7 006 - Integrando RAG ao MentorAgent]]
+
+
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/
 ---
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Monitorias
