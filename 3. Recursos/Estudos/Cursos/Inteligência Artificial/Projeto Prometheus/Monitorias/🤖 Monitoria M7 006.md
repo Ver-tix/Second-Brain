@@ -598,7 +598,7 @@ Atualização de `main.py`
 
 Boa notícia: **a cadeia de dependências já está montada corretamente** no seu `main.py`. O fluxo pedido pelo curso já existe:
 
-```20:30:c:\Users\caioe\OneDrive\Documentos\Projetos\prometheus\prometheus-mentor\app\main.py
+```python
     # Instanciar o serviço de embedding
     embedding_service = EmbeddingService()
 
@@ -612,7 +612,7 @@ Boa notícia: **a cadeia de dependências já está montada corretamente** no se
     )
 ```
 
-```59:65:c:\Users\caioe\OneDrive\Documentos\Projetos\prometheus\prometheus-mentor\app\main.py
+```python
     # Cria o agente, recebendo o serviço
     mentor = MentorAgent(
         llm_service, 
@@ -646,7 +646,7 @@ A integração funcional está feita. O que falta é **organizar** o `main.py` p
 
 Este bloco era útil nas aulas do `VectorStore`, mas agora a busca acontece dentro do `MentorAgent`:
 
-```46:55:c:\Users\caioe\OneDrive\Documentos\Projetos\prometheus\prometheus-mentor\app\main.py
+```python
     results = knowledge_service.search(
         "Qual é a quantidade máxima de Bitcoins?"
     )
@@ -1186,3 +1186,142 @@ Queremos provar:
 Se isso acontecer, **M7.006 está concluída**.
 
 Depois disso, podemos fazer a revisão final da aula e gerar o **CHANGELOG M7.006**, registrando exatamente o que você construiu e quais abstrações novas entraram no Prometheus.
+
+# Etapa 7 - Reflexão Arquitetônica
+Porque o VectorStore é um detalhe de implementação da recuperação de conhecimento, enquanto o MentorAgent deveria se preocupar apenas com a tarefa de ensinar e responder ao usuário.
+
+O `MentorAgent` precisa fazer algo conceitualmente simples:
+
+```
+"Preciso de conhecimento relevante para responder esta pergunta."
+```
+
+Ele não deveria precisar saber:
+
+```
+"Preciso gerar um embedding,
+consultar um banco vetorial,
+calcular similaridade,
+ordenar resultados..."
+```
+
+Por isso introduzimos o:
+
+```
+MentorAgent
+      ↓
+KnowledgeService
+      ↓
+VectorStore
+```
+
+O `KnowledgeService` funciona como uma **camada de abstração** entre o agente e a infraestrutura de conhecimento.
+
+Assim, o `MentorAgent` depende de uma **capacidade**:
+
+```
+knowledge_service.search(question)
+```
+
+e não de uma **implementação concreta**:
+
+```
+vector_store.search(embedding)
+```
+
+Isso produz um desacoplamento importante.
+
+Hoje, por exemplo:
+
+```
+KnowledgeService
+       ↓
+VectorStore
+```
+
+pode utilizar nosso armazenamento vetorial atual.
+
+No futuro, poderíamos substituir a implementação por outro mecanismo de busca, outro banco vetorial ou uma arquitetura mais sofisticada **sem precisar reescrever o `MentorAgent`**.
+
+### 🔥 Princípio Prometheus
+
+> **O agente deve conhecer capacidades, não detalhes de infraestrutura.**
+
+Essa é uma ideia extremamente importante para o Prometheus OS: quanto mais os agentes dependerem de abstrações e serviços bem definidos, mais fácil será reutilizar os mesmos agentes em diferentes ecossistemas.
+
+---
+
+## 2. Qual é a diferença arquitetural entre `ConversationMemory` e `KnowledgeService`?
+
+A diferença fundamental está em **de onde vem o conhecimento e qual é sua finalidade**.
+
+### `ConversationMemory`
+
+Representa o **estado contextual da conversa atual**.
+
+Ela responde essencialmente:
+
+> **"O que já aconteceu nesta conversa?"**
+
+Por exemplo:
+
+```
+Usuário: Explique Transformers.
+
+Mentor: Transformers utilizam...
+
+Usuário: E como funciona a atenção?
+
+Mentor: Como expliquei anteriormente...
+```
+
+A `ConversationMemory` permite que o agente mantenha continuidade entre essas interações.
+
+Podemos visualizar:
+
+```
+Usuário
+   ↓
+Conversa
+   ↓
+ConversationMemory
+   ↓
+Histórico/contexto da interação
+```
+
+---
+
+### `KnowledgeService`
+
+Representa o **conhecimento externo que pode ser recuperado para responder à pergunta**.
+
+Ele responde:
+
+> **"Que conhecimento relevante eu tenho disponível para esta pergunta?"**
+
+Por exemplo:
+
+```
+Pergunta:
+"Qual é a oferta máxima do Bitcoin?"
+
+        ↓
+
+KnowledgeService
+        ↓
+VectorStore
+        ↓
+"Bitcoin possui oferta máxima de 21 milhões."
+```
+
+Visualmente:
+
+```
+Base de conhecimento
+        ↓
+VectorStore
+        ↓
+KnowledgeService
+        ↓
+Conhecimento relevante
+```
