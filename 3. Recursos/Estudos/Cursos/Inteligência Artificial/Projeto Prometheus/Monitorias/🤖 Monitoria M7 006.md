@@ -805,3 +805,384 @@ flowchart TD
 | Reorganizar comentários/seções | Recomendado |
 
 A Parte 5 está essencialmente concluída — falta só a limpeza organizacional. Quer que eu aplique isso no projeto? Mude para o **modo Agent** e peça.
+
+---
+
+# Correção Preliminar:
+Sim. Agora temos material suficiente para fazer a revisão **do que você realmente implementou**, sem voltar etapas.
+
+E já adianto: **a arquitetura está correta para o objetivo da M7.006**. Há, porém, alguns pontos que eu quero que você entenda antes de considerarmos a aula encerrada.
+
+## 1. `MentorAgent` — correto
+
+Você fez:
+
+```python
+results = self.knowledge_service.search(question)
+```
+
+Isso é exatamente a separação que queríamos:
+
+```text
+MentorAgent
+      │
+      │ pergunta
+      ▼
+KnowledgeService
+      │
+      ├── EmbeddingService
+      │
+      └── VectorStore
+```
+
+O `MentorAgent` **não sabe** como o embedding é gerado nem como a similaridade é calculada.
+
+Depois você transforma os resultados em contexto:
+
+```python
+context = "\n".join(
+    result["text"] for result in results
+)
+```
+
+Isso também está correto para esta aula. Não criamos uma classe `ContextBuilder`, porque o desafio explicitamente pediu para não abstrairmos isso ainda.
+
+### E depois:
+
+```python
+prompt = PromptBuilder.build(
+    history,
+    question,
+    context,
+)
+```
+
+Perfeito.
+
+O `MentorAgent` reúne os dados; o `PromptBuilder` monta o prompt.
+
+---
+
+# 2. `PromptBuilder` — correto
+
+A alteração principal foi:
+
+```python
+def build(
+    history: str,
+    question: str,
+    context: str = ""
+) -> str:
+```
+
+E você criou:
+
+```python
+context_section = ""
+
+if context:
+    context_section = (
+        f"Contexto relevante da base de conhecimento:\n"
+        f"{context}\n\n"
+    )
+```
+
+Isso é interessante porque mantém o `context` **opcional**.
+
+Ou seja, conceitualmente:
+
+```text
+sem contexto
+      ↓
+prompt normal
+```
+
+e:
+
+```text
+com contexto
+      ↓
+prompt + contexto
+```
+
+Para a M7.006, está adequado.
+
+---
+
+# 3. `KnowledgeService` — correto
+
+Seu fluxo:
+
+```python
+def search(
+        self,
+        query: str,
+        top_k: int = 3
+):
+    query_embedding = self.embedding_service.generate_embedding(query)
+
+    return self.vector_store.search(
+        query_embedding,
+        top_k
+    )
+```
+
+Está exatamente onde essa lógica deveria estar.
+
+Observe a divisão:
+
+```text
+MentorAgent
+    │
+    │ search("...")
+    ▼
+KnowledgeService
+    │
+    ├── transforma query em embedding
+    │
+    ▼
+EmbeddingService
+    │
+    ▼
+query_embedding
+    │
+    ▼
+VectorStore
+    │
+    ▼
+resultados
+```
+
+O `MentorAgent` não precisa conhecer nenhum desses detalhes.
+
+Isso é **encapsulamento arquitetural**, e não apenas "organização de código".
+
+---
+
+# 4. `main.py` — correto
+
+Aqui você fez uma coisa particularmente boa:
+
+```python
+embedding_service = EmbeddingService()
+vector_store = VectorStore()
+
+knowledge_service = KnowledgeService(
+    embedding_service,
+    vector_store
+)
+```
+
+e depois:
+
+```python
+mentor = MentorAgent(
+    llm_service, 
+    memory,
+    tool_manager,
+    knowledge_service,
+)
+```
+
+Temos finalmente a árvore de dependências que construímos ao longo das aulas:
+
+```text
+main.py
+│
+├── LLMService
+├── ConversationMemory
+├── ToolManager
+│
+└── KnowledgeService
+      │
+      ├── EmbeddingService
+      │
+      └── VectorStore
+```
+
+E isso é exatamente o que queríamos alcançar.
+
+---
+
+# 5. O ponto mais importante: o RAG agora está realmente conectado
+
+Antes da M7.006:
+
+```text
+Usuário
+   ↓
+MentorAgent
+   ↓
+PromptBuilder
+   ↓
+LLM
+```
+
+O conhecimento existia **paralelamente**, mas não participava da geração.
+
+Agora:
+
+```text
+Usuário
+   ↓
+MentorAgent
+   │
+   ├───────────────┐
+   │               │
+   ▼               ▼
+Memory       KnowledgeService
+                  │
+                  ▼
+             Retrieval
+                  │
+                  ▼
+              Contexto
+                  │
+                  └──────────┐
+                             ▼
+                       PromptBuilder
+                             │
+                             ▼
+                        LLMService
+                             │
+                             ▼
+                          resposta
+```
+
+**Esse é o marco importante da M7.006.**
+
+Você acabou de transformar o conjunto de componentes que construímos nas aulas anteriores em um **pipeline de RAG end-to-end**.
+
+---
+
+# 6. Mas há uma coisa que quero que você observe
+
+Você está usando:
+
+```python
+results = self.knowledge_service.search(question)
+```
+
+diretamente em **toda pergunta**.
+
+Isso significa que, atualmente:
+
+> Toda pergunta consulta a base de conhecimento.
+
+Isso **não é um erro para a M7.006**.
+
+Na verdade, o próprio desafio desta aula pediu para fazer o Mentor consultar o `KnowledgeService` durante o processamento da pergunta.
+
+Mas existe uma diferença importante:
+
+### O que temos agora
+
+```text
+Pergunta
+   ↓
+sempre faz retrieval
+   ↓
+LLM
+```
+
+### O que teremos futuramente
+
+```text
+Pergunta
+   ↓
+Mentor decide
+   │
+   ├── não precisa de conhecimento → LLM
+   │
+   └── precisa → KnowledgeService
+                         ↓
+                      contexto
+                         ↓
+                         LLM
+```
+
+**Não vamos implementar isso agora.**
+
+Isso pertence à evolução posterior do sistema de decisão do agente.
+
+---
+
+# 7. Uma pequena observação de qualidade
+
+No `PromptBuilder`, você escreveu:
+
+```python
+context_section= ""
+```
+
+e:
+
+```python
+f"Contexto relevante da base de conhecimento:\n"
+```
+
+Eu só faria a melhoria estética:
+
+```python
+context_section = ""
+```
+
+e:
+
+```python
+f"Contexto relevante da base de conhecimento:\n"
+```
+
+Nada arquitetural. É apenas PEP 8/espaçamento.
+
+---
+
+# 8. Agora falta a prova final
+
+**A implementação da M7.006 está essencialmente concluída.**
+
+Mas eu **não encerraria a aula ainda**.
+
+Falta o teste que prova que as peças realmente estão trabalhando juntas.
+
+Execute o Prometheus e faça:
+
+> **Qual é a quantidade máxima de Bitcoins?**
+
+O que queremos observar é:
+
+```text
+Pergunta
+   ↓
+MentorAgent
+   ↓
+KnowledgeService.search()
+   ↓
+EmbeddingService
+   ↓
+VectorStore
+   ↓
+Bitcoin possui uma oferta máxima de 21 milhões...
+   ↓
+context
+   ↓
+PromptBuilder
+   ↓
+LLM
+   ↓
+Resposta
+```
+
+### E aqui está o teste arquitetural de verdade:
+
+A resposta do Mentor deve ser capaz de mencionar **21 milhões** porque esse conhecimento foi colocado no VectorStore e recuperado pelo pipeline.
+
+Não estamos interessados apenas em "o programa rodou".
+
+Queremos provar:
+
+> **o conhecimento armazenado foi recuperado e incorporado ao prompt que chegou ao LLM.**
+
+Se isso acontecer, **M7.006 está concluída**.
+
+Depois disso, podemos fazer a revisão final da aula e gerar o **CHANGELOG M7.006**, registrando exatamente o que você construiu e quais abstrações novas entraram no Prometheus.
