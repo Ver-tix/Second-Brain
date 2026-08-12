@@ -1,93 +1,72 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#IA  ",
-      "color": {
-        "a": 1,
-        "rgb": 33274
-      }
-    },
-    {
-      "query": "tag:#business  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#marketing  ",
-      "color": {
-        "a": 1,
-        "rgb": 16741120
-      }
-    },
-    {
-      "query": "tag:#RealEstate  ",
-      "color": {
-        "a": 1,
-        "rgb": 9175295
-      }
-    },
-    {
-      "query": "tag:#branding",
-      "color": {
-        "a": 1,
-        "rgb": 9006823
-      }
-    },
-    {
-      "query": "path:Notas",
-      "color": {
-        "a": 1,
-        "rgb": 16110592
-      }
-    },
-    {
-      "query": "tag:#Economia",
-      "color": {
-        "a": 1,
-        "rgb": 39171
-      }
-    },
-    {
-      "query": "tag:#notes  ",
+      "query": "[\"dominio\":marketing]",
       "color": {
         "a": 1,
         "rgb": 16768256
       }
     },
     {
-      "query": "#programação",
+      "query": "[\"dominio\":branding]",
       "color": {
         "a": 1,
-        "rgb": 33265
+        "rgb": 16737792
       }
     },
     {
-      "query": "tag:#programação ",
+      "query": "tag:#branding  ",
       "color": {
         "a": 1,
-        "rgb": 6467833
+        "rgb": 16737792
+      }
+    },
+    {
+      "query": "tag:#marketing  ",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "[\"dominio\":ia]",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#IA  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#business  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 1.03151041666667,
-  "lineSizeMultiplier": 0.419010416666667,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.502604166666667,
-  "repelStrength": 12.5520833333333,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 163,
-  "scale": 0.00781250000000002,
+  "linkDistance": 250,
+  "scale": 0.0587197035277058,
   "close": true
 }
