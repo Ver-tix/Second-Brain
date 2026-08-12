@@ -130,6 +130,7 @@ tags:
 - [[Aula M7 004 - Construindo o Primeiro Vector Store do Prometheus]]
 - [[Aula M7 005 - Busca por similaridade]]
 - [[Aula M7 006 - Integrando RAG ao MentorAgent]]
+- [[Aula M7 007 -  O Second Brain como Fonte de Conhecimento]]
 
 
 3. Recursos/Estudos/Cursos/Inteligência Artificial/Projeto Prometheus/Aulas/Módulo 7/
