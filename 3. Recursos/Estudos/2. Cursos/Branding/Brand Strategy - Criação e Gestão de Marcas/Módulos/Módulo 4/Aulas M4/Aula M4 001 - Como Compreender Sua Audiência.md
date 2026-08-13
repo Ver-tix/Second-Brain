@@ -4,13 +4,13 @@ tags:
 dominio:
   - branding
 Subdominio:
-  - brand-equity
+  - segmentos-de-cliente
+Sub_subdominio:
+  - segmentação-cliente
 tipo:
   - fonte
 author:
   - EBAC
-Sub_subdominio:
-  - segmentação-cliente
 ---
 ### _“Quem Quer Agradar Todo Mundo Acaba Não Agradando Ninguém”_
 

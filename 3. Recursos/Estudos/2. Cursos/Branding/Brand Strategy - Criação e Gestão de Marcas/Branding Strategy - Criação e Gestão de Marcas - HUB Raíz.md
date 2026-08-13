@@ -13,7 +13,7 @@ Subdominio:
 - [[Módulo 2 - Como Nasce uma Marca - HUB]]
 - [[Módulo 3 - Brand Equity - HUB]]
 - [[Módulo 4 - Consumidor - HUB]]
-- [[Módulo 5 - Análise de Mercado]]
+- [[Módulo 5 - Análise de Mercado - HUB]]
 - [[Módulo 6 - Diagnóstico de Marca]]
 - [[Módulo 7 - Mix de Marketing]]
 - [[Módulo 8 - A Marca Como Pessoa]]

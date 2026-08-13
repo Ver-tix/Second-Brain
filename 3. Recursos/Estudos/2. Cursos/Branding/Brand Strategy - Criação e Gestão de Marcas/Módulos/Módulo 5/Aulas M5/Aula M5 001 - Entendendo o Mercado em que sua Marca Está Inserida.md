@@ -4,7 +4,7 @@ tags:
 dominio:
   - branding
 Subdominio:
-  - brand-equity
+  - analise-mercado
 tipo:
   - fonte
 author:

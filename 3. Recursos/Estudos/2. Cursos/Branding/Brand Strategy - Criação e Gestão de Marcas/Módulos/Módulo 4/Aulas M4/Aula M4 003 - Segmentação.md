@@ -4,13 +4,13 @@ tags:
 dominio:
   - branding
 Subdominio:
-  - brand-equity
+  - segmentos-mercado
+Sub_subdominio:
+  - segmentação-mercado
 tipo:
   - fonte
 author:
   - EBAC
-Sub_subdominio:
-  - segmentação-mercado
 ---
 ### O Que É Segmentação?
 

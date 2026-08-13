@@ -4,13 +4,13 @@ tags:
 dominio:
   - branding
 Subdominio:
-  - brand-equity
+  - comunidades
+Sub_subdominio:
+  - comunidades
 tipo:
   - fonte
 author:
   - EBAC
-Sub_subdominio:
-  - comunidades
 ---
 ## O Que É?
 

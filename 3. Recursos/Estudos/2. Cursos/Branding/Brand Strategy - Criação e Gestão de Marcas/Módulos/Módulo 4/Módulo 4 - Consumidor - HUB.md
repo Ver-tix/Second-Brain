@@ -4,7 +4,7 @@ tags:
 dominio:
   - branding
 Subdominio:
-  - brand-equity
+  - segmentos-de-cliente
 tipo:
   - MOC
 author:
