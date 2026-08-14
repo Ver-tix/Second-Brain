@@ -2,9 +2,11 @@
 tags:
   - marketing
   - branding
+tipo:
+  - fonte
+dominio:
+  - branding
 ---
-# Aula 1 - Por Que Sua Empresa Deve Investir Em Branding?
-
 > “Investir em Branding é investir na sua empresa a longo prazo” - **Tiago Carossi**
 
 ## Ajuda a Marca a Crescer
