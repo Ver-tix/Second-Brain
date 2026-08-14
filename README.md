@@ -107,20 +107,22 @@ As áreas formam uma **pilha de camadas**, onde cada uma se apoiou na anterior �
 ├─────────────────────────────────────┤
 │  3. Inteligência Artificial         │  ← MULTIPLICADOR (otimiza e automatiza)
 ├─────────────────────────────────────┤
-│  2. Marketing                       │  ← COMO entregar e comunicar valor
+│  2.2. Branding                      │  ← COMO construir identidade, percepção e reputação
+├─────────────────────────────────────┤
+│  2.1. Marketing                     │  ← COMO atração, conversão e distribuição de valor
 ├─────────────────────────────────────┤
 │  1. Business                        │  ← O QUE é valor, estratégia, modelos
 └─────────────────────────────────────┘
         fundamentos → aplicação
 ```
 
-| Área                               | Pergunta que responde                                             | Natureza                                                                               |
-| ---------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **[[1. Business HUB]]**                | "O que é valor? Como negócios criam e capturam valor?"            | **Fundamentos** — mental models (Porter, VRIO, BMC, Inovação)                          |
-| **[[2.1. Marketing HUB]]**               | "Como transformar esse valor em ofertas que os clientes queiram?" | **Aplicação externa** — constrói sobre Business (posicionamos *valor*, não abstrações) |
-| **[[3. Inteligência Artificial HUB]]** | "Como fazer mais, mais rápido, com menos esforço?"                | **Multiplicador transversal** — atravessa as duas anteriores                           |
-| **[[4. Mercado Imobiliário HUB]]**     | "Onde, concretamente, vou aplicar tudo isso?"                     | **Domínio específico** — o ponto de convergência                                       |
-
+| **Área**                               | **Pergunta que responde**                                                 | **Natureza**                                                          |
+| -------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **[[1. Business HUB]]**                | "O que é valor? Como negócios criam e capturam valor?"                    | Fundamentos — mental models (Porter, VRIO, BMC, Inovação)             |
+| **[[2.1. Marketing HUB]]**             | "Como transformar esse valor em ofertas que atraem e convertem clientes?" | Aplicação externa — atração, canais e aquisição de demanda            |
+| **[[2.2. Branding HUB]]**              | "Como construir percepção de valor, reputação e posicionamento único?"    | Identidade e ativo de longo prazo — diferenciação e equidade de marca |
+| **[[3. Inteligência Artificial HUB]]** | "Como fazer mais, mais rápido, com menos esforço?"                        | Multiplicador transversal — atravessa as camadas anteriores           |
+| **[[4. Mercado Imobiliário HUB]]**     | "Onde, concretamente, vou aplicar tudo isso?"                             | Domínio específico — o ponto de convergência                          |
 
 ---
 
@@ -134,23 +136,22 @@ A diferença entre **Área** e **Projeto** é o *prazo/fim*, não o tema:
 Em outras palavras, **Projetos são fatias verticais que cortam as Áreas na horizontal**:
 
 ```
-1.Business   2.Marketing   3.IA    4.Merc.Imob.
-    │             │           │          │
-    └─────────────┴───┬───────┴──────────┘   ← um PROJETO é esse corte transversal           |
-                      │
-                entregável concreto + prazo
+1.Business    2.1.Marketing    2.2.Branding    3.IA    4.Merc.Imob.
+    │               │                │          │           │
+    └───────────────┴────────────────┴────┬─────┴───────────┘   ← um PROJETO é esse corte transversal          |
+                                          │
+                             entregável concreto + prazo
 ```
 
 ---
 
 ## 3. Exemplos concretos (baseados neste vault)
-
-| Projeto | Quais Áreas combina | Entregável |
-|---------|--------------------|------------|
-| **Incorporação Imobiliária** | Business + Marketing + IA + Mercado Imobiliário | Lançar um empreendimento / criar a operação — *o exemplo perfeito, toca nas 4 áreas* |
-| **Projeto Prometheus** | principalmente IA | Concluir a formação em IA (tem fim: quando o curso termina) |
-| *(futuro)* "Campanha de pré-lançamento do Empreendimento X" | Marketing + Mercado Imobiliário | Materiais prontos até uma data |
-| *(futuro)* "Definir estratégia competitiva do meu negócio" | Business | Documento de estratégia até uma data |
+|**Projeto**|**Quais Áreas combina**|**Entregável**|
+|---|---|---|
+|**Incorporação Imobiliária**|Business + Marketing + Branding + IA + Mercado Imobiliário|Lançar um empreendimento / criar a operação — o exemplo perfeito, toca em todas as áreas|
+|**Projeto Prometheus**|principalmente IA|Concluir a formação em IA (tem fim: quando o curso termina)|
+|**(futuro) "Campanha de pré-lançamento do Empreendimento X"**|Marketing + Branding + Mercado Imobiliário|Materiais de comunicação, identidade e atração prontos até uma data|
+|**(futuro) "Definir estratégia competitiva do meu negócio"**|Business + Branding|Documento de estratégia, proposta de valor e posicionamento de marca até uma data|
 
 ---
 
@@ -159,9 +160,10 @@ Em outras palavras, **Projetos são fatias verticais que cortam as Áreas na hor
 ```
 1. Projetos/
 ├── Incorporação Imobiliária/
-│   ├── Visão e objetivos.md          ← combinação das 4 áreas
+│   ├── Visão e objetivos.md          ← combinação de todas as áreas
 │   ├── Estratégia de negócio.md      ← puxa de Business
-│   ├── Marketing e vendas.md         ← puxa de Marketing
+│   ├── Marketing e vendas.md         ← puxa de 2.1. Marketing
+│   ├── Branding e posicionamento.md  ← puxa de 2.2. Branding
 │   ├── Automações com IA/            ← puxa de IA
 │   └── (prompts e materiais relacionados)
 │
@@ -170,7 +172,6 @@ Em outras palavras, **Projetos são fatias verticais que cortam as Áreas na hor
 ```
 
 ---
-
 ## 5. Ciclo de vida no PARA
 
 Quando um projeto **termina**, ele (ou seus artefatos relevantes) migra para `4. Arquivos/` ou vira material de referência em `3. Recursos/`.
