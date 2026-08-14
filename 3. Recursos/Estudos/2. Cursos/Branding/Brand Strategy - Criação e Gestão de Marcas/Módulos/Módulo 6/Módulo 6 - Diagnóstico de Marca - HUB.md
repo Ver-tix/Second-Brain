@@ -18,6 +18,7 @@ author:
 ## Recapitulando
 - [[Glossário M6]]
 - [[Reforce Seu Conhecimento M6]]
+- [[Boas Práticas M6]]
 ## Pratique
 - [[Pratique M6]]
 - [[Desafio Antena 1 (2)]]

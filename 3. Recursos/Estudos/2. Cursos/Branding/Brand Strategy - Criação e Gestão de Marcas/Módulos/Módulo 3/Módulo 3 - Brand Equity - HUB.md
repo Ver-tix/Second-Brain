@@ -14,7 +14,7 @@ author:
 ## Aulas
 - [[Aula M3 001 - Conceito de Brand Equity]]
 - [[Aula M3 002 - Criação de Valor Percebido]]
-- [[Aula M3 003 - Por que A Marca É E Será Cada Vez Mias o Principal Ativos da Empresa ❔]]
+- [[Aula M3 003 - Por que A Marca É E Será Cada Vez Mais o Principal Ativos da Empresa ❔]]
 - [[Aula M3 004 - As Marcas Mais Valiosas]]
 ## Recapitulando
 - [[Glossário M3]]

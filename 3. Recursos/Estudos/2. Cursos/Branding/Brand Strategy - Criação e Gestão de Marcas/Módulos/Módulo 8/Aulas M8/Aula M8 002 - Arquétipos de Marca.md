@@ -1,66 +1,15 @@
 ---
 tags:
-  - marketing
   - branding
+dominio:
+  - branding
+Subdominio:
+  - brand-personality
+Sub_subdominio:
+  - branding-arquetipico
+tipo:
+  - fonte
 ---
-# Personalidade de Marca
-
-## O Que É?
-
-A personalidade da marca pode ser definida como um conjunto de características humanas associadas a uma determinada marca.
-
-A personalidade da marca é considerada a primeira reação das pessoas no contato com a marca quando ouvem, experimentam, vêem e tocam num certo produto pertencente a uma específica marca, além de ser uma construção multidimensional.
-
-> Personalidade de marca gera maior fidelidade dos consumidores
-
-Quando a marca desenvolve uma forma de se comunicar e de se expressar, o público passa a reconhecê-la no mercado. Mais do que isso, pode se identificar com a sua personalidade. E, se isso acontece, a marca torna-se presente na mente das pessoas, conquistando-as.
-
-A longo prazo, a marca cria um forte relacionamento, garantindo a fidelidade do consumidor.
-
-## Exemplos
-![[Pasted image 20260708133127.png]]
-O perfil da Fanta nas redes sociais apresenta uma personalidade divertida. A predominância da cor laranja demonstra energia. É uma marca que chama atenção do público jovem.
-
-![[Pasted image 20260708133134.png]]
-A Chanel, com seus tons neutros, transmite uma personalidade elegante e sofisticada. A Chanel atrai, principalmente, mulheres que investem em alta-costura, fragrâncias sofisticadas e acessórios luxuosos.
-
-## Dimensões de Marca - Jennifer Aaker
-
-![[Pasted image 20260708133147.png]]
-Em sua estrutura de Dimensões da Marca, ela descreve cinco dimensões principais da personalidade da marca e os aspectos específicos relacionados a cada uma. Cada um deles explora características humanas e traços de personalidade aplicados à identidade da marca.
-
-### Sinceridade
-
-Marcas sinceras têm personalidade **honesta, prática e íntegra**. ****Você busca essa pessoa quando quer um feedback ou indicação de algo.
-
-Exemplo: Nubank (” a marca sem asteriscos” que citamos no começo do curso)
-
-### Excitação
-
-Uma personalidade espirituosa e imaginativa, que se mantém atualizada, ultrapassa os limites e gota de ousadia. Marcas empolgantes permanecem relevantes no dia-a-dia. É alguém pra se divertir, que você convida para uma festa
-
-Exemplo: Apple (veja o “what happens on your iPhone, stays on your iPhone.”)
-
-### Competência
-
-Marcas confiáveis e inteligentes obtêm sucesso por serem **confiáveis**. É alguém que você busca quando quer que alguém de ajude
-
-Exemplo: Volvo é sinônimo de segurança no mundo inteiro (veja a campanha do “selfie for safety”)
-
-### Sofisticação
-
-Essas marcas estão no auge da **qualidade**, **classe alta** e são a **epítome da elegância**. É distante, exclusivo, etc.
-
-Exemplo: Tiffany & Co, Channel, bebidas caras, etc.
-
-### Robustez
-
-Uma personalidade **durável**, **resistente** e com **vida ao ar livre**. Se encaixa na lista de marcas relacionadas a atividades ao ar livre. A pessoa que gosta de fazer trilha, de viajar, que não tem tantos planos, que gosta de viver o agora.
-
-Exemplo: Harley-Davidson
-
-# Arquétipos de Marca
-
 ## Arquétipos, O que São?
 
 Arquétipo é um conceito da psicologia utilizado para representar padrões de comportamento associados a um personagem ou papel social.
@@ -255,56 +204,3 @@ Brand persona é a estruturação de uma forma de linguagem da marca, como se el
 1. Brand Persona ajudará os colaboradores da empresa a entenderem o que a empresa é, qual sua identidade, o que ela representa e como ela se mostra para o mundo.
 2. Dará mais consistência para a empresa – Principalmente nos canais de comunicação.
 3. Ajudará a empresa a se posicionar sem medo de errar, porque estará 100% mapeado o que a marca é, no que acredita, na postura que tem diante a desafios, crises e sucessos
-
-## Brand Persona x Buyer Persona
-
-![[Pasted image 20260708133214.png]]
-Apesar de uma ser confundida com a outra e normalmente serem parecidas, a Brand Persona e a Buyer Persona possuem uma diferença em sua essência. Lembrando que persona significa máscara, o Brand Persona basicamente simula sua marca (marca) e o Buyer Persona simula o comprador de seu produto (comprador).
-
-## 5 Perguntas para Criar uma Persona para a sua Marca
-
-### 1. Se minha marca fosse uma pessoa, quem seria?
-
-O Ponto Frio é um pinguim. A Magazine Luiza é representada pela Lu. Procure responder: quem é a sua empresa? Por que ela existe? Qual o histórico dela até aqui? Quais são os valores e o propósito dela no mundo?
-
-Nome, sexo, idade, estilo de ser: todas as características que definem uma pessoa podem definir a sua marca. É assim que o público se identifica com ela, sente empatia e cria um vínculo emocional.
-
-### 2. Com quem estou falando?
-
-Assim como você ajusta o seu comportamento ao falar com seu público, sua empresa também deve fazer o mesmo – afinal, esse é o propósito da criação da persona. Ter um relacionamento pessoal e natural entre sua marca e seus clientes é o segredo para torná-los mais próximos e envolvidos com o que você faz.
-
-### 3. Como as pessoas veem minha marca?
-
-A forma mais fácil de saber como sua marca é percebida por diversos públicos é perguntando. Faça enquetes ou crie uma pesquisa de opinião para conhecer melhor as pessoas que te acompanham e como a experiência delas pode ser mais agradável quando elas se comunicam com você.
-
-### 4. Quais são os traços da minha personalidade?
-
-Qual é o modo de ser da sua persona? Ela é tradicional, contemporânea, séria, simples, forte, amigável, divertida, meiga, descontraída, inteligente? Quais são seus interesses, sua formação, sua postura?
-
-### 5. Como eu me comunico?
-
-Qual é o modo de ser da sua persona? Ela é tradicional, contemporânea, séria, simples, forte, amigável, divertida, meiga, descontraída, inteligente? Quais são seus interesses, sua formação, sua postura?
-
-## Ficha Técnica
-
-![[Pasted image 20260708133228.png]]
-## Quem Quero Me Tornar?
-
-Agora é importante entender que, por ser alguém com “vida própria”, ela também muda com o tempo. Ela não precisa envelhecer, mas isso não significa que é estática. Ela também evolui para continuar atendendo a seus públicos.
-
-Por isso, acompanhe sempre a aceitação da sua persona nos seus canais. Identifique o que está funcionando bem e o que pode melhorar.
-
-Faça esses ajustes, como uma pessoa que quer ser sempre melhor a cada dia. Afinal, essa evolução também é percebida. Assim como seus clientes, sua persona também quer ser ouvida e levada a sério.
-
-## Top 10 Personas
-
-- Baianinho da Casas Bahia
-- Carina do Carrefour
-- Dollynho da Dolly
-- Lu da Magalu
-- Mara da Amaro
-- Nat da Natura
-- Pinguim do Ponto
-- Rê da Rexona
-- Ully da Ultragaz
-- Zé Gotinha
