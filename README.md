@@ -152,12 +152,6 @@ Em outras palavras, **Projetos são fatias verticais que cortam as Áreas na hor
 | *(futuro)* "Campanha de pré-lançamento do Empreendimento X" | Marketing + Mercado Imobiliário | Materiais prontos até uma data |
 | *(futuro)* "Definir estratégia competitiva do meu negócio" | Business | Documento de estratégia até uma data |
 
-### Duas observações importantes
-
-1. **"Incorporação Imobiliária" é o protótipo do que deve morar em `1. Projetos`.** É o ponto onde *todas as quatro áreas convergem* num objetivo concreto.
-
-2. **O mesmo tema pode aparecer nas duas pastas.** A **Área** guarda o *conhecimento* do domínio (ex.: Mercado Imobiliário); o **Projeto** guarda a *execução* de uma iniciativa específica (ex.: "lançamento do empreendimento Y até dezembro").
-
 ---
 
 ## 4. Estrutura sugerida para `1. Projetos/`
