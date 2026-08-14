@@ -7,7 +7,7 @@ author:
   - Dan Harmon
 ---
 # Quem é Dan Harmon?
-É o roteirista e criador de duas séries de muito sucesso - "Community" e "Ricky and Morty". Harmon criou essa metodologia através da [[Módulo 12 - Planejamento de Comunicação#A Jornada do Herói|A Jornada do Herói]], de Joseph Campbell. A dificuldade da Jornada do Herói é possuir doze pontos muito específicos, que, caso você fuja de algum deles, a história acaba enfraquecida, então, o Story Circle simplifica essa estrutura rígida.
+É o roteirista e criador de duas séries de muito sucesso - "Community" e "Ricky and Morty". Harmon criou essa metodologia através da [[Módulo 12 - Planejamento de Comunicação - HUB#A Jornada do Herói|A Jornada do Herói]], de Joseph Campbell. A dificuldade da Jornada do Herói é possuir doze pontos muito específicos, que, caso você fuja de algum deles, a história acaba enfraquecida, então, o Story Circle simplifica essa estrutura rígida.
 ![[Pasted image 20260714183231.png]]
 
 ## 1. Você:
