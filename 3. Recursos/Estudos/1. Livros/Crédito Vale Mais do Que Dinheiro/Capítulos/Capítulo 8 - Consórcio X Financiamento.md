@@ -2,6 +2,12 @@
 tags:
   - realestate
   - funding
+tipo:
+  - fonte
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 # Conceito
 O consórcio é uma forma de você pagar parcelado por um bem que vai adquirir ao longo dos anos. E é formado por um conjunto de pessoas com o mesmo objetivo e todos os meses essas pessoas pagam um administrador para gerir todo o recurso. E ao longo do período, todos contribuem pagando a parcela mensal e o administrador através de um sorteio faz a contemplação de uma pessoa, dando o benefício para poder comprar o seu imóvel.

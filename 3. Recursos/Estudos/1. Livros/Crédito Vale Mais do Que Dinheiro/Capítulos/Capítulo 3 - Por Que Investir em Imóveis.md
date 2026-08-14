@@ -2,6 +2,12 @@
 tags:
   - realestate
   - funding
+tipo:
+  - fonte
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 
 # Pessoas com renda mais baixa, abaixo de 4 mil reais, possuem diversos benefícios comparadas a pessoas com maior renda. Um deles é o programa governamental Minha Casa, Minha Vida (MCMV)

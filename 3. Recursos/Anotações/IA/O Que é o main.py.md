@@ -1,6 +1,8 @@
 ---
 tags:
   - programação
+dominio:
+  - programação
 ---
 Em poucas palavras:
 

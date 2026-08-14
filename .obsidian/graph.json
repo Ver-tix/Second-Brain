@@ -55,6 +55,27 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "[\"dominio\":programação]",
+      "color": {
+        "a": 1,
+        "rgb": 6750176
+      }
+    },
+    {
+      "query": "tag:#programação",
+      "color": {
+        "a": 1,
+        "rgb": 6750176
+      }
+    },
+    {
+      "query": "[\"dominio\":real-estate]",
+      "color": {
+        "a": 1,
+        "rgb": 8004864
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.0587197035277058,
-  "close": true
+  "scale": 0.0708322748704825,
+  "close": false
 }

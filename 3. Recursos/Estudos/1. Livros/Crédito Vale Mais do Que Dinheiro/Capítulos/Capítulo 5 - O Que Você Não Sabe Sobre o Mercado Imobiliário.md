@@ -2,6 +2,12 @@
 tags:
   - realestate
   - funding
+tipo:
+  - fonte
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 
 # O crédito é usado de vária maneiras, mas existem modalidades de crédito mais barato e mais caro

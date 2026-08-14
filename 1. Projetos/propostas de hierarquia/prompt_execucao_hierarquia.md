@@ -1,3 +1,11 @@
+---
+tags:
+  - IA
+dominio:
+  - IA
+Subdominio:
+  - prompts
+---
 # Prompt: Executar a Migração de Metadata Departamental
 
 > Cole este prompt em um agente de IA (ex.: opencode) para executar a migração descrita em `proposta_opencode_hierarquia.md`. O agente deve ler a proposta como contexto e seguir o plano abaixo.

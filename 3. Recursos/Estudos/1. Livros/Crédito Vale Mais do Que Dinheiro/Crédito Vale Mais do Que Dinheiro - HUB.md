@@ -2,6 +2,12 @@
 tags:
   - realestate
   - "#funding"
+tipo:
+  - MOC
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 # Summary
 - [[Capítulo 1 - Desbravando o Mundo do Financiamento Imobiliário]]

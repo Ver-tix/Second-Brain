@@ -2,6 +2,12 @@
 tags:
   - realestate
   - funding
+tipo:
+  - fonte
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 # Estratégia de alavancagem
 A ideia é que podemos usar financiamentos ou empréstimos para adquirir ativos imobiliários e alcançar retornos significativos mesmo com um investimento inicial relativamente pequeno

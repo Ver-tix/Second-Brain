@@ -2,6 +2,12 @@
 tags:
   - realestate
   - funding
+tipo:
+  - fonte
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 # Lista de Diversas Áreas que podemos investir para multiplicar o capital com crédito imobiliário
 - ***Construção para Venda*** - Ao construir do zero, você tem controle total sobre o projeto, podendo adaptá-lo às suas necessidades e preferências. Além disso, a construção pode oferecer economias significativas em comparação com a compra de uma propriedade já construída,

@@ -2,6 +2,12 @@
 tags:
   - realestate
   - funding
+tipo:
+  - fonte
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 # Quando o Aluguel é mais vantajoso?
 Quando algum tipo de investimento ou crédito que você faça possa superar o valor do aluguel, e ainda te dar um excedente.  

@@ -2,6 +2,12 @@
 tags:
   - realestate
   - funding
+tipo:
+  - fonte
+dominio:
+  - real-estate
+Subdominio:
+  - funding
 ---
 # Existem diversas modalidades de financiamento que são desconhecidas pelo público geral
 <h5 align="center">Geralmente, quando pensam em financiamento imobiliário, as pessoas pensam apenas em: </h5>
