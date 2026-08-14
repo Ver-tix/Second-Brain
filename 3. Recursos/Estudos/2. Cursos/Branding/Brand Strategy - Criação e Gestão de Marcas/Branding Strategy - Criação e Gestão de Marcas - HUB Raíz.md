@@ -24,6 +24,6 @@ Subdominio:
 - [[Aula M13 001 - O Que É Brand Experience]]
 - [[Módulo 14 - Marcas e Inovação - HUB]]
 - [[Módulo 15 - Employer Branding - HUB]]
-- [[Módulo 16 - Métricas]]
+- [[Módulo 16 - Métricas - HUB]]
 - [[Módulo 17 - Investimentos]]
 - [[Módulo 18 - Marca Pessoal]]
