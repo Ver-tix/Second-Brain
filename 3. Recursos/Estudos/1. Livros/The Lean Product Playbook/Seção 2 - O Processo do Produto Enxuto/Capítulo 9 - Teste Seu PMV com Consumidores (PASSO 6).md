@@ -167,7 +167,7 @@ Conduzi um teste em que não dei aos usuários nenhum formulário no final. Depo
 
 Vamos discutir um exemplo ilustrativo onde capturamos o feedback do usuário. A Tabela 9.1 mostra um resumo do feedback de uma onda de cinco testes com usuários. Você pode ver que capturei os resultados para cada usuário em uma coluna. Organizei o feedback em seções separadas para conjunto de recursos, UX e mensagem. Também capturei classificações quantitativas para valor e facilidade de uso que pedi no final de cada teste. Tanto o feedback positivo quanto o crítico estão incluídos, um item por linha. Indico quais usuários deram cada item de feedback com um "S" para sim. Isso facilita visualizar padrões entre os usuários. Na coluna da direita, calculei os resultados gerais para todos os cinco usuários (porcentagens e classificações medianas). No interesse da simplicidade, não estou incluindo nesta tabela nenhum feedback que menos de 40% dos usuários mencionaram.
 
-![[Pasted image 20260816140804.png]]
+![[Rastreando resultados-chave em testes com usuários.png]]
 
 Você pode ver que na Onda 1, recebemos feedback positivo dos clientes sobre o recurso X, nosso design de aparência profissional e a imagem de destaque na nossa página inicial. A Onda 1 também revelou quatro problemas:
 
