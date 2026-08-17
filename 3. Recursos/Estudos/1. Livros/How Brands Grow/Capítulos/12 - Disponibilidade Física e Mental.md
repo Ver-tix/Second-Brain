@@ -186,7 +186,7 @@ No final das contas, as marcas basicamente competem em termos de disponibilidade
 
 # Lucros em longo prazo
 
-Uma das razões que tornam as marcas consolidadas tão valiosas é o fato de a disponibilidade física e mental levar muito tempo para ser desenvolvida e muito tempo para desaparecer. Essa estabilidade vale muito dinhei-ro. As marcas, grandes ou pequenas, conseguem sobreviver, muitas vezes por um longo período, por causa de sua capacidade de manter sua disponibilidade física e mental. O crescimento depende de melhorar esses ativos baseados no mercado. Até vantagens temporárias (como avanços ou melhorias em produtos ou serviços) podem melhorar esses ativos potencialmente sustentáveis. As vantagens que não melhoram esses ativos não têm qualquer valor em longo prazo.
+Uma das razões que tornam as marcas consolidadas tão valiosas é o fato de a disponibilidade física e mental levar muito tempo para ser desenvolvida e muito tempo para desaparecer. Essa estabilidade vale muito dinheiro. As marcas, grandes ou pequenas, conseguem sobreviver, muitas vezes por um longo período, por causa de sua capacidade de manter sua disponibilidade física e mental. O crescimento depende de melhorar esses ativos baseados no mercado. Até vantagens temporárias (como avanços ou melhorias em produtos ou serviços) podem melhorar esses ativos potencialmente sustentáveis. As vantagens que não melhoram esses ativos não têm qualquer valor em longo prazo.
 
 # Disponibilidade mental e física: os ativos baseados no mercado de uma marca
 
