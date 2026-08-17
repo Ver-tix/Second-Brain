@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 O Processo de Produto Lean o guiará pelas etapas de pensamento crítico necessárias para alcançar o ajuste produto-mercado. No próximo capítulo, começo a descrever os detalhes do processo, mas antes disso, quero compartilhar um conceito importante de alto nível: separar o espaço do problema do espaço da solução. Tenho discutido esse conceito em minhas palestras há anos e fico feliz em ver esses termos sendo usados com mais frequência nos dias de hoje.
 

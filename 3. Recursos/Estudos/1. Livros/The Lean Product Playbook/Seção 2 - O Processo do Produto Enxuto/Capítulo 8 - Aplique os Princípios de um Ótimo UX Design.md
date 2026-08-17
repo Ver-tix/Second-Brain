@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 Neste ponto do Processo de Produto Lean, você tem clareza sobre o conjunto de recursos que acredita que deve estar no seu MVP. A experiência do usuário (UX) — a camada superior na Pirâmide do Ajuste Produto-Mercado — traz os recursos e benefícios do seu produto à vida para o cliente. Mesmo que você tenha tomado boas decisões nas outras quatro camadas, não alcançará o ajuste produto-mercado sem uma boa UX.
 

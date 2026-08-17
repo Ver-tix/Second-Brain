@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 Agora que você tem uma compreensão clara da sua proposta de valor, a próxima etapa no Processo de Produto Lean é decidir o conjunto de recursos para o seu candidato a Produto Mínimo Viável (MVP). Você não vai começar projetando um novo produto que entregue toda a sua proposta de valor, já que isso levaria muito tempo e seria muito arriscado. Para o seu MVP, você quer identificar a funcionalidade mínima necessária para validar que está indo na direção certa. Chamo isso de candidato a MVP em vez de MVP porque ele é baseado em suas hipóteses. Você ainda não validou com os clientes que eles concordam que é, de fato, um produto viável.
 

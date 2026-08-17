@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 # Sumário
 ## Seção 1

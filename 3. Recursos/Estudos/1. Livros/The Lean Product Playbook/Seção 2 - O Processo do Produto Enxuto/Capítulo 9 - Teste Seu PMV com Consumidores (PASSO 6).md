@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 Uma vez que você aplicou os princípios de um ótimo design de UX para criar o protótipo do seu candidato a MVP, a próxima etapa no Processo de Produto Lean é testá-lo com os usuários. É aqui que a teoria encontra a prática. Você se lembrará de que o Capítulo 7 discutiu dois tipos fundamentalmente diferentes de testes que você pode executar: quantitativos e qualitativos. Ou seja, você prestará atenção aos detalhes do que está ouvindo de um pequeno número de clientes (qualitativo) ou aos resultados agregados de um grande número de clientes (quantitativo).
 

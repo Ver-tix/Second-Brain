@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 Expliquei no capítulo anterior como conduzir uma onda de testes com usuários para avaliar o ajuste produto-mercado do seu MVP. Este capítulo trata do que fazer após concluir cada rodada de testes. A metodologia Lean trata de aprender e iterar rapidamente. Isso significa que você deseja usar o que aprendeu após receber uma rodada de feedback para modificar suas hipóteses e seu MVP, de modo que possa testá-los novamente com os clientes. Você quer iterar rapidamente de uma rodada de testes com usuários para a próxima, com o objetivo de melhorar o ajuste produto-mercado a cada vez. Este capítulo o guiará sobre como fazer isso.
 

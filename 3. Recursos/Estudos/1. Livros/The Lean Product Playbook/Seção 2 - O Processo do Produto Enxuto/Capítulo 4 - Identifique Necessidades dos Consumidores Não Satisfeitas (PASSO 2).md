@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 Agora que você determinou seus clientes-alvo — ou pelo menos tem um conjunto de hipóteses sobre eles —, deve se concentrar em identificar quais necessidades eles têm que seu produto poderia satisfazer. O objetivo é construir e validar seu conhecimento sobre o espaço do problema antes de começar a projetar uma solução. Como as necessidades dos clientes podem parecer um tanto vagas quando falamos sobre elas, vamos começar esclarecendo nossa terminologia.
 

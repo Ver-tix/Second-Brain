@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 Uma vez que você tenha especificado o conjunto de recursos para o seu candidato a MVP, você vai querer testá-lo com os clientes. Para fazer isso, você precisa criar uma experiência do usuário (UX) que possa mostrar aos clientes, que é a camada superior da Pirâmide do Ajuste Produto-Mercado.
 

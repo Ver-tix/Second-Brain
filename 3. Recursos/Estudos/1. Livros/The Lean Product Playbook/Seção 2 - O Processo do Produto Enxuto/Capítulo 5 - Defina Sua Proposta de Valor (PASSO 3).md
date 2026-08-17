@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 A próxima etapa no Processo de Produto Lean é definir a proposta de valor do seu produto, que é a próxima camada na Pirâmide do Ajuste Produto-Mercado. Neste ponto, você identificou várias necessidades importantes dos clientes que poderia potencialmente abordar. Agora, você precisa decidir quais delas o seu produto abordará. Você deve fazer isso de forma deliberada e resistir à tentação de lidar com mais necessidades do que deveria.
 

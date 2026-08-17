@@ -10,8 +10,7 @@ Subdominio:
 Sub_subdominio:
   - produto
 author:
-  - Madhavan Ramanujam
-  - Georg Tacke
+  - Dan Olsen
 ---
 Você começa o Processo de Produto Lean identificando seu cliente-alvo, que é a camada inferior da Pirâmide do Ajuste Produto-Mercado. Os benefícios do espaço do problema que você vai identificar pertencem a um segmento de clientes específico. Clientes diferentes terão necessidades diferentes — e mesmo aqueles que têm as mesmas necessidades podem ter visões distintas sobre sua importância relativa.
 
