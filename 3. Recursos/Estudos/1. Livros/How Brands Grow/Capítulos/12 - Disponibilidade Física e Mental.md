@@ -190,7 +190,16 @@ Uma das razões que tornam as marcas consolidadas tão valiosas é o fato de a d
 
 # Disponibilidade mental e física: os ativos baseados no mercado de uma marca
 
-Os últimos vinte anos testemunharam uma crescente valorização dos ativos intangíveis que fundamentam o valor financeiro das organizações (Sharp 1995; Srivastava, Shervani e Fahey, 1998). Esses ativos podem ser vendidos e em geral valem muito mais que os ativos tangíveis da empre-A disponibilidade física e mental e a iconografia diferenciadora da marca (que discutimos no Capítulo 8) são ativos que podem ser vendi-dos. Eles constituem o brand equity, o valor patrimonial da marca  
+**Os últimos vinte anos testemunharam uma crescente valorização dos ativos intangíveis que fundamentam o valor financeiro das organizações (Sharp 1995; Srivastava, Shervani e Fahey, 1998). Esses ativos podem ser vendidos e em geral valem muito mais que os ativos tangíveis da empresa disponibilidade física e mental e a iconografia diferenciadora da marca (que discutimos no Capítulo 8) são ativos que podem ser vendidos. Eles constituem o brand equity, o valor patrimonial da marca.**
+
+>[! Tome Nota]
+>#### O Novo Brand Equity
+>- Disponibilidades:
+>	- Física
+>	- Mental
+>- Iconografia Diferenciadora (Ativos Distintivos)
+>
+
 São ativos baseados no mercado, no sentido de que se originam por meio da atividade comercial; é o marketing que os cria. E são ativos porque custam dinheiro para serem desenvolvidos e outras empresas podem comprá-los em vez de investir o dinheiro e o tempo necessários (além do risco) para desenvolver os próprios ativos. São valiosos por proporcionarem uma garantia de lucro futuro.
 
 Esses ativos baseados no mercado geram produtividade. A publicidade é mais eficaz quando existem estruturas de memória na mente dos compradores — desde que a publicidade trabalhe com essas estruturas de memória. A publicidade também funciona melhor quando a marca conta com um alto grau de disponibilidade física. Por outro lado, a publicidade cai em terreno estéril quando atinge consumidores que não estão fisicamente próximos dos pontos de venda de uma marca.
