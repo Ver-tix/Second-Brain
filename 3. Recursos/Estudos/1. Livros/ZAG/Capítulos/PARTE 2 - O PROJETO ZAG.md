@@ -81,9 +81,23 @@ As tendências são as marés que afetam todas as embarcações.
 
 - Classe: Diferenciação
 
-Uma marca não existe no vácuo. A paixão, o propósito e a visão que estimulam uma empresa podem ser virtualmente idênticos às da concorrência. Você provavelmente já conhece a lista dos valores centrais que as empresas publicam para auxiliá-las na definição de suas culturas. Ao comparar essas listas no campo da indústria, elas parecem ter sido selecionadas de uma outra lista com aproximadamente 12 virtudes. A cultura de nossa empresa é (escolha quatro): inovadora, baseada no mercado, focada no cliente, ética, receptiva, colaborativa, confiável, baseada na qualidade, progressista, proativa, responsável e otimista.
+Uma marca não existe no vácuo. A paixão, o propósito e a visão que estimulam uma empresa podem ser virtualmente idênticos às da concorrência. Você provavelmente já conhece a lista dos valores centrais que as empresas publicam para auxiliá-las na definição de suas culturas. Ao comparar essas listas no campo da indústria, elas parecem ter sido selecionadas de uma outra lista com aproximadamente 12 virtudes: 
 
-Ainda que sejam admiráveis virtudes, como inovação, receptividade e foco no cliente, a ação do zag exige que a empresa defina o que a torna ÚNICA, não o que a faz ser admirável. É aqui que devemos deixar o foco de lado e pensar na diferenciação.
+- **A cultura de nossa empresa é (escolha quatro):** 
+	- Inovadora, 
+	- Baseada no mercado, 
+	- Focada no cliente, 
+	- Ética, 
+	- Receptiva, 
+	- Colaborativa, 
+	- Confiável, 
+	- Baseada na qualidade, 
+	- Progressista, 
+	- Proativa, 
+	- Responsável e 
+	- Otimista.
+
+**Ainda que sejam admiráveis virtudes, como inovação, receptividade e foco no cliente, a ação do zag exige que a empresa defina o que a torna ÚNICA, não o que a faz ser admirável. É aqui que devemos deixar o foco de lado e pensar na diferenciação.**
 
 Cada categoria competitiva tem vencedores e perdedores. Na construção de uma marca, isso se torna relativo, pois há espaço para três, quatro ou mais marcas existirem lucrativamente em uma categoria. Sendo assim, o mais interessante sobre as categorias competitivas é a forma como elas se organizam em hierarquias previsíveis. Em uma categoria madura, é normal que a marca número 1 tenha praticamente o dobro da participação de mercado sobre a marca número 2, que, por sua vez, tenha praticamente o dobro da participação de mercado sobre a marca número 3, e assim por diante, até que não haja mais mercado para ser compartilhado. Em categorias que sustentam mais concorrência, o diferencial entre as participações de mercado é menos significativo, embora a hierarquia permaneça intacta.
 
@@ -121,7 +135,7 @@ Com certeza a enoteca terá alguma concorrência, antes mesmo de estabelecer a n
 
 - Classe: Foco
 
-Complete esta frase: Nossa marca é a ÚNICA \_____ que \_____ Na primeira lacuna, coloque o nome de sua categoria (pizza congelada, revendedores de móveis, serviço de manutenção para computadores). Na segunda lacuna, descreva o seu diferencial, o seu zag (que tem o sabor de Nápoles; que vende móveis fabricados com sustentabilidade; que atende a domicílio). Se você não consegue ser sucinto e usar a palavra ÚNICA, então você não tem um zag. Nesse caso, a melhor opção é criar uma lista da concorrência que possa fazer a mesma afirmação e começar a deslocar sua estratégia para o lado oposto.
+Complete esta frase: Nossa marca é a ÚNICA [\_____] que [\_____] Na primeira lacuna, coloque o nome de sua categoria (pizza congelada, revendedores de móveis, serviço de manutenção para computadores). Na segunda lacuna, descreva o seu diferencial, o seu zag (que tem o sabor de Nápoles; que vende móveis fabricados com sustentabilidade; que atende a domicílio). Se você não consegue ser sucinto e usar a palavra ÚNICA, então você não tem um zag. Nesse caso, a melhor opção é criar uma lista da concorrência que possa fazer a mesma afirmação e começar a deslocar sua estratégia para o lado oposto.
 
 Lembre que um zag não é simplesmente diferenciação, mas uma diferenciação radical. Portanto, quando meu banco comprou um outdoor de 15 metros com o seguinte slogan: "Bom. Desde 1878", era melhor que tivesse colocado seu dinheiro em uma poupança. "Bom" não significa um zag, e tampouco "1878". Um zag foi o que o Citibank fez quando posicionou sua empresa como o antibanco ao utilizar o slogan "Live richly"*, e títulos como "Para um retorno garantido sobre o seu investimento, compre flores".
 
