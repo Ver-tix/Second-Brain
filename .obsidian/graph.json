@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "[\"dominio\":marketing]",
@@ -80,14 +80,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.516339869281046,
+  "repelStrength": 8.49673202614379,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.06668272625832476,
+  "scale": 0.09348804179125679,
   "close": true
 }

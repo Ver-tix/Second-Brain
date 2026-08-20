@@ -1,9 +1,14 @@
 ---
 tags:
   - branding
-  - naming
 tipo:
   - moc
+dominio:
+  - branding
+Subdominio:
+  - brand-strategy
+Sub_subdominio:
+  - naming
 ---
 # Sumário
 - [[1. TIPOS DE NOMES - seus significados e exemplos]]

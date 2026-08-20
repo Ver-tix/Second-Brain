@@ -7,7 +7,7 @@ dominio:
   - business e administração
 ---
 # Sumário
-## Descrição dos Componentes
+## Componentes
 - [[1. Segmentos de Clientes (SC)]]
 - [[2. Proposta de Valor (PV)]]
 - [[3. Canais (CN)]]
@@ -18,4 +18,5 @@ dominio:
 - [[8. Parcerias Principais]]
 - [[9. Estrutura de Custo (C$)]]
 ## Análises de Mercado e Padrões de Modelos de Negócio
-- 
+- [[Análise Estratégica]]
+- [[Padrões de Modelos de Negócio]]
