@@ -8,7 +8,7 @@ tipo:
   - MOC
 ---
 # Sumário
-- [[Insights do Cliente]]
+- [[Insights do Cliente - O Mapa da Empatia]]
 - [[Ideação]]
 - [[Pensamento Visual]]
 - [[Protótipos]]
