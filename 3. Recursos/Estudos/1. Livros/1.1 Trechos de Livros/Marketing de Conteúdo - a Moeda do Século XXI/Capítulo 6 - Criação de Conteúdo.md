@@ -8,6 +8,8 @@ Subdominio:
 Sub_subdominio:
   - marketing-de-conteúdo
 description: Trechos do capítulo 6
+author:
+  - Rafael Rez
 ---
 # Funil de Conteúdo
 Para cada fase do funil de conteúdo, existem palavras típicas que acionam interesse do seu lead e buscas no Google que costumam representar a fase em que o seu cliente potencial se encontra:

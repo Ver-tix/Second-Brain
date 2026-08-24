@@ -8,6 +8,8 @@ Subdominio:
 Sub_subdominio:
   - marketing-de-conteúdo
 description: Trechos do capítulo 8
+author:
+  - Rafael Rez
 ---
 # Escrevendo Títulos Convincentes
 
