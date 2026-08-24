@@ -8,4 +8,4 @@ Subdominio:
 tipo:
   - fonte
 ---
-# Veja em [[O Herói e o Fora-da-Lei - HUB]]
+# Veja em ![[O Herói e o Fora-da-Lei - HUB]]
