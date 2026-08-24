@@ -15,6 +15,7 @@ tipo:
 - [[2. Onze Verdades da Marca]]
 - [[3. Como Fazer a Imersão na Empresa❔]]
 - [[4. Como Pesquisar Perfis de Público❔]]
+- [[5. Criando a Persona]]
 ## Componentes
 - [[1. Propósito]]
 - [[2. Palavra Mágica]]
