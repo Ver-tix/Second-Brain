@@ -86,6 +86,28 @@ Marca que têm recebido investimentos consistentes e focados em dar suporte a el
 ## 7. Proteção. 
 A força e o tamanho da proteção da marca comercial da marca é crítico para a força da marca
 # Os Dez Do Brand Equity
+```text
+                   O MODELO BRAND EQUITY TEN
+┌───────────────────────────────────┬───────────────────────────────────────────┐
+│ CATEGORIA DE MÉTRICA              │ INDICADOR ESPECÍFICO                      │
+├───────────────────────────────────┼───────────────────────────────────────────┤
+│ LEALDADE À MARCA                  │ 1. Prêmio de Preço (Price Premium)        │
+│                                   │ 2. Satisfação / Lealdade do Cliente       │
+├───────────────────────────────────┼───────────────────────────────────────────┤
+│ QUALIDADE PERCEBIDA / LIDERANÇA   │ 3. Qualidade Percebida                    │
+│                                   │ 4. Liderança / Popularidade               │
+├───────────────────────────────────┼───────────────────────────────────────────┤
+│ ASSOCIAÇÕES / DIFERENCIAÇÃO       │ 5. Valor Percebido (Proposta de Valor)    │
+│                                   │ 6. Personalidade da Marca                 │
+│                                   │ 7. Associações Organizacionais (Confiança)│
+├───────────────────────────────────┼───────────────────────────────────────────┤
+│ CONSCIÊNCIA DA MARCA (AWARENESS)  │ 8. Consciência de Marca (Recall/Top Mind) │
+├───────────────────────────────────┼───────────────────────────────────────────┤
+│ COMPORTAMENTO DE MERCADO          │ 9. Participação de Mercado (Market Share) │
+│                                   │ 10. Preço Relativo e Cobertura de Distrib.│
+└───────────────────────────────────┴───────────────────────────────────────────┘
+```
+
 Uma boa gestão começa com uma boa mensuração, e a chave para gerir um portfólio é um conjunto comum de indicadores. Claro, medidas financeiras bem desenvolvidas e aceitas - domo vendas em dígitos, custos de análises, margens, lucro e retorno em ativos (ROA) -geralmente dominam os objetivos de marca e indicadores de desempenho. O problema é que essas medidas tendem a ser de curto prazo, então uma proposta de investimento atrativo torna-se definido como um que irá entregar resultados financeiros imediatos.  
   
 Assim, o desafio é desenvolver medidas sensíveis e críveis de força de marca que suplementarão as medidas financeiras com medidas de ativo de marca. Quando os objetivos e programas de marca são guiados pelos dois tipos de medida, a estrutura do incentivo torna-se balanceada, e se torna mais fácil de justificar e defender atividades de construção de marca.

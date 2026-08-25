@@ -4,6 +4,24 @@ tags:
   - estratégia
 ---
 # História da Healthy Choise
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. HEALTHY CHOICE (ConAgra) - A Extensão Guarda-Chuva Perfeita              │
+│    • Em 1985, o CEO Mike Harper sofreu um infarto e percebeu a escassez de  │
+│      alimentos processados com baixo sódio/gordura e bom sabor.             │
+│    • Criou a marca *Healthy Choice* para congelados. A alma da marca        │
+│      ("Ótimo Sabor + Nutrição Cardíaca") não ficou presa a congelados.      │
+│    • A ConAgra estendeu a marca para sopas, molhos, carnes frias e até a    │
+│      linha de cereais em parceria com a Kellogg's, virando uma megamarca.   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 2. KINGSFORD CHARCOAL (Clorox) - A Força da Qualidade Percebida             │
+│    • Domina 60% do mercado de carvão nos EUA. A qualidade é tão alta que    │
+│      consumidores chegam a guardar o saco da Kingsford e reabastecer com    │
+│      carvão genérico barato para fazer bonito no churrasco.                 │
+│    • Alavancou a linha com o *Match-Light* (carvão autoacendível rápido).   │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
 A ConAgra é uma empresa alimentícia diversificada, composta por grandes empresas operacionais independentes que comercializam uma ampla variedade de produtos com marca.  
   
 Em 1985, o presidente da ConAgra, Mike Harper, sofreu um ataque cardíaco e passou a se motivar a mudar sua dieta. Ele ficou chocado ao descobrir que muitos alimentos processados — inclusive aqueles fabricados pela ConAgra — eram ricos em gordura e sódio e, portanto, escolhas pouco prudentes para qualquer pessoa preocupada com doenças cardíacas. As opções nos supermercados para quem buscava alimentos saudáveis para o coração eram limitadas. Os produtos especializados que se enquadravam nessa categoria tinham uma reputação justificável de terem gosto ruim.  
@@ -34,7 +52,7 @@ Uma receita para o sucesso estratégico é criar ativos de alavancagem. Com seu 
 A figura 9-2 sugere uma variedade de modos. O mais simples é (1) criar uma Extensão de Linha dentro de uma categoria de produtos existente. (2) Alavancar a Marca Verticalmente, de forma ascendente ou descendente em uma categoria de produtos existentes é outra opção que normalmente é estrategicamente necessária mas tem riscos significativos. (3) Extensões de Marca - isto é, estender a marca em outras categorias de produtos - são um método supremo de alavancagem. (4) Co-Branding é outra opção de alavancagem.
 
 # 1. Extensões De Linha
-Uma extensão de linha é uma nova versão do produto dentro da mesma categoria de produtos. Novos sabores, novas opções de embalagem, ou novos tamanhos todos são extensões de linha. Extensões de linha podem aumentar os custos sem compensar no aumento de volume e fazer a marca menos focada e mais difícil de comunicar (John A. Quelch e David Kenny "Extend Profits, Not Product Lines", Harvard Businesse Review, Setembro-Outubro 1994). Todaviam extensões de linha podem também expandir a base de usuários, prover variedade, energizar a marca, gerir inovação, e bloquear ou inibir os competidores.
+Uma extensão de linha é **uma nova versão do produto dentro da mesma categoria de produtos**. Novos sabores, novas opções de embalagem, ou novos tamanhos todos são extensões de linha. Extensões de linha podem aumentar os custos sem compensar no aumento de volume e fazer a marca menos focada e mais difícil de comunicar (John A. Quelch e David Kenny "Extend Profits, Not Product Lines", Harvard Businesse Review, Setembro-Outubro 1994). Todaviam extensões de linha podem também expandir a base de usuários, prover variedade, energizar a marca, gerir inovação, e bloquear ou inibir os competidores.
 ## i. Expandir a Base de Usuários
 consumidores leais à marca podem vê-la como alguém que serve a suas necessidades particulares. Então, consumidores sem essas necessidades específicas podem acharque a marca não é para eles. Ademais, uma marca forte pode fomentar lealdade, mas de uma forma excludente. Uma extensão de linha pode superar esse obstáculo ao expandir o apelo da marca.  
   
@@ -51,8 +69,25 @@ Extensões de linha fornecem um canal explícito para inovações de produto que
 ## v. Bloquear ou Inibir Competidores
 Uma extensão de linha não precisa ser um blockbuster financeiro para prover valor à empresa. Especialmente para marcas líderes de mercado, extensões de linha podem ser estrategicamente valiosas mesmo quando elas não alcançam altas taxas de retorno
 
+# Alavancagem Vertical: Subir ou Descer a Marca?
+```text
+               ALAVANCAGEM VERTICAL (SUBIR vs. DESCER)
+┌──────────────────────────────┬────────────────────────────────────────────────┐
+│ DESCER A MARCA (Stretch Down)│ SUBIR A MARCA (Stretch Up)                     │
+├──────────────────────────────┼────────────────────────────────────────────────┤
+│ • Motivo: Mercado migrando   │ • Motivo: Fugir de guerras de preço e capturar │
+│   para marcas econômicas.    │   margens elevadas em nichos de luxo.          │
+│ • Grande Risco: Danificar a  │ • Grande Risco: Falta de credibilidade da      │
+│   qualidade percebida no topo│   marca principal no topo do mercado.          │
+│ • Soluções: Usar submarcas   │ • Soluções: Criar marca nova independente      │
+│   descritivas (ex: IBM       │   (ex: *DeWalt* da Black & Decker) ou submarcas│
+│   *ValuePoint*), embalagem   │   distintas (*Holiday Inn Crowne Plaza*).      │
+│   diferente ou nova persona. │                                                │
+└──────────────────────────────┴────────────────────────────────────────────────┘
+```
+
 # 2.1. Alavancagem Vertical - Descendo a Marca
-Os mercados de hoje, de pneus à roupas até computadores, estão se tornando exponencialmente mais centrados em preço. Mais e mais compradores estão virando as costas para o luxo e o prestígio, e indo para marcas econômicas que entregam qualidade e características aceitáveis. Para combater essa tendência (ou para tirar vantagem disso, se você preferir), empresas estão oferecendo versões inferiores do pacote tradicional de produtos da marca. O que está por trás dessa tendência do consumidor acerca de preço? E como as empresas podem adotar uma estratégia de marca que irá acomodar essas versões inferiores sem enfraquecer a marca?
+Os mercados de hoje, de pneus à roupas até computadores, estão se tornando exponencialmente mais centrados em preço. Mais e mais compradores estão virando as costas para o luxo e o prestígio, e indo para marcas econômicas que entregam qualidade e características aceitáveis. Para combater essa tendência (ou para tirar vantagem disso, se você preferir), empresas estão oferecendo **versões inferiores do pacote tradicional de produtos da marca**. O que está por trás dessa tendência do consumidor acerca de preço? E como as empresas podem adotar uma estratégia de marca que irá acomodar essas versões inferiores sem enfraquecer a marca?
 ## i. Forças Motrizes
 1.  Sobrecarga criada pela combinação de novos competidores e mercados relativamente estáticos. Os novos concorrentes podem vir em parte, por outras marcas sendo estendidas de categorias de produtos adjacentes, marcas entrando em outros mercados (notavelmente de países estrangeiros) e novas ou revitalizadas marcas que agora, normalmente, tornaram-se competitivas em qualidade.  
 2. Ambiente de marcas criado por novos canais que tipicamente têm custo inferior de estrutura, se engajam em competições agressivas de preço e livremente usam produtos de marca própria  
@@ -113,9 +148,11 @@ A oferta de menor preço de uma rede de saúde de posicionamento premium, por ex
 A marca-mãe também pode ser gerenciada de forma a acentuar a distinção entre ela e uma submarca. Por exemplo, uma linha de ferramentas pode ser aprimorada e receber um nome de submarca (como “Pro-Choice”) ao mesmo tempo em que uma submarca mais econômica (a “HomeMaster”) é introduzida. Em essência, a tática é mover simultaneamente a marca para cima e para baixo.
 
 # 2.2. Alavancagem Vertical - Ascendendo a Marca
-Uma marca pode ser uma líder em colume e marke-share, com as invejáveis vantagens das economias de escala e do poder de barganha no varejo. Estar na estante da loja, na despensa e na mente do consumidor. Todavia, o preço foi espremido por varejistas e consumidores, especialmente de baixo por tanto marcas de preço e marcas próprias.  
+Oposto de Mover para baixo. Aqui, a marca **oferece produtos de valor acima da média**. Deve haver um driver para isso.
+
+Uma marca pode ser uma líder em volume e market-share, com as invejáveis vantagens das economias de escala e do poder de barganha no varejo. Estar na estante da loja, na despensa e na mente do consumidor. Todavia, o preço foi espremido por varejistas e consumidores, especialmente de baixo por tanto marcas de preço e marcas próprias.  
   
-Nesse contexto, um segmento de crescimento atrativo nromalmente emerge no extremo mais alto do mercado. Esse segmento aproveita de margens altíssimas, e também provê interesse e até mesmo desenvolvimentos dignos de notícia em uma categoria que talvez esteja um pouco desgastada. Microcervejarias (como Anchor Steam), cfés gourmet, águas premium, carros esportivos de luxo e revistas especializadas representam nichos-alvo menos sensíveis a preço do que o centro maior od mercado. Como as marcas podem "se mover para cima", para aproveitar esse crescimento e se livrar das pressões opressivas sobre suas margens?
+Nesse contexto, um segmento de crescimento atrativo normalmente emerge no extremo mais alto do mercado. Esse segmento aproveita de margens altíssimas, e também provê interesse e até mesmo desenvolvimentos dignos de notícia em uma categoria que talvez esteja um pouco desgastada. Microcervejarias (como Anchor Steam), cafés gourmet, águas premium, carros esportivos de luxo e revistas especializadas representam nichos-alvo menos sensíveis a preço do que o centro maior do mercado. Como as marcas podem "se mover para cima", para aproveitar esse crescimento e se livrar das pressões opressivas sobre suas margens?
 
 ## i. Usando uma Marca Nova
 Quando o nome da marca existente é um peso grande demais, a única alternativa viável provavelmente é a criação de uma marca independente. Por exemplo, quando a Black & Decker criou uma linha de ferramentas para profissionais da construção, havia a percepção de que o segmento-alvo não seria atraído (e até se sentiria desconfortável) com equipamentos Black & Decker, devido à associação desta marca com o consumidor “faça-você-mesmo”. Assim, a marca DeWalt foi criada.  
@@ -226,7 +263,7 @@ A seleção das classes de produtos para as quais a marca agregará valor depend
 Estender uma marca além de sua área percebida de especialização pode ser arriscado. Um estudo de Park, McCarty e Milberg constatou que uma extensão hipotética da Timex para abridores de portas de garagem, detectores de fumaça e colônias teve um impacto negativo sobre a Timex, enquanto extensões para categorias mais próximas, como baterias, calculadoras, anéis e pulseiras, não tiveram. Os pesquisadores também constataram que estender a Rolex para produtos orientados à funcionalidade, como abridores de portas, baterias e calculadoras, prejudicou a marca, enquanto extensões para produtos de prestígio a beneficiaram.
 
 # #4. Co-Branding
-Uma marca também pode ser alavancada ao entrar em outra classe de produto, não por meio de uma extensão de marca, mas por meio de cobranding:
+**Uma marca também pode ser alavancada ao entrar em outra classe de produto, não por meio de uma extensão de marca, mas por meio de cobranding**:
 ## i. Marcas de Ingrediente
 Uma forma de cobranding é tornar-se um ingrediente com marca em outra marca. A Hershey’s, por exemplo, poderia ter dificuldades para se estender para misturas para bolos ou biscoitos, porque esses produtos exigem processos de fabricação diferentes e porque os consumidores poderiam questionar a capacidade da Hershey’s de entregar alta qualidade nessas áreas. Com pouco risco, entretanto, a Hershey’s poderia tornar-se um ingrediente com marca em uma mistura para bolo da Betty Crocker. A força do nome da marca, assim, seria explorada sem que a Hershey’s se envolvesse em administrar um novo negócio. Esse tipo de cobranding oferece muitas das vantagens de uma extensão de marca, com menos risco.  
   
