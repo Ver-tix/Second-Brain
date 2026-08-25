@@ -6,9 +6,25 @@ tags:
 # O Posicionamento De Marca
 Com uma identidade bem definida e uma proposta de valor, a implementação começa. Os objetivos de comunicação precisam ser estabelecidos, e a execução planejada e implementada. Se inicia com o Posicionamento de Marca - a pedra fundamental dos programas de comunicação, e eis a sua definição:  
   
-Posicionamento de marca é a parte da identidade de marca e proposta de valor que deve ser ativamente comunicada à audiência-alvo e que demonstra uma vantagem sobre as marcas concorrentes  
+>**Posicionamento de marca é a parte da identidade de marca e proposta de valor que deve ser ativamente comunicada à audiência-alvo e que demonstra uma vantagem sobre as marcas concorrentes **
   
-As quatro características salientes de um posicionamento de marca refletifdas na frase: (1) "parte", (2) "audiência-alvo", (3) "ativamente comunicada" e (4) "demonstra vantagem".
+As quatro características salientes de um posicionamento de marca refletidas na frase: 
+1) "parte", 
+2) "audiência-alvo", 
+3) "ativamente comunicada" e 
+4) "demonstra vantagem".
+
+```text
+                   IDENTIDADE vs. POSICIONAMENTO
+┌───────────────────────────────────┬───────────────────────────────────┐
+│ IDENTIDADE DA MARCA               │ POSICIONAMENTO DA MARCA           │
+├───────────────────────────────────┼───────────────────────────────────┤
+│ • A visão completa e futura       │ • O foco ativo de comunicação hoje│
+│ • Ampla, rica e detalhada         │ • Lança estratégica concentrada   │
+│ • Bússola estratégica de longo    │ • Orienta campanhas, mídias e     │
+│   prazo da organização            │   metas de comunicação atuais     │
+└───────────────────────────────────┴───────────────────────────────────┘
+```
 
 ## i. Uma Parte da Identidade/Proposição de Valor
 Quando um posicionamento existe, a Identidade de Marca e Proposta de Valor podem ser desenvolvidas em completude, com textura e profundidade. Eles não têm de ser declarações concisas do que tem de ser comunicado, pois a posição de marca assume esse papel. Para algumas marcas, a identidade de marca e a proposta de valor combinam-se em uma declaração compacta que pode servir (talvez com pequenos ajustes) como o Posicionamento da marca. Na maioria dos casos, contudo, essa declaração compacta é significativamente mais ampla do que um Posicionamento final (após ajustes).  
@@ -61,18 +77,15 @@ Há uma tendência natural a acreditar que uma marca precisa ser superior em tod
 
 ## v. As Quatro Questões
 A declaração de posicionamento da marca deve, portanto, abordar quatro conjuntos de questões, conforme sugerido pela Figura 6-2:  
-![[posicionamento de marca 1.png]]
+![Mermaid diagram](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzQxLjc4MyAyMTguNzAwMDAwMDAwMDAwMDIiIHdpZHRoPSIxMzQxLjc4MyIgaGVpZ2h0PSIyMTguNzAwMDAwMDAwMDAwMDIiIHN0eWxlPSItLWJnOiMxRjFGMUY7LS1mZzojQ0NDQ0NDOy0tbGluZTojQ0NDQ0NDOy0tYWNjZW50OiMwMDc4RDQ7LS1tdXRlZDojQ0NDQ0NDQ0M7LS1zdXJmYWNlOiMxODE4MTg7LS1ib3JkZXI6I0NDQ0NDQztiYWNrZ3JvdW5kOnZhcigtLWJnKSI+CjxzdHlsZT4KICBAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1JbnRlcjp3Z2h0QDQwMDs1MDA7NjAwOzcwMCZhbXA7ZGlzcGxheT1zd2FwJyk7CiAgdGV4dCB7IGZvbnQtZmFtaWx5OiAnSW50ZXInLCBzeXN0ZW0tdWksIHNhbnMtc2VyaWY7IH0KICBzdmcgewogICAgLyogRGVyaXZlZCBmcm9tIC0tYmcgYW5kIC0tZmcgKG92ZXJyaWRhYmxlIHZpYSAtLWxpbmUsIC0tYWNjZW50LCBldGMuKSAqLwogICAgLS1fdGV4dDogICAgICAgICAgdmFyKC0tZmcpOwogICAgLS1fdGV4dC1zZWM6ICAgICAgdmFyKC0tbXV0ZWQsIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgNjAlLCB2YXIoLS1iZykpKTsKICAgIC0tX3RleHQtbXV0ZWQ6ICAgIHZhcigtLW11dGVkLCBjb2xvci1taXgoaW4gc3JnYiwgdmFyKC0tZmcpIDQwJSwgdmFyKC0tYmcpKSk7CiAgICAtLV90ZXh0LWZhaW50OiAgICBjb2xvci1taXgoaW4gc3JnYiwgdmFyKC0tZmcpIDI1JSwgdmFyKC0tYmcpKTsKICAgIC0tX2xpbmU6ICAgICAgICAgIHZhcigtLWxpbmUsIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgNTAlLCB2YXIoLS1iZykpKTsKICAgIC0tX2Fycm93OiAgICAgICAgIHZhcigtLWFjY2VudCwgY29sb3ItbWl4KGluIHNyZ2IsIHZhcigtLWZnKSA4NSUsIHZhcigtLWJnKSkpOwogICAgLS1fbm9kZS1maWxsOiAgICAgdmFyKC0tc3VyZmFjZSwgY29sb3ItbWl4KGluIHNyZ2IsIHZhcigtLWZnKSAzJSwgdmFyKC0tYmcpKSk7CiAgICAtLV9ub2RlLXN0cm9rZTogICB2YXIoLS1ib3JkZXIsIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgMjAlLCB2YXIoLS1iZykpKTsKICAgIC0tX2dyb3VwLWZpbGw6ICAgIHZhcigtLWJnKTsKICAgIC0tX2dyb3VwLWhkcjogICAgIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgNSUsIHZhcigtLWJnKSk7CiAgICAtLV9pbm5lci1zdHJva2U6ICBjb2xvci1taXgoaW4gc3JnYiwgdmFyKC0tZmcpIDEyJSwgdmFyKC0tYmcpKTsKICAgIC0tX2tleS1iYWRnZTogICAgIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgMTAlLCB2YXIoLS1iZykpOwogIH0KPC9zdHlsZT4KPGRlZnM+CiAgPG1hcmtlciBpZD0iYXJyb3doZWFkIiBtYXJrZXJXaWR0aD0iOCIgbWFya2VySGVpZ2h0PSI1IiByZWZYPSI3IiByZWZZPSIyLjUiIG9yaWVudD0iYXV0byI+CiAgICA8cG9seWdvbiBwb2ludHM9IjAgMCwgOCAyLjUsIDAgNSIgZmlsbD0idmFyKC0tX2Fycm93KSIgc3Ryb2tlPSJ2YXIoLS1fYXJyb3cpIiBzdHJva2Utd2lkdGg9IjAuNzUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+CiAgPC9tYXJrZXI+CiAgPG1hcmtlciBpZD0iYXJyb3doZWFkLXN0YXJ0IiBtYXJrZXJXaWR0aD0iOCIgbWFya2VySGVpZ2h0PSI1IiByZWZYPSIxIiByZWZZPSIyLjUiIG9yaWVudD0iYXV0by1zdGFydC1yZXZlcnNlIj4KICAgIDxwb2x5Z29uIHBvaW50cz0iOCAwLCAwIDIuNSwgOCA1IiBmaWxsPSJ2YXIoLS1fYXJyb3cpIiBzdHJva2U9InZhcigtLV9hcnJvdykiIHN0cm9rZS13aWR0aD0iMC43NSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgLz4KICA8L21hcmtlcj4KPC9kZWZzPgo8cG9seWxpbmUgY2xhc3M9ImVkZ2UiIGRhdGEtZnJvbT0iUCIgZGF0YS10bz0iUTEiIGRhdGEtc3R5bGU9InNvbGlkIiBkYXRhLWFycm93LXN0YXJ0PSJmYWxzZSIgZGF0YS1hcnJvdy1lbmQ9InRydWUiIHBvaW50cz0iNzAwLjM0NjI1LDc2LjkgNzAwLjM0NjI1LDk0LjkgMjI5LjE4MTk5OTk5OTk5OTk2LDk0LjkgMjI5LjE4MTk5OTk5OTk5OTk2LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJQIiBkYXRhLXRvPSJRMiIgZGF0YS1zdHlsZT0ic29saWQiIGRhdGEtYXJyb3ctc3RhcnQ9ImZhbHNlIiBkYXRhLWFycm93LWVuZD0idHJ1ZSIgcG9pbnRzPSI3MDAuMzQ2MjUsNzYuOSA3MDAuMzQ2MjUsOTQuOSA1NTguODUyNSw5NC45IDU1OC44NTI1LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJQIiBkYXRhLXRvPSJRMyIgZGF0YS1zdHlsZT0ic29saWQiIGRhdGEtYXJyb3ctc3RhcnQ9ImZhbHNlIiBkYXRhLWFycm93LWVuZD0idHJ1ZSIgcG9pbnRzPSI3MDAuMzQ2MjUsNzYuOSA3MDAuMzQ2MjUsOTQuOSA4NDEuODM5OTk5OTk5OTk5OSw5NC45IDg0MS44Mzk5OTk5OTk5OTk5LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJQIiBkYXRhLXRvPSJRNCIgZGF0YS1zdHlsZT0ic29saWQiIGRhdGEtYXJyb3ctc3RhcnQ9ImZhbHNlIiBkYXRhLWFycm93LWVuZD0idHJ1ZSIgcG9pbnRzPSI3MDAuMzQ2MjUsNzYuOSA3MDAuMzQ2MjUsOTQuOSAxMTU3LjA2MSw5NC45IDExNTcuMDYxLDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+CjxnIGNsYXNzPSJub2RlIiBkYXRhLWlkPSJQIiBkYXRhLWxhYmVsPSJERUNMQVJBw4fDg08gREUgUE9TSUNJT05BTUVOVE8gREUgTUFSQ0EiIGRhdGEtc2hhcGU9InJlY3RhbmdsZSI+CiAgPHJlY3QgeD0iNTMzLjM5NDI1IiB5PSI0MCIgd2lkdGg9IjMzMy45MDM5OTk5OTk5OTk5NCIgaGVpZ2h0PSIzNi45MDAwMDAwMDAwMDAwMDYiIHJ4PSIwIiByeT0iMCIgZmlsbD0idmFyKC0tX25vZGUtZmlsbCkiIHN0cm9rZT0idmFyKC0tX25vZGUtc3Ryb2tlKSIgc3Ryb2tlLXdpZHRoPSIwLjc1IiAvPgogIDx0ZXh0IHg9IjcwMC4zNDYyNSIgeT0iNTguNDUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9InZhcigtLV90ZXh0KSIgZHk9IjQuNTUiPkRFQ0xBUkHDh8ODTyBERSBQT1NJQ0lPTkFNRU5UTyBERSBNQVJDQTwvdGV4dD4KPC9nPgo8ZyBjbGFzcz0ibm9kZSIgZGF0YS1pZD0iUTEiIGRhdGEtbGFiZWw9IjEuIFF1YWlzIGVsZW1lbnRvcyBzZWxlY2lvbmFyPwooSWRlbnRpZGFkZSBDZW50cmFsLCBQcm9wb3N0YSBkZSBWYWxvciBvdSAnQmFsYXMgZGUgUHJhdGEnKSIgZGF0YS1zaGFwZT0icmVjdGFuZ2xlIj4KICA8cmVjdCB4PSI0MCIgeT0iMTEyLjkiIHdpZHRoPSIzNzguMzYzOTk5OTk5OTk5OSIgaGVpZ2h0PSI1My44MDAwMDAwMDAwMDAwMDQiIHJ4PSIwIiByeT0iMCIgZmlsbD0idmFyKC0tX25vZGUtZmlsbCkiIHN0cm9rZT0idmFyKC0tX25vZGUtc3Ryb2tlKSIgc3Ryb2tlLXdpZHRoPSIwLjc1IiAvPgogIDx0ZXh0IHg9IjIyOS4xODE5OTk5OTk5OTk5NiIgeT0iMTM5LjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9InZhcigtLV90ZXh0KSI+PHRzcGFuIHg9IjIyOS4xODE5OTk5OTk5OTk5NiIgZHk9Ii0zLjkwMDAwMDAwMDAwMDAwMTIiPjEuIFF1YWlzIGVsZW1lbnRvcyBzZWxlY2lvbmFyPzwvdHNwYW4+PHRzcGFuIHg9IjIyOS4xODE5OTk5OTk5OTk5NiIgZHk9IjE2LjkwMDAwMDAwMDAwMDAwMiI+KElkZW50aWRhZGUgQ2VudHJhbCwgUHJvcG9zdGEgZGUgVmFsb3Igb3UgJiMzOTtCYWxhcyBkZSBQcmF0YSYjMzk7KTwvdHNwYW4+PC90ZXh0Pgo8L2c+CjxnIGNsYXNzPSJub2RlIiBkYXRhLWlkPSJRMiIgZGF0YS1sYWJlbD0iMi4gUXVlbSDDqSBhIEF1ZGnDqm5jaWEtQWx2bz8KKFDDumJsaWNvIHByaW3DoXJpbyBlIHNlY3VuZMOhcmlvKSIgZGF0YS1zaGFwZT0icmVjdGFuZ2xlIj4KICA8cmVjdCB4PSI0NDYuMzYzOTk5OTk5OTk5OSIgeT0iMTEyLjkiIHdpZHRoPSIyMjQuOTc2OTk5OTk5OTk5OTgiIGhlaWdodD0iNTMuODAwMDAwMDAwMDAwMDA0IiByeD0iMCIgcnk9IjAiIGZpbGw9InZhcigtLV9ub2RlLWZpbGwpIiBzdHJva2U9InZhcigtLV9ub2RlLXN0cm9rZSkiIHN0cm9rZS13aWR0aD0iMC43NSIgLz4KICA8dGV4dCB4PSI1NTguODUyNSIgeT0iMTM5LjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9InZhcigtLV90ZXh0KSI+PHRzcGFuIHg9IjU1OC44NTI1IiBkeT0iLTMuOTAwMDAwMDAwMDAwMDAxMiI+Mi4gUXVlbSDDqSBhIEF1ZGnDqm5jaWEtQWx2bz88L3RzcGFuPjx0c3BhbiB4PSI1NTguODUyNSIgZHk9IjE2LjkwMDAwMDAwMDAwMDAwMiI+KFDDumJsaWNvIHByaW3DoXJpbyBlIHNlY3VuZMOhcmlvKTwvdHNwYW4+PC90ZXh0Pgo8L2c+CjxnIGNsYXNzPSJub2RlIiBkYXRhLWlkPSJRMyIgZGF0YS1sYWJlbD0iMy4gUXVhaXMgb3MgT2JqZXRpdm9zIGRlIENvbXVuaWNhw6fDo28/CihBdW1lbnRhciwgUmVmb3LDp2FyIG91IFN1YXZpemFyL0RlbGV0YXIpIiBkYXRhLXNoYXBlPSJyZWN0YW5nbGUiPgogIDxyZWN0IHg9IjY5OS4zNDA5OTk5OTk5OTk5IiB5PSIxMTIuOSIgd2lkdGg9IjI4NC45OTc5OTk5OTk5OTk5MyIgaGVpZ2h0PSI1My44MDAwMDAwMDAwMDAwMDQiIHJ4PSIwIiByeT0iMCIgZmlsbD0idmFyKC0tX25vZGUtZmlsbCkiIHN0cm9rZT0idmFyKC0tX25vZGUtc3Ryb2tlKSIgc3Ryb2tlLXdpZHRoPSIwLjc1IiAvPgogIDx0ZXh0IHg9Ijg0MS44Mzk5OTk5OTk5OTk5IiB5PSIxMzkuOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjUwMCIgZmlsbD0idmFyKC0tX3RleHQpIj48dHNwYW4geD0iODQxLjgzOTk5OTk5OTk5OTkiIGR5PSItMy45MDAwMDAwMDAwMDAwMDEyIj4zLiBRdWFpcyBvcyBPYmpldGl2b3MgZGUgQ29tdW5pY2HDp8Ojbz88L3RzcGFuPjx0c3BhbiB4PSI4NDEuODM5OTk5OTk5OTk5OSIgZHk9IjE2LjkwMDAwMDAwMDAwMDAwMiI+KEF1bWVudGFyLCBSZWZvcsOnYXIgb3UgU3Vhdml6YXIvRGVsZXRhcik8L3RzcGFuPjwvdGV4dD4KPC9nPgo8ZyBjbGFzcz0ibm9kZSIgZGF0YS1pZD0iUTQiIGRhdGEtbGFiZWw9IjQuIFF1YWwgbyBQb250byBkZSBWYW50YWdlbT8KKFJlc3NvYXIgY29tIG8gY2xpZW50ZSBlIHRlciBkaWZlcmVuY2lhw6fDo28pIiBkYXRhLXNoYXBlPSJyZWN0YW5nbGUiPgogIDxyZWN0IHg9IjEwMTIuMzM4OTk5OTk5OTk5OSIgeT0iMTEyLjkiIHdpZHRoPSIyODkuNDQzOTk5OTk5OTk5OTYiIGhlaWdodD0iNTMuODAwMDAwMDAwMDAwMDA0IiByeD0iMCIgcnk9IjAiIGZpbGw9InZhcigtLV9ub2RlLWZpbGwpIiBzdHJva2U9InZhcigtLV9ub2RlLXN0cm9rZSkiIHN0cm9rZS13aWR0aD0iMC43NSIgLz4KICA8dGV4dCB4PSIxMTU3LjA2MSIgeT0iMTM5LjgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI1MDAiIGZpbGw9InZhcigtLV90ZXh0KSI+PHRzcGFuIHg9IjExNTcuMDYxIiBkeT0iLTMuOTAwMDAwMDAwMDAwMDAxMiI+NC4gUXVhbCBvIFBvbnRvIGRlIFZhbnRhZ2VtPzwvdHNwYW4+PHRzcGFuIHg9IjExNTcuMDYxIiBkeT0iMTYuOTAwMDAwMDAwMDAwMDAyIj4oUmVzc29hciBjb20gbyBjbGllbnRlIGUgdGVyIGRpZmVyZW5jaWHDp8Ojbyk8L3RzcGFuPjwvdGV4dD4KPC9nPgo8L3N2Zz4=)
 
-- Quais elementos da identidade da marca e da proposta de valor devem fazer parte do posicionamento, isto é, do programa ativo de comunicação? Quais deles irão ressoar com os clientes e diferenciar a marca dos concorrentes?  
-  
-- Quem é o público-alvo principal? Quem são os públicos-alvo secundários?  
-  
-- Quais são os objetivos de comunicação? A imagem atual precisa ser ampliada ou fortalecida, reforçada e explorada, ou atenuada ou eliminada (isto é, o que a marca não representa)?  
-  
-- Quais serão os pontos de vantagem (points of advantage)?  Em quais pontos a paridade ou quase paridade com os concorrentes é o melhor objetivo que a imagem da marca deve buscar?
+- Quais elementos da [[3 - O Sistema de Identidade da Marca|Identidade de Marca]] e da [[3 - O Sistema de Identidade da Marca#Provendo Uma Proposta De Valor|Proposta de Valor]] devem fazer parte do posicionamento, isto é, do programa ativo de comunicação? Quais deles irão ressoar com os clientes e diferenciar a marca dos concorrentes?  
+- Quem é o **público-alvo principal?** Quem são os **públicos-alvo secundários?**
+- Quais são os **objetivos de comunicação**? A imagem atual precisa ser ampliada ou fortalecida, reforçada e explorada, ou atenuada ou eliminada (isto é, o que a marca não representa)?  
+- Quais serão os **pontos de vantagem (points of advantage)**?  Em quais **pontos a paridade ou quase paridade com os concorrentes** é o melhor objetivo que a imagem da marca deve buscar?
 
 
-## vi. Se É Viável
+## vi. Se é Viável
 O posicionamento da marca precisa ser alcançável; não há nada mais desperdiçador do que tentar atingir um posicionamento que está fora do alcance. Marcas de nicho fortes frequentemente caem nessa armadilha quando tentam sair do seu nicho.  
   
 A Subaru, como observado anteriormente, possuía um nicho sólido baseado em sua tecnologia de tração integral e nas associações de qualidade japonesa, mas fracassou quando tentou se tornar uma marca mainstream com modelos indiferenciados.  
@@ -141,6 +154,28 @@ O monitoramento também pode se apoiar em pesquisas qualitativas, que extraem de
 O valor de uma identidade rica e bem estruturada é que ela conduz a diálogos com os clientes que vão além dos benefícios funcionais, permitindo uma compreensão mais profunda dos relacionamentos com a marca.
 
 # Uma Análise Estratégica Da Marca
+
+```text
+                  A TRÍADE DA ANÁLISE ESTRATÉGICA
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│ 1. ANÁLISE DO CONSUMIDOR                                                         │
+│    • Tendências de mercado e motivações (funcionais, emocionais, autoexp.).      │
+│    • Esquece o "consumidor médio"; foca na segmentação por benefícios e          │
+│      necessidades NÃO atendidas da categoria.                                    │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ 2. ANÁLISE DO COMPETIDOR                                                         │
+│    • Mapeamento do "Brandscape" (agrupamentos de concorrentes por posição).      │
+│    • Identificação de vulnerabilidades (ex: a marca Arco tinha gasolina barata   │
+│      mas postos sujos e antiquados, abrindo brecha para postos com conveniência).│
+│    • Evitar entrar em clusters onde já existe um líder dominante instalado.      │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ 3. AUTOANÁLISE DA MARCA (EMPRESA)                                                │
+│    • Imagem atual, herança histórica da marca (*Brand Heritage*).                │
+│    • Capacidades e limitações reais da organização.                              │
+│    • A Alma da Marca (*Brand Soul*): Qual a missão e a visão de longo prazo?     │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
 Uma estratégia de marca precisa ser analisada de três perspectivas: (1) Análise do Consumidor, (2) Análise do Competidor e (3) Auto-Análise. O objetivo de uma estratégia de marca, a final, é criar um negócio que ressoe com consumidores, que evita as forças dos concorrentes e explore suas fraquezas, e explore suas próprias forças e neutrazie suas fraquezas. Para criar tal negócio, é necessário entender os pontos de vista representados nesses três pontos de análise.  
   
 Mais especificamente, o objetivo primário da análise estratégica da marca é precipitar e melhorar decisões estratégias sobre a marca como especificações da identidade da merca, categorias de produto com os quais deve ser associado, o papel dentro do sistema de brand da organização, e o nível de investimento que deverá apoiá-lo. Outro objetivo é identificar incertezas estratégicas cruciais que irão afetar a estratégia da marca. Incertezas estratégicas podem ajudar a priorizar atividades de coleta e análise de informações.

@@ -8,7 +8,7 @@ author:
 tipo:
   - moc
 ---
-# Sumário
+# Sumário dos Capítulos
 - [[1 - O Que É uma Marca Forte]]
 - [[2 - Construindo uma Marca - A História da Saturn]]
 - [[3 - O Sistema de Identidade da Marca]]
@@ -19,4 +19,8 @@ tipo:
 - [[8 - Gerindo Sistemas de Marca]]
 - [[9 - Alavancando a Marca]]
 - [[10 - Medindo o Brand Equity]]
-- [[3. Recursos/Estudos/Livros/Building Strong Brands/11 - Organização para Construção de Marca]][[3. Recursos/Estudos/1. Livros/Building Strong Brands/Capítulos/11 - Organização para Construção de Marca]]
+- [[3. Recursos/Estudos/1. Livros/Building Strong Brands/Seções/Seção 4 - Arquitetura, Alavancagem e Métricas de Marca/11 - Organização para Construção de Marca]]
+
+---
+# 🎓 Plano de Curso / Estrutura de Aulas
+- [[Estrutura de Aulas - Building Strong Brands|Plano de Curso Completo (11 Aulas)]]

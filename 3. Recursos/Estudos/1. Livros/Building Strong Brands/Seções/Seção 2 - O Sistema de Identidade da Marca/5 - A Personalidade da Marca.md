@@ -4,6 +4,16 @@ tags:
   - branding
 ---
 # A História Da Harley-Davidson
+```text
+                  A ANATOMIA DA PERSONALIDADE HARLEY-DAVIDSON
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ • Persona da Marca: O "herói machão americano", aventureiro, livre e rebelde.│
+│ • Comunidade H.O.G.: 250.000+ membros organizados em encontros e passeios.   │
+│ • Extensão de Lifestyle: Divisão de roupas (MotorClothing) vendendo mais de  │
+│   US$ 200 milhões/ano em jaquetas, botas e acessórios.                       │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
 Muitos proprietários de Harleys vêem a Harley-Davidson como uma parte importante de suas vidas e identidades. Mais de 250 mil deles pertencem a um dos cerca de 800 capítulos do Harley Owners Group (H.O.G). Os membros do H.O.G. recebem bimensalmente um newsletter e atendem semanal ou mensalmente a encontros, assim como passeios de motocicletas patrocinados pelas concessionárias. Um subgrupo, o "Ladies of Harley", possui 10% das proprietárias mulheres.  
   
 A Harley-Davidson é muito mais do que uma motocicleta, é uma experiência, uma atitude, um lifestyle e um veículo para auto expressão. Uma imagem visual da Harley, de uma moto sozinha numa estrada em algum lugar na vastidão da América, claramente expressa a individualidade e a liberdade pessoal.  
@@ -33,12 +43,14 @@ Como uma pessoa, todavia, uma Uma marca pode ter uma personalidade complexa que 
 As 15 facetas sugerem opções estratégicas. Uma com forte sinceridade, por exemplo, pode ser enfatizado alegria (sentimental, amigável e caloroso) ao invés de qualidades de honesto (sincero, real e ético).
 
 ## Os Big Five
+
+![Mermaid diagram](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjEyLjU0Mzk5OTk5OTk5OTkgMjM1LjYwMDAwMDAwMDAwMDAyIiB3aWR0aD0iMTYxMi41NDM5OTk5OTk5OTk5IiBoZWlnaHQ9IjIzNS42MDAwMDAwMDAwMDAwMiIgc3R5bGU9Ii0tYmc6IzFGMUYxRjstLWZnOiNDQ0NDQ0M7LS1saW5lOiNDQ0NDQ0M7LS1hY2NlbnQ6IzAwNzhENDstLW11dGVkOiNDQ0NDQ0NDQzstLXN1cmZhY2U6IzE4MTgxODstLWJvcmRlcjojQ0NDQ0NDO2JhY2tncm91bmQ6dmFyKC0tYmcpIj4KPHN0eWxlPgogIEBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PUludGVyOndnaHRANDAwOzUwMDs2MDA7NzAwJmFtcDtkaXNwbGF5PXN3YXAnKTsKICB0ZXh0IHsgZm9udC1mYW1pbHk6ICdJbnRlcicsIHN5c3RlbS11aSwgc2Fucy1zZXJpZjsgfQogIHN2ZyB7CiAgICAvKiBEZXJpdmVkIGZyb20gLS1iZyBhbmQgLS1mZyAob3ZlcnJpZGFibGUgdmlhIC0tbGluZSwgLS1hY2NlbnQsIGV0Yy4pICovCiAgICAtLV90ZXh0OiAgICAgICAgICB2YXIoLS1mZyk7CiAgICAtLV90ZXh0LXNlYzogICAgICB2YXIoLS1tdXRlZCwgY29sb3ItbWl4KGluIHNyZ2IsIHZhcigtLWZnKSA2MCUsIHZhcigtLWJnKSkpOwogICAgLS1fdGV4dC1tdXRlZDogICAgdmFyKC0tbXV0ZWQsIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgNDAlLCB2YXIoLS1iZykpKTsKICAgIC0tX3RleHQtZmFpbnQ6ICAgIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgMjUlLCB2YXIoLS1iZykpOwogICAgLS1fbGluZTogICAgICAgICAgdmFyKC0tbGluZSwgY29sb3ItbWl4KGluIHNyZ2IsIHZhcigtLWZnKSA1MCUsIHZhcigtLWJnKSkpOwogICAgLS1fYXJyb3c6ICAgICAgICAgdmFyKC0tYWNjZW50LCBjb2xvci1taXgoaW4gc3JnYiwgdmFyKC0tZmcpIDg1JSwgdmFyKC0tYmcpKSk7CiAgICAtLV9ub2RlLWZpbGw6ICAgICB2YXIoLS1zdXJmYWNlLCBjb2xvci1taXgoaW4gc3JnYiwgdmFyKC0tZmcpIDMlLCB2YXIoLS1iZykpKTsKICAgIC0tX25vZGUtc3Ryb2tlOiAgIHZhcigtLWJvcmRlciwgY29sb3ItbWl4KGluIHNyZ2IsIHZhcigtLWZnKSAyMCUsIHZhcigtLWJnKSkpOwogICAgLS1fZ3JvdXAtZmlsbDogICAgdmFyKC0tYmcpOwogICAgLS1fZ3JvdXAtaGRyOiAgICAgY29sb3ItbWl4KGluIHNyZ2IsIHZhcigtLWZnKSA1JSwgdmFyKC0tYmcpKTsKICAgIC0tX2lubmVyLXN0cm9rZTogIGNvbG9yLW1peChpbiBzcmdiLCB2YXIoLS1mZykgMTIlLCB2YXIoLS1iZykpOwogICAgLS1fa2V5LWJhZGdlOiAgICAgY29sb3ItbWl4KGluIHNyZ2IsIHZhcigtLWZnKSAxMCUsIHZhcigtLWJnKSk7CiAgfQo8L3N0eWxlPgo8ZGVmcz4KICA8bWFya2VyIGlkPSJhcnJvd2hlYWQiIG1hcmtlcldpZHRoPSI4IiBtYXJrZXJIZWlnaHQ9IjUiIHJlZlg9IjciIHJlZlk9IjIuNSIgb3JpZW50PSJhdXRvIj4KICAgIDxwb2x5Z29uIHBvaW50cz0iMCAwLCA4IDIuNSwgMCA1IiBmaWxsPSJ2YXIoLS1fYXJyb3cpIiBzdHJva2U9InZhcigtLV9hcnJvdykiIHN0cm9rZS13aWR0aD0iMC43NSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgLz4KICA8L21hcmtlcj4KICA8bWFya2VyIGlkPSJhcnJvd2hlYWQtc3RhcnQiIG1hcmtlcldpZHRoPSI4IiBtYXJrZXJIZWlnaHQ9IjUiIHJlZlg9IjEiIHJlZlk9IjIuNSIgb3JpZW50PSJhdXRvLXN0YXJ0LXJldmVyc2UiPgogICAgPHBvbHlnb24gcG9pbnRzPSI4IDAsIDAgMi41LCA4IDUiIGZpbGw9InZhcigtLV9hcnJvdykiIHN0cm9rZT0idmFyKC0tX2Fycm93KSIgc3Ryb2tlLXdpZHRoPSIwLjc1IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiAvPgogIDwvbWFya2VyPgo8L2RlZnM+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJCUFMiIGRhdGEtdG89IkQxIiBkYXRhLXN0eWxlPSJzb2xpZCIgZGF0YS1hcnJvdy1zdGFydD0iZmFsc2UiIGRhdGEtYXJyb3ctZW5kPSJ0cnVlIiBwb2ludHM9Ijc5NC40MTU5OTk5OTk5OTk5LDc2LjkgNzk0LjQxNTk5OTk5OTk5OTksOTQuOSAxNzUuNDU5NSw5NC45IDE3NS40NTk1LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJCUFMiIGRhdGEtdG89IkQyIiBkYXRhLXN0eWxlPSJzb2xpZCIgZGF0YS1hcnJvdy1zdGFydD0iZmFsc2UiIGRhdGEtYXJyb3ctZW5kPSJ0cnVlIiBwb2ludHM9Ijc5NC40MTU5OTk5OTk5OTk5LDc2LjkgNzk0LjQxNTk5OTk5OTk5OTksOTQuOSA0NzkuNTY1NDk5OTk5OTk5OCw5NC45IDQ3OS41NjU0OTk5OTk5OTk4LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJCUFMiIGRhdGEtdG89IkQzIiBkYXRhLXN0eWxlPSJzb2xpZCIgZGF0YS1hcnJvdy1zdGFydD0iZmFsc2UiIGRhdGEtYXJyb3ctZW5kPSJ0cnVlIiBwb2ludHM9Ijc5NC40MTU5OTk5OTk5OTk5LDc2LjkgNzk0LjQxNTk5OTk5OTk5OTksOTQuOSA3OTQuNDE1OTk5OTk5OTk5OCw5NC45IDc5NC40MTU5OTk5OTk5OTk4LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJCUFMiIGRhdGEtdG89IkQ0IiBkYXRhLXN0eWxlPSJzb2xpZCIgZGF0YS1hcnJvdy1zdGFydD0iZmFsc2UiIGRhdGEtYXJyb3ctZW5kPSJ0cnVlIiBwb2ludHM9Ijc5NC40MTU5OTk5OTk5OTk5LDc2LjkgNzk0LjQxNTk5OTk5OTk5OTksOTQuOSAxMTIyLjk3NSw5NC45IDExMjIuOTc1LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+Cjxwb2x5bGluZSBjbGFzcz0iZWRnZSIgZGF0YS1mcm9tPSJCUFMiIGRhdGEtdG89IkQ1IiBkYXRhLXN0eWxlPSJzb2xpZCIgZGF0YS1hcnJvdy1zdGFydD0iZmFsc2UiIGRhdGEtYXJyb3ctZW5kPSJ0cnVlIiBwb2ludHM9Ijc5NC40MTU5OTk5OTk5OTk5LDc2LjkgNzk0LjQxNTk5OTk5OTk5OTksOTQuOSAxNDM4LjkzNyw5NC45IDE0MzguOTM3LDExMi45IiBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLV9saW5lKSIgc3Ryb2tlLXdpZHRoPSIxIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93aGVhZCkiIC8+CjxnIGNsYXNzPSJub2RlIiBkYXRhLWlkPSJCUFMiIGRhdGEtbGFiZWw9Ik9TIEJJRyBGSVZFIERBIFBFUlNPTkFMSURBREUgREEgTUFSQ0EiIGRhdGEtc2hhcGU9InJlY3RhbmdsZSI+CiAgPHJlY3QgeD0iNjM2LjcyNjQ5OTk5OTk5OTkiIHk9IjQwIiB3aWR0aD0iMzE1LjM3OSIgaGVpZ2h0PSIzNi45MDAwMDAwMDAwMDAwMDYiIHJ4PSIwIiByeT0iMCIgZmlsbD0idmFyKC0tX25vZGUtZmlsbCkiIHN0cm9rZT0idmFyKC0tX25vZGUtc3Ryb2tlKSIgc3Ryb2tlLXdpZHRoPSIwLjc1IiAvPgogIDx0ZXh0IHg9Ijc5NC40MTU5OTk5OTk5OTk5IiB5PSI1OC40NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjUwMCIgZmlsbD0idmFyKC0tX3RleHQpIiBkeT0iNC41NSI+T1MgQklHIEZJVkUgREEgUEVSU09OQUxJREFERSBEQSBNQVJDQTwvdGV4dD4KPC9nPgo8ZyBjbGFzcz0ibm9kZSIgZGF0YS1pZD0iRDEiIGRhdGEtbGFiZWw9IjEuIFNpbmNlcmlkYWRlCihQw6kgbm8gY2jDo28sIGhvbmVzdGEsIHNhdWTDoXZlbCwgYWxlZ3JlKQpFeDogSGFsbG1hcmssIENhbXBiZWxsJ3MsIEtvZGFrIiBkYXRhLXNoYXBlPSJyZWN0YW5nbGUiPgogIDxyZWN0IHg9IjQwIiB5PSIxMTIuOSIgd2lkdGg9IjI3MC45MTkiIGhlaWdodD0iNzAuNyIgcng9IjAiIHJ5PSIwIiBmaWxsPSJ2YXIoLS1fbm9kZS1maWxsKSIgc3Ryb2tlPSJ2YXIoLS1fbm9kZS1zdHJva2UpIiBzdHJva2Utd2lkdGg9IjAuNzUiIC8+CiAgPHRleHQgeD0iMTc1LjQ1OTUiIHk9IjE0OC4yNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9IjUwMCIgZmlsbD0idmFyKC0tX3RleHQpIj48dHNwYW4geD0iMTc1LjQ1OTUiIGR5PSItMTIuMzUwMDAwMDAwMDAwMDAxIj4xLiBTaW5jZXJpZGFkZTwvdHNwYW4+PHRzcGFuIHg9IjE3NS40NTk1IiBkeT0iMTYuOTAwMDAwMDAwMDAwMDAyIj4oUMOpIG5vIGNow6NvLCBob25lc3RhLCBzYXVkw6F2ZWwsIGFsZWdyZSk8L3RzcGFuPjx0c3BhbiB4PSIxNzUuNDU5NSIgZHk9IjE2LjkwMDAwMDAwMDAwMDAwMiI+RXg6IEhhbGxtYXJrLCBDYW1wYmVsbCYjMzk7cywgS29kYWs8L3RzcGFuPjwvdGV4dD4KPC9nPgo8ZyBjbGFzcz0ibm9kZSIgZGF0YS1pZD0iRDIiIGRhdGEtbGFiZWw9IjIuIEV4Y2l0YcOnw6NvIC8gRW50dXNpYXNtbwooT3VzYWRhLCBjb3Jham9zYSwgaW1hZ2luYXRpdmEsIG1vZGVybmEpCkV4OiBWaXJnaW4sIE1UViwgQXBwbGUiIGRhdGEtc2hhcGU9InJlY3RhbmdsZSI+CiAgPHJlY3QgeD0iMzM4LjkxODk5OTk5OTk5OTg3IiB5PSIxMTIuOSIgd2lkdGg9IjI4MS4yOTI5OTk5OTk5OTk5NSIgaGVpZ2h0PSI3MC43IiByeD0iMCIgcnk9IjAiIGZpbGw9InZhcigtLV9ub2RlLWZpbGwpIiBzdHJva2U9InZhcigtLV9ub2RlLXN0cm9rZSkiIHN0cm9rZS13aWR0aD0iMC43NSIgLz4KICA8dGV4dCB4PSI0NzkuNTY1NDk5OTk5OTk5OCIgeT0iMTQ4LjI1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSJ2YXIoLS1fdGV4dCkiPjx0c3BhbiB4PSI0NzkuNTY1NDk5OTk5OTk5OCIgZHk9Ii0xMi4zNTAwMDAwMDAwMDAwMDEiPjIuIEV4Y2l0YcOnw6NvIC8gRW50dXNpYXNtbzwvdHNwYW4+PHRzcGFuIHg9IjQ3OS41NjU0OTk5OTk5OTk4IiBkeT0iMTYuOTAwMDAwMDAwMDAwMDAyIj4oT3VzYWRhLCBjb3Jham9zYSwgaW1hZ2luYXRpdmEsIG1vZGVybmEpPC90c3Bhbj48dHNwYW4geD0iNDc5LjU2NTQ5OTk5OTk5OTgiIGR5PSIxNi45MDAwMDAwMDAwMDAwMDIiPkV4OiBWaXJnaW4sIE1UViwgQXBwbGU8L3RzcGFuPjwvdGV4dD4KPC9nPgo8ZyBjbGFzcz0ibm9kZSIgZGF0YS1pZD0iRDMiIGRhdGEtbGFiZWw9IjMuIENvbXBldMOqbmNpYQooQ29uZmnDoXZlbCwgaW50ZWxpZ2VudGUsIGJlbS1zdWNlZGlkYSwgbMOtZGVyKQpFeDogSUJNLCBXYWxsIFN0cmVldCBKb3VybmFsIiBkYXRhLXNoYXBlPSJyZWN0YW5nbGUiPgogIDxyZWN0IHg9IjY0OC4yMTE5OTk5OTk5OTk5IiB5PSIxMTIuOSIgd2lkdGg9IjI5Mi40MDc5OTk5OTk5OTk5NiIgaGVpZ2h0PSI3MC43IiByeD0iMCIgcnk9IjAiIGZpbGw9InZhcigtLV9ub2RlLWZpbGwpIiBzdHJva2U9InZhcigtLV9ub2RlLXN0cm9rZSkiIHN0cm9rZS13aWR0aD0iMC43NSIgLz4KICA8dGV4dCB4PSI3OTQuNDE1OTk5OTk5OTk5OCIgeT0iMTQ4LjI1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSJ2YXIoLS1fdGV4dCkiPjx0c3BhbiB4PSI3OTQuNDE1OTk5OTk5OTk5OCIgZHk9Ii0xMi4zNTAwMDAwMDAwMDAwMDEiPjMuIENvbXBldMOqbmNpYTwvdHNwYW4+PHRzcGFuIHg9Ijc5NC40MTU5OTk5OTk5OTk4IiBkeT0iMTYuOTAwMDAwMDAwMDAwMDAyIj4oQ29uZmnDoXZlbCwgaW50ZWxpZ2VudGUsIGJlbS1zdWNlZGlkYSwgbMOtZGVyKTwvdHNwYW4+PHRzcGFuIHg9Ijc5NC40MTU5OTk5OTk5OTk4IiBkeT0iMTYuOTAwMDAwMDAwMDAwMDAyIj5FeDogSUJNLCBXYWxsIFN0cmVldCBKb3VybmFsPC90c3Bhbj48L3RleHQ+CjwvZz4KPGcgY2xhc3M9Im5vZGUiIGRhdGEtaWQ9IkQ0IiBkYXRhLWxhYmVsPSI0LiBTb2Zpc3RpY2HDp8OjbwooQ2xhc3NlIGFsdGEsIGNoYXJtb3NhLCBnbGFtb3Vyb3NhLCBlbGVnYW50ZSkKRXg6IENoYW5lbCwgTWVyY2VkZXMtQmVueiIgZGF0YS1zaGFwZT0icmVjdGFuZ2xlIj4KICA8cmVjdCB4PSI5NjguNjE5OTk5OTk5OTk5OSIgeT0iMTEyLjkiIHdpZHRoPSIzMDguNzA5OTk5OTk5OTk5OSIgaGVpZ2h0PSI3MC43IiByeD0iMCIgcnk9IjAiIGZpbGw9InZhcigtLV9ub2RlLWZpbGwpIiBzdHJva2U9InZhcigtLV9ub2RlLXN0cm9rZSkiIHN0cm9rZS13aWR0aD0iMC43NSIgLz4KICA8dGV4dCB4PSIxMTIyLjk3NSIgeT0iMTQ4LjI1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSJ2YXIoLS1fdGV4dCkiPjx0c3BhbiB4PSIxMTIyLjk3NSIgZHk9Ii0xMi4zNTAwMDAwMDAwMDAwMDEiPjQuIFNvZmlzdGljYcOnw6NvPC90c3Bhbj48dHNwYW4geD0iMTEyMi45NzUiIGR5PSIxNi45MDAwMDAwMDAwMDAwMDIiPihDbGFzc2UgYWx0YSwgY2hhcm1vc2EsIGdsYW1vdXJvc2EsIGVsZWdhbnRlKTwvdHNwYW4+PHRzcGFuIHg9IjExMjIuOTc1IiBkeT0iMTYuOTAwMDAwMDAwMDAwMDAyIj5FeDogQ2hhbmVsLCBNZXJjZWRlcy1CZW56PC90c3Bhbj48L3RleHQ+CjwvZz4KPGcgY2xhc3M9Im5vZGUiIGRhdGEtaWQ9IkQ1IiBkYXRhLWxhYmVsPSI1LiBSb2J1c3RleiAvIFJ1ZGV6CihMaXZyZSwgbWFjaMOjbywgZm9ydGUsIGxpZ2FkbyBhbyBhciBsaXZyZSkKRXg6IEhhcmxleS1EYXZpZHNvbiwgVGltYmVybGFuZCIgZGF0YS1zaGFwZT0icmVjdGFuZ2xlIj4KICA8cmVjdCB4PSIxMzA1LjMzIiB5PSIxMTIuOSIgd2lkdGg9IjI2Ny4yMTM5OTk5OTk5OTk5NCIgaGVpZ2h0PSI3MC43IiByeD0iMCIgcnk9IjAiIGZpbGw9InZhcigtLV9ub2RlLWZpbGwpIiBzdHJva2U9InZhcigtLV9ub2RlLXN0cm9rZSkiIHN0cm9rZS13aWR0aD0iMC43NSIgLz4KICA8dGV4dCB4PSIxNDM4LjkzNyIgeT0iMTQ4LjI1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSJ2YXIoLS1fdGV4dCkiPjx0c3BhbiB4PSIxNDM4LjkzNyIgZHk9Ii0xMi4zNTAwMDAwMDAwMDAwMDEiPjUuIFJvYnVzdGV6IC8gUnVkZXo8L3RzcGFuPjx0c3BhbiB4PSIxNDM4LjkzNyIgZHk9IjE2LjkwMDAwMDAwMDAwMDAwMiI+KExpdnJlLCBtYWNow6NvLCBmb3J0ZSwgbGlnYWRvIGFvIGFyIGxpdnJlKTwvdHNwYW4+PHRzcGFuIHg9IjE0MzguOTM3IiBkeT0iMTYuOTAwMDAwMDAwMDAwMDAyIj5FeDogSGFybGV5LURhdmlkc29uLCBUaW1iZXJsYW5kPC90c3Bhbj48L3RleHQ+CjwvZz4KPC9zdmc+)
 Um estudo recente desenvolveu e testou a Escala de Personalidade da Marca (BPS, na sigla em inglês), um conjunto compacto de características projetado para medir e estruturar a personalidade da marca. O desenvolvimento da BPS envolveu mais de 4.000 respondentes nos EUA, 60 marcas conhecidas com personalidades distintas e 114 traços de personalidade. Cinco fatores de personalidade (denominados os Cinco Grandes) – Sinceridade, entusiasmo, competência, sofisticação e robustez – emergiram mesmo quando a amostra foi subdividida por idade ou sexo e quando subconjuntos das marcas foram utilizados. Os Cinco Grandes explicam quase todas (93%) as diferenças observadas entre as marcas. A Figura 5-2 descreve os Cinco Grandes em termos de um conjunto expandido de características, a fim de proporcionar uma compreensão de seu alcance e riqueza. (Jennifer Aaker, op. cit. Um BPS de 42 itens usado para medir a personalidade da marca consiste em itens selecionados de cada uma das 15 facetas mostradas na Figura 5-2.)
 
 # Como Uma Personalidade De Marca É Criada
-Assim como a personalidae percebida de uma pessoa é afetada por quase tudo asociado a essa pessoa - seus vizinhos, amigos, atividades, roupas e a forma de interagir... - assim também ocorre com a personalidade de marca.  
+Assim como a personalidade percebida de uma pessoa é afetada por quase tudo associado a essa pessoa - seus vizinhos, amigos, atividades, roupas e a forma de interagir... - assim também ocorre com a personalidade de marca.  
   
-Características relacionadas ao produto podem ser drivers de personalidade de marca. Até a classe do produto pode afetar a personalidade. Um banco ou companhia de seguros, por exemplo, irá tender a assumir uma personalidade esteriotipada de "banqueiro" (competente, sério, masculino, velho e da alta classe). Um tênis atlético como os da Nike e Reebok podem ser vistos como robusto, aventureiro, ligado à vida fora de casa, assim como jovem e enérgico. Uma embalagem ou característica também pode influenciar a personalidade da marca, assim como a caixa branca com manchas pretas (que lembra vacas holandesas) confere aos computadores Gateaway uma personalidade simples, e pé no chão.Atributos do produto geralmente afetam a personalidade da marca. Se uma marca é "light" (como Coors Lite, Vigilantes do Peso ou Dreyer's Light) a personalidade pode ser descrita como sendo esguia e atlética. Uma marca sobreprecificada como a Tifanny pode ser considerada abastada, estilosa e, talvez um pouco esnobe. Como será disutido posteriormente, a personalidade da marca também pode reforçar e representar um atributoCaracterísticas não relacionadas ao produto também podem afetar a personalidade da marca, e incluem:  
+Características relacionadas ao produto podem ser drivers de personalidade de marca. Até a classe do produto pode afetar a personalidade. Um banco ou companhia de seguros, por exemplo, irá tender a assumir uma personalidade estereotipada de "banqueiro" (competente, sério, masculino, velho e da alta classe). Um tênis atlético como os da Nike e Reebok podem ser vistos como robusto, aventureiro, ligado à vida fora de casa, assim como jovem e enérgico. Uma embalagem ou característica também pode influenciar a personalidade da marca, assim como a caixa branca com manchas pretas (que lembra vacas holandesas) confere aos computadores Gateaway uma personalidade simples, e pé no chão. Atributos do produto geralmente afetam a personalidade da marca. Se uma marca é "light" (como Coors Lite, Vigilantes do Peso ou Dreyer's Light) a personalidade pode ser descrita como sendo esguia e atlética. Uma marca sobre precificada como a Tiffany pode ser considerada abastada, estilosa e, talvez um pouco esnobe. Como será discutido posteriormente, a personalidade da marca também pode reforçar e representar um atributo. Características não relacionadas ao produto também podem afetar a personalidade da marca, e incluem:  
 - Estilo publicitário;  
 - País de origem;  
 - Imagem da companhia;  
@@ -77,21 +89,34 @@ Quando a Canon, uma produtora de câmeras de alta tecnologia, veio com uma câme
 Taticamente, um conceito de personalidade e um vocabulário de marca comunicam a identidade de marca com riqueza e textura àqueles que precisam implementar os esforços de construção de identidade. Decisões práticas precisam ser tomadas não só em publicidade mas em embalagens, promoções, quais eventos se associar com, e o estilo de interações pessoais entre o consumidor e a marca. Se a marca é especificada só em termos de associações de atributo, poucas instruções foram providas
 
 ## Criando Brand Equity
+```text
+                       OS 3 MODELOS DE IMPACTO
+┌─────────────────────────────┬─────────────────────────────────────────────────┐
+│ MODELO                      │ PREMISSA CENTRAL                                │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ 1. Autoexpressão            │ "Eu uso a marca X para comunicar ao mundo quem  │
+│                             │ eu sou (ou quem aspiro ser)."                   │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ 2. Base Relacional          │ "Eu me relaciono com a marca como se ela fosse  │
+│                             │ um amigo, parceiro ou conselheiro."             │
+├─────────────────────────────┼─────────────────────────────────────────────────┤
+│ 3. Representação de         │ "A personalidade da marca é um atalho mental que│
+│    Benefícios Funcionais    │ atesta a qualidade e a força do produto."       │
+└─────────────────────────────┴─────────────────────────────────────────────────┘
+```
+
 <html></html>
 ![[Personalidade_da_Marca_Brand_Equity.svg]]
 
 # Modelo de Auto-Expressão
-A premissa do modelo de auto expressão é que para um certo grupo de clientes, algumas marcas tornam-se veículos para expressar parte de suas identidades. Essa auto identificação pode ser sua identidade verdadeira ou uma identidade que eles aspiram. Pessoas expressam sua identidade própria ou idealizada em uma variedade de formas, como escolha de um emprego, amigos, atitudes, opiniões, atividades e lifestyles. Marcas que pessoas gostam, admiram, discutem, compram e usam também são um veículo de auto expressão.  
+A premissa do modelo de auto expressão é que **para um certo grupo de clientes, algumas marcas tornam-se veículos para expressar parte de suas identidades**. Essa auto identificação pode ser:
+1) sua identidade verdadeira ou 
+2) uma identidade que eles aspiram. 
+
+Pessoas expressam sua identidade própria ou idealizada em uma variedade de formas, como escolha de um emprego, amigos, atitudes, opiniões, atividades e lifestyles. Marcas que pessoas gostam, admiram, discutem, compram e usam também são um veículo de auto expressão.  
   
-Uma marca pode ser usada para expressão mesmo se lhe falta uma personalidaed forte. Uma pessoa pode expressar frugalidade ao comprar uma marca barata, mesmo uma com personalidade fraca. Mesmo atribuir uma personalidade vaga a uma marca, fornece insights sobre coo a marca está sendo utilizada para auto expressão.  
+Uma marca pode ser usada para expressão mesmo se lhe falta uma personalidade forte. Uma pessoa pode expressar frugalidade ao comprar uma marca barata, mesmo uma com personalidade fraca. Mesmo atribuir uma personalidade vaga a uma marca, fornece insights sobre coo a marca está sendo utilizada para auto expressão.  
   
-A compra e uso de um produto de marca - seja Apple, Betty Crocker ou Nike - provê um veículo para expressão de estilo de vida e personalidade. Algumas pessoas podem se encontrar desconfortáveis quando uma atividade procurada ou marca é usada que não é compatível com seu verdadeiro eu. Em contraste, uma atividade ou marca que encaixa pode criar conforto ou satisfação e pode fazer as pessoas se sentirem preenchidas
-
-# Modelo De Auto-Expressão
-A premissa do modelo de auto expressão é que para um certo grupo de clientes, algumas marcas tornam-se veículos para expressar parte de suas identidades. Essa auto identificação pode ser sua identidade verdadeira ou uma identidade que eles aspiram. Pessoas expressam sua identidade própria ou idealizada em uma variedade de formas, como escolha de um emprego, amigos, atitudes, opiniões, atividades e lifestyles. Marcas que pessoas gostam, admiram, discutem, compram e usam também são um veículo de auto expressão.
-
-Uma marca pode ser usada para expressão mesmo se lhe falta uma personalidaed forte. Uma pessoa pode expressar frugalidade ao comprar uma marca barata, mesmo uma com personalidade fraca. Mesmo atribuir uma personalidade vaga a uma marca, fornece insights sobre coo a marca está sendo utilizada para auto expressão.
-
 A compra e uso de um produto de marca - seja Apple, Betty Crocker ou Nike - provê um veículo para expressão de estilo de vida e personalidade. Algumas pessoas podem se encontrar desconfortáveis quando uma atividade procurada ou marca é usada que não é compatível com seu verdadeiro eu. Em contraste, uma atividade ou marca que encaixa pode criar conforto ou satisfação e pode fazer as pessoas se sentirem preenchidas
 
 ## Grant McCracken e o Significado Cultural da Marca
@@ -141,7 +166,7 @@ Por exemplo, as preferências eram diferentes no contexto de um jantar acolhedor
 A pessoa deve se sentir melhor devido a uma associação com a marca - mais alto padrão ao dirigir um Lexus, mais jovem ao beber Pepsi, sofisticado ao usar um perfume Chanel, ou descontraído ao beber Miller Lite. Uma personalidade fora de sintonia não funcionará.Por exemplo, uma marca com uma pesonalidade distina e confiável pode não apelar muito a alguém que precissa expressar jovialidade.
 
 # O Modelo De Base Relacional
-Algumas pessoas podem nunca aspirar a ter uma personalidade de um líder competente, mas adorariam se relacionar com um. Uma perosnalidade confiável, sincera e conservadora pode ser tediosa, mas pode também ser o reflexo de características valiosas para consultores financeiros, um serviço de jardinagem ou até mesmo para um carro - considere a personalidade de marca da Volvo. O conceito de uma relação entre marca e pessoa (análogo a de duas pessoas) provê uma perspectiva diferente de como uma personalidade de marca pode funcionar.  
+**Algumas pessoas podem nunca aspirar a ter uma personalidade de um líder competente, mas adorariam se relacionar com um**. Uma personalidade confiável, sincera e conservadora pode ser tediosa, mas pode também ser o reflexo de características valiosas para consultores financeiros, um serviço de jardinagem ou até mesmo para um carro - considere a personalidade de marca da Volvo. O conceito de uma relação entre marca e pessoa (análogo a de duas pessoas) provê uma perspectiva diferente de como uma personalidade de marca pode funcionar.  
   
 Dois elementos, assim, afetam o relacionamento do indivíduo com a marca:  
 i. Há o relacionamento de "marca como uma pessoa" e o consumidor, análogo à relação de duas pessoas;  
@@ -210,51 +235,52 @@ Susan Fournier, de Harvard, que trabalhou extensivamente com o conceito de marca
 Esse conceito é inspirado na teoria da frequência de atos, que propõe que indicadores-chave da personalidade de uma pessoa podem ser revelados por meio da observação sistemática de comportamentos relevantes a determinados traços. É no comportamento que a verdadeira personalidade emerge — em suma, você é o que você faz (Susan Fournier, "A Consumer-Brand Relationship Framework for Strategic Brand Management," Ph.D. dissertation, University of Florida, 1994.)
 
 ## v. Qualidade Do Relacionamento Da Marca - Ainda Susan Fournier
-Baseado no corpo de estudo mais pesquisas de suecsso de liderança de marcas, Susa desenvolveu sete dimensõe da qualidade de relacionamento com a marca:  
+Baseado no corpo de estudo mais pesquisas de sucesso de liderança de marcas, Susan desenvolveu sete dimensões da qualidade de relacionamento com a marca:  
   
-1. Interdependência comportamental.  
+1. **Interdependência comportamental.**
 O grau em que as ações dos parceiros do relacionamento estão interligadas é indicado pela frequência, importância e envolvimento nas interações.  
 • Esta marca desempenha um papel importante na minha vida.  
 • Sinto que falta alguma coisa quando fico um tempo sem usar a marca.  
   
-2. Comprometimento pessoal.  
+2. **Comprometimento pessoal.**  
 Os parceiros são comprometidos entre si.  
 Existe o desejo de melhorar ou manter a qualidade do relacionamento ao longo do tempo, e sente-se culpa quando ele é comprometido.  
 • Sinto-me muito leal a esta marca.  
 • Permanecerei com esta marca nos bons e nos maus momentos.  
   
-3. Amor e paixão.  
+3. **Amor e paixão.**  
 Laços emocionais intensos entre os parceiros e a incapacidade de tolerar a separação refletem o amor e a paixão existentes. Em relacionamentos nos quais os consumidores desenvolvem vínculos apaixonados com marcas, substitutos geram desconforto.  
 • Nenhuma outra marca consegue realmente ocupar o lugar desta.  
 • Eu ficaria muito chateado se não pudesse encontrar esta marca.  
   
-4. Conexão nostálgica.  
+4. **Conexão nostálgica.**  
 O relacionamento é baseado, em parte, na lembrança de bons momentos.  
 • Esta marca me lembra coisas que já fiz ou lugares que visitei.  
 • Esta marca sempre me lembrará de uma fase específica da minha vida.  
   
-5. Conexão com o autoconceito.  
+5. **Conexão com o autoconceito. ** 
 Os parceiros compartilham interesses, atividades e opiniões comuns.  
 • A imagem da marca e a minha autoimagem são semelhantes.  
 • A marca me lembra quem eu sou.  
   
-6. Intimidade.  
+6. **Intimidade.**  
 Existe um entendimento profundo entre os parceiros.  
 O consumidor alcança intimidade ao conhecer detalhes sobre a marca e seu uso. Programas de marketing um a um aumentam a intimidade ao promover entendimento mútuo.  
 • Sei muito sobre esta marca.  
 • Sei muito sobre a empresa que fabrica esta marca.  
   
-7. Qualidade do parceiro.  
+7. **Qualidade do parceiro. ** 
 Essa dimensão reflete a avaliação que um parceiro faz do desempenho e da atitude do outro, incluindo a avaliação do consumidor sobre a atitude da marca em relação a ele ou a ela.  
 • Sei que esta marca realmente me valoriza.  
 • Esta marca me trata como um cliente importante.  
   
-Os três primeiros fatores podem ser vistos como variações do conceito de lealdade à marca.  
-Os quatro restantes, no entanto, introduzem medidas qualitativamente diferentes de relacionamento.  
+Os **três primeiros fatores** podem ser vistos como variações do conceito de lealdade à marca.  
+
+Os **quatro restantes, no entanto, introduzem medidas qualitativamente diferentes de relacionamento**.  
 As duas afirmações associadas a cada dimensão fornecem itens para uma possível escala de mensuração. (Fournier, op. cit)
 
 # O Modelo De Representação De Benefícios Funcionais
-O modelo de auto expressão e o de base relacionamental provêem contextos em que a personalidade de marca pode ser a base para uma estratégia de marca e conexão com o consumidor. Uma personalidade de marca pode também participar de forma mais indireta ao ser um veículo para representar e dar pistas de benefícios funcionais e atributos de marca. Quando funciona melhor, pode capturar a proposta de valor dirigindo a estratégia de marca. Veja os exemplos:
+O modelo de auto expressão e o de base relacionamental proveem contextos em que a personalidade de marca pode ser a base para uma estratégia de marca e conexão com o consumidor. **Uma personalidade de marca pode também participar de forma mais indireta ao ser um veículo para representar e dar pistas de benefícios funcionais e atributos de marca**. Quando funciona melhor, pode capturar a proposta de valor dirigindo a estratégia de marca. Veja os exemplos:
 ## Case Harley-Davidson
 A personalidade da Harley-Davidson, associada a uma pessoa durona, masculina e em busca de liberdade, sugere que o produto é um veículo poderoso e libertador. Os atributos do produto seriam muito menos convincentes sem a personalidade que os sustenta.
 
