@@ -6,8 +6,8 @@ dominio:
 Subdominio:
   - marketing-tático-mix
 Sub_subdominio:
-  - praça
   - marketing-de-conteúdo
+  - promoção
 description: Modelo indicado para blogs, ou redes como Medium e Substack
 ---
 # Modelo de Postagem de Destaque (Hero Post)
