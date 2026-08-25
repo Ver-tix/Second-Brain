@@ -22,5 +22,6 @@ tipo:
 - [[3. Recursos/Estudos/1. Livros/Building Strong Brands/Seções/Seção 4 - Arquitetura, Alavancagem e Métricas de Marca/11 - Organização para Construção de Marca]]
 
 ---
-# 🎓 Plano de Curso / Estrutura de Aulas
+# 🎓 Plano de Curso & Framework Mestre
 - [[Estrutura de Aulas - Building Strong Brands|Plano de Curso Completo (11 Aulas)]]
+- [[Framework Mestre de Gestão Estratégica de Marcas|Framework Mestre de Gestão Estratégica de Marcas (Modelo Aaker Integrado)]]
