@@ -1,4 +1,14 @@
+---
+tags:
+  - marketing
+  - branding
+author:
+  - Douglas B. Holt
+tipo:
+  - sintese
+---
 
+![[framework_branding_master.jpg]]
 ##  Visão Geral do Framework (O Loop Cultural)
 
 ```
@@ -125,3 +135,4 @@ Para evitar o desgaste do mito ao longo dos anos, aplique os seguintes formatos 
 * [ ] A pesquisa estratégica ignorou a opinião dos *Feeders* e se concentrou nos *Insiders* e *Seguidores*?
 * [ ] A marca atua como **Ativista Cultural**, provocando as pessoas a pensarem diferente sobre si mesmas?
 * [ ] A comunicação evita bordões repetitivos e caça a modismos rasos?
+![[framework_branding_master.jpg]]
