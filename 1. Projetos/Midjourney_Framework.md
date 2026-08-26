@@ -1,3 +1,14 @@
+---
+tags:
+  - IA
+  - marketing
+dominio:
+  - IA
+  - marketing
+Subdominio:
+  - prompts
+  - marketing-operacional
+---
 # Framework Prático — Consistência de Personagens e Estilo no Midjourney
 
 > Consolidação dos dois guias em um sistema único: mesmos parâmetros, mesmo fluxo-base, duas trilhas de aplicação (Marketing/Narrativa e Games).
@@ -6,9 +17,9 @@
 
 ## 0. Ponto de entrada — qual trilha usar
 
-| Se você precisa de... | Use |
-|---|---|
-| Retratos, séries editoriais, personagens de campanha/narrativa, cenas variadas | **Trilha A** (§4) |
+| Se você precisa de...                                                               | Use               |
+| ----------------------------------------------------------------------------------- | ----------------- |
+| Retratos, séries editoriais, personagens de campanha/narrativa, cenas variadas      | **Trilha A** (§4) |
 | Turnaround, expression sheet, pose sheet, equipment breakdown para produção de game | **Trilha B** (§5) |
 
 As duas trilhas compartilham o mesmo motor (§1) e o mesmo fluxo de 4 fases (§2). A diferença está só em quanto de fidelidade (`--cw`) cada etapa exige.
@@ -17,20 +28,22 @@ As duas trilhas compartilham o mesmo motor (§1) e o mesmo fluxo de 4 fases (§2
 
 ## 1. O motor de consistência — parâmetros
 
-| Parâmetro | Função | Faixa | Quando usar |
-|---|---|---|---|
-| `--cref [url]` | Fixa identidade do personagem (rosto/corpo) | — | Sempre que precisar do mesmo personagem em uma cena nova |
-| `--cw` | Peso de fidelidade do `--cref` | 0–100 | Ver tabelas por caso de uso em §4 e §5 |
-| `--sref [url]` | Fixa estilo visual (pincelada, paleta, luz) | — | Manter direção estética entre imagens |
-| `--sw` | Peso do `--sref` | 0–1000 (padrão ~100) | Suba se o estilo "escorregar" entre gerações |
-| `--moodboard [code]` | Biblioteca reutilizável de estilo (10–20 imagens) | — | Séries/projetos longos com identidade visual fixa |
-| `--mw` | Peso do moodboard | padrão 100; 150–300 para fidelidade alta | Sempre junto com `--moodboard` |
-| `--oref [url]` (v7) | Referência "omni" — personagem, objeto ou criatura | — | Evolução do `--cref` em v7 |
-| `--seed [n]` | Trava a semente de geração | inteiro | Reproduzir composição/estilo entre variações |
-| `(termo:1.5)` | Peso seletivo de uma palavra no prompt | ~0.1–2 | Enfatizar ou reduzir um elemento específico |
-| `--style raw` | Reduz a estilização automática do MJ | — | Essencial em assets técnicos (turnaround, produção) |
-| `--s [n]` (stylize) | Intensidade artística geral | 0–1000 | Baixo (0–150) para produção técnica; alto (250+) para concept art |
-| `--chaos [n]` | Variação entre gerações | 0–100 | Baixo (0–10) para consistência; alto (20–40) para exploração criativa |
+| Parâmetro            | Função                                             | Faixa                                    | Quando usar                                                                  |
+| -------------------- | -------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------- |
+| `--cref [url]`       | Fixa identidade do personagem (rosto/corpo)        | —                                        | Sempre que precisar do mesmo personagem em uma cena nova                     |
+| `--cw`               | Peso de fidelidade do `--cref`                     | 0–100                                    | Ver tabelas por caso de uso em §4 e §5                                       |
+| `--sref [url]`       | Fixa estilo visual (pincelada, paleta, luz)        | —                                        | Manter direção estética entre imagens                                        |
+| `--sw`               | Peso do `--sref`                                   | 0–1000 (padrão ~100)                     | Suba se o estilo "escorregar" entre gerações                                 |
+| `--moodboard [code]` | Biblioteca reutilizável de estilo (10–20 imagens)  | —                                        | Séries/projetos longos com identidade visual fixa                            |
+| `--mw`               | Peso do moodboard                                  | padrão 100; 150–300 para fidelidade alta | Sempre junto com `--moodboard`                                               |
+| `--oref [url]` (v7)  | Referência "omni" — personagem, objeto ou criatura | —                                        | Evolução do `--cref` em v7                                                   |
+| `--seed [n]`         | Trava a semente de geração                         | inteiro                                  | Reproduzir composição/estilo entre variações                                 |
+| `(termo:1.5)`        | Peso seletivo de uma palavra no prompt             | ~0.1–2                                   | Enfatizar ou reduzir um elemento específico                                  |
+| `--style raw`        | Reduz a estilização automática do MJ               | —                                        | Essencial em assets técnicos (turnaround, produção)                          |
+| `--s [n]` (stylize)  | Intensidade artística geral                        | 0–1000                                   | Baixo (0–150) para produção técnica; alto (250+) para concept art            |
+| `--chaos [n]`        | Variação entre gerações                            | 0–100                                    | Baixo (0–10) para consistência; alto (20–40) para exploração criativa        |
+| `--ar`               | proporção da imagem - largura:altura               | —                                        | Sempre que quiser definir de forma previsível as dimensões da imagem         |
+| `--v`<br>            | Define a versão do modelo do midjourney usado      | —                                        | Usa-se, em geral o `--v 7` porque é nela que `--oref ` e `--cref ` funcionam |
 
 **Regra de ouro (vale para as duas trilhas):** depois de aplicar `--cref`, **não descreva o rosto de novo**. Descreva só o que é novo na cena — ação, luz, ângulo, roupa nova. Redescrever o rosto conflita com a referência e gera inconsistência.
 
