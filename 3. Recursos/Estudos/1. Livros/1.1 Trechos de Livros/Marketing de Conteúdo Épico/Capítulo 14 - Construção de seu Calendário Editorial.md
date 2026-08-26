@@ -18,7 +18,7 @@ Você não consegue ter uma estratégia de conteúdo de longo prazo sem as ferra
 
 ## COMPONENTE 1: COMPREENDER O QUE É E O QUE NÃO É UM CALENDÁRIO EDITORIAL
 
-O calendário editorial é muito mais do que apenas um calendário com conteúdo atribuído a datas. Um bom calendário editorial mapeia a produção de conteúdo para as personas do público (para quem queremos vender), & cicla de envolvimento (entrega do conteúdo apropriado com base em onde o indivíduo prospectivo está no processo de compra) e os vários canais de mídia.
+O calendário editorial é muito mais do que apenas um calendário com conteúdo atribuído a datas. Um bom calendário editorial mapeia a produção de conteúdo para as personas do público (para quem queremos vender), & ciclo de envolvimento (entrega do conteúdo apropriado com base em onde o indivíduo prospectivo está no processo de compra) e os vários canais de mídia.
 
 ### Além de datas e títulos, o seu calendário editorial deve incluir as seguintes coisas:
 
