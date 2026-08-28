@@ -68,4 +68,16 @@ Ask the user to provide the market segment they want to explore and wait for the
 ```
 
 # Passo 2 - Valide seu Mercado
-1. 
+1. Nós usamos o buscador Google junto a uma extensão chamada "Keywords Everywhere" para rapidamente encontrar o volume de pesquisa e toda as palavras-chave relacionadas que possam nos orientar até encontrarmos que seja interessante de nos aprofundarmos. Então, comparamos à lista que nós possuímos
+2. Você pode pesquisar pelo nicho no Google, usar o "Keywords Everywhere". Após isso, use uma ferramenta como o Google Trends para descobrir se esse nicho está estável (flat, estático, etc.) ou em tendência. A meta é sabermos se está numa tendência.
+# Passo 3 - Colete Dados
+Agora precisamos encontrar onde as pessoas falam sobre suas:
+- Frustrações
+- Dores
+Em relação ao tema (nicho, subnicho que você quer entrar).
+
+O melhor local para fazer essa pesquisa é o **Reddit**, pois é uma plataforma que mixa: muitas pessoas comentando sobre tudo + conforto da anonimidade. Essa é a combinação perfeita para que as pessoas deem suas opiniões e "abram seus corações" numa rede social.
+1. Você pode usar uma query especial com a pesquisa avançada do google para explorar as threads do Reddit onde as pessoas estão falando sobre o problema e expressando suas dores. Eis a estrutura do Query avançado:
+	```
+		
+	```
