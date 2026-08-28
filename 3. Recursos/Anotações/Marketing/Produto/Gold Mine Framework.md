@@ -79,7 +79,7 @@ Em relação ao tema (nicho, subnicho que você quer entrar).
 O melhor local para fazer essa pesquisa é o **Reddit**, pois é uma plataforma que mixa: muitas pessoas comentando sobre tudo + conforto da anonimidade. Essa é a combinação perfeita para que as pessoas deem suas opiniões e "abram seus corações" numa rede social.
 1. Você pode usar uma query especial com a pesquisa avançada do google para explorar as threads do Reddit onde as pessoas estão falando sobre o problema e expressando suas dores. Eis a estrutura do Query avançado:
 	```
-		“{Market to explore}" (
+	“{Market to explore}" (
 
    site:reddit.com 
 
@@ -94,6 +94,4 @@ O melhor local para fazer essa pesquisa é o **Reddit**, pois é uma plataforma 
    "barriers"|"obstacles"|"concerns"|"frustrations"|"worries"|"hesitations"|"what I wish I knew"|"what I regret"
 
 )
-
-
 	```
