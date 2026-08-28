@@ -95,3 +95,11 @@ O melhor local para fazer essa pesquisa é o **Reddit**, pois é uma plataforma 
 
 )
 	```
+2. Agora, esse é o momento de você filtrar e escolher sabiamente: veja se os comentários e threads são atuais, por exemplo. 
+3. Copie todas as threads (completas) e as ponha em algum documento
+
+# Passo 4 - Processe os Dados
+1. Copie o Prompt Pain Point Extractor, e cole na ferramenta de IA que você está usando (use num chat novo).
+```
+```
+1. Pegue todos os dados da
