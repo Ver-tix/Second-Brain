@@ -47,6 +47,9 @@ Please write these prompts based on the following requirements/idea:
 > Ao gerar as imagens duplas, você possui apenas os benefícios do close-up e das imagens de corpo inteiro
 
 ![[exemplo de referências simultâneas.png]]
+
+### Dividindo as Referências
+- Use o Affinity, por exemplo, para separar as imagens
 ## Prompt 2 - Torne um Frame Inicial em Ativos Prontos para Vídeo
 ```text
 Because Midjourney released their video model, I have a somewhat more complicated request. 
@@ -91,7 +94,7 @@ As you can see, my goal is specifically to use this image as a starting point fo
 ## Prompt 3: Escrevendo Prompts de Dentro do MidJourney Editor
 
 ```text
-Hello Glibatree Art Designer, I need you help writing a prompt to finish editing an image. I have attached a screenshot, which shows a Midjourney canvas. In that canvas, there is an image with a certain amount of transparency that still needs to be filed in by the image model - marked by a gray grid. Because I am making edits, everything that currently looks like the image is already locked in... the image model cannot change it. What I need your help with is this: 
+I need you help writing a prompt to finish editing an image. I have attached a screenshot, which shows a Midjourney canvas. In that canvas, there is an image with a certain amount of transparency that still needs to be filed in by the image model - marked by a gray grid. Because I am making edits, everything that currently looks like the image is already locked in... the image model cannot change it. What I need your help with is this: 
 Write four prompts that highlights specifically the changes that need to be made within the confines of the transparent part of the image.
 
 This means a description of the style, and the entire image in general can be kept much more vague and simple. In the prompt, I want you to describe the edit (as if it is already a part of the image), in terms of the assumption that the rest of the image is there. 
@@ -189,3 +192,6 @@ Você pode criar um "Image RAG". Funciona da mesma forma que um Retrival Augment
 >Criado pelo YouTuber Glibatree, [...] permite organizar e aprimorar aspectos específicos das suas gerações de arte por IA por meio de um processo que ele chama de ImageRAG.
 > 
 > O termo ImageRAG refere-se a *Retrieval-Augmented Generation* (Geração Aumentada por Recuperação); assim, a função dessa ferramenta é ajudar você a fornecer a um modelo de imagem dados visuais úteis que ele possa utilizar como contexto. Dessa forma, independentemente do modelo que você esteja utilizando, ele terá tudo o que precisa para garantir a consistência ao longo de todo um projeto criativo.
+
+
+# [13:30]
