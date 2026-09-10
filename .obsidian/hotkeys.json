@@ -18,5 +18,22 @@
       "modifiers": [],
       "key": "F4"
     }
+  ],
+  "callout-studio:open-settings": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "callout-studio:create-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
