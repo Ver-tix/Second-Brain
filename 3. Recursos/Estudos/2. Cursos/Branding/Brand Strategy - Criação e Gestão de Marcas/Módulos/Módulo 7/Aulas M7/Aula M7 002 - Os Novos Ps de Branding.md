@@ -41,7 +41,7 @@ Cultura de marca construída através de narrativas de marketing e experiências
 
 [[Case da RedBull]]
 #### Veja Mais sobre Posicionamento em:
-- [[0. Posicionamento - Al Ries & Jack Trout]]
+- [[Posicionamento - HUB]]
 - [[22. Posicionamento de Mercado]]
 - [[5 - Associações de Marca, A Decisão de Posicionamento]]
 ## P de Parcerias

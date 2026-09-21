@@ -97,7 +97,7 @@ Descer a marca, enquanto é geralmente é muito mais fácil que ascendê-la, cri
   
 O problmea é que descer a marca afeta as percepções da marca talvez até mais sigfnificativamente doq ue qualquer outra opção de gestão de marca. Psicólogos documentaram o fato de que pessoas são influenciadas muito mais pela informação infavorável do que pela informação favorável. Informações iniciais negativas sobre uma pessoa, por exemplo, tornam-se muito resistentes a subsequentes informações positivas, enquanto, se a informação inicial for boa, é bem provável que seja alterada por interações subsequentes negativas. O uso de anúncios políticos negativos é uma ilustração desse princípio em ação.
 
-(Um erro pode ser fatal. Lembre-se do case packard em [[0. Posicionamento - Al Ries & Jack Trout]])
+(Um erro pode ser fatal. Lembre-se do case packard em [[Posicionamento - HUB]])
 
 ### a. Movimento Descendente Não Precisa Ser Fatal Para A Marca
 Deve-se assumir que uma entrada descendente é sempre muito arriscada. Se o novo produto pode se tornar distinto da marca mãe através do uso de uma sub-marca e outros serviços, o risco pode ser reduzido. A chave para reduzir o risco da marca é distinguir o novo contexto da categoria original.  
