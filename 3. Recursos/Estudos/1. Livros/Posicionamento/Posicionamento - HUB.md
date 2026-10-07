@@ -22,3 +22,10 @@ tags:
 - [[Capítulo 8 - Reposicionando a Concorrência]]
 - [[Capítulo 9 - O Poder do Nome]]
 - [[Capítulo 10 - Armadilha da Ausência de Nome]]
+- [[Capítulo 11 - Armadilha da Carona]]
+- [[Capítulo 12 - Armadilha Da Extensão Da Linha De Produtos]]
+- [[Capítulo 13 - Quando a Extensão de Linha Pode Funcionar]]
+- [[Capítulo 14 - O Posicionamento De Uma Empresa, A Xerox]]
+- [[Capítulo 15 - O Posicionamento De Um País, A Bélgica]]
+- [[Capítulo 16 - O Posicionamento De Uma Ilha, A Jamaica]]
+- 
