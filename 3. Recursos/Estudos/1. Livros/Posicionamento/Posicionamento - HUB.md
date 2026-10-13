@@ -28,4 +28,7 @@ tags:
 - [[Capítulo 14 - O Posicionamento De Uma Empresa, A Xerox]]
 - [[Capítulo 15 - O Posicionamento De Um País, A Bélgica]]
 - [[Capítulo 16 - O Posicionamento De Uma Ilha, A Jamaica]]
-- 
+- [[Capítulo 17 - O Posicionamento De Uma Produto, o Milk Duds]]
+- [[Capítulo 18 - O Posicionamento De Um Serviço, O Mailgrama]]
+- [[Capítulo 19 - O Posicionamento de um Banco em Long Island]]
+- [[Capítulo 20 - O Posicionamento de um Banco em Nova Jersey]]
