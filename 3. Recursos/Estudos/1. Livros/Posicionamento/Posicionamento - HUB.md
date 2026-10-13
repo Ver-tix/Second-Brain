@@ -32,3 +32,8 @@ tags:
 - [[Capítulo 18 - O Posicionamento De Um Serviço, O Mailgrama]]
 - [[Capítulo 19 - O Posicionamento de um Banco em Long Island]]
 - [[Capítulo 20 - O Posicionamento de um Banco em Nova Jersey]]
+- [[Capítulo 21 - O Posicionamento de uma Estação de Esqui, Stowe]]
+- [[Capítulo 22 - O Posicionamento Da Igreja Católica]]
+- [[Capítulo 23 - O Seu Posicionamento E O De Sua Carreira]]
+- [[Capítulo 24 - O Posicionamento do Seu Negócio]]
+- [[Capítulo 25 - Como Entrar no Jogo do Posicionamento]]
