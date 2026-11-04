@@ -15,7 +15,7 @@ tipo:
 - [[Capítulo 2 - Arquétipos - a pulsação das marcas duradouras|Capítulo 2 - Arquétipos - a pulsação das marcas duradouras]]
 - [[Capítulo 3 - O marketing pós-moderno]]
 ## Parte 2. O Anseio pelo paraíso: Inocente, Explorador, Sábio
-- [[Introdução à Parte 2]]
+- [[1. Recursos/Estudos/1. Livros/O Herói e o Fora-da-Lei/Capítulos/Parte 2/Introdução à Parte 2]]
 - [[Capítulo 4 - O Inocente]]
 - [[Capítulo 5 - O Explorador]]
 - [[Capítulo 6 - O Sábio]]
