@@ -26,3 +26,6 @@ tipo:
 - [[12. Fuse Music Television - Desafiando Incumbentes com o Jiu-Jitsu Cultural]]
 - [[13. Freelancers Union - Branding de uma Inovação Social]]
 ## Parte 3: Se Organizando para a Inovação Cultural
+- [[14. Burocracia de Marca e o Nascimento do Marketing Cientificista]]
+- [[15. O Estúdio Cultural Forma o Levi's 501 Underground na Europa]]
+- [[16. O Estúdio Cultural Forma o Mainstream (above Ground)— ESPN]]
