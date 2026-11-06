@@ -8,7 +8,6 @@ author:
 ---
 # Sumário
 ## Seção 1 - Comece Aqui
-- [[1. Como Cheguei Aqui]]
 - [[2. O Problema que Este Livro Resolve]]
 ## Seção 2 - Entenda
 - [[3. Leads por si só não são suficientes]]
