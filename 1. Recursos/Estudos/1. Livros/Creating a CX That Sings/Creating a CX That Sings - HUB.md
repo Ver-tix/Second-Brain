@@ -15,5 +15,8 @@ dominio:
 - [[5. A Jornada Emocional]]
 ## Parte 2 - Construindo e Usando Seu Mapa de Jornada do Cliente
 - [[6. Introduzindo o Processo de Construir um Mapa da Jornada do Cliente]]
-- [[7.]]
-- [[8.]]
+- [[7. Passo 1 - Pesquisa]]
+- [[8. Passo 2 - Defina Sua Persona]]
+- [[9. Passo 3 - Popule o Modelo Pensar, Fazer, Parar]]
+- [[10. Passo 4 - Crie um Mapa de Hipótese, Teste, e Desenhe seu Mapa]]
+- [[11.]]
