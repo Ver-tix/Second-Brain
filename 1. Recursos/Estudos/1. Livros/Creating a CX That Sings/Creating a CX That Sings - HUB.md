@@ -19,4 +19,7 @@ dominio:
 - [[8. Passo 2 - Defina Sua Persona]]
 - [[9. Passo 3 - Popule o Modelo Pensar, Fazer, Parar]]
 - [[10. Passo 4 - Crie um Mapa de Hipótese, Teste, e Desenhe seu Mapa]]
-- [[11.]]
+- [[11. Passo 5 - Identifique Oportunidades Baseado nas Suas Pesquisas]]
+## Parte 3 - Exemplos, Referências e Informações Bônus (Fragmentos)
+- [[24. Bônus - Case Study de Customer Experience - Amazon]]
+- [[25. Bônus - Case Study de Customer Experience - Starbucks]]
