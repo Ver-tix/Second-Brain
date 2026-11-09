@@ -13,6 +13,7 @@ author:
 - [[3. Leads por si só não são suficientes]]
 - [[4. Envolva seus leads - ofertas e iscas digitais]]
 ## Seção 3 - Obtenha Leads
+- [[Seção 3 - Obtenha Leads]]
 - [[5. 1 - Captação quente]]
 - [[6. 2 - Publique conteúdo gratuito. parte 1]]
 - [[7. 2 - Publique conteúdo gratuito. parte 2]]
