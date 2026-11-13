@@ -2,5 +2,6 @@
   "accentColor": "#d49335",
   "cssTheme": "Dracula Official",
   "baseFontSize": 14,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
