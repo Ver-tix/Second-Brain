@@ -22,11 +22,11 @@ author:
 - [[10. Veicule anúncios pagos, parte 2 - dinheiro]]
 - [[11. Quatro Pilares (potencializados) fundamentais - Mais, Melhor, Novo]]
 ## Seção 4 - Obtenha Geradores de Leads
-- [[12. 1 - Indicações de Clientes, o Boca a Boca]]
-- [[13. 2 - Funcionários]]
-- [[14. 3 - Agências]]
-- [[15. 4 - Afiliados e parceiros]]
-- [[16. Seção 4 Conclusão - Obtenha Geradores de Leads]]
+- [[12. Seção 4 Introdução- Obtenha Geradores de Leads]]
+- [[13. 1 - Indicações de Clientes, o Boca a Boca]]
+- [[14. 2 - Funcionários]]
+- [[15. 3 - Agências]]
+- [[16. 4 - Afiliados e parceiros]]
 ## Seção 5 - Comece Agora
 - [[17. Publicidade na vida real - aberto ao objetivo]]
 - [[18. O Roteiro - Reunindo Tudo]]
